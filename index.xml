@@ -13,9 +13,9 @@
     </canonical-urls>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="c61668ed737a3ce077ac40214e81e819e6130800"/>
+        <repository name="DCCouncil/law-xml" commit="4505ed35fbb4cd4a20542761bfa7b044c9aa0f7f"/>
       </repositories>
-      <platform version="2020.2.0.dev8666" reproducible="true"/>
+      <platform version="2020.2.0" reproducible="true"/>
       <build-date>2020-03-30</build-date>
       <codified-date>2020-03-17</codified-date>
     </build>
