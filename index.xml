@@ -7,49 +7,56 @@
       <email>code@dccouncil.us</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/dccouncil/dc-law-xml</xml-bulk>
-      <html-bulk>https://github.com/dccouncil/dc-law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/DCCouncil-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/DCCouncil-law-html</html-bulk>
       <html>https://code.dccouncil.us</html>
+      <static-assets>https://github.com/oll-test-repos/DCCouncil-law-static-assets</static-assets>
     </canonical-urls>
+    <redirects>
+      <redirect>
+        <in>/dc/council</in>
+        <out>/us/dc/council</out>
+      </redirect>
+    </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="4505ed35fbb4cd4a20542761bfa7b044c9aa0f7f"/>
+        <repository name="DCCouncil/law-xml" commit="07b4ede1fbc2c423172c96a72e4d7c380c389efc"/>
       </repositories>
       <platform version="2020.2.0" reproducible="true"/>
-      <build-date>2020-03-30</build-date>
-      <codified-date>2020-03-17</codified-date>
+      <build-date>2020-04-13</build-date>
+      <codified-date>2020-04-15</codified-date>
     </build>
   </meta>
-  <xi:include href="./dc/council/code/index.xml"/>
+  <xi:include href="./us/dc/council/code/index.xml"/>
   <collection name="dclaws">
     <heading>D.C. Laws Codified in the D.C. Code</heading>
     <heading type="search">D.C. Laws</heading>
     <text>For laws not codified in the D.C. Code, please visit <a href="http://lims.dccouncil.us">LIMS</a>.</text>
-    <xi:include href="./dc/council/periods/23/index.xml"/>
-    <xi:include href="./dc/council/periods/22/index.xml"/>
-    <xi:include href="./dc/council/periods/21/index.xml"/>
-    <xi:include href="./dc/council/periods/20/index.xml"/>
-    <xi:include href="./dc/council/periods/19/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/18/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/17/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/16/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/15/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/14/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/13/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/12/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/11/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/10/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/9/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/8/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/7/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/6/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/5/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/4/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/3/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/2/laws/index.xml"/>
-    <xi:include href="./dc/council/periods/1/laws/index.xml"/>
-    <xi:include href="./dc/council/leg-assem/index.xml"/>
-    <xi:include href="./dc/council/revised-statutes.xml"/>
+    <xi:include href="./us/dc/council/periods/23/index.xml"/>
+    <xi:include href="./us/dc/council/periods/22/index.xml"/>
+    <xi:include href="./us/dc/council/periods/21/index.xml"/>
+    <xi:include href="./us/dc/council/periods/20/index.xml"/>
+    <xi:include href="./us/dc/council/periods/19/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/18/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/17/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/16/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/15/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/14/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/13/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/12/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/11/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/10/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/9/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/8/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/7/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/6/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/5/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/4/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/3/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/2/laws/index.xml"/>
+    <xi:include href="./us/dc/council/periods/1/laws/index.xml"/>
+    <xi:include href="./us/dc/council/leg-assem/index.xml"/>
+    <xi:include href="./us/dc/council/revised-statutes.xml"/>
   </collection>
   <collection name="fedlaws">
     <heading>Federal Laws Codified in the D.C. Code</heading>

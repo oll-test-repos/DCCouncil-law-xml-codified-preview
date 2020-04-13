@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>32-502.01</num>
+  <heading>Declaration-of-emergency leave.</heading>
+  <para>
+    <num>(a)</num>
+    <text>An employee who is unable to work as a result of the circumstances giving rise to the public health emergency during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, shall be entitled to declaration-of-emergency ("DOE") leave during such period.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For DOE leave, a recommendation from the Mayor, Department of Health, any other District or federal agency, or a medical professional that the employee self-quarantine or self-isolate shall serve as certification of the need for such leave, and, in the case of a government-mandated quarantine or isolation, the declaration of public health emergency shall serve as certification of the need for such leave.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Act 23-247" type="Applicability" history="false" app="2020-03-17" eff="2020-03-17" path="§701"><cite doc="D.C. Act 23-247" path="§701">Section 701 of D.C. Act 23-247</cite> provided that changes made to this section by D.C. Act 23-247 shall apply as of March 11, 2020.
+      </annotation>
+    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§701" type="History" display="false"/>
+    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§102|(b)" type="History"/>
+  </annotations>
+</section>
