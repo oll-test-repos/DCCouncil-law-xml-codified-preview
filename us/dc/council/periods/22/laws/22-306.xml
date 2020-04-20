@@ -51,12 +51,12 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§34-1311.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§34-1311.01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-306" path="§2|(b)">§ 2(b) of Power Line Undergrounding Program Certified Business Enterprise Utilization Temporary Act of 2019 (D.C. Law 22-306, Apr. 11, 2019, 66 DCR 2048)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§34-1311.01" codified:doc="D.C. Code" codified:path="§34-1311.01" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 102(7) (D.C. Official Code § 34-1311.02(7)) is amended by striking the phrase "100% of the construction contracts are awarded to District businesses" and inserting the phrase "100% of the construction contracts are awarded to certified business enterprises or certified joint ventures" in its place.</text>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§34-1311.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§34-1311.02">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-306" path="§2|(c)">§ 2(c) of Power Line Undergrounding Program Certified Business Enterprise Utilization Temporary Act of 2019 (D.C. Law 22-306, Apr. 11, 2019, 66 DCR 2048)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§34-1311.02" codified:doc="D.C. Code" codified:path="§34-1311.02" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -80,7 +80,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§34-1311.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§34-1311.02">For temporary (225 days) addition of § 34-1311.03, see <cite doc="D.C. Law 22-306" path="§2|(d)">§ 2(d) of Power Line Undergrounding Program Certified Business Enterprise Utilization Temporary Act of 2019 (D.C. Law 22-306, Apr. 11, 2019, 66 DCR 2048)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§34-1311.02" action="addition of § 34-1311.03" codified:doc="D.C. Code" codified:path="§34-1311.02" codified:display="Note"/>
     </para>
   </section>
   <section>

@@ -52,7 +52,7 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§32-1661" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1661">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-256" path="§2">§ 2 of Adult Career Pathways Task Force Expansion Emergency Amendment Act of 2018 (D.C. Act 22-256, Feb. 7, 2018, 65 DCR 1593)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§32-1661" codified:doc="D.C. Code" codified:path="§32-1661" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

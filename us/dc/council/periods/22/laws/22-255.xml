@@ -57,7 +57,7 @@
         <text>"WIC" means the District's Special Supplemental Nutrition Program for Women, Infants and Children, as established pursuant to section 17 of the Child Nutrition Act of 1966, approved September 26, 1972 (86 Stat. 729; 42 U.S.C. § 1786).</text>
       </para>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-381.51" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-381.51">Applicability of <cite doc="D.C. Law 22-255" path="">D.C. Law 22-255</cite>: <cite doc="D.C. Law 22-255" path="§4">§ 4 of D.C. Law 22-255</cite> provided that the creation of this section by <cite doc="D.C. Law 22-255" path="§2">§ 2 of D.C. Law 22-255</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§2-381.51" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-381.51" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="2|3B|V" num-value="2-381.52" codified:doc="D.C. Code" codified:path="§2-381.52"/>
@@ -103,14 +103,31 @@
       <num>(e)</num>
       <text>Within one year after <span codify:value="October 1, 2019">the applicability date of this act</span>, and on an annual basis thereafter, the Department shall host 4 community meetings open to the public to receive input on strategies to increase participation in WIC and improve the experience of individuals enrolled in WIC. The Department shall notify the public about each meeting on its website at least one month before the meeting is held.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-381.52" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-381.52">Applicability of <cite doc="D.C. Law 22-255" path="">D.C. Law 22-255</cite>: <cite doc="D.C. Law 22-255" path="§4">§ 4 of D.C. Law 22-255</cite> provided that the creation of this section by <cite doc="D.C. Law 22-255" path="§3">§ 3 of D.C. Law 22-255</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§2-381.52" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-381.52" codified:display="Note"/>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7163" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 22-255" date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>5</num>

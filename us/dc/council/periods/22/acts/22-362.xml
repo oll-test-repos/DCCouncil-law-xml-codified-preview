@@ -82,7 +82,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-723" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-723">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-362" path="§2">§ 2 of 2018 All-Star Game and World Cup Emergency Amendment Act of 2018 (D.C. Act 22-362, May 21, 2018, 65 DCR 5955)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§25-723" codified:doc="D.C. Code" codified:path="§25-723" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

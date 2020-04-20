@@ -29,7 +29,7 @@
       <num>(b)</num>
       <text>Section 5094 is amended by striking the date "March 17" and inserting the date "October 1" in its place.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1591" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1591">For temporary (90 days) amendment to the Expansion and Coordination of Youth Services Act of 2016, see <cite doc="D.C. Act 21-598" path="§2">§ 2 of Youth Services Coordination Task Force Emergency Amendment Act of 2016 (D.C. Act 21-598, Jan. 6, 2017, 64 DCR 158)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-1591" action="amendment to the Expansion and Coordination of Youth Services Act of 2016" codified:doc="D.C. Code" codified:path="§2-1591" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

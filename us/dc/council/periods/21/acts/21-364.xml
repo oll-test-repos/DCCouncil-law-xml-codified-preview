@@ -46,7 +46,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§48-911.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-911.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-364" path="§2|(a)">§ 2(a) of Marijuana Possession Decriminalization Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-364, Apr. 27, 2016, 63 DCR 6834)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§48-911.01" codified:doc="D.C. Code" codified:path="§48-911.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -170,7 +170,7 @@
         </container>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§48-911.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-911.01">For temporary (90 days) creation of a private club task force, see <cite doc="D.C. Act 21-364" path="§2|(b)">§ 2(b) of Marijuana Possession Decriminalization Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-364, Apr. 27, 2016, 63 DCR 6834)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§48-911.01" action="creation of a private club task force" codified:doc="D.C. Code" codified:path="§48-911.01" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -195,7 +195,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-2844" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2844">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-364" path="§3">§ 3 of Marijuana Possession Decriminalization Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-364, Apr. 27, 2016, 63 DCR 6834)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§47-2844" codified:doc="D.C. Code" codified:path="§47-2844" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

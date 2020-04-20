@@ -182,7 +182,7 @@
       <heading>Wheelchair-accessible vehicle tax credit.</heading>
     </container>
   </codify:insert>
-  <section codify:applicability="notfunded">
+  <section>
     <num>3</num>
     <text>Chapter 18 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
     <para>
@@ -265,7 +265,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1807.13" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1807.13">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(b)">§ 3(b) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§47-1807.13" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1807.13" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -300,7 +300,7 @@
                 <text>"Wheelchair-accessible vehicle" shall have the same meaning as provided in § 50-301.03(32).</text>
               </para>
             </para>
-            <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1807.61" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1807.61">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(c)">§ 3(c) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+            <codify:not-funded-anno doc="D.C. Code" path="§47-1807.61" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1807.61" codified:display="Note"/>
           </section>
           <section>
             <codify:insert doc="D.C. Code" path="47|18|VII-B" codified:doc="D.C. Code" codified:path="§47-1807.62"/>
@@ -308,7 +308,7 @@
             <num>47-1807.62</num>
             <heading>Wheelchair-accessible vehicle tax credit.</heading>
             <text>For tax years beginning on or after January 1, 2017, but before January 1, 2022, upon application by a taxpayer, in the order of priority received and not to exceed the annual amount allocated therefor in the budget and financial plan, the Mayor, in accordance with this subchapter, shall approve, and there may be allowed, to a taxpayer a refundable wheelchair-accessible vehicle tax credit with respect to the franchise taxes imposed by subchapters VII and VIII of this chapter, in an amount determined by the Mayor pursuant to § 47-1807.64.</text>
-            <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1807.62" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1807.62">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(c)">§ 3(c) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+            <codify:not-funded-anno doc="D.C. Code" path="§47-1807.62" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1807.62" codified:display="Note"/>
           </section>
           <section>
             <codify:insert doc="D.C. Code" path="47|18|VII-B" codified:doc="D.C. Code" codified:path="§47-1807.63"/>
@@ -327,7 +327,7 @@
                 <text>Purchases a wheelchair-accessible vehicle.</text>
               </para>
             </para>
-            <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1807.63" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1807.63">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(c)">§ 3(c) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+            <codify:not-funded-anno doc="D.C. Code" path="§47-1807.63" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1807.63" codified:display="Note"/>
           </section>
           <section>
             <codify:insert doc="D.C. Code" path="47|18|VII-B" codified:doc="D.C. Code" codified:path="§47-1807.64"/>
@@ -366,7 +366,7 @@
                 <text>For the purchase of a new vehicle that was manufactured to be a wheelchair-accessible vehicle, as described in § 47-1807.63(2), the Mayor shall allow a credit equal to the cost associated with purchasing the vehicle; provided, that the credit shall not exceed $10,000 per vehicle.</text>
               </para>
             </para>
-            <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1807.64" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1807.64">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(c)">§ 3(c) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+            <codify:not-funded-anno doc="D.C. Code" path="§47-1807.64" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1807.64" codified:display="Note"/>
           </section>
           <section>
             <codify:insert doc="D.C. Code" path="47|18|VII-B" codified:doc="D.C. Code" codified:path="§47-1807.65"/>
@@ -401,7 +401,7 @@
               <num>(c)</num>
               <text>The Chief Financial Officer may audit the accounts of a taxpayer receiving a wheelchair-accessible vehicle tax credit up to 3 years following the issuance of any credit.</text>
             </para>
-            <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1807.65" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1807.65">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(c)">§ 3(c) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+            <codify:not-funded-anno doc="D.C. Code" path="§47-1807.65" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1807.65" codified:display="Note"/>
           </section>
           <section>
             <codify:insert doc="D.C. Code" path="47|18|VII-B" codified:doc="D.C. Code" codified:path="§47-1807.66"/>
@@ -409,7 +409,7 @@
             <num>47-1807.66</num>
             <heading>Rules.</heading>
             <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of this subchapter.</text>
-            <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1807.66" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1807.66">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(c)">§ 3(c) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+            <codify:not-funded-anno doc="D.C. Code" path="§47-1807.66" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1807.66" codified:display="Note"/>
           </section>
         </container>
       </include>
@@ -424,12 +424,11 @@
           <num>47-1808.13</num>
           <heading>Wheelchair-accessible vehicle tax credit.</heading>
           <text>A wheelchair-accessible vehicle tax credit shall be allowed as provided in <code-cite doc="D.C. Code" path="|47|18|VII-B">subchapter VII-B of this chapter</code-cite>.</text>
-          <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§47-1808.13" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1808.13">Applicability of <cite doc="D.C. Law 21-242" path="">D.C. Law 21-242</cite>: <cite doc="D.C. Law 21-242" path="§4">§ 4 of D.C. Law 21-242</cite> provided that the creation of this section by <cite doc="D.C. Law 21-242" path="§3|(d)">§ 3(d) of D.C. Law 21-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+          <codify:not-funded-anno doc="D.C. Code" path="§47-1808.13" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§47-1808.13" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
     </para>
-    <annotation app="2017-04-07" doc="D.C. Law 21-242" eff="2017-04-07" path="§4|(a)" type="History" display="false"/>
   </section>
   <section>
     <num>4</num>

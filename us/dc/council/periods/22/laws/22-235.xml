@@ -464,7 +464,7 @@
       <heading>Short title.</heading>
       <text><code-cite doc="D.C. Code" path="28A|2">This title</code-cite> may be cited as the "Automatic Renewal Protections Act of 2018".</text>
     </section>
-    <section codify:applicability="2019-09-10">
+    <section>
       <codify:insert num-value="28A-202" codified:doc="D.C. Code" codified:path="§28A-202"/>
       <num>202</num>
       <heading>Definitions.</heading>
@@ -480,12 +480,9 @@
           <text>"Consumer" means any person who seeks or acquires, by purchase or lease, any goods or services.</text>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-235" path="§202" codified:display="Note" codified:doc="D.C. Code" codified:path="§28A-202">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§202">§ 202 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-235" path="§202" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§202">§ 202 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§202" type="History"/>
-      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§301|(a)|(2)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Law 22-235" path="§202" applicability-path="§301|(b)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§28A-202" codified:display="Note"/>
     </section>
-    <section codify:applicability="2019-09-10">
+    <section>
       <codify:insert num-value="28A-203" codified:doc="D.C. Code" codified:path="§28A-203"/>
       <num>203</num>
       <heading>Automatic renewal provisions; notice; penalties.</heading>
@@ -572,12 +569,9 @@
           <text>Where a good-faith mistake has caused a failure to comply with <code-cite doc="D.C. Code" path="28A|2">this title</code-cite>, the person provides the consumer with a credit for all amounts billed to or a refund for all amounts paid by the consumer due to the mistaken renewal.</text>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-235" path="§203" codified:display="Note" codified:doc="D.C. Code" codified:path="§28A-203">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§203">§ 203 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-235" path="§203" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§203">§ 203 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§203" type="History"/>
-      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§301|(a)|(2)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Law 22-235" path="§203" applicability-path="§301|(b)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§28A-203" codified:display="Note"/>
     </section>
-    <section codify:applicability="2019-09-10">
+    <section>
       <codify:insert num-value="28A-204" codified:doc="D.C. Code" codified:path="§28A-204"/>
       <num>204</num>
       <heading>Exemptions.</heading>
@@ -601,10 +595,7 @@
           <text>A service contract, as that term is defined in <code-cite doc="D.C. Code" path="§31-2351.01|(10)">section 2(10) of the Service Contract Regulation Act of 2018, enacted on November 13, 2018 (D.C. Act 22-517; 65 DCR 12963)</code-cite>.</text>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-235" path="§204" codified:display="Note" codified:doc="D.C. Code" codified:path="§28A-204">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§204">§ 204 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-235" path="§204" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§204">§ 204 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§204" type="History"/>
-      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§301|(a)|(2)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Law 22-235" path="§204" applicability-path="§301|(b)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§28A-204" codified:display="Note"/>
     </section>
   </container>
   <codify:insert doc="D.C. Code" path="28A|1" after="I" history="false" codified:doc="D.C. Code" codified:path="28A|1|II">

@@ -103,7 +103,7 @@
         <text>"Superior Court" means the Superior Court of the District of Columbia.</text>
       </para>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3505.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3505.01">For temporary (90 days) enactment of the Federal Worker Housing Relief Emergency Act of 2019, see <cite doc="D.C. Act 23-5" path="§2">§ 2 of Federal Worker Housing Relief Emergency Act of 2019 (D.C. Act 23-5, Feb. 6, 2019, 66 DCR 2059)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§42-3505.01" action="enactment of the Federal Worker Housing Relief Emergency Act of 2019" codified:doc="D.C. Code" codified:path="§42-3505.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

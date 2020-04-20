@@ -93,7 +93,7 @@
       <num>(f)</num>
       <text>Subsection (e) is amended by striking the phrase "an attorney" and inserting the phrase "an attorney, a hearing officer, or an administrative law judge" in its place.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-608.81" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-608.81">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-371" path="§2">§ 2 of Certificate of Good Standing Filing Requirement Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-371, Apr. 26, 2016, 63 DCR 6849)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-608.81" codified:doc="D.C. Code" codified:path="§1-608.81" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

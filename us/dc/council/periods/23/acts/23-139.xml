@@ -144,7 +144,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§[47-4671]" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§[47-4671]">For temporary (90 days) creation of § 47-4672, see <cite doc="D.C. Act 23-139" path="§2">§ 2 of MLK Gateway Real Property Tax Abatement Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-139, Oct. 23, 2019, 66 DCR 14318)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§[47-4671]" action="creation of § 47-4672" codified:doc="D.C. Code" codified:path="§[47-4671]" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

@@ -26,7 +26,7 @@
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>FOOD DONATION TAX CREDIT.</heading>
-    <section codify:applicability="notfunded">
+    <section>
       <num>101</num>
       <text>Chapter 18 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
       <para>
@@ -127,7 +127,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§[47-1806.16]" codified:display="Note" codified:doc="D.C. Code" codified:path="§[47-1806.16]">Applicability of <cite doc="D.C. Law 22-212" path="">D.C. Law 22-212</cite>: <cite doc="D.C. Law 22-212" path="§301">§ 301 of D.C. Law 22-212</cite> provided that the creation of this section by <cite doc="D.C. Law 22-212" path="§101|(b)">§ 101(b) of D.C. Law 22-212</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§[47-1806.16]" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§[47-1806.16]" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>
@@ -180,7 +180,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§[47-1807.15]" codified:display="Note" codified:doc="D.C. Code" codified:path="§[47-1807.15]">Applicability of <cite doc="D.C. Law 22-212" path="">D.C. Law 22-212</cite>: <cite doc="D.C. Law 22-212" path="§301">§ 301 of D.C. Law 22-212</cite> provided that the creation of this section by <cite doc="D.C. Law 22-212" path="§101|(c)">§ 101(c) of D.C. Law 22-212</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§[47-1807.15]" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§[47-1807.15]" codified:display="Note"/>
       </para>
       <para>
         <num>(d)</num>
@@ -233,9 +233,8 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§[47-1808.15]" codified:display="Note" codified:doc="D.C. Code" codified:path="§[47-1808.15]">Applicability of <cite doc="D.C. Law 22-212" path="">D.C. Law 22-212</cite>: <cite doc="D.C. Law 22-212" path="§301">§ 301 of D.C. Law 22-212</cite> provided that the creation of this section by <cite doc="D.C. Law 22-212" path="§101|(d)">§ 101(d) of D.C. Law 22-212</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§[47-1808.15]" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§[47-1808.15]" codified:display="Note"/>
       </para>
-      <annotation app="2019-02-22" doc="D.C. Law 22-212" eff="2019-02-22" path="§301|(a)" type="History" display="false"/>
     </section>
   </container>
   <container codify:doc="D.C. Code">

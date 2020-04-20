@@ -71,17 +71,17 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-221.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-221.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§2|(a)">§ 2(a) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-221.02" codified:doc="D.C. Code" codified:path="§2-221.02" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 4(b) (D.C. Official Code § 2-221.03(b)) is amended by striking the phrase "shall pay an interest penalty" and inserting the phrase "shall pay an interest penalty of at least 1.5%" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-221.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-221.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§2|(b)">§ 2(b) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-221.03" codified:doc="D.C. Code" codified:path="§2-221.03" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 5(a)(2) (D.C. Official Code § 2-221.04(a)(2)) is amended by striking the phrase "60 days" and inserting the phrase "30 days" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-221.04" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-221.04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§2|(c)">§ 2(c) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-221.04" codified:doc="D.C. Code" codified:path="§2-221.04" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -134,7 +134,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-351.04" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-351.04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(a)">§ 3(a) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-351.04" codified:doc="D.C. Code" codified:path="§2-351.04" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -146,7 +146,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-351.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-351.05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(b)">§ 3(b) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-351.05" codified:doc="D.C. Code" codified:path="§2-351.05" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -181,7 +181,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-352.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(c)">§ 3(c) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-352.01" codified:doc="D.C. Code" codified:path="§2-352.01" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -435,7 +435,7 @@
         <num>(4)</num>
         <text>Subsection (e) is amended by striking the phrase "contained therein." and inserting the phrase "contained therein; provided, that a copy of the underlying letter contract be transmitted to the Council with the definitive contract." in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-352.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(d)">§ 3(d) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-352.02" codified:doc="D.C. Code" codified:path="§2-352.02" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
@@ -664,7 +664,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-352.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(e)">§ 3(e) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-352.05" codified:doc="D.C. Code" codified:path="§2-352.05" codified:display="Note"/>
     </para>
     <para>
       <num>(f)</num>
@@ -768,7 +768,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-352.05a" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.05a">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-504" path="§3|(f)">§ 3(f) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-352.05a" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-352.05a" codified:display="Note"/>
     </para>
     <para>
       <num>(g)</num>
@@ -816,7 +816,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-352.07" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-504" path="§3|(g)">§ 3(g) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-352.07" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-352.07" codified:display="Note"/>
     </para>
     <para>
       <num>(h)</num>
@@ -840,12 +840,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-353.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-353.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(h)">§ 3(h) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-353.01" codified:doc="D.C. Code" codified:path="§2-353.01" codified:display="Note"/>
     </para>
     <para>
       <num>(i)</num>
       <text>Section 401(b) (D.C. Official Code § 2-354.01(b)) is repealed.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-354.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-354.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(i)">§ 3(i) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-354.01" codified:doc="D.C. Code" codified:path="§2-354.01" codified:display="Note"/>
     </para>
     <para>
       <num>(j)</num>
@@ -919,7 +919,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-354.01a" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-354.01a">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-504" path="§3|(j)">§ 3(j) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-354.01a" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-354.01a" codified:display="Note"/>
     </para>
     <para>
       <num>(k)</num>
@@ -973,7 +973,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-354.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-354.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(k)">§ 3(k) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-354.03" codified:doc="D.C. Code" codified:path="§2-354.03" codified:display="Note"/>
     </para>
     <para>
       <num>(l)</num>
@@ -1005,7 +1005,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-356.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-356.05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-504" path="§3|(l)">§ 3(l) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-356.05" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-356.05" codified:display="Note"/>
     </para>
     <para>
       <num>(m)</num>
@@ -1041,7 +1041,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-357.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-357.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(m)">§ 3(m) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-357.02" codified:doc="D.C. Code" codified:path="§2-357.02" codified:display="Note"/>
     </para>
     <para>
       <num>(n)</num>
@@ -1054,7 +1054,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-357.02a" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-357.02a">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-504" path="§3|(n)">§ 3(n) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-357.02a" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-357.02a" codified:display="Note"/>
     </para>
     <para>
       <num>(o)</num>
@@ -1074,7 +1074,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-360.08" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-360.08">For temporary (90 days) , see <cite doc="D.C. Act 21-504" path="§3|(o)">§ 3(o) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-360.08" action="" codified:doc="D.C. Code" codified:path="§2-360.08" codified:display="Note"/>
     </para>
     <para>
       <num>(p)</num>
@@ -1149,7 +1149,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-361.04" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-361.04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(p)">§ 3(p) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-361.04" codified:doc="D.C. Code" codified:path="§2-361.04" codified:display="Note"/>
     </para>
     <para>
       <num>(q)</num>
@@ -1200,7 +1200,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-361.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-361.05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(q)">§ 3(q) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-361.05" codified:doc="D.C. Code" codified:path="§2-361.05" codified:display="Note"/>
     </para>
     <para>
       <num>(r)</num>
@@ -1220,7 +1220,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-361.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-361.06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§3|(r)">§ 3(r) of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-361.06" codified:doc="D.C. Code" codified:path="§2-361.06" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -1233,7 +1233,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-551.07" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-551.07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-504" path="§4">§ 4 of Procurement Integrity, Transparency, and Accountability Emergency Amendment Act of 2016 (D.C. Act 21-504, Oct. 13, 2016, 63 DCR 12942)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§10-551.07" codified:doc="D.C. Code" codified:path="§10-551.07" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>

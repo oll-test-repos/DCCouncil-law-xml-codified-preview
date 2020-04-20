@@ -32,12 +32,12 @@
         <num>(2)</num>
         <text>Subparagraph (C) is amended by striking the phrase "only within the polling place assigned by the Board before election day" and inserting the phrase "at the polling place serving the current residence address or at the accessible polling place assigned by the Board pursuant to section 9(b)(3)" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1001.07" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-495" path="§2|(a)">§ 2(a) of Election Day Change of Address Emergency Amendment Act of 2016 (D.C. Act 21-495, Oct. 7, 2016, 63 DCR 12605)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-1001.07" codified:doc="D.C. Code" codified:path="§1-1001.07" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 9(b)(3) (D.C. Official Code § 1-1001.09(b)(3)) is amended by striking the phrase "Except pursuant to section 7(i)(4), no" and inserting the phrase "No" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1001.09" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.09">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-495" path="§2|(b)">§ 2(b) of Election Day Change of Address Emergency Amendment Act of 2016 (D.C. Act 21-495, Oct. 7, 2016, 63 DCR 12605)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-1001.09" codified:doc="D.C. Code" codified:path="§1-1001.09" codified:display="Note"/>
     </para>
   </section>
   <section>

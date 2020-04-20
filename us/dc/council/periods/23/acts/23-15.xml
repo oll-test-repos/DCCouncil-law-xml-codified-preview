@@ -64,7 +64,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2031" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2031">For temporary (90 days) , see <cite doc="D.C. Act 23-15" path="§2|(a)">§ 2(a) of Parent-led Play Cooperative Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-15, Feb. 25, 2019, 66 DCR 2472)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2031" action="" codified:doc="D.C. Code" codified:path="§7-2031" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -76,7 +76,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2033" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2033">For temporary (90 days) , see <cite doc="D.C. Act 23-15" path="§2|(b)">§ 2(b) of Parent-led Play Cooperative Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-15, Feb. 25, 2019, 66 DCR 2472)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2033" action="" codified:doc="D.C. Code" codified:path="§7-2033" codified:display="Note"/>
     </para>
   </section>
   <section>

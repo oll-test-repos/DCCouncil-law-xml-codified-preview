@@ -52,7 +52,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§1-309.13" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-309.13">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-48" path="§2">§ 2 of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§1-309.13" codified:doc="D.C. Code" codified:path="§1-309.13" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -64,12 +64,12 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§1-328.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-328.04">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-48" path="§3">§ 3 of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§1-328.04" codified:doc="D.C. Code" codified:path="§1-328.04" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
     <text>Section 6019b(b)(1)(A)(i) of the Lead Service Line Priority Replacement Assistance Act of 2004, effective March 13, 2019 (D.C. Law 22-241; D.C. Official Code § 34-2159(b)(1)(A)(i)), is amended by striking the phrase "median income; and" and inserting the phrase "median income; or" in its place.</text>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§34-2159" codified:display="Note" codified:doc="D.C. Code" codified:path="§34-2159">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-48" path="§4">§ 4 of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§34-2159" codified:doc="D.C. Code" codified:path="§34-2159" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>
@@ -111,7 +111,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§47-1005.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1005.03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-48" path="§5|(a)">§ 5(a) of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§47-1005.03" codified:doc="D.C. Code" codified:path="§47-1005.03" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -138,7 +138,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§47-4665.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-4665.06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-48" path="§5|(b)">§ 5(b) of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§47-4665.06" codified:doc="D.C. Code" codified:path="§47-4665.06" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -151,7 +151,7 @@
       <num>(b)</num>
       <text>In Fiscal Year 2020, of the funds allocated to the Non-Departmental Account, $100,000 shall be transferred to Events DC to use for the grant authorized by subsection (a) of this section.</text>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§10-1202.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1202.03">For temporary (225 days) requirement that the Washington Convention and Sports Authority ("Events DC") award the Historical Society of Washington, D.C. a grant in the amount of $100,000 to assist with the transition into new space and to facilitate the anticipated increase in visitors, see <cite doc="D.C. Law 23-48" path="§6">§ 6 of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§10-1202.03" action="requirement that the Washington Convention and Sports Authority (&quot;Events DC&quot;) award the Historical Society of Washington, D.C. a grant in the amount of $100,000 to assist with the transition into new space and to facilitate the anticipated increase in visitors" codified:doc="D.C. Code" codified:path="§10-1202.03" codified:display="Note"/>
   </section>
   <section>
     <num>7</num>

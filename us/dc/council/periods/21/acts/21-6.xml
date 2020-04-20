@@ -36,7 +36,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1217.73" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1217.73">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-6" path="§2">§ 2 of H Street, N.E., Retail Priority Area Clarification Emergency Amendment Act of 2015 (D.C. Act 21-6, Feb. 23, 2015, 62 DCR 2474)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-1217.73" codified:doc="D.C. Code" codified:path="§2-1217.73" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -48,7 +48,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1217.73" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1217.73">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-6" path="§3">§ 3 of H Street, N.E., Retail Priority Area Clarification Emergency Amendment Act of 2015 (D.C. Act 21-6, Feb. 23, 2015, 62 DCR 2474)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-1217.73" codified:doc="D.C. Code" codified:path="§2-1217.73" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
@@ -69,7 +69,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-325.173" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-325.173">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-6" path="§4">§ 4 of H Street, N.E., Retail Priority Area Clarification Emergency Amendment Act of 2015 (D.C. Act 21-6, Feb. 23, 2015, 62 DCR 2474)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-325.173" codified:doc="D.C. Code" codified:path="§1-325.173" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>

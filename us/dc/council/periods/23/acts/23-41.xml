@@ -277,12 +277,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2502.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2502.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-41" path="§2|(a)">§ 2(a) of Firearms Safety Omnibus Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-41, Apr. 15, 2019, 66 DCR 5255)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2502.03" codified:doc="D.C. Code" codified:path="§7-2502.03" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 501 (D.C. Official Code § 7-2505.01) is amended by striking the phrase "sections 210(c), 502, or 705 of this act" and inserting the phrase "section 210(c), section 502, section 705, section 1007, or section 1009" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2505.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2505.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-41" path="§2|(b)">§ 2(b) of Firearms Safety Omnibus Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-41, Apr. 15, 2019, 66 DCR 5255)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2505.01" codified:doc="D.C. Code" codified:path="§7-2505.01" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -321,7 +321,7 @@
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "under this section or pursuant to section 210(c)(1)" and inserting the phrase "under this section, section 210(c)(1), or section 1009(c)" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2507.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2507.05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-41" path="§2|(c)">§ 2(c) of Firearms Safety Omnibus Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-41, Apr. 15, 2019, 66 DCR 5255)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2507.05" codified:doc="D.C. Code" codified:path="§7-2507.05" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -341,7 +341,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2507.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2507.06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-41" path="§2|(d)">§ 2(d) of Firearms Safety Omnibus Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-41, Apr. 15, 2019, 66 DCR 5255)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2507.06" codified:doc="D.C. Code" codified:path="§7-2507.06" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
@@ -1118,12 +1118,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" path="§22-4501" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-4501">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-41" path="§3|(a)">§ 3(a) of Firearms Safety Omnibus Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-41, Apr. 15, 2019, 66 DCR 5255)</cite>.</codify:annotation>
+      <codify:emergency path="§22-4501" codified:doc="D.C. Code" codified:path="§22-4501" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 14(a) (D.C. Official Code § 22-4514(a)) is amended by striking the phrase "sawed-off shotgun, knuckles" both times it appears and inserting the phrase "sawed-off shotgun, bump stock, knuckles" in it its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" path="§22-4514" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-4514">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-41" path="§3|(b)">§ 3(b) of Firearms Safety Omnibus Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-41, Apr. 15, 2019, 66 DCR 5255)</cite>.</codify:annotation>
+      <codify:emergency path="§22-4514" codified:doc="D.C. Code" codified:path="§22-4514" codified:display="Note"/>
     </para>
   </section>
   <section>

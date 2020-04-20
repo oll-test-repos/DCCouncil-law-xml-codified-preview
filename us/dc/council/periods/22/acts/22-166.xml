@@ -39,7 +39,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1163.09" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1163.09">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-166" path="§2|(a)">§ 2(a) of Campaign Finance Reform and Transparency Emergency Amendment Act of 2017 (D.C. Act 22-166, Oct. 24, 2017, 64 DCR 10800)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-1163.09" codified:doc="D.C. Code" codified:path="§1-1163.09" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -51,7 +51,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1163.33" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1163.33">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-166" path="§2|(b)">§ 2(b) of Campaign Finance Reform and Transparency Emergency Amendment Act of 2017 (D.C. Act 22-166, Oct. 24, 2017, 64 DCR 10800)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-1163.33" codified:doc="D.C. Code" codified:path="§1-1163.33" codified:display="Note"/>
     </para>
   </section>
   <section>

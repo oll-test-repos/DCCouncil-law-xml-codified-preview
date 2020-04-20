@@ -9319,10 +9319,23 @@
         <codify:annotation doc="D.C. Law 21-191" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-1721.01|(1)"><cite doc="D.C. Law 22-168" path="§7021">Section 7021 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-191" path="§5">section 5 of D.C. Law 21-191</cite> removing the applicability restriction impacting this section. Therefore the amendments of this section by <cite doc="D.C. Law 21-191">D.C. Law 21-191</cite> have been implemented.</codify:annotation>
       </section>
       <section>
-        <reason>Repealed</reason>
         <num>7022</num>
-        <text>Repealed.</text>
-        <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7144" type="History"/>
+        <text>Section 3 of the Feminine Hygiene and Diaper Sales Tax Exemption Amendment Act of 2016, effective February 18, 2017 (D.C. Law 21-201; 63 DCR 15041), is amended as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Subsection (a) is amended by striking the phrase "This act shall" and inserting the phrase "Section 47-2005(39) of the District of Columbia Official Code, as added by section 2(b), shall" in its place.</text>
+          <codify:repeal doc="D.C. Law 21-201" path="§3"/>
+          <codify:repeal doc="D.C. Code" path="§47-2005|(39)" history="false"/>
+          <codify:find-replace doc="D.C. Code" path="§47-2005|(39)" count="1" history="false">
+            <find>Repealed</find>
+            <replace>Not Funded</replace>
+          </codify:find-replace>
+          <codify:annotation doc="D.C. Law 21-201" type="Applicability" history="false"><cite doc="D.C. Law 22-168" path="§7022">Section 7022 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-201" path="§3">section 3 of D.C. Law 21-201</cite> amending the applicability restriction impacting this section. Therefore the amendments of this section by <cite doc="D.C. Law 21-201">D.C. Law 21-201</cite> have been implemented, except for paragraph (39).</codify:annotation>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Subsection (c)(2) is amended by striking the phrase "this act" and inserting the phrase "D.C. Official Code § 47-2005(39), as added by section 2(b)" in its place.</text>
+        </para>
       </section>
       <section>
         <num>7023</num>

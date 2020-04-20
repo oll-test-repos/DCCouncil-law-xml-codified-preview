@@ -55,7 +55,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§39-203" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§39-203">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-363" path="§2">§ 2 of Commission on the Arts and Humanities Emergency Amendment Act of 2018 (D.C. Act 22-363, May 21, 2018, 65 DCR 5957)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§39-203" codified:doc="D.C. Code" codified:path="§39-203" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

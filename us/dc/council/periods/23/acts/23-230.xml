@@ -52,7 +52,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1772.21" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1772.21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-230" path="§2|(a)">§ 2(a) of CleanEnergy DC Omnibus Emergency Amendment Act of 2020 (D.C. Act 23-230, Feb. 27, 2020, 67 DCR 2508)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1772.21" codified:doc="D.C. Code" codified:path="§8-1772.21" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -61,7 +61,7 @@
         <text>By January 1, 2020, the Department of General Services ("DGS") shall develop a draft strategic energy management plan for reducing energy and water use across the DGS portfolio of buildings. A final version of the plan shall be delivered no later than September 30, 2020. The plan shall include timelines and cost estimates for implementing:</text>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1772.22" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1772.22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-230" path="§2|(b)">§ 2(b) of CleanEnergy DC Omnibus Emergency Amendment Act of 2020 (D.C. Act 23-230, Feb. 27, 2020, 67 DCR 2508)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1772.22" codified:doc="D.C. Code" codified:path="§8-1772.22" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -82,7 +82,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§50-2201.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2201.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-230" path="§3">§ 3 of CleanEnergy DC Omnibus Emergency Amendment Act of 2020 (D.C. Act 23-230, Feb. 27, 2020, 67 DCR 2508)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§50-2201.03" codified:doc="D.C. Code" codified:path="§50-2201.03" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

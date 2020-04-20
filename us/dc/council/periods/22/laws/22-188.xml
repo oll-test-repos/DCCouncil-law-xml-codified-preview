@@ -48,7 +48,7 @@
         <text>Upon closure of the D.C. General Family Shelter, the Mayor shall provide a report to the Council indicating the number of families that remained at closure that necessitated a swift exit and the status of those families.</text>
       </para>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-753.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-753.01">For temporary (225 days) requirement that demolition at the current D.C. General Family Shelter site meet all applicable environmental, health, and safety standards and that current D.C. General Family Shelter residents be relocated into safe, appropriate housing, see <cite doc="D.C. Law 22-188" path="§2">§ 2 of D.C. General Resident Relocation Temporary Act of 2018 (D.C. Law 22-188, Nov. 27, 2018, 65 DCR 11412)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§4-753.01" action="requirement that demolition at the current D.C. General Family Shelter site meet all applicable environmental, health, and safety standards and that current D.C. General Family Shelter residents be relocated into safe, appropriate housing" codified:doc="D.C. Code" codified:path="§4-753.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

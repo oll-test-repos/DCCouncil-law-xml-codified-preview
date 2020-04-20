@@ -123,7 +123,7 @@
       <num>(c)</num>
       <text>Subsection (f) is repealed.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-1903.16" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-1903.16">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-231" path="§2">§ 2 of Condominium Warranty Claims Clarification Emergency Amendment Act of 2020 (D.C. Act 23-231, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§42-1903.16" codified:doc="D.C. Code" codified:path="§42-1903.16" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

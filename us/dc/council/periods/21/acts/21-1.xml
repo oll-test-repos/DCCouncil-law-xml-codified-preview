@@ -44,7 +44,7 @@
         <text>"Private agreement" means a mutually agreed upon and entered into exchange of promises.</text>
       </para>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1212.21" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1212.21">For temporary (90 days) prohibition of a restrictive covenant concerning grocery stores, see <cite doc="D.C. Act 21-1" path="§2">§ 2 of Grocery Store Restrictive Covenant Prohibition Congressional Review Emergency Act of 2015 (D.C. Act 21-1, Feb. 19, 2015, 62 DCR 2464)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-1212.21" action="prohibition of a restrictive covenant concerning grocery stores" codified:doc="D.C. Code" codified:path="§2-1212.21" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

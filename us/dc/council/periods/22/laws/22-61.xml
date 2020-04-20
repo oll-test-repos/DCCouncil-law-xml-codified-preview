@@ -21,7 +21,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Public School Health Services Amendment Act of 2017".</text>
-  <section codify:doc="D.C. Code" codify:path="§38-621" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§38-621">
     <num>2</num>
     <text>Section 2 of the District of Columbia Public School Nurse Assignment Act of 1987, effective December 10, 1987 (D.C. Law 7-45; D.C. Official Code § 38-621), is amended as follows:</text>
     <para codify:path="(a)">
@@ -58,8 +58,7 @@
       <text>Subsection (g) is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§38-621|(g)"/>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-621">Applicability of <cite doc="D.C. Law 22-61" path="">D.C. Law 22-61</cite>: <cite doc="D.C. Law 22-61" path="§3">§ 3 of D.C. Law 22-61</cite> provided that the change made to this section by <cite doc="D.C. Law 22-61" path="§2">§ 2 of D.C. Law 22-61</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation app="2018-02-17" doc="D.C. Law 22-61" eff="2018-02-17" path="§3|(a)" type="History" display="false"/>
+    <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§38-621" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

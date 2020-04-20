@@ -51,7 +51,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§48-1103" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-1103">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-528" path="§2">§ 2 of Controlled Substance Testing Emergency Amendment Act of 2018 (D.C. Act 22-528, Dec. 10, 2018, 65 DCR 13431)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§48-1103" codified:doc="D.C. Code" codified:path="§48-1103" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 19-292" codify:expire="2014-09-30">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 19-292">
   <num type="law">19-292</num>
   <heading type="short">Bloomingdale and Ledroit Park Backflow Preventer and Sandbag Act of 2012</heading>
   <meta>
@@ -45,5 +45,4 @@
     <codified:stub doc="D.C. Code" path="§8-105.58"/>
   </section>
   <codify:expire date="2014-09-30" history="false"/>
-  <annotation app="2013-04-27" doc="D.C. Law 19-292" eff="2013-04-27" path="" type="History" display="false"/>
 </document>

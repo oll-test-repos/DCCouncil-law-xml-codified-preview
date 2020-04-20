@@ -317,7 +317,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-205.11" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-205.11">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-25" path="§201">§ 201 of Close Relative Caregiver Subsidy Pilot Program Establishment Temporary Amendment Act of 2019 (D.C. Law 23-25, Oct. 24, 2019, 66 DCR 12081)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§4-205.11" codified:doc="D.C. Code" codified:path="§4-205.11" codified:display="Note"/>
     </section>
   </container>
   <container>

@@ -22,7 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Exhaust Emissions Inspection Amendment Act of 2017".</text>
-  <section codify:doc="D.C. Code" codify:path="§50-1101" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§50-1101">
     <num>2</num>
     <text>Section 1 of An Act To provide for annual inspection of all motor vehicles in the District of Columbia, approved February 18, 1938 (52 Stat. 78; D.C. Official Code § 50-1101), is amended by adding a new subsection (d) to read as follows:</text>
     <include>
@@ -48,8 +48,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-1101" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-1101">Applicability of <cite doc="D.C. Law 22-47" path="">D.C. Law 22-47</cite>: <cite doc="D.C. Law 22-47" path="§3">§ 3 of D.C. Law 22-47</cite> provided that the change made to this section by <cite doc="D.C. Law 22-47" path="§2">§ 2 of D.C. Law 22-47</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation app="2018-01-25" doc="D.C. Law 22-47" eff="2018-01-25" path="§3|(a)" type="History" display="false"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§50-1101" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-1101" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

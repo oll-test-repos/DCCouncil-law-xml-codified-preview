@@ -40,7 +40,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-761" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-761">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-501" path="§2">§ 2 of Senior Law Enforcement Officer Emergency Amendment Act of 2016 (D.C. Act 21-501, Oct. 12, 2016, 63 DCR 12936)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§5-761" codified:doc="D.C. Code" codified:path="§5-761" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

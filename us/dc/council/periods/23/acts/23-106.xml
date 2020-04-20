@@ -41,7 +41,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-242" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-242">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-106" path="§2">§ 2 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2019 (D.C. Act 23-106, July 24, 2019, 66 DCR 9754)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§7-242" codified:doc="D.C. Code" codified:path="§7-242" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -65,7 +65,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1203.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1203.02">For temporary (90 days) , see <cite doc="D.C. Act 23-106" path="§3">§ 3 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2019 (D.C. Act 23-106, July 24, 2019, 66 DCR 9754)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§7-1203.02" action="" codified:doc="D.C. Code" codified:path="§7-1203.02" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
@@ -345,7 +345,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-4234" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-4234">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-106" path="§4">§ 4 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2019 (D.C. Act 23-106, July 24, 2019, 66 DCR 9754)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§22-4234" codified:doc="D.C. Code" codified:path="§22-4234" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>
@@ -357,7 +357,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§24-403.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§24-403.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-106" path="§5">§ 5 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2019 (D.C. Act 23-106, July 24, 2019, 66 DCR 9754)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§24-403.03" codified:doc="D.C. Code" codified:path="§24-403.03" codified:display="Note"/>
   </section>
   <section>
     <num>6</num>

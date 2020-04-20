@@ -34,7 +34,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-396" path="§2|(a)|(1A)">§ 2(a)(1A) of Medical Marijuana Cultivation Center Expansion Emergency Amendment Act of 2016 (D.C. Act 21-396, May 19, 2016, 63 DCR 7908)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§7-1671.01" codified:doc="D.C. Code" codified:path="§7-1671.01" codified:display="Note"/>
       </para>
     </para>
     <para>
@@ -81,7 +81,7 @@
         <num>(2)</num>
         <text>Subsection (e)(2) is amended by striking the number "500" and inserting the number "1,000" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-396" path="§2|(b)">§ 2(b) of Medical Marijuana Cultivation Center Expansion Emergency Amendment Act of 2016 (D.C. Act 21-396, May 19, 2016, 63 DCR 7908)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-1671.06" codified:doc="D.C. Code" codified:path="§7-1671.06" codified:display="Note"/>
     </para>
   </section>
   <section>

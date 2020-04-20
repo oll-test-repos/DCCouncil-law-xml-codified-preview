@@ -183,7 +183,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-2652" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-2652">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§2|(d)">§ 2(d) of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§38-2652" applicability-path="§6" codified:doc="D.C. Code" codified:path="§38-2652" codified:display="Note"/>
       <codify:annotation doc="D.C. Code" path="§38-2652" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-2652">Section 7029 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
     </para>
@@ -234,7 +234,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-351" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-351">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§3|(a)|(4)">§ 3(a)(4) of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§38-351" applicability-path="§6" codified:doc="D.C. Code" codified:path="§38-351" codified:display="Note"/>
         <codify:annotation doc="D.C. Code" path="§38-351" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-351">Section 7029 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
       </para>
@@ -451,7 +451,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-371" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-371">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§4|(a)|(2)">§ 4(a)(2) of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§38-371" applicability-path="§6" codified:doc="D.C. Code" codified:path="§38-371" codified:display="Note"/>
         <codify:annotation doc="D.C. Code" path="§38-371" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-371">Section 7029 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
       </para>
@@ -547,16 +547,32 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§1-604.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-604.06">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§5">§ 5 of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-604.06" applicability-path="§6" codified:doc="D.C. Code" codified:path="§1-604.06" codified:display="Note"/>
     <codify:annotation doc="D.C. Code" path="§1-604.06" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-604.06">Section 7029 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>6</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7029" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>Section 2(d)(1) and (2), section 3(a)(4), section 4(a)(2), and section 5 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+    </para>
   </section>
   <section>
     <num>7</num>

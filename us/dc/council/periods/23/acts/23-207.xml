@@ -65,7 +65,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§24-211.07" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§24-211.07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-207" path="§2">§ 2 of Sanctuary Values Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-207, Jan. 27, 2020, 67 DCR 757)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§24-211.07" codified:doc="D.C. Code" codified:path="§24-211.07" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

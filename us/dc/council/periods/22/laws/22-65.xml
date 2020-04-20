@@ -2297,7 +2297,7 @@
       <text>Section 30(c) (D.C. Official Code § 4-756.01(c)) is repealed.</text>
       <codify:repeal path="§4-756.01|(c)" codified:doc="D.C. Code" codified:path="§4-756.01|(c)"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(nn)</num>
       <text>A new section 31d is added to read as follows:</text>
       <include>
@@ -2397,12 +2397,9 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 16-35" type="History" path="§31d">Oct. 22, 2005, D.C. Law 16-35, §  31d</annotation>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-65" path="§2|(nn)" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-756.06">Applicability of <cite doc="D.C. Law 22-65" path="">D.C. Law 22-65</cite>: <cite doc="D.C. Law 22-65" path="§5">§ 5 of D.C. Law 22-65</cite> provided that the creation of this section by <cite doc="D.C. Law 22-65" path="§2|(nn)">§ 2(nn) of D.C. Law 22-65</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-65" path="§2|(nn)" codified:display="Note" app="2018-02-28" eff="2018-02-28">Applicability of <cite doc="D.C. Law 22-65" path="">D.C. Law 22-65</cite>: <cite doc="D.C. Law 22-65" path="§5">§ 5 of D.C. Law 22-65</cite> provided that the creation of this section by <cite doc="D.C. Law 22-65" path="§2|(nn)">§ 2(nn) of D.C. Law 22-65</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(nn)" type="History"/>
-      <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§5|(a)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Law 22-65" path="§2|(nn)" applicability-path="§5" action="creation of" codified:doc="D.C. Code" codified:path="§4-756.06" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(oo)</num>
       <text>A new section 31e is added to read as follows:</text>
       <include>
@@ -2434,10 +2431,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 16-35" type="History" path="§31e">Oct. 22, 2005, D.C. Law 16-35, §  31e</annotation>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-65" path="§2|(oo)" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-756.07">Applicability of <cite doc="D.C. Law 22-65" path="">D.C. Law 22-65</cite>: <cite doc="D.C. Law 22-65" path="§5">§ 5 of D.C. Law 22-65</cite> provided that the creation of this section by <cite doc="D.C. Law 22-65" path="§2|(oo)">§ 2(oo) of D.C. Law 22-65</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-65" path="§2|(oo)" codified:display="Note" app="2018-02-28" eff="2018-02-28">Applicability of <cite doc="D.C. Law 22-65" path="">D.C. Law 22-65</cite>: <cite doc="D.C. Law 22-65" path="§5">§ 5 of D.C. Law 22-65</cite> provided that the creation of this section by <cite doc="D.C. Law 22-65" path="§2|(oo)">§ 2(oo) of D.C. Law 22-65</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(oo)" type="History"/>
-      <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§5|(a)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Law 22-65" path="§2|(oo)" applicability-path="§5" action="creation of" codified:doc="D.C. Code" codified:path="§4-756.07" codified:display="Note"/>
     </para>
   </section>
   <section codify:doc="D.C. Code" codify:path="§4-771.01|(b)">

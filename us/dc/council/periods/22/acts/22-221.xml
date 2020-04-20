@@ -58,7 +58,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1141.08" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1141.08|(a)">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-221" path="§2">§ 2 of Medical Necessity Review Criteria Emergency Amendment Act of 2017 (D.C. Act 22-221, Dec. 28, 2017, 65 DCR 7)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§7-1141.08" codified:doc="D.C. Code" codified:path="§7-1141.08|(a)" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

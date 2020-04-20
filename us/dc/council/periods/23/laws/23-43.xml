@@ -151,7 +151,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§5-1405" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-1405">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-43" path="§2">§ 2 of Investigating Maternal Mortalities Temporary Amendment Act of 2019 (D.C. Law 23-43, Jan. 10, 2020, 66 DCR 15336)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§5-1405" codified:doc="D.C. Code" codified:path="§5-1405" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

@@ -74,11 +74,32 @@
       </codify:annotation>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>3</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7152" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>The amendatory section 3b(c)(3) within section 2(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:repeal doc="D.C. Code" path="§10-302.02|(c)|(3)" history="false" display-template=""/>
+      <codify:find-replace doc="D.C. Code" path="§10-302.02|(c)|(3)" count="1" history="false" display="Note">
+        <find>Repealed</find>
+        <replace>Not Funded</replace>
+      </codify:find-replace>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council for certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of the amendatory section 3b(c)(3) within section 2(b).</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>4</num>

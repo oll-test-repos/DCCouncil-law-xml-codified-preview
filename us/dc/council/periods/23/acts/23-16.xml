@@ -29,7 +29,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1001.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-16" path="§2">§ 2 of Board of Elections Domicile Requirement Emergency Amendment Act of 2019 (D.C. Act 23-16, Feb. 28, 2019, 66 DCR 2688)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-1001.05" codified:doc="D.C. Code" codified:path="§1-1001.05" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

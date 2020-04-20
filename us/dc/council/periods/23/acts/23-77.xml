@@ -39,7 +39,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-620.11" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-620.11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-77" path="§2|(a)|(2)">§ 2(a)(2) of Medical Marijuana Program Patient Employment Protection Emergency Amendment Act of 2019 (D.C. Act 23-77, July 8, 2019, 66 DCR 8089)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§1-620.11" codified:doc="D.C. Code" codified:path="§1-620.11" codified:display="Note"/>
       </para>
     </para>
     <para>
@@ -52,7 +52,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-620.25" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-620.25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-77" path="§2|(b)">§ 2(b) of Medical Marijuana Program Patient Employment Protection Emergency Amendment Act of 2019 (D.C. Act 23-77, July 8, 2019, 66 DCR 8089)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-620.25" codified:doc="D.C. Code" codified:path="§1-620.25" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -64,7 +64,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-620.32" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-620.32">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-77" path="§2|(c)">§ 2(c) of Medical Marijuana Program Patient Employment Protection Emergency Amendment Act of 2019 (D.C. Act 23-77, July 8, 2019, 66 DCR 8089)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-620.32" codified:doc="D.C. Code" codified:path="§1-620.32" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -120,7 +120,7 @@
         </container>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-620.44" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-620.44">For temporary (90 days) creation of subchapter XX-E of this chapter, see <cite doc="D.C. Act 23-77" path="§2|(d)">§ 2(d) of Medical Marijuana Program Patient Employment Protection Emergency Amendment Act of 2019 (D.C. Act 23-77, July 8, 2019, 66 DCR 8089)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-620.44" action="creation of subchapter XX-E of this chapter" codified:doc="D.C. Code" codified:path="§1-620.44" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -133,7 +133,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§24-211.22" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§24-211.22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-77" path="§3">§ 3 of Medical Marijuana Program Patient Employment Protection Emergency Amendment Act of 2019 (D.C. Act 23-77, July 8, 2019, 66 DCR 8089)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§24-211.22" codified:doc="D.C. Code" codified:path="§24-211.22" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

@@ -22,7 +22,7 @@
   <section>
     <num>2</num>
     <text>Section 2(2) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(2)), is amended by striking the phrase "with not less than 3 low-pressure tires, but not more than 6 low-pressure tires, designed" and inserting the phrase "with 3 or more tires that is designed" in its place.</text>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§50-2201.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2201.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-37" path="§2">§ 2 of All-Terrain Vehicle Clarification Emergency Amendment Act of 2019 (D.C. Act 23-37, Apr. 3, 2019, 66 DCR 4942)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§50-2201.02" codified:doc="D.C. Code" codified:path="§50-2201.02" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

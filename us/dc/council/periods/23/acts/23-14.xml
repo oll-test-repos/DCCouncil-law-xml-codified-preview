@@ -52,7 +52,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§51-101" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§51-101">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-14" path="§2|(a)">§ 2(a) of Supporting Essential Workers Unemployment Insurance Emergency Amendment Act of 2019 (D.C. Act 23-14, Feb. 25, 2019, 66 DCR 2469)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§51-101" codified:doc="D.C. Code" codified:path="§51-101" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -76,13 +76,13 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§51-110" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§51-110">For temporary (90 days) creation of new § 51-110.01, see <cite doc="D.C. Act 23-14" path="§2|(b)">§ 2(b) of Supporting Essential Workers Unemployment Insurance Emergency Amendment Act of 2019 (D.C. Act 23-14, Feb. 25, 2019, 66 DCR 2469)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§51-110" action="creation of new § 51-110.01" codified:doc="D.C. Code" codified:path="§51-110" codified:display="Note"/>
     </para>
   </section>
   <section>
     <num>3</num>
     <text>Section 2(5) of the Federal Worker Housing Relief Emergency Act of 2019, passed on emergency basis on January 22, 2019 (Enrolled version of Bill 23-80), is amended by striking the phrase "government of the United States, or the District of Columbia Courts" and inserting the phrase "government of the United States, the District of Columbia Courts, or the District of Columbia Public Defender Service" in its place.</text>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-3505.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3505.01">For temporary (90 days) amendment to the Federal Worker Housing Relief Emergency Act of 2019 (Act 23-5), see <cite doc="D.C. Act 23-14" path="§3">§ 3 of Supporting Essential Workers Unemployment Insurance Emergency Amendment Act of 2019 (D.C. Act 23-14, Feb. 25, 2019, 66 DCR 2469)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§42-3505.01" action="amendment to the Federal Worker Housing Relief Emergency Act of 2019 (Act 23-5)" codified:doc="D.C. Code" codified:path="§42-3505.01" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

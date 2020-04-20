@@ -54,7 +54,7 @@
         <text>"Public restroom facility" means a restroom maintained by the District and accessible to the public free of charge.</text>
       </para>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-1051" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1051">Applicability of <cite doc="D.C. Law 22-280" path="">D.C. Law 22-280</cite>: <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite> provided that the creation of this section by <cite doc="D.C. Law 22-280" path="§2">§ 2 of D.C. Law 22-280</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§10-1051" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1051" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="10|10B" num-value="10-1052" codified:doc="D.C. Code" codified:path="§10-1052"/>
@@ -263,7 +263,7 @@
       <num>(g)</num>
       <text>Within one year after the opening of the public restroom facilities under subsection (e) of this section, the Mayor shall transmit recommendations to the Council regarding whether the District should install additional public restroom facilities.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-1052" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1052">Applicability of <cite doc="D.C. Law 22-280" path="">D.C. Law 22-280</cite>: <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite> provided that the creation of this section by <cite doc="D.C. Law 22-280" path="§3">§ 3 of D.C. Law 22-280</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§10-1052" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1052" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="10|10B" num-value="10-1053" codified:doc="D.C. Code" codified:path="§10-1053"/>
@@ -344,15 +344,31 @@
       <num>(i)</num>
       <text>Within 180 days after <span codify:value="October 1, 2019">the applicability date of this act</span>, the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of this section.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-1053" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1053">Applicability of <cite doc="D.C. Law 22-280" path="">D.C. Law 22-280</cite>: <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite> provided that the creation of this section by <cite doc="D.C. Law 22-280" path="§4">§ 4 of D.C. Law 22-280</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§10-1053" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§10-1053" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="10|10B" num-value="10-1054" codified:doc="D.C. Code" codified:path="§10-1054"/>
-    <reason>Repealed</reason>
     <num>5</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7166" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>6</num>

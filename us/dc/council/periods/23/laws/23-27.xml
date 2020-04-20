@@ -48,7 +48,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§48-402.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-402.01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-27" path="§2">§ 2 of Urban Farming Land Lease Temporary Amendment Act of 2019 (D.C. Law 23-27, Nov. 26, 2019, 66 DCR 13118)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§48-402.01" codified:doc="D.C. Code" codified:path="§48-402.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

@@ -37,7 +37,7 @@
     <para>
       <num>(b)</num>
       <text>Section 102(7) (D.C. Official Code § 34-1311.02(7)) is amended by striking the phrase "100% of the construction contracts are awarded to District businesses" and inserting the phrase "100% of the construction contracts are awarded to certified business enterprises or certified joint ventures" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§34-1311.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§34-1311.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-606" path="§2|(b)">§ 2(b) of Power Line Undergrounding Program Certified Business Enterprise Utilization Emergency Act of 2018 (D.C. Act 22-606, Jan. 24, 2019, 66 DCR 1591)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§34-1311.02" codified:doc="D.C. Code" codified:path="§34-1311.02" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -58,7 +58,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§34-1311.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§34-1311.02">For temporary (90 days) creation of § 34-1311.03, see <cite doc="D.C. Act 22-606" path="§2|(c)">§ 2(c) of Power Line Undergrounding Program Certified Business Enterprise Utilization Emergency Act of 2018 (D.C. Act 22-606, Jan. 24, 2019, 66 DCR 1591)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§34-1311.02" action="creation of § 34-1311.03" codified:doc="D.C. Code" codified:path="§34-1311.02" codified:display="Note"/>
     </para>
   </section>
   <section>

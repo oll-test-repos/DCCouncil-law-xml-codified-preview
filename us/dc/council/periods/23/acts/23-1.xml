@@ -26,7 +26,7 @@
     <para>
       <num>(a)</num>
       <text>Section 1288(a)(4) (D.C. Official Code § 46-406(a)(4)) is amended by striking the phrase "authorized by the Clerk" and inserting the phrase "authorized by the Mayor or the Clerk" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§46-406" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§46-406">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-1" path="§2|(a)">§ 2(a) of Let Our Vows Endure Emergency Amendment Act of 2019 (D.C. Act 23-1, Jan. 11, 2019, 66 DCR 600)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§46-406" codified:doc="D.C. Code" codified:path="§46-406" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -46,12 +46,12 @@
         <num>(2)</num>
         <text>The text is amended by striking the phrase "the Clerk" both times it appears and inserting the phrase "the Mayor or the Clerk" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§46-410" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§46-410">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-1" path="§2|(b)">§ 2(b) of Let Our Vows Endure Emergency Amendment Act of 2019 (D.C. Act 23-1, Jan. 11, 2019, 66 DCR 600)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§46-410" codified:doc="D.C. Code" codified:path="§46-410" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 1292 (D.C. Official Code § 46-411) is amended by striking the word "Clerk" wherever it appears and inserting the phrase "Mayor or Clerk" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§46-411" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§46-411">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-1" path="§2|(c)">§ 2(c) of Let Our Vows Endure Emergency Amendment Act of 2019 (D.C. Act 23-1, Jan. 11, 2019, 66 DCR 600)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§46-411" codified:doc="D.C. Code" codified:path="§46-411" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -90,7 +90,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§46-412" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§46-412">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-1" path="§2|(d)">§ 2(d) of Let Our Vows Endure Emergency Amendment Act of 2019 (D.C. Act 23-1, Jan. 11, 2019, 66 DCR 600)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§46-412" codified:doc="D.C. Code" codified:path="§46-412" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
@@ -148,7 +148,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§46-414" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§46-414">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-1" path="§2|(e)">§ 2(e) of Let Our Vows Endure Emergency Amendment Act of 2019 (D.C. Act 23-1, Jan. 11, 2019, 66 DCR 600)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§46-414" codified:doc="D.C. Code" codified:path="§46-414" codified:display="Note"/>
     </para>
     <para>
       <num>(f)</num>
@@ -161,7 +161,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§46-415" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§46-415">For temporary (90 days) creation of § 46-415.01, see <cite doc="D.C. Act 23-1" path="§2|(f)">§ 2(f) of Let Our Vows Endure Emergency Amendment Act of 2019 (D.C. Act 23-1, Jan. 11, 2019, 66 DCR 600)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§46-415" action="creation of § 46-415.01" codified:doc="D.C. Code" codified:path="§46-415" codified:display="Note"/>
     </para>
   </section>
   <section>

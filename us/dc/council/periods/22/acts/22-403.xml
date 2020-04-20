@@ -25,12 +25,12 @@
     <para>
       <num>(a)</num>
       <text>Section 3(24)(B) (D.C. Official Code § 2-1215.02(24)(B)) is amended by striking the phrase "Capitol Riverfront, and Downtown BIDs," and inserting the phrase "Capitol Riverfront, Downtown, and Golden Triangle BIDs," in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1215.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1215.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-403" path="§2|(a)">§ 2(a) of Golden Triangle Business Improvement District Emergency Amendment Act of 2018 (D.C. Act 22-403, July 16, 2018, 65 DCR 7520)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-1215.02" codified:doc="D.C. Code" codified:path="§2-1215.02" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 10b(a)(1) (D.C. Official Code § 2-1215.09b(a)(1)) is amended by striking the phrase "Downtown BID petition to join the Downtown BID;" and inserting the phrase "Downtown BID or Golden Triangle BID petition to join such BID;" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1215.09b" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1215.09b">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-403" path="§2|(b)">§ 2(b) of Golden Triangle Business Improvement District Emergency Amendment Act of 2018 (D.C. Act 22-403, July 16, 2018, 65 DCR 7520)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-1215.09b" codified:doc="D.C. Code" codified:path="§2-1215.09b" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -118,7 +118,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1215.52" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1215.52">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-403" path="§2|(c)">§ 2(c) of Golden Triangle Business Improvement District Emergency Amendment Act of 2018 (D.C. Act 22-403, July 16, 2018, 65 DCR 7520)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-1215.52" codified:doc="D.C. Code" codified:path="§2-1215.52" codified:display="Note"/>
     </para>
   </section>
   <section>

@@ -66,11 +66,10 @@
       <text>Section 209(d) (D.C. Official Code § 42-3502.09(d)) is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§42-3502.09|(d)"/>
     </para>
-    <para codify:path="§42-3502.13|(d)" codify:applicability="notfunded">
+    <para codify:path="§42-3502.13|(d)">
       <num>(e)</num>
       <text>Section 213(e) (D.C. Official Code § 42-3502.13(d)) is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§42-3502.13|(d)"/>
-      <annotation app="2019-03-13" doc="D.C. Law 22-248" eff="2019-03-13" path="§4" type="History" display="false"/>
     </para>
     <para>
       <num>(f)</num>

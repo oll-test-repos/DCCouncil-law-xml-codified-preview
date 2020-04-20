@@ -143,7 +143,7 @@
         </para>
       </para>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-551.01">Applicability of <cite doc="D.C. Law 21-168" path="">D.C. Law 21-168</cite>: <cite doc="D.C. Law 21-168" path="§4">§ 4 of D.C. Law 21-168</cite> provided that the creation of this section by <cite doc="D.C. Law 21-168" path="§2">§ 2 of D.C. Law 21-168</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-551.01" codified:display="Note"/>
   </section>
   <section codify:doc="D.C. Code" codify:path="§47-1803.02|(a)|(2)">
     <num>3</num>
@@ -156,14 +156,32 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)">Applicability of <cite doc="D.C. Law 21-168" path="">D.C. Law 21-168</cite>: <cite doc="D.C. Law 21-168" path="§4">§ 4 of D.C. Law 21-168</cite> provided that the change made to this section by <cite doc="D.C. Law 21-168" path="§3">§ 3 of D.C. Law 21-168</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)" codified:display="Note"/>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7143" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability path="§2" date="notfunded" history="false"/>
+      <codify:applicability path="§3" date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>5</num>

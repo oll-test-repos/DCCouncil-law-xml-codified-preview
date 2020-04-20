@@ -43,7 +43,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§44-951.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-951.05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-310" path="§2">§ 2 of Preservation of Electronic Recordings of Meetings Emergency Amendment Act of 2018 (D.C. Act 22-310, Apr. 4, 2018, 65 DCR 3802)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§44-951.05" codified:doc="D.C. Code" codified:path="§44-951.05" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

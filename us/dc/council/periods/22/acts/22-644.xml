@@ -31,7 +31,7 @@
       <num>(b)</num>
       <text>Paragraph (3) is amended by striking the word "person" and inserting the phrase "person or property" in its place.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-3312.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-3312.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-644" path="§2">§ 2 of Community Harassment Prevention Emergency Amendment Act of 2018 (D.C. Act 22-644, Feb. 6, 2019, 66 DCR 2050)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§22-3312.02" codified:doc="D.C. Code" codified:path="§22-3312.02" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

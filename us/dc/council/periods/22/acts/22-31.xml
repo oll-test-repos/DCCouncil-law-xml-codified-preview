@@ -62,17 +62,17 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2501.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2501.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-31" path="§2|(a)">§ 2(a) of Stun Gun Regulation Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-31, Mar. 27, 2017, 64 DCR 3084)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2501.01" codified:doc="D.C. Code" codified:path="§7-2501.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 213 (D.C. Official Code § 7-2502.13) is amended by striking the phrase "18 years of age or older".</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2502.13" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2502.13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-31" path="§2|(b)">§ 2(b) of Stun Gun Regulation Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-31, Mar. 27, 2017, 64 DCR 3084)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2502.13" codified:doc="D.C. Code" codified:path="§7-2502.13" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 214 (D.C. Official Code § 7-2502.14) is repealed.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2502.14" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2502.14">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-31" path="§2|(c)">§ 2(c) of Stun Gun Regulation Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-31, Mar. 27, 2017, 64 DCR 3084)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2502.14" action="repeal of this section" codified:doc="D.C. Code" codified:path="§7-2502.14" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -151,7 +151,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2507.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2507.06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-31" path="§2|(e)">§ 2(e) of Stun Gun Regulation Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-31, Mar. 27, 2017, 64 DCR 3084)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2507.06" codified:doc="D.C. Code" codified:path="§7-2507.06" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -164,12 +164,12 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-2603.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-2603.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-31" path="§3">§ 3 of Stun Gun Regulation Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-31, Mar. 27, 2017, 64 DCR 3084)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§22-2603.01" codified:doc="D.C. Code" codified:path="§22-2603.01" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
     <text>Section 2(a) of An Act To control the possession, sale, transfer, and use of pistols and other dangerous weapons in the District of Columbia, to provide penalties, to prescribe rules of evidence, and for other purposes, approved July 8, 1932 (47 Stat. 650; D.C. Official Code § 22-4502(a)), is amended by striking the phrase "rifle, dirk," and inserting the phrase "rifle, stun gun, dirk," in its place.</text>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-4502" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-4502">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-31" path="§4">§ 4 of Stun Gun Regulation Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-31, Mar. 27, 2017, 64 DCR 3084)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§22-4502" codified:doc="D.C. Code" codified:path="§22-4502" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>
@@ -196,7 +196,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-2851.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2851.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-31" path="§5">§ 5 of Stun Gun Regulation Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-31, Mar. 27, 2017, 64 DCR 3084)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§47-2851.03" codified:doc="D.C. Code" codified:path="§47-2851.03" codified:display="Note"/>
   </section>
   <section>
     <num>6</num>

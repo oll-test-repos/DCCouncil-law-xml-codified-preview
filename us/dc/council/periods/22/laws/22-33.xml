@@ -1210,13 +1210,89 @@
         <text>This subtitle may be cited as the "Public Use of Public Buildings Amendment Act of 2017".</text>
       </section>
       <section codify:path="§10-1141.03a">
-        <reason>Repealed</reason>
         <num>1152</num>
-        <text>Repealed.</text>
-        <annotation doc="D.C. Law 22-124" type="Applicability" history="false" app="2018-07-03" eff="2018-07-03" path="§301"><cite doc="D.C. Law 22-124" path="§301">Section 301 of D.C. Law 22-124</cite> provided that the changes made to this section by D.C. Law 22-124 shall apply as of October 1, 2017.
-      </annotation>
-        <annotation app="2018-07-03" doc="D.C. Law 22-124" eff="2018-07-03" path="§301" type="History" display="false"/>
-        <annotation app="2018-07-03" doc="D.C. Law 22-124" eff="2018-07-03" path="§110|(b)" type="History"/>
+        <text>Section 603a of the Fiscal Year 1997 Budget Support Act of 1996, effective December 2, 2011 (D.C. Law 19-48; D.C. Official Code § 10-1141.03a), is amended as follows:</text>
+        <para codify:path="(a)">
+          <num>(a)</num>
+          <text>Subsection (a) is amended as follows:</text>
+          <para codify:path="text">
+            <num>(1)</num>
+            <text>The lead-in language is amended by striking the phrase "permit fee," and inserting the phrase "liability insurance requirement or permit, custodial, and security fee," in its place.</text>
+            <codify:find-replace count="1">
+              <find>permit fee,</find>
+              <replace>liability insurance requirement or permit, custodial, and security fee,</replace>
+            </codify:find-replace>
+          </para>
+          <para codify:path="(1)">
+            <num>(2)</num>
+            <text>Paragraph (1) is amended by striking the phrase "civic association" and inserting the phrase "civic association, Advisory Neighborhood Commission," in its place.</text>
+            <codify:find-replace count="1">
+              <find>civic association</find>
+              <replace>civic association, Advisory Neighborhood Commission,</replace>
+            </codify:find-replace>
+          </para>
+          <para codify:path="(3)">
+            <num>(3)</num>
+            <text>Paragraph (3) is amended by striking the phrase "government;" and inserting the phrase "government, except for the costs of custodial and security services;" in its place.</text>
+            <codify:find-replace count="1">
+              <find>government;</find>
+              <replace>government, except for the costs of custodial and security services;</replace>
+            </codify:find-replace>
+          </para>
+        </para>
+        <para codify:path="(b)|(3)">
+          <num>(b)</num>
+          <text>Subsection (b)(3) is amended as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Designate the existing text as subparagraph (A).</text>
+            <codify:redesignate-para num-value="(A)"/>
+          </para>
+          <para codify:path="(A)">
+            <num>(2)</num>
+            <text>The newly designated subparagraph (A) is amended by striking the period and inserting the phrase "; or" in its place.</text>
+            <codify:find-replace count="1">
+              <find>).</find>
+              <replace>); or</replace>
+            </codify:find-replace>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A new subparagraph (B) is added to read as follows:</text>
+            <include lvl="2">
+              <para>
+                <codify:insert after="(A)"/>
+                <num>(B)</num>
+                <text>A member of the D.C. Federation of Civic Associations or the Federation of Citizens Associations of the District of Columbia.</text>
+              </para>
+            </include>
+            <aftertext>.</aftertext>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A new subsection (c) is added to read as follows:</text>
+          <include>
+            <para>
+              <codify:insert after="(b)"/>
+              <num>(c)</num>
+              <text>Beginning November 30, 2019, the Mayor shall report annually to the Council regarding the waiver of fees pursuant to <span codify:value="Subtitle P of Title I of D.C. Law 22-33">the Public Use of Public Buildings Amendment Act of 2017, passed on 2nd reading on June 27, 2017 (Enrolled version of Bill 22-244)</span>, and shall include the following information in the report:</text>
+              <para>
+                <num>(1)</num>
+                <text>The total amount of fees waived;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The amount of fees waived broken out by liability insurance, permit fees, custodial fees, and security fees; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The types and number of organizations for which the fees were waived.</text>
+              </para>
+            </para>
+          </include>
+          <aftertext>.</aftertext>
+        </para>
       </section>
       <section>
         <codify:ignore/>

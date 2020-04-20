@@ -65,12 +65,12 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-610.52" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-610.52">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-637" path="§2|(a)">§ 2(a) of Chancellor of the District of Columbia Public Schools Salary and Benefits Authorization Emergency Amendment Act of 2016 (D.C. Act 21-637, Jan. 24, 2017, 64 DCR 923)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-610.52" codified:doc="D.C. Code" codified:path="§1-610.52" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 1055(3) (D.C. Official Code § 1-610.55(3)) is amended by striking the period and inserting the phrase "; provided, that the Chancellor of the District of Columbia Public Schools Antwan Wilson and his immediate family may be provided a reasonable temporary housing allowance for a period not to exceed 90 days." in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-610.55" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-610.55">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-637" path="§2|(b)">§ 2(b) of Chancellor of the District of Columbia Public Schools Salary and Benefits Authorization Emergency Amendment Act of 2016 (D.C. Act 21-637, Jan. 24, 2017, 64 DCR 923)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-610.55" codified:doc="D.C. Code" codified:path="§1-610.55" codified:display="Note"/>
     </para>
   </section>
   <section>

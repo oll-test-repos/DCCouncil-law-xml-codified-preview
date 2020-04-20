@@ -45,7 +45,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§7-242" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-242">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-41" path="§2">§ 2 of Criminal Justice Coordinating Council Information Sharing Temporary Amendment Act of 2019 (D.C. Law 23-41, Jan. 10, 2020, 66 DCR 13139)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§7-242" codified:doc="D.C. Code" codified:path="§7-242" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -69,7 +69,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§7-1203.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1203.02">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-41" path="§3">§ 3 of Criminal Justice Coordinating Council Information Sharing Temporary Amendment Act of 2019 (D.C. Law 23-41, Jan. 10, 2020, 66 DCR 13139)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§7-1203.02" codified:doc="D.C. Code" codified:path="§7-1203.02" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
@@ -349,7 +349,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§22-4234" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-4234">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-41" path="§4">§ 4 of Criminal Justice Coordinating Council Information Sharing Temporary Amendment Act of 2019 (D.C. Law 23-41, Jan. 10, 2020, 66 DCR 13139)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§22-4234" codified:doc="D.C. Code" codified:path="§22-4234" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>
@@ -361,7 +361,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§24-403.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§24-403.03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-41" path="§5">§ 5 of Criminal Justice Coordinating Council Information Sharing Temporary Amendment Act of 2019 (D.C. Law 23-41, Jan. 10, 2020, 66 DCR 13139)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§24-403.03" codified:doc="D.C. Code" codified:path="§24-403.03" codified:display="Note"/>
   </section>
   <section>
     <num>6</num>

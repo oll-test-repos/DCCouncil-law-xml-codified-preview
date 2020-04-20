@@ -42,7 +42,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-751.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-751.01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 21-245" path="§2|(a)">§ 2(a) of Medical Respite Services Exemption Temporary Amendment Act of 2017 (D.C. Law 21-245, Apr. 7, 2017, 64 DCR 1618)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§4-751.01" codified:doc="D.C. Code" codified:path="§4-751.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -54,7 +54,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-754.33" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-754.33">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 21-245" path="§2|(b)">§ 2(b) of Medical Respite Services Exemption Temporary Amendment Act of 2017 (D.C. Law 21-245, Apr. 7, 2017, 64 DCR 1618)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§4-754.33" codified:doc="D.C. Code" codified:path="§4-754.33" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>

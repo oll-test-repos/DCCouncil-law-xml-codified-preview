@@ -55,7 +55,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-611.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-611.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-420" path="§2">§ 2 of Metropolitan Police Department Officer Retention and Recruitment Incentives Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-420, June 23, 2016, 63 DCR 9008)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-611.03" codified:doc="D.C. Code" codified:path="§1-611.03" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -72,7 +72,7 @@
       <num>(c)</num>
       <text>Paragraph (3) is amended by striking the phrase "5 years" and inserting the phrase "3 years" in its place.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-107.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-107.01">For temporary (90 days) , see <cite doc="D.C. Act 21-420" path="§3">§ 3 of Metropolitan Police Department Officer Retention and Recruitment Incentives Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-420, June 23, 2016, 63 DCR 9008)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§5-107.01" action="" codified:doc="D.C. Code" codified:path="§5-107.01" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

@@ -61,7 +61,7 @@
       <num>(e)</num>
       <text>The final report shall be delivered to the Office of Zoning, which shall make the report public, and the Zoning Commission for the District of Columbia not later than September 1, 2019.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§6-621.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§6-621.01">For temporary (90 days) requirement that on or before July 15, 2019, the Office of Zoning enter into a contract for a short-term rental analysis report for use by the Zoning Commission for the District of Columbia, see <cite doc="D.C. Act 23-72" path="§2">§ 2 of Short-Term Rental Independent Analysis Emergency Act of 2019 (D.C. Act 23-72, July 4, 2019, 66 DCR 8065)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§6-621.01" action="requirement that on or before July 15, 2019, the Office of Zoning enter into a contract for a short-term rental analysis report for use by the Zoning Commission for the District of Columbia" codified:doc="D.C. Code" codified:path="§6-621.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

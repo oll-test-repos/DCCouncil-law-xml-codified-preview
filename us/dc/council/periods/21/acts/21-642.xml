@@ -24,12 +24,12 @@
     <para>
       <num>(a)</num>
       <text>Section 3(24)(B) (D.C. Official Code § 2-1215.02(24)(B)) is amended by striking the phrase "and Capitol Riverfront BIDs," and inserting the phrase "Capitol Riverfront, and Downtown BIDs," in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1215.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1215.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-642" path="§2|(a)">§ 2(a) of Downtown Business Improvement District Emergency Amendment Act of 2016 (D.C. Act 21-642, Jan. 25, 2017, 64 DCR 935)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-1215.02" codified:doc="D.C. Code" codified:path="§2-1215.02" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 10b(a)(1) (D.C. Official Code § 2-1215.09b(a)(1)) is amended by striking the phrase "the BID;" and inserting the phrase "the BID or the board of directors of any condominium association on behalf of a real property within the geographic boundaries of the Downtown BID petition to join the Downtown BID;" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1215.09b" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1215.09b">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-642" path="§2|(b)">§ 2(b) of Downtown Business Improvement District Emergency Amendment Act of 2016 (D.C. Act 21-642, Jan. 25, 2017, 64 DCR 935)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-1215.09b" codified:doc="D.C. Code" codified:path="§2-1215.09b" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -53,7 +53,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1215.51" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1215.51">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-642" path="§2|(c)">§ 2(c) of Downtown Business Improvement District Emergency Amendment Act of 2016 (D.C. Act 21-642, Jan. 25, 2017, 64 DCR 935)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-1215.51" codified:doc="D.C. Code" codified:path="§2-1215.51" codified:display="Note"/>
     </para>
   </section>
   <section>

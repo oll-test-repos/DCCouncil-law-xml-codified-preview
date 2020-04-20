@@ -39,7 +39,7 @@
         <replace>$25,000 in money or property, adjusted once a year on October 1, in accordance with the consumer price index for the Washington-Baltimore Metropolitan Statistical Area, or any successor index, as published by the United States Department of Labor, Bureau of Labor Statistics, or any successor agency</replace>
       </codify:find-replace>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-1703|(d)">Applicability of <cite doc="D.C. Law 21-202" path="">D.C. Law 21-202</cite>: <cite doc="D.C. Law 21-202" path="§3">§ 3 of D.C. Law 21-202</cite> provided that the change made to this section by <cite doc="D.C. Law 21-202" path="§2">§ 2 of D.C. Law 21-202</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§44-1703|(d)" codified:display="Note"/>
   </section>
   <section>
     <codify:ignore/>
@@ -66,11 +66,28 @@
     </para>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7019" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>Section 2 shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 21-202" path="§2" date="pending" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>5</num>

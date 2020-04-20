@@ -776,7 +776,7 @@
       <num>(i)</num>
       <text>An individual who holds a commission as a notary public may apply to the Mayor for an endorsement as an electronic notary. The applicant shall comply with and provide the information required by rules issued by the Mayor and pay an application fee for such endorsement.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1231.19" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1231.19">Applicability of <cite doc="D.C. Law 22-189" path="">D.C. Law 22-189</cite>: <cite doc="D.C. Law 22-189" path="§35">§ 35 of D.C. Law 22-189</cite> provided that the creation of subsection (i) of this section by <cite doc="D.C. Law 22-189" path="§20">§ 20 of D.C. Law 22-189</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-1231.19" applicability-path="§35" action="creation of subsection (i) of" codified:doc="D.C. Code" codified:path="§1-1231.19" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="1|12A" num-value="1-1231.20" codified:doc="D.C. Code" codified:path="§1-1231.20"/>
@@ -794,7 +794,7 @@
       <num>(c)</num>
       <text>Before a notary public holding an endorsement as an electronic notary performs the notary's initial notarial act with respect to an electronic record, the notary shall complete a training course provided by the Mayor, shall take the oath prescribed for civil officers in the District of Columbia, identify the tamper-evident technologies the electronic notary intends to use, and file an exemplar of the electronic notary's electronic signature and official seal. If the Mayor has issued rules establishing standards for approval of technology pursuant to <code-cite doc="D.C. Code" path="§1-1231.31">section 32</code-cite>, the technology shall conform to the prescribed standards. If the technology conforms to the standards, the Mayor shall approve the use of the technology.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1231.20" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1231.20">Applicability of <cite doc="D.C. Law 22-189" path="">D.C. Law 22-189</cite>: <cite doc="D.C. Law 22-189" path="§35">§ 35 of D.C. Law 22-189</cite> provided that the creation of this section by <cite doc="D.C. Law 22-189" path="§21">§ 21 of D.C. Law 22-189</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-1231.20" applicability-path="§35" action="creation of" codified:doc="D.C. Code" codified:path="§1-1231.20" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="1|12A" num-value="1-1231.21" codified:doc="D.C. Code" codified:path="§1-1231.21"/>
@@ -808,7 +808,7 @@
       <num>(b)</num>
       <text>The Mayor shall establish courses of study for notary publics and applicants for endorsement as electronic notaries. Trainings shall cover laws, rules, procedures, and ethics relevant to notarial acts.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1231.21" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1231.21">Applicability of <cite doc="D.C. Law 22-189" path="">D.C. Law 22-189</cite>: <cite doc="D.C. Law 22-189" path="§35">§ 35 of D.C. Law 22-189</cite> provided that the creation of subsection (b) of this section by <cite doc="D.C. Law 22-189" path="§22">§ 22 of D.C. Law 22-189</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-1231.21" applicability-path="§35" action="creation of subsection (b) of" codified:doc="D.C. Code" codified:path="§1-1231.21" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="1|12A" num-value="1-1231.22" codified:doc="D.C. Code" codified:path="§1-1231.22"/>
@@ -1089,11 +1089,38 @@
     </para>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>35</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7153" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>Sections 20(i), 21, and 22(b) shall apply upon the date of inclusion of each provision's fiscal effect in an approved budget and financial plan.</text>
+      <codify:repeal doc="D.C. Code" path="§1-1231.19|(i)"/>
+      <codify:find-replace doc="D.C. Code" path="§1-1231.19|(i)" count="1">
+        <find>Repealed</find>
+        <replace>Not Funded</replace>
+      </codify:find-replace>
+      <codify:applicability doc="D.C. Law 22-189" path="§21" date="notfunded" history="false"/>
+      <codify:repeal doc="D.C. Code" path="§1-1231.21|(b)"/>
+      <codify:find-replace doc="D.C. Code" path="§1-1231.21|(b)" count="1">
+        <find>Repealed</find>
+        <replace>Not Funded</replace>
+      </codify:find-replace>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of sections 20(i), 21, and 22(b).</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>36</num>

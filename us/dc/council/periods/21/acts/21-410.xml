@@ -46,7 +46,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-201" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-201">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-410" path="§2|(a)">§ 2(a) of School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016, 63 DCR 8202)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-201" codified:doc="D.C. Code" codified:path="§38-201" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -59,7 +59,7 @@
         <num>(2)</num>
         <text>Subsection (d) is amended by striking the phrase "to govern the validity of applications for permission to be absent from school,".</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-202" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-202">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-410" path="§2|(b)">§ 2(b) of School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016, 63 DCR 8202)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-202" codified:doc="D.C. Code" codified:path="§38-202" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -121,7 +121,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-203" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-203">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-410" path="§2|(c)">§ 2(c) of School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016, 63 DCR 8202)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-203" codified:doc="D.C. Code" codified:path="§38-203" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -134,7 +134,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-205" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-205">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-410" path="§2|(d)">§ 2(d) of School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016, 63 DCR 8202)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-205" codified:doc="D.C. Code" codified:path="§38-205" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
@@ -157,7 +157,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-207" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-207">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-410" path="§2|(e)">§ 2(e) of School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016, 63 DCR 8202)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-207" codified:doc="D.C. Code" codified:path="§38-207" codified:display="Note"/>
     </para>
     <para>
       <num>(f)</num>
@@ -224,7 +224,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-208" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-208">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-410" path="§2|(f)">§ 2(f) of School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016, 63 DCR 8202)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-208" codified:doc="D.C. Code" codified:path="§38-208" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -253,7 +253,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-1802.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-1802.06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-410" path="§3">§ 3 of School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016, 63 DCR 8202)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§38-1802.06" codified:doc="D.C. Code" codified:path="§38-1802.06" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

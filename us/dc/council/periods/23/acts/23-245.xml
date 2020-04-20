@@ -100,7 +100,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2501.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2501.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-245" path="§2|(a)">§ 2(a) of Ghost Guns Prohibition Emergency Amendment Act of 2020 (D.C. Act 23-245, Mar. 11, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2501.01" codified:doc="D.C. Code" codified:path="§7-2501.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -124,12 +124,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2502.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2502.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-245" path="§2|(b)">§ 2(b) of Ghost Guns Prohibition Emergency Amendment Act of 2020 (D.C. Act 23-245, Mar. 11, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2502.02" codified:doc="D.C. Code" codified:path="§7-2502.02" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 501 (D.C. Official Code § 7-2505.01) is amended by striking the phrase "destructive device" and inserting the phrase "destructive device, ghost gun, unfinished frame or receiver," in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2505.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2505.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-245" path="§2|(c)">§ 2(c) of Ghost Guns Prohibition Emergency Amendment Act of 2020 (D.C. Act 23-245, Mar. 11, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-2505.01" codified:doc="D.C. Code" codified:path="§7-2505.01" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -145,12 +145,12 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-4501" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-4501">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-245" path="§3|(a)">§ 3(a) of Ghost Guns Prohibition Emergency Amendment Act of 2020 (D.C. Act 23-245, Mar. 11, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§22-4501" codified:doc="D.C. Code" codified:path="§22-4501" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 14(a) (D.C. Official Code § 22-4514(a)) is amended by striking the phrase "bump stock, knuckles" both times it appears and inserting the phrase "bump stock, ghost gun, knuckles" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-4514" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-4514">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-245" path="§3|(b)">§ 3(b) of Ghost Guns Prohibition Emergency Amendment Act of 2020 (D.C. Act 23-245, Mar. 11, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§22-4514" codified:doc="D.C. Code" codified:path="§22-4514" codified:display="Note"/>
     </para>
   </section>
   <section>

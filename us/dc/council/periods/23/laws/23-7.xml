@@ -82,7 +82,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-218.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-218.02">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-7" path="§2|(b)">§ 2(b) of Small and Certified Business Enterprise Development and Assistance Temporary Amendment Act of 2019 (D.C. Law 23-7, June 4, 2019, 66 DCR 5250)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§2-218.02" codified:doc="D.C. Code" codified:path="§2-218.02" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -117,7 +117,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-218.15" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-218.15">For temporary (225 days) creation of § 2-218.16, see <cite doc="D.C. Law 23-7" path="§2|(c)">§ 2(c) of Small and Certified Business Enterprise Development and Assistance Temporary Amendment Act of 2019 (D.C. Law 23-7, June 4, 2019, 66 DCR 5250)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§2-218.15" action="creation of § 2-218.16" codified:doc="D.C. Code" codified:path="§2-218.15" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -140,14 +140,14 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-218.75" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-218.75">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-7" path="§2|(d)|(3)">§ 2(d)(3) of Small and Certified Business Enterprise Development and Assistance Temporary Amendment Act of 2019 (D.C. Law 23-7, June 4, 2019, 66 DCR 5250)</cite>.</codify:annotation>
+        <codify:temporary doc="D.C. Code" path="§2-218.75" codified:doc="D.C. Code" codified:path="§2-218.75" codified:display="Note"/>
       </para>
     </para>
   </section>
   <section>
     <num>3</num>
     <text>Section 3(b) of the District of Columbia Uniform Law Commission Act of 2010, effective March 12, 2011 (D.C. Law 18-313; D.C. Official Code § 3-1432(b)), is amended by striking the phrase "District of Columbia Bar." and inserting the phrase "District of Columbia Bar; provided, that the commissioner appointed by the Council of the District of Columbia pursuant to subsection (a)(2) of this section need not be a member in good standing of the District of Columbia Bar if he or she is a member in good standing of any state Bar." in its place.</text>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§3-1432" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-1432">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-7" path="§3">§ 3 of Small and Certified Business Enterprise Development and Assistance Temporary Amendment Act of 2019 (D.C. Law 23-7, June 4, 2019, 66 DCR 5250)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§3-1432" codified:doc="D.C. Code" codified:path="§3-1432" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

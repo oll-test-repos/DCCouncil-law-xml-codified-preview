@@ -23,7 +23,7 @@
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>APPRAISAL MANAGEMENT COMPANY REGULATIONS</heading>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§31-2351.13" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§31-2351.13">For temporary (90 days) creation of Subtitle II-B of this title, see <cite doc="D.C. Act 23-110" path="I">title I of Appraisal Management Company Regulation Emergency Act of 2019 (D.C. Act 23-110, July 31, 2019, 66 DCR 178)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§31-2351.13" action="creation of Subtitle II-B of this title" codified:doc="D.C. Code" codified:path="§31-2351.13" codified:display="Note"/>
     <section>
       <num>101</num>
       <heading>Definitions.</heading>

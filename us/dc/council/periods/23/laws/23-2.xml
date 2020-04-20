@@ -29,12 +29,12 @@
     <para>
       <num>(a)</num>
       <text>Section 203c (D.C. Official Code § 42-3502.03e) is redesignated as section 203e.</text>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3502.03e" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.03e">For temporary (225 days) redesignation of this section, see <cite doc="D.C. Law 23-2" path="§2|(a)">§ 2(a) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3502.03e" action="redesignation of this section" codified:doc="D.C. Code" codified:path="§42-3502.03e" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>The second section 203a (D.C. Official Code § 42-3502.03c) is redesignated as section 203c.</text>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3502.03c" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.03c">For temporary (225 days) redesignation of this section, see <cite doc="D.C. Law 23-2" path="§2|(b)">§ 2(b) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3502.03c" action="redesignation of this section" codified:doc="D.C. Code" codified:path="§42-3502.03c" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -57,12 +57,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3502.03c" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.03c">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-2" path="§2|(c)">§ 2(c) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3502.03c" codified:doc="D.C. Code" codified:path="§42-3502.03c" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
       <text>The second section 203b (D.C. Official Code § 42-3502.03d) is redesignated as 203d.</text>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3502.03d" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.03d">For temporary (225 days) redesignation of this section, see <cite doc="D.C. Law 23-2" path="§2|(d)">§ 2(d) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3502.03d" action="redesignation of this section" codified:doc="D.C. Code" codified:path="§42-3502.03d" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
@@ -79,7 +79,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3502.03d" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.03d">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-2" path="§2|(e)">§ 2(e) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3502.03d" codified:doc="D.C. Code" codified:path="§42-3502.03d" codified:display="Note"/>
     </para>
     <para>
       <num>(f)</num>
@@ -122,7 +122,7 @@
           <text>Subparagraph (B)(i) is amended by striking the phrase "Beginning 241 days after October 30, 2018" and inserting the phrase "Beginning 91 days after completion of the publicly accessible rent control housing database created pursuant to section 203c" in its place.</text>
         </para>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3502.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-2" path="§2|(f)">§ 2(f) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3502.05" codified:doc="D.C. Code" codified:path="§42-3502.05" codified:display="Note"/>
     </para>
   </section>
   <section>

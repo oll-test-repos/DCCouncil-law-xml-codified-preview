@@ -51,7 +51,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-351.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-351.05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-204" path="§2">§ 2 of Department of Health Care Finance Independent Procurement Authority Emergency Amendment Act of 2017 (D.C. Act 22-204, Dec. 13, 2017, 64 DCR 12559)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-351.05" codified:doc="D.C. Code" codified:path="§2-351.05" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -63,7 +63,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-218.51" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-218.51">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-204" path="§3">§ 3 of Department of Health Care Finance Independent Procurement Authority Emergency Amendment Act of 2017 (D.C. Act 22-204, Dec. 13, 2017, 64 DCR 12559)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-218.51" codified:doc="D.C. Code" codified:path="§2-218.51" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

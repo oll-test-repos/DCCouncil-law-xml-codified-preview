@@ -29,7 +29,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1302.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-1302.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-509" path="§2">§ 2 of Prevention of Child Abuse and Neglect Emergency Amendment Act of 2018 (D.C. Act 22-509, Oct. 31, 2018, 65 DCR 12373)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§4-1302.03" codified:doc="D.C. Code" codified:path="§4-1302.03" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

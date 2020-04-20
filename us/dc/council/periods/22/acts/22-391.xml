@@ -32,7 +32,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-301.86b" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-301.86b">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-391" path="§2|(a)">§ 2(a) of Attorney General Limited Grant-Making Authority Emergency Amendment Act of 2018 (D.C. Act 22-391, June 27, 2018, 65 DCR 7144)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-301.86b" codified:doc="D.C. Code" codified:path="§1-301.86b" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>

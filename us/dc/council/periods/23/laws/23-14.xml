@@ -32,7 +32,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-1215.56" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1215.56">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-14" path="§2">§ 2 of Adams Morgan Business Improvement District Temporary Amendment Act of 2019 (D.C. Law 23-14, Aug. 24, 2019, 66 DCR 8063)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§2-1215.56" codified:doc="D.C. Code" codified:path="§2-1215.56" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

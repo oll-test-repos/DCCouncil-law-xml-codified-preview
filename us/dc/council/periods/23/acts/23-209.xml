@@ -37,7 +37,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§44-407" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-407">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-209" path="§2">§ 2 of Children and Youth Vision Screening Emergency Amendment Act of 2020 (D.C. Act 23-209, Jan. 28, 2020, 67 DCR 1100)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§44-407" codified:doc="D.C. Code" codified:path="§44-407" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

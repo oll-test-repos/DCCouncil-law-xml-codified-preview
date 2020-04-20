@@ -49,9 +49,7 @@
         <text>"Long-term care services" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§7-701.01|(7A)">section 101(7A) of the District of Columbia Long-Term Care Ombudsman Program Act of 1988, effective March 16, 1989 (D.C. Law 7-218; D.C. Official Code § 7-701.01(7A))</code-cite>.</text>
       </para>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-238" path="§2" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-681">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§2">§ 2 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation type="Applicability" doc="D.C. Law 22-238" path="§2" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§2">§ 2 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-238" eff="2019-03-13" path="§2" type="History"/>
+    <codify:not-funded-anno doc="D.C. Law 22-238" path="§2" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-681" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="7|6D" num-value="7-682" codified:doc="D.C. Code" codified:path="§7-682"/>
@@ -97,16 +95,31 @@
       <num>(b)</num>
       <text>By February 1, 2019, the Department shall submit the study required pursuant to subsection (a) of this section to the Council.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-238" path="§3" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-682">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§3">§ 3 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation type="Applicability" doc="D.C. Law 22-238" path="§3" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§3">§ 3 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-238" eff="2019-03-13" path="§3" type="History"/>
+    <codify:not-funded-anno doc="D.C. Law 22-238" path="§3" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-682" codified:display="Note"/>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7159" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 22-238" date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>5</num>

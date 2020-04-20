@@ -28,7 +28,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-610.52" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-610.52">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-365" path="§2">§ 2 of Director of the Homeland Security and Emergency Management Agency Salary Approval Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-365, Apr. 26, 2016, 63 DCR 6838)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-610.52" codified:doc="D.C. Code" codified:path="§1-610.52" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

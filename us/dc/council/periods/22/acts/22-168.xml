@@ -51,7 +51,7 @@
         <text>The term of each initial appointment shall not commence until the date by which each of the Mayor's 2 appointees has been confirmed by the Council and the Council's appointment has become effective by publication in the District of Columbia Register.</text>
       </para>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.11" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-168" path="§2">§ 2 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2017 (D.C. Act 22-168, Oct. 24, 2017, 64 DCR 10927)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§9-1109.11" codified:doc="D.C. Code" codified:path="§9-1109.11" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -75,7 +75,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-523.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-523.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-168" path="§3">§ 3 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2017 (D.C. Act 22-168, Oct. 24, 2017, 64 DCR 10927)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-523.01" codified:doc="D.C. Code" codified:path="§1-523.01" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

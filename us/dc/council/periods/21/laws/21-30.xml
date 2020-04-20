@@ -62,7 +62,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-30" codified:display="Note">Applicability of <cite doc="D.C. Law 21-30" path="">D.C. Law 21-30</cite>: <cite doc="D.C. Law 21-30" path="§4">§ 4 of D.C. Law 21-30</cite> provided that the creation of this section by <cite doc="D.C. Law 21-30" path="§2">§ 2 of D.C. Law 21-30</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Law 22-30" applicability-path="§4" action="creation of"/>
   </section>
   <section>
     <num>3</num>

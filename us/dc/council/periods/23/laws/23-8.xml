@@ -36,12 +36,12 @@
         <num>(2)</num>
         <text>Subsection (b)(1) is amended by striking the phrase "3rd Tuesday" and inserting the phrase "1st Tuesday" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§1-1001.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.05">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-8" path="§2|(a)">§ 2(a) of Primary Date Alteration Temporary Amendment Act of 2019 (D.C. Law 23-8, Aug. 6, 2019, 66 DCR 7343)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§1-1001.05" codified:doc="D.C. Code" codified:path="§1-1001.05" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 9(b-1)(2) (D.C. Official Code § 1-1001.09(b-1)(2)) is amended by striking the number "10" and inserting the number "12" in its place.</text>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§1-1001.09" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-8" path="§2|(b)">§ 2(b) of Primary Date Alteration Temporary Amendment Act of 2019 (D.C. Law 23-8, Aug. 6, 2019, 66 DCR 7343)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§1-1001.09" codified:doc="D.C. Code" codified:path="§1-1001.09" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -62,7 +62,7 @@
           <text>Subparagraph (B) is amended by striking the phrase "3rd Tuesday in June of each even-numbered year" and inserting the phrase "1st Tuesday in June in a presidential election year and on the 3rd Tuesday in June of each even-numbered non-presidential election year" in its place.</text>
         </para>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§1-1001.10" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.10">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-8" path="§2|(c)">§ 2(c) of Primary Date Alteration Temporary Amendment Act of 2019 (D.C. Law 23-8, Aug. 6, 2019, 66 DCR 7343)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§1-1001.10" codified:doc="D.C. Code" codified:path="§1-1001.10" codified:display="Note"/>
     </para>
   </section>
   <section>

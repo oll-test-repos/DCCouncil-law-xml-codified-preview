@@ -310,7 +310,7 @@
         <text>Subsection (f) is repealed.</text>
         <codify:repeal path="(f)" codified:doc="D.C. Code" codified:path="§42-3502.06|(f)"/>
         <codify:find-replace doc="D.C. Law 6-10" path="§205|(a)|(1)" count="1" technical="true" codified:doc="D.C. Code" codified:path="§42-3502.05|(a)|(1)">
-          <find><code-cite path="§206|(f)|(2)|(A)" doc="D.C. Law 21-239">section 206(f)(2)(A)</code-cite>, or co-leased by a home and community-based services waiver provider and occupied by a tenant with a disability without regard to income but otherwise as defined in <code-cite path="§206|(f)|(2)|(A)" doc="D.C. Law 21-239">section 206(f)(2)(A)</code-cite></find>
+          <find><code-cite path="§206|(f)|(2)|(A)">section 206(f)(2)(A)</code-cite>, or co-leased by a home and community-based services waiver provider and occupied by a tenant with a disability without regard to income but otherwise as defined in <code-cite path="§206|(f)|(2)|(A)">section 206(f)(2)(A)</code-cite></find>
           <replace>section 206(f)(2)(A)<span codify:value=" [(f) repealed]"/>, or co-leased by a home and community-based services waiver provider and occupied by a tenant with a disability without regard to income but otherwise as defined in section 206(f)(2)(A)<span codify:value=" [(f) repealed]"/></replace>
         </codify:find-replace>
       </para>
@@ -637,7 +637,7 @@
             <num>(j)</num>
             <text>The Mayor may determine the term of eligibility and recertification requirements for the exemptions provided by this section.</text>
           </para>
-          <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§42-3502.24" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.24">Applicability of <cite doc="D.C. Law 21-239" path="">D.C. Law 21-239</cite>: <cite doc="D.C. Law 21-239" path="§4">§ 4 of D.C. Law 21-239</cite> provided that the creation of subsection (b) of this section by <cite doc="D.C. Law 21-239" path="§3|(g)">§ 3(g) of D.C. Law 21-239</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+          <codify:not-funded-anno doc="D.C. Code" path="§42-3502.24" applicability-path="§4" action="creation of subsection (b) of" codified:doc="D.C. Code" codified:path="§42-3502.24" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -669,11 +669,32 @@
     </para>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7017" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>The new section 224(b) of the Rental Housing Act of 1985, within section 3(g), shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:repeal doc="D.C. Code" path="§42-3502.24|(b)" history="false"/>
+      <codify:find-replace doc="D.C. Code" path="§42-3502.24|(b)" count="1">
+        <find>Repealed</find>
+        <replace>[Not Funded]</replace>
+      </codify:find-replace>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>5</num>

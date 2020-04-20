@@ -39,7 +39,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-2503" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2503">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-196" path="§2">§ 2 of Government Employer-Assisted Housing Emergency Amendment Act of 2017 (D.C. Act 22-196, Nov. 29, 2017, 64 DCR 12409)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§42-2503" codified:doc="D.C. Code" codified:path="§42-2503" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

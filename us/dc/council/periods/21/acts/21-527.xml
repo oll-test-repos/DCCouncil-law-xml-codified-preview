@@ -39,7 +39,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-651.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-651.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-527" path="§2|(a)">§ 2(a) of Access to Emergency Epinephrine in Schools Clarification Emergency Amendment Act of 2016 (D.C. Act 21-527, Oct. 31, 2016, 63 DCR 13609)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-651.01" codified:doc="D.C. Code" codified:path="§38-651.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -59,7 +59,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-651.04a" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-651.04a">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-527" path="§2|(b)">§ 2(b) of Access to Emergency Epinephrine in Schools Clarification Emergency Amendment Act of 2016 (D.C. Act 21-527, Oct. 31, 2016, 63 DCR 13609)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§38-651.04a" codified:doc="D.C. Code" codified:path="§38-651.04a" codified:display="Note"/>
     </para>
   </section>
   <section>

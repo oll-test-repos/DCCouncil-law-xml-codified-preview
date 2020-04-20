@@ -25,15 +25,14 @@
   <section codify:doc="D.C. Code">
     <num>2</num>
     <text>The District of Columbia Traffic Adjudication Act of 1978, effective September 12, 1978 (D.C. Law 2-104; D.C. Official Code § 50-2301.01 <em>et seq</em>.), is amended as follows:</text>
-    <para codify:path="§50-2301.05|(a)|(2)|(A)" codify:applicability="notfunded">
+    <para codify:path="§50-2301.05|(a)|(2)|(A)">
       <num>(a)</num>
       <text>Section 105(a)(2)(A) (D.C. Official Code § 50-2301.05(a)(2)(A)) is amended by striking the phrase "sections 205(d)(1) and 305(d)(1)" and inserting the phrase "section 205(d) or section 305(d)(1)" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2301.05|(a)|(2)|(A)">
         <find>§§ <cite path="§50-2302.05|(d)|(1)" proof="true">50-2302.05(d)(1)</cite> and <cite path="§50-2303.05|(d)|(1)">50-2303.05(d)(1)</cite></find>
         <replace><cite path="§50-2302.05|(d)">§ 50-2302.05(d)</cite> or <cite path="§50-2303.05|(d)|(1)">§ 50-2303.05(d)(1)</cite></replace>
       </codify:find-replace>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2301.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2301.05">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the change made to this section by <cite doc="D.C. Law 22-175" path="§2|(a)">§ 2(a) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(1)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2301.05" display-template="" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2301.05" codified:display="Note"/>
     </para>
     <para codify:path="§50-2302.04">
       <num>(b)</num>
@@ -43,7 +42,7 @@
         <text>Subsection (c) is repealed.</text>
         <codify:repeal codified:doc="D.C. Code" codified:path="§50-2302.04|(c)"/>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(2)</num>
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
@@ -77,14 +76,13 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(2)" type="History" display="false"/>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2302.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2302.04">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the change made to this section by <cite doc="D.C. Law 22-175" path="§2|(b)">§ 2(b) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2302.04" display-template="" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2302.04" codified:display="Note"/>
     </para>
     <para codify:path="§50-2302.05">
       <num>(c)</num>
       <text>Section 205 (D.C. Official Code § 50-2302.05) is amended as follows:</text>
-      <para codify:path="(d)" codify:applicability="notfunded">
+      <para codify:path="(d)">
         <num>(1)</num>
         <text>Subsection (d) is amended to read as follows:</text>
         <include>
@@ -102,19 +100,17 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(3)" type="History" display="false"/>
       </para>
       <para codify:path="(e)">
         <num>(2)</num>
         <text>Subsection (e) is amended as follows:</text>
-        <para codify:applicability="notfunded">
+        <para>
           <num>(A)</num>
           <text>Strike the phrase "If a person" and insert the phrase "Except for notices of infraction that were detected by an automated traffic enforcement system pursuant to section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01), if a person" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)">
             <find>If a person</find>
             <replace>Except for notices of infraction that were detected by an automated traffic enforcement system pursuant to <code-cite doc="D.C. Code" path="§50-2209.01">section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01)</code-cite>, if a person</replace>
           </codify:find-replace>
-          <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(3)" type="History" display="false"/>
         </para>
         <para>
           <num>(B)</num>
@@ -125,7 +121,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(3)</num>
         <text>A new subsection (e-1) is added to read as follows:</text>
         <include>
@@ -136,7 +132,6 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(3)" type="History" display="false"/>
       </para>
       <para codify:path="(f)">
         <num>(4)</num>
@@ -149,14 +144,13 @@
             <replace>.</replace>
           </codify:find-replace>
         </para>
-        <para codify:applicability="notfunded">
+        <para>
           <num>(B)</num>
           <text>Strike the phrase "For holders" and insert the phrase "For a notice of infraction that was detected by an automated traffic enforcement system pursuant to section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01), in addition to the notice required by the preceding sentence, if the notice of infraction remains unanswered, not more than 100 days after the date the notice is issued, the Director shall send by regular mail addressed to the person's address on the Department of Motor Vehicle's records notice of the outstanding notice of infraction and the effective date of the deemed admission. For holders" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)">
             <find>For holders</find>
             <replace>For a notice of infraction that was detected by an automated traffic enforcement system pursuant to <code-cite doc="D.C. Code" path="§50-2209.01">section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01)</code-cite>, in addition to the notice required by the preceding sentence, if the notice of infraction remains unanswered, not more than 100 days after the date the notice is issued, the Director shall send by regular mail addressed to the person's address on the Department of Motor Vehicle's records notice of the outstanding notice of infraction and the effective date of the deemed admission. For holders</replace>
           </codify:find-replace>
-          <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(3)" type="History" display="false"/>
         </para>
       </para>
       <para codify:path="(g)">
@@ -184,7 +178,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2302.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2302.05">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the change made to this section by <cite doc="D.C. Law 22-175" path="§2|(c)">§ 2(c) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2302.05" display-template="" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2302.05" codified:display="Note"/>
     </para>
     <para codify:path="§50-2302.06">
       <num>(d)</num>
@@ -232,7 +226,7 @@
           <heading>Restriction on collecting fines after 10 years.</heading>
           <text>If a civil fine or penalty resulting from a notice of infraction adjudicated pursuant to the provisions of <code-cite doc="D.C. Code" path="50|23|II">this title</code-cite> remains unpaid 10 years after the notice is issued, the infraction shall be dismissed and any assessed civil fine or penalty shall be vacated and shall not be collected.</text>
           <annotation doc="D.C. Law 2-104" type="History" path="§207">Sept. 12, 1978, D.C. Law 2-104, § 207</annotation>
-          <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2302.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2302.07">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the creation of this section by <cite doc="D.C. Law 22-175" path="§2|(e)">§ 2(e) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+          <codify:not-funded-anno doc="D.C. Code" path="§50-2302.07" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:display="Note"/>
         </section>
         <section>
           <codify:insert path="50|23|II" after="§50-2302.07" num-value="50-2302.08" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2302.08"/>
@@ -244,7 +238,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para codify:path="§50-2303.04|(c)" codify:applicability="notfunded">
+    <para codify:path="§50-2303.04|(c)">
       <num>(f)</num>
       <text>Section 304(c) (D.C. Official Code § 50-2303.04(c)) is amended as follows:</text>
       <para>
@@ -263,10 +257,9 @@
           <replace>120 days</replace>
         </codify:find-replace>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2303.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2303.04">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the change made to this section by <cite doc="D.C. Law 22-175" path="§2|(f)">§ 2(f) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(5)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.04" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§50-2303.04" codified:display="Note"/>
     </para>
-    <para codify:path="§50-2303.05|(d)" codify:applicability="notfunded">
+    <para codify:path="§50-2303.05|(d)">
       <num>(g)</num>
       <text>Section 305(d) (D.C. Official Code § 50-2303.05(d)) is amended as follows:</text>
       <para codify:path="(1)">
@@ -297,10 +290,9 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2303.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2303.05">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the change made to this section by <cite doc="D.C. Law 22-175" path="§2|(g)">§ 2(g) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(6)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.05" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§50-2303.05" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(h)</num>
       <text>A new section 309 is added to read as follows:</text>
       <include>
@@ -313,10 +305,9 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2303.09" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2303.09">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the creation of this section by <cite doc="D.C. Law 22-175" path="§2|(h)">§ 2(h) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(7)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.09" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§50-2303.09" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(i)</num>
       <text>A new Title III-B is added to read as follows:</text>
       <include>
@@ -382,12 +373,11 @@
               <num>(d)</num>
               <text>The Mayor, <code-cite doc="D.C. Code" path="2|5|I">pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of this section.</text>
             </para>
-            <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-2303.21" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2303.21">Applicability of <cite doc="D.C. Law 22-175" path="">D.C.Law 22-175</cite>: <cite doc="D.C. Law 22-175" path="§3">§ 3 of D.C.Law 22-175</cite> provided that the change made to this section by <cite doc="D.C. Law 22-175" path="§2|(i)">§ 2(i) of D.C.Law 22-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+            <codify:not-funded-anno doc="D.C. Code" path="§50-2303.21" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§50-2303.21" codified:display="Note"/>
           </section>
         </container>
       </include>
       <aftertext>.</aftertext>
-      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(8)" type="History" display="false"/>
     </para>
   </section>
   <section>

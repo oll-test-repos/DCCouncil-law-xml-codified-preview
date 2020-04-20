@@ -66,7 +66,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1161.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1161.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-641" path="§2|(a)">§ 2(a) of Council Financial Disclosure Emergency Amendment Act of 2016 (D.C. Act 21-641, Jan. 25, 2017, 64 DCR 931)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-1161.01" codified:doc="D.C. Code" codified:path="§1-1161.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -135,7 +135,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1162.24" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1162.24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-641" path="§2|(b)">§ 2(b) of Council Financial Disclosure Emergency Amendment Act of 2016 (D.C. Act 21-641, Jan. 25, 2017, 64 DCR 931)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-1162.24" codified:doc="D.C. Code" codified:path="§1-1162.24" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -170,7 +170,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-1162.25" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1162.25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-641" path="§2|(c)">§ 2(c) of Council Financial Disclosure Emergency Amendment Act of 2016 (D.C. Act 21-641, Jan. 25, 2017, 64 DCR 931)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-1162.25" codified:doc="D.C. Code" codified:path="§1-1162.25" codified:display="Note"/>
     </para>
   </section>
   <section>

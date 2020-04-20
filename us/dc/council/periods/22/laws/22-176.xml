@@ -22,7 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "East End Certificate of Need Maximum Fee Establishment Amendment Act of 2018".</text>
-  <section codify:applicability="notfunded">
+  <section>
     <num>2</num>
     <text>Section 21 of the Health Services Planning Program Re-Establishment Act of 1996, effective April 9, 1997 (D.C. Law 11-191; D.C. Official Code § 44-420), is amended by adding a new subsection (c) to read as follows:</text>
     <include>
@@ -48,8 +48,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-420" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-420">Applicability of <cite doc="D.C. Law 22-176" path="">D.C. Law 22-176</cite>: <cite doc="D.C. Law 22-176" path="§3">§ 3 of D.C. Law 22-176</cite> provided that the change made to this section by <cite doc="D.C. Law 22-176" path="§2">§ 2 of D.C. Law 22-176</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation app="2018-10-30" doc="D.C. Law 22-176" eff="2018-10-30" path="§3|(a)" type="History" display="false"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§44-420" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§44-420" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

@@ -711,7 +711,7 @@
             <text>The CPO shall promulgate rules, pursuant to <code-cite doc="D.C. Code" path="§2-361.06">section 1106</code-cite>, with detailed procedures to implement the provisions of this section.</text>
           </para>
           <aftertext>.</aftertext>
-          <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-352.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.05">Applicability of <cite doc="D.C. Law 21-158" path="">D.C. Law 21-158</cite>: <cite doc="D.C. Law 21-158" path="§5">§ 5 of D.C. Law 21-158</cite> provided that the modification of section 205(c)(3) of this section by <cite doc="D.C. Law 21-158" path="§3|(e)">§ 3(e) of D.C. Law 21-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+          <codify:not-funded-anno doc="D.C. Code" path="§2-352.05" applicability-path="§5" action="modification of section 205(c)(3) of" codified:doc="D.C. Code" codified:path="§2-352.05" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -870,7 +870,7 @@
           <annotations>
             <annotation doc="D.C. Law 18-371" type="History" path="§207">Apr. 8, 2011, D.C. Law 18-371, § 207</annotation>
           </annotations>
-          <codify:annotation applicability="effective" type="Applicability" path="§2-352.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.07">Applicability of <cite doc="D.C. Law 21-158" path="">D.C. Law 21-158</cite>: <cite doc="D.C. Law 21-158" path="§5">§ 5 of D.C. Law 21-158</cite> provided that the modification of section 207 of this section by <cite doc="D.C. Law 21-158" path="§3|(g)">§ 3(g) of D.C. Law 21-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+          <codify:not-funded-anno path="§2-352.07" applicability-path="§5" action="modification of section 207 of" codified:doc="D.C. Code" codified:path="§2-352.07" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -1140,7 +1140,7 @@
           <annotations>
             <annotation doc="D.C. Law 18-371" type="History" path="§606">Apr. 8, 2011, D.C. Law 18-371, § 606</annotation>
           </annotations>
-          <codify:annotation applicability="effective" type="Applicability" path="§2-356.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-356.06">Applicability of <cite doc="D.C. Law 21-158" path="">D.C. Law 21-158</cite>: <cite doc="D.C. Law 21-158" path="§5">§ 5 of D.C. Law 21-158</cite> provided that the addition of section 606 of this section by <cite doc="D.C. Law 21-158" path="§3|(m)">§ 3(m) of D.C. Law 21-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+          <codify:not-funded-anno path="§2-356.06" applicability-path="§5" action="addition of section 606 of" codified:doc="D.C. Code" codified:path="§2-356.06" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -1387,11 +1387,40 @@
     <aftertext>.</aftertext>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>5</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7017" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>Amendatory sections 205(c)(3), 207(a), and 606 of the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code § 2-351.01 
+        <em>et seq.</em>), within section 3(e), (g), and (m), respectively, each shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.
+      </text>
+      <codify:replace doc="D.C. Code" path="§2-352.05|(c)|(3)" history="false">
+        <para>
+          <num>(3)</num>
+          <text>[Not funded].</text>
+        </para>
+      </codify:replace>
+      <codify:repeal doc="D.C. Code" path="§2-352.07"/>
+      <codify:find-replace doc="D.C. Code" path="§2-352.07" count="2">
+        <find>Repealed</find>
+        <replace>Not funded</replace>
+      </codify:find-replace>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect for each provision specified in subsection (a) of this section in an approved budget and financial plan, and provide notice to the Budget Director of the Council of each certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of each certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of each certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>6</num>

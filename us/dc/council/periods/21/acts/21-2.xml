@@ -52,7 +52,7 @@
       <num>(b)</num>
       <text>Subparagraph (D-i) is repealed.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-301.115a" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-301.115a">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-2" path="§2">§ 2 of Inspector General Qualifications Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-2, Feb. 19, 2015, 62 DCR 2466)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-301.115a" codified:doc="D.C. Code" codified:path="§1-301.115a" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

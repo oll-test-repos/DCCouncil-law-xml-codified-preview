@@ -36,7 +36,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-610.61" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-610.61|(a)">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-88" path="§2">§ 2 of Leave and Retirement Modifications for Chief of Police Peter Newsham Emergency Amendment Act of 2017 (D.C. Act 22-88, June 28, 2017, 64 DCR 6239)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-610.61" codified:doc="D.C. Code" codified:path="§1-610.61|(a)" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -48,7 +48,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§5-712" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-712">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-88" path="§3">§ 3 of Leave and Retirement Modifications for Chief of Police Peter Newsham Emergency Amendment Act of 2017 (D.C. Act 22-88, June 28, 2017, 64 DCR 6239)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§5-712" codified:doc="D.C. Code" codified:path="§5-712" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

@@ -964,7 +964,7 @@
               <num>(A)</num>
               <text>The lead in language is amended by striking the phrase "sections 2a, 2b, 2c, 2d, 2e, and 3" and inserting the phrase "sections 2a, 2c, and 3" in its place.</text>
               <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1204.11|(b)">
-                <find><cite path="§2-1204.11a" doc="D.C. Law 23-16">2-1204.11a</cite>, <cite path="§2-1204.11b" doc="D.C. Law 23-16">2-1204.11b</cite>, <cite path="§2-1204.11c" doc="D.C. Law 23-16">2-1204.11c</cite>, <cite path="§2-1204.11d" doc="D.C. Law 23-16">2-1204.11d</cite>, <cite path="§2-1204.11e" doc="D.C. Law 23-16">2-1204.11e</cite>, and <cite path="§2-1204.12" doc="D.C. Law 23-16">2-1204.12</cite></find>
+                <find><cite path="§2-1204.11a">2-1204.11a</cite>, <cite path="§2-1204.11b">2-1204.11b</cite>, <cite path="§2-1204.11c">2-1204.11c</cite>, <cite path="§2-1204.11d">2-1204.11d</cite>, <cite path="§2-1204.11e">2-1204.11e</cite>, and <cite path="§2-1204.12">2-1204.12</cite></find>
                 <replace><cite doc="D.C. Code" path="§2-1204.11a">2-1204.11a</cite>, <cite doc="D.C. Code" path="§2-1204.11c">2-1204.11c</cite>, and <cite doc="D.C. Code" path="§2-1204.12">2-1204.12</cite></replace>
               </codify:find-replace>
             </para>
@@ -995,7 +995,7 @@
             <text>Subsection (c) is amended by striking the phrase "section 2b" and inserting the phrase "sections 2b, 2c, and 3" in its place.</text>
             <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1204.11|(c)">
               <find>
-                <cite path="§2-1204.11b" doc="D.C. Law 23-16">§ 2-1204.11b</cite>
+                <cite path="§2-1204.11b">§ 2-1204.11b</cite>
               </find>
               <replace><cite doc="D.C. Code" path="§2-1204.11a">2-1204.11a</cite>, <cite doc="D.C. Code" path="§2-1204.11c">2-1204.11c</cite>, and <cite doc="D.C. Code" path="§2-1204.12">2-1204.12</cite></replace>
             </codify:find-replace>
@@ -1052,7 +1052,7 @@
           <text>Section 2d(e) (D.C. Official Code § 2-1204.11d(e)) is amended by striking the phrase "section 2e" and inserting the phrase "section 203 of the Office of Cable Television, Film, Music, and Entertainment Amendment Act of 1981, effective October 9, 2002 (D.C. Law 14-193; D.C. Official Code § 34-1252.03)" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1204.11d|(e)">
             <find>
-              <cite path="§2-1204.11e" doc="D.C. Law 23-16">§ 2-1204.11e</cite>
+              <cite path="§2-1204.11e">§ 2-1204.11e</cite>
             </find>
             <replace>
               <cite doc="D.C. Code" path="§34-1252.03">§ 34-1252.03</cite>
@@ -1151,7 +1151,7 @@
         <text>Section 3(a) of the Commission on Fashion Arts and Events Establishment Act of 2008, effective April 15, 2008 (D.C. Law 17-148; D.C. Official Code § 3-652(a)), is amended by striking the phrase "in accordance with section 2(e)" and inserting the phrase "in accordance with 2(f)" in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-652|(a)">
           <find>
-            <cite path="§1-523.01|(e)" doc="D.C. Law 23-16">§ 1-523.01(e)</cite>
+            <cite path="§1-523.01|(e)">§ 1-523.01(e)</cite>
           </find>
           <replace>
             <code-cite doc="D.C. Code" path="§1-523.01|(f)">2(f)</code-cite>
@@ -1891,7 +1891,7 @@
           </codify:find-replace>
           <codify:find-replace path="§32-244|(a)" count="1" history="false" codified:doc="D.C. Code" codified:path="§32-244|(a)">
             <find>
-              <cite path="§32-241|(a)|(1)" doc="D.C. Law 23-16">§ 32-241(a)(1)</cite>
+              <cite path="§32-241|(a)|(1)">§ 32-241(a)(1)</cite>
             </find>
             <replace>
               <cite doc="D.C. Code" path="§32-242|(a)|(1)">§ 32-242(a)(1)</cite>
@@ -1899,7 +1899,7 @@
           </codify:find-replace>
           <codify:find-replace path="§32-244|(b)" count="1" codified:doc="D.C. Code" codified:path="§32-244|(b)">
             <find>
-              <cite path="§32-241|(a)|(3)" doc="D.C. Law 23-16">§ 32-241(a)(3)</cite>
+              <cite path="§32-241|(a)|(3)">§ 32-241(a)(3)</cite>
             </find>
             <replace>
               <cite doc="D.C. Code" path="§32-242|(a)|(3)">§ 32-242(a)(3)</cite>
@@ -8260,7 +8260,7 @@
               <heading>Washington Parks &amp; People; Lots 841, 847, 848, and 851, Square 2841.</heading>
               <para>
                 <num>(a)</num>
-                <text>The real property located in Lots 841, 847, 848, and 851 in Square 2841 shall be exempt from real property taxation so long as the real property is owned by Washington Parks &amp; People, a District of Columbia nonprofit corporation, and is used as a park by the public generally, as a community garden, or as a children's playground, and is not used for commercial purposes, subject to the provisions of §§ <cite path="§47-1005" doc="D.C. Law 23-16">47-1005</cite>, <cite path="§47-1007" doc="D.C. Law 23-16">47-1007</cite>, and <cite path="§47-1009" doc="D.C. Law 23-16">47-1009</cite> as if the exemption had been granted administratively under <cite doc="D.C. Code" path="47|10">this chapter</cite>.</text>
+                <text>The real property located in Lots 841, 847, 848, and 851 in Square 2841 shall be exempt from real property taxation so long as the real property is owned by Washington Parks &amp; People, a District of Columbia nonprofit corporation, and is used as a park by the public generally, as a community garden, or as a children's playground, and is not used for commercial purposes, subject to the provisions of §§ <cite path="§47-1005">47-1005</cite>, <cite path="§47-1007">47-1007</cite>, and <cite path="§47-1009">47-1009</cite> as if the exemption had been granted administratively under <cite doc="D.C. Code" path="47|10">this chapter</cite>.</text>
               </para>
               <para>
                 <num>(b)</num>

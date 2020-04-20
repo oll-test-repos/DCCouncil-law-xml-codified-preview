@@ -24,7 +24,7 @@
   <section>
     <num>2</num>
     <text>Notwithstanding any other District law or regulation, the District of Columbia Board of Elections shall not comply with any request of the Presidential Advisory Commission on Election Integrity, established May 11, 2017 (Exec. Order No. 13799; 82 Fed. Reg. 22389).</text>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§1-1001.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.05">For temporary (225 days) requirement that the District of Columbia Board of Elections not comply with any request of the Presidential Advisory Commission on Election Integrity, established May 11, 2017 (Exec. Order No. 13799; 82 Fed. Reg. 22389), see <cite doc="D.C. Law 22-30" path="§2">§ 2 of Voter Rolls Protection Temporary Act of 2017 (D.C. Law 22-30, Dec. 1, 2017, 64 DCR 10170)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§1-1001.05" action="requirement that the District of Columbia Board of Elections not comply with any request of the Presidential Advisory Commission on Election Integrity, established May 11, 2017 (Exec. Order No. 13799; 82 Fed. Reg. 22389)" codified:doc="D.C. Code" codified:path="§1-1001.05" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

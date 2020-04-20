@@ -68,7 +68,7 @@
       </para>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code">
     <num>3</num>
     <text>Title II of the Sexual Assault Victims' Rights Act of 2014, effective November 20, 2014 (D.C. Law 20-139; D.C. Official Code § 4-561.01 <em>et seq.</em>), is amended as follows:</text>
     <para codify:path="§4-561.01">
@@ -999,10 +999,8 @@
         </codify:find-replace>
       </para>
     </para>
-    <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
-    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§7-2123" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§7-2123">
     <num>4</num>
     <text>Section 4 of the Emergency Care for Sexual Assault Victims Act of 2008, effective March 25, 2009 (D.C. Law 17-346; D.C. Official Code § 7-2123), is amended as follows:</text>
     <para codify:path="(3)">
@@ -1045,10 +1043,8 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
-    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§14-312" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§14-312">
     <num>5</num>
     <text>Section 14-312 of the District of Columbia Official Code is amended as follows:</text>
     <para codify:path="heading">
@@ -1253,10 +1249,8 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
-    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§22-3020.52|(c)" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§22-3020.52|(c)">
     <num>6</num>
     <text>Section 252(c) of the Anti-Sexual Abuse Act of 1994, effective May 23, 1995 (D.C. Law 19-315; D.C. Official Code § 22-3020.52(c)), is amended by adding a new paragraph (3) to read as follows:</text>
     <include lvl="1">
@@ -1279,8 +1273,6 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
-    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
   </section>
   <section codify:doc="D.C. Code" codify:path="§22-4233|(a)">
     <num>7</num>
@@ -1329,7 +1321,7 @@
       <num>(a)</num>
       <text>The table of contents is amended by striking the phrase "victim advocate" and inserting the phrase "victim advocates and sexual assault youth victim advocates" in its place.</text>
     </para>
-    <para codify:path="§23-1907|(a)" codify:applicability="notfunded">
+    <para codify:path="§23-1907|(a)">
       <num>(b)</num>
       <text>Section 23-1907 is amended to read as follows:</text>
       <include>
@@ -1516,10 +1508,8 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
-      <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
     </para>
-    <para codify:path="§23-1908" codify:applicability="notfunded">
+    <para codify:path="§23-1908">
       <num>(c)</num>
       <text>Section 23-1908 is amended to read as follows:</text>
       <include>
@@ -1563,8 +1553,6 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
-      <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
     </para>
     <para>
       <num>(d)</num>
@@ -1698,10 +1686,8 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <annotation doc="D.C. Law 23-57" path="§9|(b)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(b)">Section 9(b) of D.C. Law 23-57</cite> provided that the changes made to this section by <cite doc="D.C. Law 23-57" path="§8|(d)">section 8(d) of D.C. Law 23-57</cite> shall apply as of March 3, 2020.</annotation>
-      <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(b)" type="History" display="false"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(e)</num>
       <text>Section 23-1910 is amended to read as follows:</text>
       <include>
@@ -1767,9 +1753,6 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
-      <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
-      <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(b)" type="History" display="false"/>
     </para>
   </section>
   <section>

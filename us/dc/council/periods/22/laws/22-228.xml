@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-228" codify:applicability="notfunded">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-228">
   <num type="law">22-228</num>
   <num type="bill">22-509</num>
   <num type="act">22-541</num>
@@ -37,9 +37,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(a)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-601">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(a)">§ 2(a) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(a)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(a)">§ 2(a) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(a)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(a)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-601" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -92,9 +90,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(b)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-602">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(b)">§ 2(b) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(b)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(b)">§ 2(b) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(b)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(b)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-602" codified:display="Note"/>
     </para>
     <para codify:path="§3-603">
       <num>(c)</num>
@@ -103,9 +99,7 @@
         <find>a Boxing and Wrestling Commission</find>
         <replace>the District of Columbia Combat Sports Commission</replace>
       </codify:find-replace>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(c)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-603">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(c)">§ 2(c) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(c)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(c)">§ 2(c) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(c)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(c)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-603" codified:display="Note"/>
     </para>
     <para codify:path="§3-604|(a)">
       <num>(d)</num>
@@ -126,9 +120,7 @@
           <replace>5 members</replace>
         </codify:find-replace>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(d)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-604|(a)">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(d)">§ 2(d) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(d)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(d)">§ 2(d) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(d)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(d)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-604|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§3-605|(a)">
       <num>(e)</num>
@@ -149,9 +141,7 @@
           <replace>boxing, wrestling, kickboxing, martial arts, or mixed martial arts contests,</replace>
         </codify:find-replace>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(e)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-605|(a)">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(e)">§ 2(e) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(e)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(e)">§ 2(e) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(e)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(e)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-605|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§3-606">
       <num>(f)</num>
@@ -220,9 +210,7 @@
           <replace>kickboxers, practitioners of martial arts, and practitioners of mixed martial arts,</replace>
         </codify:find-replace>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(f)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-606|(b)">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(f)">§ 2(f) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(f)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(f)">§ 2(f) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(f)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(f)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-606|(b)" codified:display="Note"/>
     </para>
     <para codify:path="§3-607">
       <num>(g)</num>
@@ -251,9 +239,7 @@
           <replace>kickboxing, martial arts, and mixed martial arts events</replace>
         </codify:find-replace>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(g)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-607|(a)">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(g)">§ 2(g) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(g)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(g)">§ 2(g) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(g)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(g)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-607|(a)" codified:display="Note"/>
     </para>
     <para>
       <num>(h)</num>
@@ -298,9 +284,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 1-20" type="History" path="§8a">Oct. 8, 1975, D.C. Law 1-20, § 8a</annotation>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(h)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-607.01">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the creation of this section by <cite doc="D.C. Law 22-228" path="§2|(h)">§ 2(h) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(h)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the creation of this section by <cite doc="D.C. Law 22-228" path="§2|(h)">§ 2(h) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(h)" action="creation of" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-607.01" codified:display="Note"/>
     </para>
     <para codify:path="§3-608">
       <num>(i)</num>
@@ -369,9 +353,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(i)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-608|(a)">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(i)">§ 2(i) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(i)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(i)">§ 2(i) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(i)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(i)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-608|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§3-610">
       <num>(j)</num>
@@ -412,9 +394,7 @@
           <replace>kickboxing, martial arts, or mixed martial arts match</replace>
         </codify:find-replace>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Law 22-228" path="§2|(j)" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-610|(a)">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(j)">§ 2(j) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(j)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the change made to this section by <cite doc="D.C. Law 22-228" path="§2|(j)">§ 2(j) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(j)" type="History"/>
+      <codify:not-funded-anno doc="D.C. Law 22-228" path="§2|(j)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§3-610|(a)" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -451,5 +431,4 @@
     <heading>Effective date.</heading>
     <text>This act shall take effect following approval by the Mayor (or in event of a veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided on section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code §1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
   </section>
-  <annotation app="notfunded" doc="D.C. Law 22-228" eff="2019-02-22" path="§3|(a)" type="History" display="false"/>
 </document>

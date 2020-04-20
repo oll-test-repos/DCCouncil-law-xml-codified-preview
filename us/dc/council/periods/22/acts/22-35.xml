@@ -24,12 +24,12 @@
     <para>
       <num>(a)</num>
       <text>Section 13(l) (D.C. Official Code § 1-309.10(l)) is amended by striking the phrase "District of Columbia Auditor" and inserting the acronym "OANC" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-309.10" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-309.10">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-35" path="§2|(a)">§ 2(a) of Advisory Neighborhood Commissions Transfer Authorization Emergency Amendment Act of 2017 (D.C. Act 22-35, Mar. 28, 2017, 64 DCR 3103)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-309.10" codified:doc="D.C. Code" codified:path="§1-309.10" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 15(d)(2) (D.C. Official Code § 1-309.12(d)(2)) is amended by striking the phrase "District of Columbia Auditor" and inserting the acronym "OANC" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-309.12" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-309.12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-35" path="§2|(b)">§ 2(b) of Advisory Neighborhood Commissions Transfer Authorization Emergency Amendment Act of 2017 (D.C. Act 22-35, Mar. 28, 2017, 64 DCR 3103)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-309.12" codified:doc="D.C. Code" codified:path="§1-309.12" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -166,7 +166,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-309.13" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-309.13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-35" path="§2|(c)">§ 2(c) of Advisory Neighborhood Commissions Transfer Authorization Emergency Amendment Act of 2017 (D.C. Act 22-35, Mar. 28, 2017, 64 DCR 3103)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-309.13" codified:doc="D.C. Code" codified:path="§1-309.13" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -186,7 +186,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-309.15" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-309.15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-35" path="§2|(d)">§ 2(d) of Advisory Neighborhood Commissions Transfer Authorization Emergency Amendment Act of 2017 (D.C. Act 22-35, Mar. 28, 2017, 64 DCR 3103)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§1-309.15" codified:doc="D.C. Code" codified:path="§1-309.15" codified:display="Note"/>
     </para>
   </section>
   <section>

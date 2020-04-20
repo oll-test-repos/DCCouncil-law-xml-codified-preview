@@ -39,7 +39,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§28-3862" codified:display="Note" codified:doc="D.C. Code" codified:path="§28-3862">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-39" path="§2">§ 2 of Credit Protection Fee Waiver Temporary Amendment Act of 2017 (D.C. Law 22-39, Jan. 17, 2018, 64 DCR 12302)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§28-3862" codified:doc="D.C. Code" codified:path="§28-3862" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

@@ -275,7 +275,7 @@
           <codify:insert path="(1)" after="(A)" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)|(1)|(B)">
             <para>
               <num>(B)</num>
-              <text>Registered with the Mayor pursuant to <cite path="§7-1671.05" doc="D.C. Law 21-209">§ 7-1671.05</cite>; or</text>
+              <text>Registered with the Mayor pursuant to <cite path="§7-1671.05">§ 7-1671.05</cite>; or</text>
             </para>
           </codify:insert>
         </para>
@@ -296,7 +296,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)">Applicability of <cite doc="D.C. Law 21-209" path="">D.C. Law 21-209</cite>: <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite> provided that the change made to this section by <cite doc="D.C. Law 21-209" path="§2|(b)">§ 2(b) of D.C. Law 21-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)" codified:display="Note"/>
     </para>
     <para codify:path="§7-1671.03">
       <num>(c)</num>
@@ -751,7 +751,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.05">Applicability of <cite doc="D.C. Law 21-209" path="">D.C. Law 21-209</cite>: <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite> provided that the change made to this section by <cite doc="D.C. Law 21-209" path="§2|(e)">§ 2(e) of D.C. Law 21-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§7-1671.05" codified:display="Note"/>
     </para>
     <para codify:path="§7-1671.06">
       <num>(f)</num>
@@ -1186,11 +1186,30 @@
     </para>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7022" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>Sections 2(b)(3), (e)(2)(B)(i), and (e)(5)(B)(i) shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 21-209" path="§2|(b)|(3)" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 21-209" path="§2|(e)|(2)|(B)|(i)" date="pending" history="false"/>
+      <codify:applicability doc="D.C. Law 21-209" path="§2|(e)|(5)|(B)|(i)" date="pending" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>5</num>

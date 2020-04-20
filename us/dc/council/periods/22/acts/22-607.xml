@@ -29,7 +29,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-801" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-801">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-607" path="§2">§ 2 of Extension of Time to Dispose of Fifth Street, N.W., and I Street, N.W., Emergency Amendment Act of 2018 (D.C. Act 22-607, Jan. 24, 2019, 66 DCR 1593)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§10-801" codified:doc="D.C. Code" codified:path="§10-801" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

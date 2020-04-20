@@ -151,7 +151,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1801" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1801">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(a)">§ 2(a) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1801" codified:doc="D.C. Code" codified:path="§8-1801" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -213,7 +213,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1801" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1801">For temporary (90 days) creation of § 8-1801.01 and § 8-1801.02, see <cite doc="D.C. Act 22-137" path="§2|(b)">§ 2(b) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1801" action="creation of § 8-1801.01 and § 8-1801.02" codified:doc="D.C. Code" codified:path="§8-1801" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -263,7 +263,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1802" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1802">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(c)">§ 2(c) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1802" codified:doc="D.C. Code" codified:path="§8-1802" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -275,7 +275,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1803" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1803">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(d)">§ 2(d) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1803" codified:doc="D.C. Code" codified:path="§8-1803" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
@@ -299,7 +299,7 @@
         <num>(3)</num>
         <text>Subsection (j) is repealed.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1804" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1804">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(e)">§ 2(e) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1804" codified:doc="D.C. Code" codified:path="§8-1804" codified:display="Note"/>
     </para>
     <para>
       <num>(f)</num>
@@ -346,7 +346,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1804" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1804">For temporary (90 days) creation of § 8-1804.01, see <cite doc="D.C. Act 22-137" path="§2|(f)">§ 2(f) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1804" action="creation of § 8-1804.01" codified:doc="D.C. Code" codified:path="§8-1804" codified:display="Note"/>
     </para>
     <para>
       <num>(g)</num>
@@ -373,7 +373,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1805" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1805">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(g)">§ 2(g) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1805" codified:doc="D.C. Code" codified:path="§8-1805" codified:display="Note"/>
     </para>
     <para>
       <num>(h)</num>
@@ -485,12 +485,12 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1808" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1808">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(h)">§ 2(h) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1808" codified:doc="D.C. Code" codified:path="§8-1808" codified:display="Note"/>
     </para>
     <para>
       <num>(i)</num>
       <text>Section 9a(a) (D.C. Official Code § 8-1808.01(a)) is amended by striking the phrase "District-owned" and inserting the phrase "District-operated" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1808.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1808.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(i)">§ 2(i) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1808.01" codified:doc="D.C. Code" codified:path="§8-1808.01" codified:display="Note"/>
     </para>
     <para>
       <num>(j)</num>
@@ -518,7 +518,7 @@
         <num>(4)</num>
         <text>Subsection (g) is amended by striking the word "mammal" and inserting the word "animal" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1809" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1804.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(j)">§ 2(j) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1809" codified:doc="D.C. Code" codified:path="§8-1804.01" codified:display="Note"/>
     </para>
     <para>
       <num>(k)</num>
@@ -530,7 +530,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1810" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1810">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(k)">§ 2(k) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1810" codified:doc="D.C. Code" codified:path="§8-1810" codified:display="Note"/>
     </para>
     <para>
       <num>(l)</num>
@@ -562,7 +562,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1810" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1810">For temporary (90 days) creation of § 8-1810.01, see <cite doc="D.C. Act 22-137" path="§2|(l)">§ 2(l) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1810" action="creation of § 8-1810.01" codified:doc="D.C. Code" codified:path="§8-1810" codified:display="Note"/>
     </para>
     <para>
       <num>(m)</num>
@@ -590,12 +590,12 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1811" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1811">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-137" path="§2|(m)">§ 2(m) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1811" codified:doc="D.C. Code" codified:path="§8-1811" codified:display="Note"/>
     </para>
     <para>
       <num>(n)</num>
       <text>Section 12a (D.C. Official Code § 8-1812) is repealed.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1812" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1812">For temporary (90 days) repeal, see <cite doc="D.C. Act 22-137" path="§2|(n)">§ 2(n) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1812" action="repeal" codified:doc="D.C. Code" codified:path="§8-1812" codified:display="Note"/>
     </para>
     <para>
       <num>(o)</num>
@@ -608,7 +608,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§8-1813" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1813">For temporary (90 days) creation of § 8-1814, see <cite doc="D.C. Act 22-137" path="§2|(o)">§ 2(o) of Standard of Care for Animals Emergency Amendment Act of 2017 (D.C. Act 22-137, July 31, 2017, 64 DCR 7787)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§8-1813" action="creation of § 8-1814" codified:doc="D.C. Code" codified:path="§8-1813" codified:display="Note"/>
     </para>
   </section>
   <section>

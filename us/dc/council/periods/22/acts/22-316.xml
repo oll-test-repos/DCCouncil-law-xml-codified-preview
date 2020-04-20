@@ -69,7 +69,7 @@
         <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
       </para>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1108.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1108.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-316" path="§2">§ 2 of Dedicated Funding for the Washington Metropolitan Area Transit Authority Emergency Act of 2018 (D.C. Act 22-316, Apr. 13, 2018, 65 DCR 4285)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§9-1108.02" codified:doc="D.C. Code" codified:path="§9-1108.02" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

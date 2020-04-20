@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 23-62" codify:applicability="notfunded">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 23-62">
   <num type="law">23-62</num>
   <num type="bill">23-261</num>
   <num type="act">23-194</num>
@@ -85,13 +85,13 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§21-2221.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§21-2221.03">Applicability of <cite doc="D.C. Law 23-62" path="">D.C. Law 23-62</cite>: <cite doc="D.C. Law 23-62" path="§3">§ 3 of D.C. Law 23-62</cite> provided that the change made to this section by <cite doc="D.C. Law 23-62" path="§2|(a)">§ 2(a) of D.C. Law 23-62</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.03" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.03" codified:display="Note"/>
     </para>
     <para codify:path="§21-2221.14">
       <num>(b)</num>
       <text>Section 21-2221.14 is repealed.</text>
       <codify:repeal codified:doc="D.C. Code" codified:path="§21-2221.14"/>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§21-2221.14" codified:display="Note" codified:doc="D.C. Code" codified:path="§21-2221.14">Applicability of <cite doc="D.C. Law 23-62" path="">D.C. Law 23-62</cite>: <cite doc="D.C. Law 23-62" path="§3">§ 3 of D.C. Law 23-62</cite> provided that the repeal of this section by <cite doc="D.C. Law 23-62" path="§2|(b)">§ 2(b) of D.C. Law 23-62</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.14" applicability-path="§3" action="repeal of" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.14" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -129,7 +129,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§21-2221.14a" codified:display="Note" codified:doc="D.C. Code" codified:path="§21-2221.14a">Applicability of <cite doc="D.C. Law 23-62" path="">D.C. Law 23-62</cite>: <cite doc="D.C. Law 23-62" path="§3">§ 3 of D.C. Law 23-62</cite> provided that the creation of this section by <cite doc="D.C. Law 23-62" path="§2|(c)">§ 2(c) of D.C. Law 23-62</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§21-2221.14a" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§21-2221.14a" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -166,5 +166,4 @@
     <heading>Effective date.</heading>
     <text>The act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973, (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
   </section>
-  <annotation app="notfunded" doc="D.C. Law 23-62" eff="2020-03-10" path="§3|(a)" type="History" display="false"/>
 </document>

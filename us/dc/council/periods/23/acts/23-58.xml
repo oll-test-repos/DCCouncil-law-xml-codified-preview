@@ -53,7 +53,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-1102.01a" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1102.01a">For temporary (90 days) creation of § 10-1102.01b, see <cite doc="D.C. Act 23-58" path="§2">§ 2 of Legitimate Theater Sidewalk Café Authorization Emergency Amendment Act of 2019 (D.C. Act 23-58, June 17, 2019, 66 DCR 7341)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§10-1102.01a" action="creation of § 10-1102.01b" codified:doc="D.C. Code" codified:path="§10-1102.01a" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

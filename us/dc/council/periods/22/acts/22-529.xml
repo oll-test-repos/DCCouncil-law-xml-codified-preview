@@ -30,7 +30,7 @@
       <num>(b)</num>
       <text>Strike the phrase "not as a part of an income tax" and insert the phrase "not combined into a single series with income tax" in its place.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§42-2812.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2812.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-529" path="§2">§ 2 of New Communities Bond Authorization Emergency Amendment Act of 2018 (D.C. Act 22-529, Dec. 10, 2018, 65 DCR 13433)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§42-2812.03" codified:doc="D.C. Code" codified:path="§42-2812.03" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

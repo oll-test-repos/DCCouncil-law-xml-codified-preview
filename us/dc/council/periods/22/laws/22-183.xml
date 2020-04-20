@@ -48,7 +48,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3505.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3505.01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-183" path="§2|(a)">§ 2(a) of Eviction Procedure Reform Temporary Amendment Act of 2018 (D.C. Law 22-183, Nov. 27, 2018, 65 DCR 11372)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3505.01" codified:doc="D.C. Code" codified:path="§42-3505.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -211,7 +211,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3505.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3505.01">For temporary (225 days) creation of § 42-3505.01a, see <cite doc="D.C. Law 22-183" path="§2|(b)">§ 2(b) of Eviction Procedure Reform Temporary Amendment Act of 2018 (D.C. Law 22-183, Nov. 27, 2018, 65 DCR 11372)</cite>.</codify:annotation>
+      <codify:temporary doc="D.C. Code" path="§42-3505.01" action="creation of § 42-3505.01a" codified:doc="D.C. Code" codified:path="§42-3505.01" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -256,7 +256,7 @@
       <num>(g)</num>
       <text>For the purposes of this section, the term "time of eviction" means the time at which the Marshals execute a writ of restitution.</text>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§42-3505.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3505.01">For temporary (225 days) law regarding landlord procedures during an eviction not subject to the Rental Housing Act of 1985, see <cite doc="D.C. Law 22-183" path="§3">§ 3 of Eviction Procedure Reform Temporary Amendment Act of 2018 (D.C. Law 22-183, Nov. 27, 2018, 65 DCR 11372)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§42-3505.01" action="law regarding landlord procedures during an eviction not subject to the Rental Housing Act of 1985" codified:doc="D.C. Code" codified:path="§42-3505.01" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

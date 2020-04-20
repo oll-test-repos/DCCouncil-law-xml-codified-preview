@@ -180,7 +180,7 @@
         <num>(b)</num>
         <text>If complete data about a notice of infraction is not available at the time of publication, the Mayor shall publish the information that is available at the time of publication, and update the data as additional information becomes available.</text>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-1951.03">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§103">§ 103 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§901" action="creation of" codified:doc="D.C. Code" codified:path="§50-1951.03" codified:display="Note"/>
     </section>
     <section>
       <codify:insert num-value="50-1951.04" codified:doc="D.C. Code" codified:path="§50-1951.04"/>
@@ -1043,7 +1043,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2201.05a">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the modification of subsection (e)(2) of this section by <cite doc="D.C. Law 21-155" path="§701">§ 701 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§901" action="modification of subsection (e)(2) of" codified:doc="D.C. Code" codified:path="§50-2201.05a" codified:display="Note"/>
     </section>
     <section codify:doc="D.C. Code">
       <num>702</num>
@@ -1191,7 +1191,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2209.01">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§801">§ 801 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§901" action="creation of" codified:doc="D.C. Code" codified:path="§50-2209.01" codified:display="Note"/>
     </section>
     <codify:insert doc="D.C. Code" path="|50" after="18" history="false" codified:doc="D.C. Code" codified:path="50|18A">
       <container>
@@ -1255,11 +1255,35 @@
     <num>IX</num>
     <heading>APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE</heading>
     <section>
-      <reason>Repealed</reason>
       <num>901</num>
       <heading>Applicability.</heading>
-      <text>Repealed.</text>
-      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7015" type="History"/>
+      <para>
+        <num>(a)</num>
+        <text>Sections 103 and 801 and the amendatory section 10a(e)(2) of the District of Columbia Traffic Act, 1925 within section 701, shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
+        <codify:applicability path="§103" date="notfunded" history="false"/>
+        <codify:applicability path="§801" date="notfunded" history="false"/>
+        <codify:replace doc="D.C. Code" path="§50-2201.05a|(e)|(2)" history="false">
+          <para>
+            <num>(2)</num>
+            <text>[Not funded].</text>
+          </para>
+        </codify:replace>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <para>
+          <num>(1)</num>
+          <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+        </para>
+      </para>
     </section>
     <section>
       <num>902</num>

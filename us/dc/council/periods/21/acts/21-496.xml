@@ -28,7 +28,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-302" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-302">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-496" path="§2">§ 2 of Fort Dupont Ice Arena Programming Emergency Amendment Act of 2016 (D.C. Act 21-496, Oct. 6, 2016, 63 DCR 12607)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§10-302" codified:doc="D.C. Code" codified:path="§10-302" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

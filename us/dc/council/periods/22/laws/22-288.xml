@@ -176,7 +176,7 @@
           </para>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-3202" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-3202">Applicability of <cite doc="D.C. Law 22-288" path="">D.C. Law 22-288</cite>: <cite doc="D.C. Law 22-288" path="§501">§ 501 of D.C. Law 22-288</cite> provided that the creation of subsection (b)(2) this section by <cite doc="D.C. Law 22-288" path="§102">§ 102 of D.C. Law 22-288</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§7-3202" applicability-path="§501" action="creation of subsection (b)(2)" display-template="" codified:doc="D.C. Code" codified:path="§7-3202" codified:display="Note"/>
     </section>
     <section>
       <codify:insert doc="D.C. Code" path="7|32" num-value="7-3203" codified:doc="D.C. Code" codified:path="§7-3203"/>
@@ -615,11 +615,32 @@
     <num>V</num>
     <heading>APPLICABILITY; FISCAL IMPACT STATEMENT; EFFECTIVE DATE</heading>
     <section>
-      <reason>Repealed</reason>
       <num>501</num>
       <heading>Applicability.</heading>
-      <text>Repealed.</text>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7168" type="History"/>
+      <para>
+        <num>(a)</num>
+        <text>Section 102(b)(2) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+        <codify:repeal doc="D.C. Code" path="§7-3202|(b)|(2)"/>
+        <codify:find-replace doc="D.C. Code" path="§7-3202|(b)|(2)" count="1">
+          <find>Repeal</find>
+          <replace>Not Funded</replace>
+        </codify:find-replace>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan and provide notice to the Budget Director of the Council of the certification.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <para>
+          <num>(1)</num>
+          <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The date of publication of the notice of the certification shall not affect the applicability of section 102(b)(2).</text>
+        </para>
+      </para>
     </section>
     <section>
       <num>502</num>

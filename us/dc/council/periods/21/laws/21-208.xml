@@ -360,7 +360,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1001.07">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the except for §2(5),any change made to this section by <cite doc="D.C. Law 21-208" path="§2|(a)">§ 2(a) of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§5" action="except for §2(5),any change made to" codified:doc="D.C. Code" codified:path="§1-1001.07" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -378,7 +378,7 @@
       <find>30</find>
       <replace>21</replace>
     </codify:find-replace>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1061.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1061.06">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the change made to this section by <cite doc="D.C. Law 21-208" path="§3">§ 3 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-1061.06" applicability-path="§5" codified:doc="D.C. Code" codified:path="§1-1061.06" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
@@ -440,14 +440,37 @@
     </include>
     <aftertext>.</aftertext>
     <annotation type="History" doc="Stat. 68-2-ch443" path="§7c">Mar. 3, 1925, 43 Stat. 1121, ch. 443, § 7c</annotation>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§50-1401.01c" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-1401.01c">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the creation of this section by <cite doc="D.C. Law 21-208" path="§4">§ 4 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§50-1401.01c" applicability-path="§5" action="creation of" codified:doc="D.C. Code" codified:path="§50-1401.01c" codified:display="Note"/>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>5</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7021" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>Sections 2(a)(1), (2), (3), (4), and (6), and sections 3 and 4 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability path="§2|(a)|(1)" date="pending" history="false"/>
+      <codify:applicability path="§2|(a)|(2)" date="pending" history="false"/>
+      <codify:applicability path="§2|(a)|(3)" date="pending" history="false"/>
+      <codify:applicability path="§2|(a)|(4)" date="pending" history="false"/>
+      <codify:applicability path="§2|(a)|(6)" date="notfunded" history="false"/>
+      <codify:applicability path="§3" date="pending" history="false"/>
+      <codify:applicability path="§4" date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>6</num>

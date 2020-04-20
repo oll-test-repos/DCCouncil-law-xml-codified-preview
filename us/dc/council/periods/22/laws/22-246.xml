@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-246" codify:applicability="notfunded">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-246">
   <num type="law">22-246</num>
   <num type="bill">22-924</num>
   <num type="act">22-572</num>
@@ -77,7 +77,7 @@
           <text>"PACE organization" means an entity certified by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-571.04">section 104</code-cite> to provide eligible individuals with community-based comprehensive health care services.</text>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-571.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-571.01">Applicability of <cite doc="D.C. Law 22-246" path="">D.C. Law 22-246</cite>: <cite doc="D.C. Law 22-246" path="§301">§ 301 of D.C. Law 22-246</cite> provided that the creation of this section by <cite doc="D.C. Law 22-246" path="§101">§ 101 of D.C. Law 22-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§7-571.01" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-571.01" codified:display="Note"/>
     </section>
     <section>
       <codify:insert doc="D.C. Code" path="7|5|IV" num-value="7-571.02" codified:doc="D.C. Code" codified:path="§7-571.02"/>
@@ -103,7 +103,7 @@
           <text>Preserving and supporting the family unit of eligible individuals.</text>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-571.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-571.02">Applicability of <cite doc="D.C. Law 22-246" path="">D.C. Law 22-246</cite>: <cite doc="D.C. Law 22-246" path="§301">§ 301 of D.C. Law 22-246</cite> provided that the creation of this section by <cite doc="D.C. Law 22-246" path="§102">§ 102 of D.C. Law 22-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§7-571.02" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-571.02" codified:display="Note"/>
     </section>
     <section>
       <codify:insert doc="D.C. Code" path="7|5|IV" num-value="7-571.03" codified:doc="D.C. Code" codified:path="§7-571.03"/>
@@ -141,7 +141,7 @@
         <num>(d)</num>
         <text>Notwithstanding any other provision of law, PACE organizations shall be exempt from regulation as insurers by the Department of Insurance, Securities, and Banking.</text>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-571.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-571.03">Applicability of <cite doc="D.C. Law 22-246" path="">D.C. Law 22-246</cite>: <cite doc="D.C. Law 22-246" path="§301">§ 301 of D.C. Law 22-246</cite> provided that the creation of this section by <cite doc="D.C. Law 22-246" path="§103">§ 103 of D.C. Law 22-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§7-571.03" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-571.03" codified:display="Note"/>
     </section>
     <section>
       <codify:insert doc="D.C. Code" path="7|5|IV" num-value="7-571.04" codified:doc="D.C. Code" codified:path="§7-571.04"/>
@@ -227,14 +227,14 @@
           <text>Nursing facility care.</text>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-571.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-571.04">Applicability of <cite doc="D.C. Law 22-246" path="">D.C. Law 22-246</cite>: <cite doc="D.C. Law 22-246" path="§301">§ 301 of D.C. Law 22-246</cite> provided that the creation of this section by <cite doc="D.C. Law 22-246" path="§104">§ 104 of D.C. Law 22-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§7-571.04" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-571.04" codified:display="Note"/>
     </section>
     <section>
       <codify:insert doc="D.C. Code" path="7|5|IV" num-value="7-571.05" codified:doc="D.C. Code" codified:path="§7-571.05"/>
       <num>105</num>
       <heading>Rules.</heading>
       <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="7|5|IV">this title</code-cite>.</text>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-571.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-571.05">Applicability of <cite doc="D.C. Law 22-246" path="">D.C. Law 22-246</cite>: <cite doc="D.C. Law 22-246" path="§301">§ 301 of D.C. Law 22-246</cite> provided that the creation of this section by <cite doc="D.C. Law 22-246" path="§105">§ 105 of D.C. Law 22-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§7-571.05" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-571.05" codified:display="Note"/>
     </section>
   </container>
   <container>
@@ -259,7 +259,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§44-407" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-407">Applicability of <cite doc="D.C. Law 22-246" path="">D.C. Law 22-246</cite>: <cite doc="D.C. Law 22-246" path="§301">§ 301 of D.C. Law 22-246</cite> provided that the change made to this section by <cite doc="D.C. Law 22-246" path="§201">§ 201 of D.C. Law 22-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§44-407" applicability-path="§301" display-template="" codified:doc="D.C. Code" codified:path="§44-407" codified:display="Note"/>
     </section>
   </container>
   <container>
@@ -301,5 +301,4 @@
       <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
     </section>
   </container>
-  <annotation app="notfunded" doc="D.C. Law 22-246" eff="2019-03-13" path="§301|(a)" type="History" display="false"/>
 </document>

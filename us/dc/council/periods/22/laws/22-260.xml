@@ -22,7 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Rental Housing Smoke-Free Common Area Amendment Act of 2018".</text>
-  <section codify:applicability="notfunded">
+  <section>
     <num>2</num>
     <text>The Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. Official Code § 42-3501.01 <em>et seq.</em>), is amended by adding a new section 509 to read as follows:</text>
     <include>
@@ -126,7 +126,6 @@
     </include>
     <aftertext>.</aftertext>
     <annotation doc="D.C. Law 6-10" type="History" path="§909">July 17, 1985, D.C. Law 6-10, § 509[909]</annotation>
-    <annotation app="2019-03-22" doc="D.C. Law 22-260" eff="2019-03-22" path="§3" type="History" display="false"/>
   </section>
   <section>
     <num>3</num>

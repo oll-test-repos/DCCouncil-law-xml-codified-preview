@@ -71,7 +71,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-101" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-101">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§2|(a)|(1)">§ 2(a)(1) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§25-101" codified:doc="D.C. Code" codified:path="§25-101" codified:display="Note"/>
       </para>
       <para>
         <num>(2)</num>
@@ -109,7 +109,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-113a" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-113a">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§2|(a)|(2)">§ 2(a)(2) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§25-113a" codified:doc="D.C. Code" codified:path="§25-113a" codified:display="Note"/>
       </para>
     </para>
     <para>
@@ -138,7 +138,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-401" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-401">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§2|(b)">§ 2(b) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§25-401" codified:doc="D.C. Code" codified:path="§25-401" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -164,7 +164,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-508" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-508">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§2|(c)">§ 2(c) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§25-508" codified:doc="D.C. Code" codified:path="§25-508" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -211,7 +211,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-713" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-713">For temporary (90 days) creation of § 25-714, see <cite doc="D.C. Act 23-229" path="§2|(d)|(2)">§ 2(d)(2) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§25-713" action="creation of § 25-714" codified:doc="D.C. Code" codified:path="§25-713" codified:display="Note"/>
       </para>
       <para>
         <num>(3)</num>
@@ -223,7 +223,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-763" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-763">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§2|(d)|(3)">§ 2(d)(3) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§25-763" codified:doc="D.C. Code" codified:path="§25-763" codified:display="Note"/>
       </para>
       <para>
         <num>(4)</num>
@@ -235,7 +235,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-765" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-765">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§2|(d)|(4)">§ 2(d)(4) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§25-765" codified:doc="D.C. Code" codified:path="§25-765" codified:display="Note"/>
       </para>
       <para>
         <num>(5)</num>
@@ -284,7 +284,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-785" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-785">For temporary (90 days) creation of § 25-786, see <cite doc="D.C. Act 23-229" path="§2|(d)|(5)">§ 2(d)(5) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§25-785" action="creation of § 25-786" codified:doc="D.C. Code" codified:path="§25-785" codified:display="Note"/>
       </para>
     </para>
     <para>
@@ -297,7 +297,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-801" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-801">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§2|(e)">§ 2(e) of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§25-801" codified:doc="D.C. Code" codified:path="§25-801" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -318,7 +318,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§22-1704" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-1704">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-229" path="§3">§ 3 of Games of Skill Consumer Protection Emergency Amendment Act of 2020 (D.C. Act 23-229, Feb. 27, 2020, 0 DCR 0)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§22-1704" codified:doc="D.C. Code" codified:path="§22-1704" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

@@ -39,7 +39,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-751.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-751.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-195" path="§2|(a)">§ 2(a) of Medical Respite Services Exemption Emergency Amendment Act of 2017 (D.C. Act 22-195, Nov. 29, 2017, 64 DCR 12407)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§4-751.01" codified:doc="D.C. Code" codified:path="§4-751.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -51,7 +51,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-754.33" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-754.33">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-195" path="§2|(b)">§ 2(b) of Medical Respite Services Exemption Emergency Amendment Act of 2017 (D.C. Act 22-195, Nov. 29, 2017, 64 DCR 12407)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§4-754.33" codified:doc="D.C. Code" codified:path="§4-754.33" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>

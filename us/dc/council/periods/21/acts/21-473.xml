@@ -163,7 +163,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-2844" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2844">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-473" path="§2">§ 2 of Sale of Synthetic Drugs Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-473, July 21, 2016, 63 DCR 10172)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§47-2844" codified:doc="D.C. Code" codified:path="§47-2844" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -207,7 +207,7 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1801.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1801.06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-473" path="§3">§ 3 of Sale of Synthetic Drugs Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-473, July 21, 2016, 63 DCR 10172)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-1801.06" codified:doc="D.C. Code" codified:path="§2-1801.06" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

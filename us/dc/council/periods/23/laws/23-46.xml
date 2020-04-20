@@ -38,7 +38,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(b)</num>
       <text>A new section 47-4671 is added to read as follows:</text>
       <include>
@@ -144,8 +144,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§[47-4672]" codified:display="Note" codified:doc="D.C. Code" codified:path="§[47-4672]">Applicability of <cite doc="D.C. Law 23-46" path="">D.C. Law 23-46</cite>: <cite doc="D.C. Law 23-46" path="§3">§ 3 of D.C. Law 23-46</cite> provided that the creation of this section by <cite doc="D.C. Law 23-46" path="§2|(b)">§ 2(b) of D.C. Law 23-46</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-      <annotation app="2020-01-10" doc="D.C. Law 23-46" eff="2020-01-10" path="§3|(a)" type="History" display="false"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§[47-4672]" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§[47-4672]" codified:display="Note"/>
     </para>
   </section>
   <section>

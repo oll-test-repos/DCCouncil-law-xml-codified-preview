@@ -26,7 +26,7 @@
   <section>
     <num>2</num>
     <text>Section 7(c) of the Health Services Planning Program Re-establishment Act of 1996, effective April 9, 1997 (D.C. Law 11-191; D.C. Official Code § 44-406(c)), is amended by striking the phrase "extent possible." and inserting the phrase "extent possible, which may include organizing meetings with affected stakeholders and providing planning and technical assistance for possible patient load transition, and, if the notice of closure is approved by SHPDA, continue to assist in the orderly transition by overseeing the placement of patients into new HCFs in a manner that ensures that the health and well-being of the patients is protected.".</text>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§44-406" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-406">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-220" path="§2">§ 2 of Clarification of Hospital Closure Procedure Temporary Amendment Act of 2018 (D.C. Law 22-220, Feb. 22, 2019, 65 DCR 13441)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§44-406" codified:doc="D.C. Code" codified:path="§44-406" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -53,7 +53,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§44-506" codified:display="Note" codified:doc="D.C. Code" codified:path="§44-506">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-220" path="§3">§ 3 of Clarification of Hospital Closure Procedure Temporary Amendment Act of 2018 (D.C. Law 22-220, Feb. 22, 2019, 65 DCR 13441)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§44-506" codified:doc="D.C. Code" codified:path="§44-506" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

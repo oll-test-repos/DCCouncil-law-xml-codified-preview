@@ -34,7 +34,7 @@
         <num>(2)</num>
         <text>Strike the phrase "As used in section 204(3)" and insert the phrase "As used in section 204(3), (5), and (6)" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§48-901.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-901.02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-550" path="§2|(a)">§ 2(a) of Revised Synthetics Abatement and Full Enforcement Drug Control Congressional Review Emergency Amendment Act of 2018 (D.C. Act 22-550, Dec. 26, 2018, 66 DCR 225)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§48-901.02" codified:doc="D.C. Code" codified:path="§48-901.02" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -1830,7 +1830,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§48-902.04" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-902.04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-550" path="§2|(b)">§ 2(b) of Revised Synthetics Abatement and Full Enforcement Drug Control Congressional Review Emergency Amendment Act of 2018 (D.C. Act 22-550, Dec. 26, 2018, 66 DCR 225)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§48-902.04" codified:doc="D.C. Code" codified:path="§48-902.04" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -1847,7 +1847,7 @@
         <num>(3)</num>
         <text>Paragraph (7) is repealed.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§48-902.08" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-902.08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-550" path="§2|(c)">§ 2(c) of Revised Synthetics Abatement and Full Enforcement Drug Control Congressional Review Emergency Amendment Act of 2018 (D.C. Act 22-550, Dec. 26, 2018, 66 DCR 225)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§48-902.08" codified:doc="D.C. Code" codified:path="§48-902.08" codified:display="Note"/>
     </para>
   </section>
   <section>

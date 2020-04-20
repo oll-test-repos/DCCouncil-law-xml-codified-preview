@@ -44,14 +44,31 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-3502.05|(a)|(3)">Applicability of <cite doc="D.C. Law 21-270" path="">D.C. Law 21-270</cite>: <cite doc="D.C. Law 21-270" path="§3">§ 3 of D.C. Law 21-270</cite> provided that the change made to this section by <cite doc="D.C. Law 21-270" path="§2">§ 2 of D.C. Law 21-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§42-3502.05|(a)|(3)" codified:display="Note"/>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>3</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7018" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>4</num>
@@ -63,6 +80,4 @@
     <heading>Effective date.</heading>
     <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
   </section>
-  <annotation type="Applicability" codified:display="Note" app="2017-04-15" eff="2017-04-15" doc="D.C. Law 21-270" path="§2">Applicability of <cite doc="D.C. Law 21-270" path="">D.C. Law 21-270</cite>: <cite doc="D.C. Law 21-270" path="§3">§ 3 of D.C. Law 21-270</cite> provided that the change made to this section by <cite doc="D.C. Law 21-270" path="§2">§ 2 of D.C. Law 21-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-  <annotation app="2017-04-15" doc="D.C. Law 21-270" eff="2017-04-15" path="§2" type="History"/>
 </document>

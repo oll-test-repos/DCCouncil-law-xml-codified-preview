@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Improving Access to Identity Documents Amendment Act of 2016".</text>
-  <section codify:applicability="pending">
+  <section>
     <num>2</num>
     <text>Section 22 of the Vital Records Act of 1981, effective October 8, 1981 (D.C. Law 4-34; D.C. Official Code § 7-221), is amended by adding a new subsection (c) to read as follows:</text>
     <include>
@@ -36,11 +36,10 @@
           <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement paragraph (1) of this subsection.
           </text>
         </para>
-        <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-221">Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§5">§ 5 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§2">§ 2 of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+        <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-221" codified:display="Note"/>
       </para>
     </include>
     <aftertext>.</aftertext>
-    <annotation app="2017-02-18" doc="D.C. Law 21-195" eff="2017-02-18" path="§4|(a)" type="History" display="false"/>
   </section>
   <section>
     <num>3</num>
@@ -153,7 +152,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)">Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§4">§ 4 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§3|(a)">§ 3(a) of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Code" codify:path="§50-1401.03|(a)">
       <num>(b)</num>
@@ -174,7 +173,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-1401.03|(a)">Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§4">§ 4 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§3|(b)">§ 3(b) of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§50-1401.03|(a)" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Code" codify:path="§50-1401.05">
       <num>(c)</num>
@@ -207,7 +206,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-1401.05">Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§4">§ 4 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§3|(c)">§ 3(c) of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§50-1401.05" codified:display="Note"/>
     </para>
   </section>
   <section>

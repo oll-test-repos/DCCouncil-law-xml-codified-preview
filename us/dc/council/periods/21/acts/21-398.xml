@@ -47,7 +47,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-781" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-781">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-398" path="§2|(a)">§ 2(a) of Sale to Minors Penalty Clarification Emergency Amendment Act of 2016 (D.C. Act 21-398, May 19, 2016, 63 DCR 7912)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§25-781" codified:doc="D.C. Code" codified:path="§25-781" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -74,7 +74,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§25-783" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§25-783">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-398" path="§2|(b)">§ 2(b) of Sale to Minors Penalty Clarification Emergency Amendment Act of 2016 (D.C. Act 21-398, May 19, 2016, 63 DCR 7912)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§25-783" codified:doc="D.C. Code" codified:path="§25-783" codified:display="Note"/>
     </para>
   </section>
   <section>

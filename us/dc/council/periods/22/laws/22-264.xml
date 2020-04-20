@@ -29,7 +29,7 @@
       <heading>Improving Efficiencies in Data Collection, Information Sharing, and Information Resources Management.</heading>
     </container>
   </codify:insert>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="2|17A" num-value="2-1731" codified:doc="D.C. Code" codified:path="§2-1731"/>
     <num>2</num>
     <heading>Data Sharing and Paperwork Reduction Council.</heading>
@@ -119,10 +119,9 @@
       <num>(h)</num>
       <text>The Office of the Chief Technology Officer shall provide the DSPRC with an annual operating budget, which shall include funds to maintain a website where the DSPRC shall provide a public listing of members, meeting notices, and meeting minutes and solicit community input.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1731" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1731">Applicability of <cite doc="D.C. Law 22-264" path="">D.C. Law 22-264</cite>: <cite doc="D.C. Law 22-264" path="§5">§ 5 of D.C. Law 22-264</cite> provided that the creation of this section by <cite doc="D.C. Law 22-264" path="§2">§ 2 of D.C. Law 22-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation app="2019-03-22" doc="D.C. Law 22-264" eff="2019-03-22" path="§5|(a)" type="History" display="false"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§2-1731" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1731" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="2|17A" num-value="2-1732" codified:doc="D.C. Code" codified:path="§2-1732"/>
     <num>3</num>
     <heading>Duties of the DSPRC.</heading>
@@ -186,16 +185,14 @@
       <num>(d)</num>
       <text>For the purposes of this section, the term "interagency data sharing system" means a platform that gives users the ability to share the same data resource with other applications or users.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1732" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1732">Applicability of <cite doc="D.C. Law 22-264" path="">D.C. Law 22-264</cite>: <cite doc="D.C. Law 22-264" path="§5">§ 5 of D.C. Law 22-264</cite> provided that the creation of this section by <cite doc="D.C. Law 22-264" path="§3">§ 3 of D.C. Law 22-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation app="2019-03-22" doc="D.C. Law 22-264" eff="2019-03-22" path="§5|(a)" type="History" display="false"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§2-1732" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1732" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="2|17A" num-value="2-1733" codified:doc="D.C. Code" codified:path="§2-1733"/>
     <num>4</num>
     <heading>Report.</heading>
     <text>Within one year of <span codify:value="[insert applicability date]">the applicability date of this act</span>, and on the anniversary of the first report each year thereafter, the DSPRC shall submit a report to the Council that addresses each of the duties required by <code-cite doc="D.C. Code" path="§2-1732">section 3</code-cite>.</text>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1733" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1733">Applicability of <cite doc="D.C. Law 22-264" path="">D.C. Law 22-264</cite>: <cite doc="D.C. Law 22-264" path="§5">§ 5 of D.C. Law 22-264</cite> provided that the creation of this section by <cite doc="D.C. Law 22-264" path="§4">§ 4 of D.C. Law 22-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation app="2019-03-22" doc="D.C. Law 22-264" eff="2019-03-22" path="§5|(a)" type="History" display="false"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§2-1733" applicability-path="§5" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§2-1733" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="2|17A" num-value="2-1734" codified:doc="D.C. Code" codified:path="§2-1734"/>

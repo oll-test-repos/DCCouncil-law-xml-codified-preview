@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-285" codify:applicability="notfunded">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-285">
   <num type="law">22-285</num>
   <num type="bill">22-228</num>
   <num type="act">22-613</num>
@@ -70,7 +70,7 @@
         <text>"Ultimate user" means an individual who has lawfully obtained, and who possesses, a controlled substance for his own use or for the use of a member of his household or for an animal owned by him or by a member of his household.</text>
       </para>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§48-852.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-852.01">Applicability of <cite doc="D.C. Law 22-285" path="">D.C. Law 22-285</cite>: <cite doc="D.C. Law 22-285" path="§8">§ 8 of D.C. Law 22-285</cite> provided that the creation of this section by <cite doc="D.C. Law 22-285" path="§2">§ 2 of D.C. Law 22-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§48-852.01" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-852.01" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="48|8F|II" num-value="48-852.02" codified:doc="D.C. Code" codified:path="§48-852.02"/>
@@ -104,7 +104,7 @@
         <text>A long-term care facility on behalf of an ultimate user who resides or resided at such long-term care facility and is or was in lawful possession of a controlled substance.</text>
       </para>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§48-852.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-852.02">Applicability of <cite doc="D.C. Law 22-285" path="">D.C. Law 22-285</cite>: <cite doc="D.C. Law 22-285" path="§8">§ 8 of D.C. Law 22-285</cite> provided that the creation of this section by <cite doc="D.C. Law 22-285" path="§3">§ 3 of D.C. Law 22-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§48-852.02" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-852.02" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="48|8F|II" num-value="48-852.03" codified:doc="D.C. Code" codified:path="§48-852.03"/>
@@ -126,7 +126,7 @@
         <text>Transferred to a destruction location in a manner that prevents the diversion of controlled substances and is consistent with the agency's standard procedures for transferring illicit controlled substances.</text>
       </para>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§48-852.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-852.03">Applicability of <cite doc="D.C. Law 22-285" path="">D.C. Law 22-285</cite>: <cite doc="D.C. Law 22-285" path="§8">§ 8 of D.C. Law 22-285</cite> provided that the creation of this section by <cite doc="D.C. Law 22-285" path="§4">§ 4 of D.C. Law 22-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§48-852.03" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-852.03" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="48|8F|II" num-value="48-852.04" codified:doc="D.C. Code" codified:path="§48-852.04"/>
@@ -167,7 +167,7 @@
       <num>(d)</num>
       <text>Authorized collectors shall distribute educational materials to patients regarding the safe consumer disposal of controlled substances.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§48-852.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-852.04">Applicability of <cite doc="D.C. Law 22-285" path="">D.C. Law 22-285</cite>: <cite doc="D.C. Law 22-285" path="§8">§ 8 of D.C. Law 22-285</cite> provided that the creation of this section by <cite doc="D.C. Law 22-285" path="§5">§ 5 of D.C. Law 22-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§48-852.04" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-852.04" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="48|8F|II" num-value="48-852.05" codified:doc="D.C. Code" codified:path="§48-852.05"/>
@@ -266,7 +266,7 @@
       <num>(g)</num>
       <text>The installation and removal of the inner liner of the collection receptacle shall be performed by or under the supervision of at least 2 employees of the authorized collector.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§48-852.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-852.05">Applicability of <cite doc="D.C. Law 22-285" path="">D.C. Law 22-285</cite>: <cite doc="D.C. Law 22-285" path="§8">§ 8 of D.C. Law 22-285</cite> provided that the creation of this section by <cite doc="D.C. Law 22-285" path="§6">§ 6 of D.C. Law 22-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§48-852.05" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-852.05" codified:display="Note"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="48|8F|II" num-value="48-852.06" codified:doc="D.C. Code" codified:path="§48-852.06"/>
@@ -307,7 +307,7 @@
       <num>(e)</num>
       <text>An authorized collector shall not operate a collection receptacle at a long-term care facility until its registration has been modified in accordance with 21 C.F.R. § 1301.51.</text>
     </para>
-    <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§48-852.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-852.06">Applicability of <cite doc="D.C. Law 22-285" path="">D.C. Law 22-285</cite>: <cite doc="D.C. Law 22-285" path="§8">§ 8 of D.C. Law 22-285</cite> provided that the creation of this section by <cite doc="D.C. Law 22-285" path="§7">§ 7 of D.C. Law 22-285</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§48-852.06" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§48-852.06" codified:display="Note"/>
   </section>
   <section codify:applicability="effective">
     <codify:insert doc="D.C. Code" path="48|8F|II" num-value="48-852.07" codified:doc="D.C. Code" codified:path="§48-852.07"/>
@@ -344,5 +344,4 @@
     <heading>Effective date.</heading>
     <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
   </section>
-  <annotation app="2019-04-11" doc="D.C. Law 22-285" eff="2019-04-11" path="§8|(a)" type="History" display="false"/>
 </document>

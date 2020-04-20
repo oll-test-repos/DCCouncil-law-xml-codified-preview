@@ -41,7 +41,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-2413" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2413">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-549" path="§2">§ 2 of Neighborhood Safety and Engagement Fund Congressional Review Emergency Amendment Act of 2018 (D.C. Act 22-549, Dec. 26, 2018, 66 DCR 223)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§7-2413" codified:doc="D.C. Code" codified:path="§7-2413" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

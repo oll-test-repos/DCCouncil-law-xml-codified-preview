@@ -69,7 +69,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-362" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-362">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-57" path="§2">§ 2 of Florida Avenue Multimodal Project Completion Emergency Amendment Act of 2019 (D.C. Act 23-57, June 1, 2019, 66 DCR 6788)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§47-362" codified:doc="D.C. Code" codified:path="§47-362" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

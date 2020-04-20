@@ -22,7 +22,7 @@
   <section>
     <num>2</num>
     <text>Section 201(f) of the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code § 2-352.01(f)), is amended by striking the phrase "requirements of this act" and inserting the phrase "requirements of this act, except as provided in section 102(e) of the Public-Private Partnership Act of 2014, effective March 11, 2015 (D.C. Law 20-228; D.C. Official Code § 2-272.01(e))" in its place.</text>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-352.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-352.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-490" path="§2">§ 2 of Office of Public-Private Partnerships Delegation of Authority Congressional Review Emergency Amendment Act of 2018 (D.C. Act 22-490, Oct. 25, 2018, 65 DCR 12062)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-352.01" codified:doc="D.C. Code" codified:path="§2-352.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -41,7 +41,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-272.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-272.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-490" path="§3">§ 3 of Office of Public-Private Partnerships Delegation of Authority Congressional Review Emergency Amendment Act of 2018 (D.C. Act 22-490, Oct. 25, 2018, 65 DCR 12062)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-272.01" codified:doc="D.C. Code" codified:path="§2-272.01" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

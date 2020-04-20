@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 16-132">
   <num type="law">16-132</num>
-  <reason>Repealed</reason>
   <heading type="short">Washington Metropolitan Area Transit Authority Fund Act of 2006</heading>
   <meta>
     <effective>2006-06-16</effective>
@@ -22,5 +21,4 @@
     <num>3</num>
     <codified:stub doc="D.C. Code" path="§9-1108.02"/>
   </section>
-  <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7202" type="History"/>
 </document>

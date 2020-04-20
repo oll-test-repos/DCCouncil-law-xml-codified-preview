@@ -47,7 +47,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-812" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-812">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-556" path="§2|(a)">§ 2(a) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§47-812" codified:doc="D.C. Code" codified:path="§47-812" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -222,7 +222,7 @@
             <text>Strike the phrase "this chapter." and insert the phrase "this chapter, including a person or retailer that does not have a physical presence in the District that in the previous calendar year or the current calendar year had gross receipts from all retail sales delivered into the District that exceeds $100,000 or 200 or more separate retail sales delivered into the District." in its place.</text>
           </para>
         </para>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-2001" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2001">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-556" path="§2|(b)|(2)">§ 2(b)(2) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§47-2001" codified:doc="D.C. Code" codified:path="§47-2001" codified:display="Note"/>
       </para>
       <para>
         <num>(3)</num>
@@ -236,7 +236,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-2002.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2002.01">For temporary (90 days) creation of § 47-2002.01a, see <cite doc="D.C. Act 22-556" path="§2|(b)|(3)">§ 2(b)(3) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
+        <codify:emergency doc="D.C. Code" path="§47-2002.01" action="creation of § 47-2002.01a" codified:doc="D.C. Code" codified:path="§47-2002.01" codified:display="Note"/>
       </para>
     </para>
     <para>
@@ -261,20 +261,20 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-2201" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2201">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-556" path="§2|(c)">§ 2(c) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§47-2201" codified:doc="D.C. Code" codified:path="§47-2201" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
       <text>Section 47-2501.01(a) is amended by striking the phrase "radio service with or without" and inserting the phrase "radio service, other than sales of digital goods as defined in § 47-2001(d-1) and subject to tax pursuant to § 47-2001(n)(1)(C) or § 47-2201(a)(1)(R)), or both, with or without" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-2501.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-2501.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-556" path="§2|(d)">§ 2(d) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§47-2501.01" codified:doc="D.C. Code" codified:path="§47-2501.01" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
       <text>Chapter 39A is repealed.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-3931" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-3931">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-556" path="§2|(e)">§ 2(e) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-3932" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-3932">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-556" path="§2|(e)">§ 2(e) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-3933" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-3933">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-556" path="§2|(e)">§ 2(e) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§47-3934" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-3934">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-556" path="§2|(e)">§ 2(e) of Internet Sales Tax Emergency Amendment Act of 2018 (D.C. Act 22-556, Dec. 31, 2018, 66 DCR 262)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§47-3931" action="repeal of this section" codified:doc="D.C. Code" codified:path="§47-3931" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§47-3932" action="repeal of this section" codified:doc="D.C. Code" codified:path="§47-3932" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§47-3933" action="repeal of this section" codified:doc="D.C. Code" codified:path="§47-3933" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§47-3934" action="repeal of this section" codified:doc="D.C. Code" codified:path="§47-3934" codified:display="Note"/>
     </para>
   </section>
   <section>

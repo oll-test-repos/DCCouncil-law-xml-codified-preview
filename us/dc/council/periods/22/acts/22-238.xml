@@ -59,7 +59,7 @@
       <num>(b)</num>
       <text>The Mayor may remove or suspend any Member or Alternate Member of the Board for misconduct or neglect of duty, or for other good cause, after notice to the Member or Alternate Member of the Board and to the Board.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.11" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.11">For temporary (90 days) authority to appoint Members of the Board of Directors of the Washington Metrorail Safety Commission, see <cite doc="D.C. Act 22-238" path="§2">§ 2 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§9-1109.11" action="authority to appoint Members of the Board of Directors of the Washington Metrorail Safety Commission" codified:doc="D.C. Code" codified:path="§9-1109.11" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -83,25 +83,25 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-523.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-523.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-238" path="§3">§ 3 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-523.01" codified:doc="D.C. Code" codified:path="§1-523.01" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
     <text>The Washington Metropolitan Area Transit Authority Safety Regulation Act of 1997, effective September 23, 1997 (D.C. Law 12-20; D.C. Official Code § 9-1109.01 <em>et seq.</em>), is repealed.</text>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.01">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.02" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.02">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.03">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.04" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.04">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.05" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.05">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.06">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.07" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.07">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.08" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.08">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-238" path="§4">§ 4 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§9-1109.01" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.01" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§9-1109.02" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.02" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§9-1109.03" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.03" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§9-1109.04" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.04" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§9-1109.05" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.05" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§9-1109.06" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.06" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§9-1109.07" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.07" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§9-1109.08" action="repeal of this section" codified:doc="D.C. Code" codified:path="§9-1109.08" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>
     <text>The Washington Metrorail Safety Commission Board of Directors Appointment Temporary Amendment Act of 2017, enacted on November 29, 2017 (D.C. Act 22-189; 64 DCR 12310), is repealed.</text>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§9-1109.11" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§9-1109.11">For temporary (90 days) repeal of temporary D.C. Law 22-43, see <cite doc="D.C. Act 22-238" path="§5">§ 5 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-523.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-523.01">For temporary (90 days) repeal of temporary D.C. Law 22-43, see <cite doc="D.C. Act 22-238" path="§5">§ 5 of Washington Metrorail Safety Commission Board of Directors Appointment Emergency Amendment Act of 2018 (D.C. Act 22-238, Jan. 27, 2018, 65 DCR 819)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§9-1109.11" action="repeal of temporary D.C. Law 22-43" codified:doc="D.C. Code" codified:path="§9-1109.11" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§1-523.01" action="repeal of temporary D.C. Law 22-43" codified:doc="D.C. Code" codified:path="§1-523.01" codified:display="Note"/>
   </section>
   <section>
     <num>6</num>

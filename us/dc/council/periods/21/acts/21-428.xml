@@ -33,7 +33,7 @@
         <num>(2)</num>
         <text>Strike the phrase "or the District of Columbia" and insert the word "government" in its place.</text>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§32-1002" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1002">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-428" path="§2|(a)">§ 2(a) of Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9271)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§32-1002" codified:doc="D.C. Code" codified:path="§32-1002" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -141,12 +141,12 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§32-1003" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1003">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-428" path="§2|(b)">§ 2(b) of Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9271)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§32-1003" codified:doc="D.C. Code" codified:path="§32-1003" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 10a(c)(2) (D.C. Official Code § 32-1009.01(c)(2)) is amended by striking the phrase "an annual" and inserting the phrase "a quarterly" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§32-1009.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1009.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-428" path="§2|(c)">§ 2(c) of Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9271)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§32-1009.01" codified:doc="D.C. Code" codified:path="§32-1009.01" codified:display="Note"/>
     </para>
     <para>
       <num>(d)</num>
@@ -193,7 +193,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-220.03" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-220.03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-428" path="§3|(a)">§ 3(a) of Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9271)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-220.03" codified:doc="D.C. Code" codified:path="§2-220.03" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -217,7 +217,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-220.11" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-220.11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-428" path="§3|(b)">§ 3(b) of Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9271)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§2-220.11" codified:doc="D.C. Code" codified:path="§2-220.11" codified:display="Note"/>
     </para>
   </section>
   <section>

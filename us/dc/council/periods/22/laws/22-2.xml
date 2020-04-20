@@ -87,7 +87,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§10-801" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-801">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-2" path="§2">§ 2 of Land Disposition Transparency Temporary Amendment Act of 2017 (D.C. Law 22-2, June 10, 2017, 64 DCR 4021)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§10-801" codified:doc="D.C. Code" codified:path="§10-801" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

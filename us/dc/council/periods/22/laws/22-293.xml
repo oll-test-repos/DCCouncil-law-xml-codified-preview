@@ -234,7 +234,7 @@
       </para>
     </para>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="10|1A" num-value="10-171.04" codified:doc="D.C. Code" codified:path="§10-171.04"/>
     <num>5</num>
     <heading>Annual testing.</heading>
@@ -300,10 +300,8 @@
         </para>
       </para>
     </para>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7169" type="History" display="false"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="§8a|(a)" type="History" display="false"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="10|1A" num-value="10-171.05" codified:doc="D.C. Code" codified:path="§10-171.05"/>
     <num>6</num>
     <heading>Study of unsafe surface and ambient temperatures at public recreational spaces.</heading>
@@ -323,8 +321,6 @@
         <text>A summary of steps that DGS and other District agencies would need to take to implement a protocol to test the District's public recreational spaces for unsafe surface and ambient temperatures.</text>
       </para>
     </para>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7169" type="History" display="false"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="§8a|(a)" type="History" display="false"/>
   </section>
   <section>
     <codify:insert doc="D.C. Code" path="10|1A" num-value="10-171.06" codified:doc="D.C. Code" codified:path="§10-171.06"/>
@@ -337,38 +333,6 @@
     <num>8</num>
     <heading>No private right of action against the District.</heading>
     <text>Nothing in <code-cite doc="D.C. Code" path="10|1A">this act</code-cite> shall create a private right of action against the the District or its officers, employees, agents, representatives, contractors, successors, and assigns based upon compliance or noncompliance with its provisions. No person or entity may assert any claim or right as a beneficiary or protected class under this section in any civil, criminal, or administrative action against the District.</text>
-  </section>
-  <section>
-    <num>8a</num>
-    <heading>Applicability.</heading>
-    <para>
-      <num>(a)</num>
-      <text>Sections 5 and 6 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 22-293" path="§5" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§10-171.04"/>
-      <codify:applicability doc="D.C. Law 22-293" path="§6" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§10-171.05"/>
-      <codify:annotation doc="D.C. Code" path="§10-171.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-171.04">
-              Applicability of <cite doc="D.C. Law 22-293">D.C. Law 22-293</cite>: <cite doc="D.C. Law 23-16" path="§7169">§ 7169 of D.C. Law 23-16</cite> provided that the creation of this section by <cite doc="D.C. Law 22-293" path="§5">§ 5 of D.C. Law 22-293</cite>, is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
-              </codify:annotation>
-      <codify:annotation doc="D.C. Code" path="§10-171.05" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§10-171.05">
-              Applicability of <cite doc="D.C. Law 22-293">D.C. Law 22-293</cite>: <cite doc="D.C. Law 23-16" path="§7169">§ 7169 of D.C. Law 23-16</cite> provided that the creation of this section by <cite doc="D.C. Law 22-293" path="§6">§ 6 of D.C. Law 22-293</cite>, is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
-              </codify:annotation>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan and provide notice to the Budget Director of the Council of the certification.</text>
-    </para>
-    <para>
-      <num>(c)</num>
-      <para>
-        <num>(1)</num>
-        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The date of publication of the notice of the certification shall not affect the applicability of the provisions identified in subsection (a) of this section.</text>
-      </para>
-    </para>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7169" type="History"/>
   </section>
   <section>
     <num>9</num>

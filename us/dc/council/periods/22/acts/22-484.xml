@@ -29,7 +29,7 @@
       <num>(b)</num>
       <text>The Department of Public Works may issue notices of infraction for the parking violations described in subsection (a) of this section.</text>
     </para>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§50-2301.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§50-2301.01">For temporary (90 days) Southwest Waterfront parking violations, see <cite doc="D.C. Act 22-484" path="§2">§ 2 of Southwest Waterfront Parking Enforcement Congressional Review Emergency Act of 2018 (D.C. Act 22-484, Oct. 22, 2018, 65 DCR12038)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§50-2301.01" action="Southwest Waterfront parking violations" codified:doc="D.C. Code" codified:path="§50-2301.01" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

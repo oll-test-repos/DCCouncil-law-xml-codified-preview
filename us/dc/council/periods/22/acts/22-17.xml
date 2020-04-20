@@ -28,7 +28,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§2-1217.73" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1217.73">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-17" path="§2">§ 2 of H Street, N.E., Retail Priority Area Clarification Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-17, Feb. 27, 2017, 64 DCR 2363)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§2-1217.73" codified:doc="D.C. Code" codified:path="§2-1217.73" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -40,7 +40,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§1-325.173" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-325.173">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-17" path="§3">§ 3 of H Street, N.E., Retail Priority Area Clarification Congressional Review Emergency Amendment Act of 2017 (D.C. Act 22-17, Feb. 27, 2017, 64 DCR 2363)</cite>.</codify:annotation>
+    <codify:emergency doc="D.C. Code" path="§1-325.173" codified:doc="D.C. Code" codified:path="§1-325.173" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

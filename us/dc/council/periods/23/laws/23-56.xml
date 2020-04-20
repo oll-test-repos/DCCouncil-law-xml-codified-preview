@@ -69,7 +69,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§24-211.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§24-211.07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-56" path="§2">§ 2 of Sanctuary Values Temporary Amendment Act of 2019 (D.C. Law 23-56, Feb. 27, 2020, 66 DCR 15343)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§24-211.07" codified:doc="D.C. Code" codified:path="§24-211.07" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

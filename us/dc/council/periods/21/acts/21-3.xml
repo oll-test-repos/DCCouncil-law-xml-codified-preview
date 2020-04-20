@@ -31,12 +31,12 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.01" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-3" path="§2|(a)">§ 2(a) of Medical Marijuana Expansion Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-3, Feb. 19, 2015, 62 DCR 2468)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-1671.01" codified:doc="D.C. Code" codified:path="§7-1671.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 7(e)(2) (D.C. Official Code § 7-1671.06(e)(2)) is amended by striking the number "95" and inserting the number "500" in its place.</text>
-      <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.06" applicability="" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-3" path="§2|(b)">§ 2(b) of Medical Marijuana Expansion Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-3, Feb. 19, 2015, 62 DCR 2468)</cite>.</codify:annotation>
+      <codify:emergency doc="D.C. Code" path="§7-1671.06" codified:doc="D.C. Code" codified:path="§7-1671.06" codified:display="Note"/>
     </para>
   </section>
   <section>

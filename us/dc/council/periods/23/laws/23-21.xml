@@ -42,7 +42,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§47-1099.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-1099.04">For temporary (225 days) creation of [§ 47-1099.05], the Children’s Hospital real property tax exemption, see <cite doc="D.C. Law 23-21" path="§2">§ 2 of Children's Hospital Research and Innovation Campus Phase 1 Temporary Amendment Act of 2019 (D.C. Law 23-21, Sept. 11, 2019, 66 DCR 9726)</cite>.</codify:annotation>
+    <codify:temporary doc="D.C. Code" path="§47-1099.04" action="creation of [§ 47-1099.05], the Children’s Hospital real property tax exemption" codified:doc="D.C. Code" codified:path="§47-1099.04" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>

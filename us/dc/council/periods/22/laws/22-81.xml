@@ -21,7 +21,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "East End Commercial Real Property Tax Rate Reduction Amendment Act of 2018".</text>
-  <section codify:applicability="notfunded">
+  <section>
     <num>2</num>
     <text>Section 47-812 of the District of Columbia Official Code is amended by adding a new subsection (b-11) to read as follows:</text>
     <include>
@@ -54,10 +54,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§47-812|(b-11)">Applicability of <cite doc="D.C. Law 22-81" path="">D.C. Law 22-81</cite>: <cite doc="D.C. Law 22-81" path="§3">§ 3 of D.C. Law 22-81</cite> provided that the change made to this section by <cite doc="D.C. Law 22-81" path="§2">§ 2 of D.C. Law 22-81</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
-    <annotation type="Applicability" codified:display="Note" app="2018-03-29" eff="2018-03-29" doc="D.C. Law 22-81" path="§2" display="false">Applicability of <cite doc="D.C. Law 22-81" path="">D.C. Law 22-81</cite>: <cite doc="D.C. Law 22-81" path="§3">§ 3 of D.C. Law 22-81</cite> provided that the change made to this section by <cite doc="D.C. Law 22-81" path="§2">§ 2 of D.C. Law 22-81</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2018-03-29" doc="D.C. Law 22-81" eff="2018-03-29" path="§2" type="History" display="false"/>
-    <annotation app="2018-03-29" doc="D.C. Law 22-81" eff="2018-03-29" path="§3|(a)" type="History" display="false"/>
+    <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§47-812|(b-11)" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -97,6 +94,4 @@
     <heading>Effective date.</heading>
     <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
   </section>
-  <annotation type="Applicability" codified:display="Note" app="2018-03-29" eff="2018-03-29" doc="D.C. Law 22-81" path="§2">Applicability of <cite doc="D.C. Law 22-81" path="">D.C. Law 22-81</cite>: <cite doc="D.C. Law 22-81" path="§3">§ 3 of D.C. Law 22-81</cite> provided that the change made to this section by <cite doc="D.C. Law 22-81" path="§2">§ 2 of D.C. Law 22-81</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-  <annotation app="2018-03-29" doc="D.C. Law 22-81" eff="2018-03-29" path="§2" type="History"/>
 </document>
