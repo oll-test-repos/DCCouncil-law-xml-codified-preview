@@ -46,6 +46,7 @@
     <xi:include href="./sections/48-312.xml"/>
     <xi:include href="./sections/48-313.xml"/>
     <xi:include href="./sections/48-314.xml"/>
+    <xi:include href="./sections/48-314.01.xml"/>
     <xi:include href="./sections/48-315.xml"/>
   </container>
   <container>
@@ -106,6 +107,13 @@
       <xi:include href="./sections/48-631.xml"/>
       <xi:include href="./sections/48-632.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6A</num>
+    <heading>Registration of Third-party Food Delivery Commissions During a Public Health Emergency.</heading>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="II" type="History" display="false"/>
+    <xi:include href="./sections/48-641.xml"/>
   </container>
   <subheading>Subtitle II. Prescription Drugs.</subheading>
   <container>
@@ -319,6 +327,7 @@
     <xi:include href="./sections/48-853.02.xml"/>
     <xi:include href="./sections/48-853.03.xml"/>
     <xi:include href="./sections/48-853.03a.xml"/>
+    <xi:include href="./sections/48-853.03b.xml"/>
     <xi:include href="./sections/48-853.04.xml"/>
     <xi:include href="./sections/48-853.05.xml"/>
     <xi:include href="./sections/48-853.06.xml"/>

@@ -165,6 +165,14 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>IV-D</num>
+      <heading>Official Music of the District of Columbia.</heading>
+      <annotation app="2020-04-11" doc="D.C. Law 23-71" eff="2020-04-11" path="" type="History" display="false"/>
+      <xi:include href="./sections/1-167.01.xml"/>
+      <xi:include href="./sections/1-167.02.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Official Fruit of the District of Columbia.</heading>
       <xi:include href="./sections/1-171.xml"/>
@@ -668,6 +676,14 @@
         <heading>Office of the Deputy Mayor for Public Safety and Justice.</heading>
         <xi:include href="./sections/1-301.191.xml"/>
       </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>M</num>
+        <heading>Office of Resilience and Recovery.</heading>
+        <annotation app="2020-05-06" doc="D.C. Law 23-84" eff="2020-05-06" path="" type="History" display="false"/>
+        <xi:include href="./sections/1-301.201.xml"/>
+        <xi:include href="./sections/1-301.202.xml"/>
+      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -987,7 +1003,7 @@
       <container>
         <prefix>Part</prefix>
         <num>G</num>
-        <heading>Fee Collection Incentive Fund.</heading>
+        <heading>Fee Collection Incentive Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7103" type="History"/></heading>
         <xi:include href="./sections/1-325.61.xml"/>
       </container>
       <container>
@@ -1029,7 +1045,7 @@
       <container>
         <prefix>Part</prefix>
         <num>N</num>
-        <heading>Pedestrian and Bicycle Safety and Enhancement Fund.</heading>
+        <heading>Pedestrian and Bicycle Safety and Enhancement Fund. [Repealed.]</heading>
         <xi:include href="./sections/1-325.131.xml"/>
       </container>
       <container>
@@ -1055,7 +1071,7 @@
       <container>
         <prefix>Part</prefix>
         <num>Q</num>
-        <heading>Senior Housing Modernization Grant Fund.</heading>
+        <heading>Senior Housing Modernization Grant Fund. [Repealed.]</heading>
         <xi:include href="./sections/1-325.161.xml"/>
         <xi:include href="./sections/1-325.162.xml"/>
         <xi:include href="./sections/1-325.163.xml"/>
@@ -1113,7 +1129,7 @@
       <container>
         <prefix>Part</prefix>
         <num>Y</num>
-        <heading>Bank Fees Special Fund.</heading>
+        <heading>WMATA Momentum Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7104" type="History"/></heading>
         <xi:include href="./sections/1-325.241.xml"/>
       </container>
       <container>
@@ -1155,7 +1171,7 @@
       <container>
         <prefix>Part</prefix>
         <num>FF</num>
-        <heading>Department of Behavioral Health Enterprise Fund.</heading>
+        <heading>WMATA Operations Support Fund. [Repealed.]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7105" type="History"/></heading>
         <xi:include href="./sections/1-325.311.xml"/>
       </container>
       <container>
@@ -1457,6 +1473,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>III-A</num>
+      <heading>Review Period for any Matter Transmitted to the Council for Approval or Disapproval During a Public Health Emergency.</heading>
+      <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§904|(b)" type="History" display="false"/>
+      <xi:include href="./sections/1-523.11.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Modifications of Board of Education Reduction-In-Force Procedures.</heading>
       <xi:include href="./sections/1-525.01.xml"/>
@@ -1718,6 +1741,10 @@
       <xi:include href="./sections/1-610.83.xml"/>
       <xi:include href="./sections/1-610.84.xml"/>
       <xi:include href="./sections/1-610.85.xml"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7156" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-211, see <cite doc="D.C. Act 23-91" path="§7156">§ 7156 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7156" type="History" display="false"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7156" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-211, see <cite doc="D.C. Act 23-112" path="§7156">§ 7156 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7156" type="History" display="false"/>
       <annotation doc="D.C. Law 23-16" path="§7156" type="Applicability" history="false" display-template="" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite>: <cite doc="D.C. Law 23-16" path="§7156">§ 7156 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-211" path="§4">§ 4 of D.C. Law 22-211</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-211">D.C. Law 22-211</cite> has been implemented.
         </annotation>
@@ -2464,6 +2491,7 @@
       <xi:include href="./sections/1-1001.06.xml"/>
       <xi:include href="./sections/1-1001.06a.xml"/>
       <xi:include href="./sections/1-1001.07.xml"/>
+      <xi:include href="./sections/1-1001.07a.xml"/>
       <xi:include href="./sections/1-1001.08.xml"/>
       <xi:include href="./sections/1-1001.09.xml"/>
       <xi:include href="./sections/1-1001.09a.xml"/>

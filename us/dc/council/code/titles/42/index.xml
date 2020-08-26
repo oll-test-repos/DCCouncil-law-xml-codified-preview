@@ -169,6 +169,7 @@
     <xi:include href="./sections/42-815.02.xml"/>
     <xi:include href="./sections/42-815.03.xml"/>
     <xi:include href="./sections/42-815.04.xml"/>
+    <xi:include href="./sections/42-815.05.xml"/>
     <xi:include href="./sections/42-816.xml"/>
     <xi:include href="./sections/42-817.xml"/>
     <xi:include href="./sections/42-818.xml"/>
@@ -1207,6 +1208,35 @@
       <xi:include href="./sections/42-3173.12.xml"/>
     </container>
   </container>
+  <subheading>Subtitle VI-A. Special Landlord and Tenant Responsibilities During a Public Health Emergency.<annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="IV" type="History" display="false"/></subheading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31H</num>
+    <heading>Mortgage Relief During a Public Health Emergency.</heading>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3191.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31I</num>
+    <heading>Tenant Rent-Payment_Plan Programs During a Public Health Emergency.</heading>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3192.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31J</num>
+    <heading>Residential cleaning During a Public Health Emergency.</heading>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3193.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31K</num>
+    <heading>Rent Increase Prohibition During a Public Health Emergency.</heading>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3194.01.xml"/>
+  </container>
   <subheading>Subtitle VII. Rental Housing.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1368,10 +1398,10 @@
       <xi:include href="./sections/42-3405.09.xml"/>
       <xi:include href="./sections/42-3405.10.xml"/>
       <xi:include href="./sections/42-3405.10a.xml"/>
+      <xi:include href="./sections/42-3405.10b.xml"/>
       <xi:include href="./sections/42-3405.11.xml"/>
       <xi:include href="./sections/42-3405.12.xml"/>
       <xi:include href="./sections/42-3405.13.xml"/>
-      <xi:include href="./sections/42-3405.14.xml"/>
     </container>
   </container>
   <container>
@@ -1522,6 +1552,7 @@
       <xi:include href="./sections/42-3509.07.xml"/>
       <xi:include href="./sections/42-3509.08.xml"/>
       <xi:include href="./sections/42-3509.09.xml"/>
+      <xi:include href="./sections/42-3509.10.xml"/>
       <xi:include href="./sections/42-3509.11.xml"/>
     </container>
   </container>

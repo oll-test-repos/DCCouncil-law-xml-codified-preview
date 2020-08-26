@@ -8,10 +8,7 @@
     <prefix>Chapter</prefix>
     <num>0</num>
     <heading>Mayoral Authority During a Public Health Emergency.</heading>
-    <annotation doc="D.C. Act 23-247" type="Applicability" history="false" app="2020-03-17" eff="2020-03-17" path="§701" display="false"><cite doc="D.C. Act 23-247" path="§701">Section 701 of D.C. Act 23-247</cite> provided that changes made to this section by D.C. Act 23-247 shall apply as of March 11, 2020.
-      </annotation>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§701" type="History" display="false"/>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="V" type="History" display="false"/>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="VIII" type="History" display="false"/>
     <xi:include href="./sections/3-001.xml"/>
   </container>
   <container>
@@ -108,6 +105,7 @@
     <xi:include href="./sections/3-401.xml"/>
     <xi:include href="./sections/3-402.xml"/>
     <xi:include href="./sections/3-403.xml"/>
+    <xi:include href="./sections/3-403.01.xml"/>
     <xi:include href="./sections/3-404.xml"/>
     <xi:include href="./sections/3-405.xml"/>
     <xi:include href="./sections/3-406.xml"/>
@@ -421,6 +419,33 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>VI-E</num>
+      <reason>Not Funded</reason>
+      <heading>Maternity Centers' Certification; Operations Administration.</heading>
+      <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
+    </annotation>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§6|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+      <xi:include href="./sections/3-1206.61.xml"/>
+      <xi:include href="./sections/3-1206.62.xml"/>
+      <xi:include href="./sections/3-1206.63.xml"/>
+      <xi:include href="./sections/3-1206.64.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VI-F</num>
+      <reason>Not Funded</reason>
+      <heading>Medicaid Reimbursement for Certified Professional MIdwives.</heading>
+      <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
+    </annotation>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§6|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+      <xi:include href="./sections/3-1206.71.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Qualifications for Licensure to Practice Dietetics and Nutrition; Waiver of Examination.</heading>
       <xi:include href="./sections/3-1207.01.xml"/>
@@ -524,6 +549,16 @@
       <xi:include href="./sections/3-1208.63.xml"/>
       <xi:include href="./sections/3-1208.64.xml"/>
       <xi:include href="./sections/3-1208.65.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VIII-E</num>
+      <reason>Not Funded</reason>
+      <heading>Qualifications for Licensure to Practice as a Professional Art Therapist.</heading>
+      <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§3|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History" display="false"/>
+      <xi:include href="./sections/3-1208.71.xml"/>
+      <xi:include href="./sections/3-1208.72.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -649,7 +684,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>13</num>
-    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/></heading>
+    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation><annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/><annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation><annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/><annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/></heading>
     <xi:include href="./sections/3-1301.xml"/>
     <xi:include href="./sections/3-1302.xml"/>
     <xi:include href="./sections/3-1303.xml"/>
@@ -741,6 +776,16 @@
     <heading>Commission on African-American Affairs.</heading>
     <xi:include href="./sections/3-1441.xml"/>
     <xi:include href="./sections/3-1442.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14C</num>
+    <reason>Not Funded</reason>
+    <heading>Office on Caribbean Affairs.</heading>
+    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
+    <xi:include href="./sections/3-1451.xml"/>
+    <xi:include href="./sections/3-1452.xml"/>
   </container>
   <subheading>Subtitle II. Repealed and Expired Provisions.</subheading>
   <container>

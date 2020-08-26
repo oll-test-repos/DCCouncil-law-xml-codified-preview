@@ -12,7 +12,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>No client transferred, suspended, or terminated pursuant to subsection (a) of this section shall have the right to request mediation of the action from the provider pursuant to <cite path="§4-754.39">§ 4-754.39</cite> or to continue to receive shelter or housing services provided within the Continuum of Care without change pending appeal pursuant to <cite path="§4-754.11|(18)" proof="true">§ 4-754.11(18)</cite>.</text>
+    <text>No client transferred, suspended, or terminated pursuant to subsection (a) of this section shall have the right to request mediation of the action from the provider pursuant to <cite path="§4-754.39">§ 4-754.39</cite> or to continue to receive shelter or housing services provided within the Continuum of Care without change pending appeal pursuant to [<cite path="§4-754.11|(a)|(18)" proof="true">§ 4-754.11(a)(18)</cite>].</text>
   </para>
   <para>
     <num>(d)</num>
@@ -49,7 +49,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>When a client's continued presence at a shelter location materially impairs a provider's ability to provide services to other clients at the location; or.</text>
+        <text>When a client's continued presence at a shelter location materially impairs a provider's ability to provide services to other clients at the location; or</text>
       </para>
       <para>
         <num>(C)</num>
@@ -58,7 +58,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The requirements of subsections (b) through (e) of this section shall apply to any client transferred pursuant to paragraphs (1)(B) or (1)(C) of this subsection.</text>
+      <text>The requirements of subsections (b) through (e) of this section shall apply to any client transferred pursuant to paragraph (1)(B) or (C) of this subsection.</text>
     </para>
   </para>
   <annotations>
@@ -68,12 +68,9 @@
     <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(bb)|(1)|(B)" type="History"/>
     <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(bb)|(2)" type="History"/>
     <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(bb)|(3)" type="History"/>
-    <annotation doc="D.C. Act 23-247" type="Applicability" history="false" app="2020-03-17" eff="2020-03-17" path="§701"><cite doc="D.C. Act 23-247" path="§701">Section 701 of D.C. Act 23-247</cite> provided that changes made to this section by D.C. Act 23-247 shall apply as of March 11, 2020.
-      </annotation>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§701" type="History" display="false"/>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§311|(e)|(1)|(A)" type="History"/>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§311|(e)|(1)|(B)" type="History"/>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§311|(e)|(1)|(C)" type="History"/>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§311|(e)|(2)" type="History"/>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§502|(e)|(1)|(A)" type="History"/>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§502|(e)|(1)|(B)" type="History"/>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§502|(e)|(1)|(C)" type="History"/>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§502|(e)|(2)" type="History"/>
   </annotations>
 </section>

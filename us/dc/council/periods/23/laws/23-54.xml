@@ -833,9 +833,9 @@
         <para>
           <num>(A)</num>
           <text>Subsection (a) is amended by striking the word "permit" and inserting the word "endorsement" in its place.</text>
-          <codify:find-replace path="(a)" count="4" codified:doc="D.C. Code" codified:path="§25-128|(a)">
-            <find>permit</find>
-            <replace>endorsement</replace>
+          <codify:find-replace path="(a)" count="3" codified:doc="D.C. Code" codified:path="§25-128|(a)">
+            <find>pub permit</find>
+            <replace>pub endorsement</replace>
           </codify:find-replace>
         </para>
         <para>
@@ -907,6 +907,10 @@
           </tr>
         </find>
         <replace/>
+      </codify:find-replace>
+      <codify:find-replace path="§25-508" count="1" codified:doc="D.C. Code" codified:path="§25-508">
+        <find>$1,000/year</find>
+        <replace>$1,000/year.</replace>
       </codify:find-replace>
     </para>
     <para>

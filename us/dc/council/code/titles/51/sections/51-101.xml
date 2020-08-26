@@ -4,7 +4,7 @@
   <heading>Definitions.</heading>
   <text>As used in this subchapter, unless the context indicates otherwise:</text>
   <para>
-    <num undesignated="(a)">(a)</num>
+    <num undesignated="true">(a)</num>
     <para>
       <num>(1)</num>
       <text>The term “employer” means every individual and type of organization for whom services are performed in employment.</text>
@@ -34,19 +34,11 @@
             </para>
             <para>
               <num>(b)</num>
-              <text>As a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for sideline sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale or supplies for use in their business operations; provided, that for purposes of sub-subparagraph (i)(III) of this subparagraph, the term “employment” shall include services described in a. and b. above performed after December 31, 1971, only if:</text>
-              <para>
-                <num>(1)</num>
-                <text>The contract of service contemplates that substantially all of the services are to be performed personally by such individual;</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>The individual does not have a substantial investment in facilities used in connection with the performance of the services (other than in facilities for transportation); and</text>
-              </para>
-              <para>
-                <num>(3)</num>
-                <text>The services are not in the nature of a single transaction that is not part of a continuing relationship with the person for whom the services are performed.</text>
-              </para>
+              <text>As a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for sideline sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale or supplies for use in their business operations; provided, that for purposes of sub-subparagraph (i)(III) of this subparagraph, the term “employment” shall include services described in a. and b. above performed after December 31, 1971, only if:
+              <text><num>(1)</num><text>The contract of service contemplates that substantially all of the services are to be performed personally by such individual;</text></text>
+              <text><num>(2)</num><text>The individual does not have a substantial investment in facilities used in connection with the performance of the services (other than in facilities for transportation); and</text></text>
+              <text><num>(3)</num><text>The services are not in the nature of a single transaction that is not part of a continuing relationship with the person for whom the services are performed.</text></text>
+              </text>
             </para>
           </para>
         </para>
@@ -153,6 +145,10 @@
           <num>(vi)</num>
           <text>The term “employment” shall include personal or domestic service in a private home for an employer who paid cash remuneration of $500 or more in any calendar quarter. “Personal or domestic service” for the purpose of this sub-subparagraph shall include all persons employed by an employer in his capacity as a householder, as distinguished from a person employed by the employer in the pursuit of a trade, occupation, profession, enterprise, or vocation. After December 31, 1977, the term “employment” shall also include personal and domestic service in a local college club or a college fraternity or sorority for an employer who paid cash remuneration of $500 or more in any calendar quarter in the current or preceding calendar year to individuals employed in such domestic service.</text>
         </para>
+      </para>
+      <para>
+        <num>(A-i)</num>
+        <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and in conformity with federal law, the Director may determine that the term "employment" as defined in paragraph (2)(A) of this section may include individuals who are self-employed, seeking part-time employment, do not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under District or federal law or pandemic emergency unemployment compensation.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -603,5 +599,6 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2112|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-14" path="§2|(a)" codified:display="Note" app="2019-02-25" eff="2019-02-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-14" path="§2|(a)">§ 2(a) of Supporting Essential Workers Unemployment Insurance Emergency Amendment Act of 2019 (D.C. Act 23-14, Feb. 25, 2019, 66 DCR 2469)</cite>.</annotation>
     <annotation app="2019-02-25" doc="D.C. Act 23-14" eff="2019-02-25" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§102|(a)" type="History"/>
   </annotations>
 </section>

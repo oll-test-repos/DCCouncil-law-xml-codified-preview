@@ -1,10 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="23">
   <heading>Council Period 23</heading>
+  <collection name="covid-19">
+    <heading>COVID-19 Related Legislation</heading>
+    <xi:include href="./acts/23-405a.xml"/>
+    <xi:include href="./acts/23-384.xml"/>
+    <xi:include href="./acts/23-383.xml"/>
+    <xi:include href="./acts/23-382.xml"/>
+    <xi:include href="./acts/23-349.xml"/>
+    <xi:include href="./acts/23-348.xml"/>
+    <xi:include href="./acts/23-347.xml"/>
+    <xi:include href="./acts/23-346.xml"/>
+    <xi:include href="./acts/23-345.xml"/>
+    <xi:include href="./acts/23-344.xml"/>
+    <xi:include href="./acts/23-343.xml"/>
+    <xi:include href="./acts/23-335.xml"/>
+    <xi:include href="./acts/23-334.xml"/>
+    <xi:include href="./acts/23-332.xml"/>
+    <xi:include href="./acts/23-331.xml"/>
+    <xi:include href="./acts/23-328.xml"/>
+    <xi:include href="./acts/23-326.xml"/>
+    <xi:include href="./acts/23-318.xml"/>
+    <xi:include href="./acts/23-317.xml"/>
+    <xi:include href="./acts/23-299.xml"/>
+    <xi:include href="./acts/23-286.xml"/>
+    <xi:include href="./acts/23-247.xml"/>
+  </collection>
   <collection name="permanent">
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/23-126.xml"/>
+      <xi:include href="./laws/23-120.xml"/>
+      <xi:include href="./laws/23-119.xml"/>
+      <xi:include href="./laws/23-118.xml"/>
+      <xi:include href="./laws/23-117.xml"/>
+      <xi:include href="./laws/23-116.xml"/>
+      <xi:include href="./laws/23-115.xml"/>
+      <xi:include href="./laws/23-114.xml"/>
+      <xi:include href="./laws/23-113.xml"/>
+      <xi:include href="./laws/23-112.xml"/>
+      <xi:include href="./laws/23-111.xml"/>
+      <xi:include href="./laws/23-110.xml"/>
+      <xi:include href="./laws/23-109.xml"/>
+      <xi:include href="./laws/23-102.xml"/>
+      <xi:include href="./laws/23-101.xml"/>
+      <xi:include href="./laws/23-100.xml"/>
+      <xi:include href="./laws/23-99.xml"/>
+      <xi:include href="./laws/23-98.xml"/>
+      <xi:include href="./laws/23-97.xml"/>
+      <xi:include href="./laws/23-96.xml"/>
+      <xi:include href="./laws/23-92.xml"/>
+      <xi:include href="./laws/23-91.xml"/>
+      <xi:include href="./laws/23-90.xml"/>
+      <xi:include href="./laws/23-89.xml"/>
+      <xi:include href="./laws/23-88.xml"/>
+      <xi:include href="./laws/23-87.xml"/>
+      <xi:include href="./laws/23-86.xml"/>
+      <xi:include href="./laws/23-85.xml"/>
+      <xi:include href="./laws/23-84.xml"/>
+      <xi:include href="./laws/23-83.xml"/>
+      <xi:include href="./laws/23-81.xml"/>
+      <xi:include href="./laws/23-80.xml"/>
+      <xi:include href="./laws/23-77.xml"/>
+      <xi:include href="./laws/23-76.xml"/>
+      <xi:include href="./laws/23-75.xml"/>
+      <xi:include href="./laws/23-74.xml"/>
+      <xi:include href="./laws/23-73.xml"/>
+      <xi:include href="./laws/23-72.xml"/>
+      <xi:include href="./laws/23-71.xml"/>
+      <xi:include href="./laws/23-68.xml"/>
       <xi:include href="./laws/23-66.xml"/>
       <xi:include href="./laws/23-62.xml"/>
       <xi:include href="./laws/23-61.xml"/>
@@ -31,24 +96,38 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/23-254.xml"/>
-      <xi:include href="./acts/23-244.xml"/>
-      <xi:include href="./acts/23-243.xml"/>
-      <xi:include href="./acts/23-227.xml"/>
-      <xi:include href="./acts/23-226.xml"/>
-      <xi:include href="./acts/23-223.xml"/>
-      <xi:include href="./acts/23-222.xml"/>
-      <xi:include href="./acts/23-221.xml"/>
-      <xi:include href="./acts/23-220.xml"/>
-      <xi:include href="./acts/23-219.xml"/>
-      <xi:include href="./acts/23-218.xml"/>
+      <xi:include href="./acts/23-350.xml"/>
       <xi:include href="./acts/23-217.xml"/>
-      <xi:include href="./acts/23-203.xml"/>
     </collection>
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
-    <xi:include href="./acts/23-247.xml"/>
+    <xi:include href="./acts/23-404.xml"/>
+    <xi:include href="./acts/23-403.xml"/>
+    <xi:include href="./acts/23-385.xml"/>
+    <xi:include href="./acts/23-379.xml"/>
+    <xi:include href="./acts/23-370.xml"/>
+    <xi:include href="./acts/23-360.xml"/>
+    <xi:include href="./acts/23-359.xml"/>
+    <xi:include href="./acts/23-358.xml"/>
+    <xi:include href="./acts/23-357.xml"/>
+    <xi:include href="./acts/23-342.xml"/>
+    <xi:include href="./acts/23-341.xml"/>
+    <xi:include href="./acts/23-339.xml"/>
+    <xi:include href="./acts/23-337.xml"/>
+    <xi:include href="./acts/23-336.xml"/>
+    <xi:include href="./acts/23-329.xml"/>
+    <xi:include href="./acts/23-327.xml"/>
+    <xi:include href="./acts/23-324.xml"/>
+    <xi:include href="./acts/23-298.xml"/>
+    <xi:include href="./acts/23-297.xml"/>
+    <xi:include href="./acts/23-285.xml"/>
+    <xi:include href="./acts/23-284.xml"/>
+    <xi:include href="./acts/23-282.xml"/>
+    <xi:include href="./acts/23-253.xml"/>
+    <xi:include href="./acts/23-252.xml"/>
+    <xi:include href="./acts/23-251.xml"/>
+    <xi:include href="./acts/23-250.xml"/>
     <xi:include href="./acts/23-246.xml"/>
     <xi:include href="./acts/23-245.xml"/>
     <xi:include href="./acts/23-242.xml"/>
@@ -60,11 +139,37 @@
     <xi:include href="./acts/23-209.xml"/>
     <xi:include href="./acts/23-208.xml"/>
     <xi:include href="./acts/23-207.xml"/>
+    <xi:include href="./acts/23-201.xml"/>
+    <xi:include href="./acts/23-200.xml"/>
+    <xi:include href="./acts/23-199.xml"/>
+    <xi:include href="./acts/23-198.xml"/>
+    <xi:include href="./acts/23-182.xml"/>
+    <xi:include href="./acts/23-179.xml"/>
+    <xi:include href="./acts/23-173.xml"/>
+    <xi:include href="./acts/23-172.xml"/>
+    <xi:include href="./acts/23-168.xml"/>
     <xi:include href="./acts/23-165.xml"/>
+    <xi:include href="./acts/23-153.xml"/>
+    <xi:include href="./acts/23-151.xml"/>
+    <xi:include href="./acts/23-150.xml"/>
     <xi:include href="./acts/23-144.xml"/>
+    <xi:include href="./acts/23-142.xml"/>
     <xi:include href="./acts/23-141.xml"/>
     <xi:include href="./acts/23-140.xml"/>
     <xi:include href="./acts/23-139.xml"/>
+    <xi:include href="./acts/23-138.xml"/>
+    <xi:include href="./acts/23-137.xml"/>
+    <xi:include href="./acts/23-135.xml"/>
+    <xi:include href="./acts/23-131.xml"/>
+    <xi:include href="./acts/23-130.xml"/>
+    <xi:include href="./acts/23-128.xml"/>
+    <xi:include href="./acts/23-127.xml"/>
+    <xi:include href="./acts/23-126.xml"/>
+    <xi:include href="./acts/23-125.xml"/>
+    <xi:include href="./acts/23-124.xml"/>
+    <xi:include href="./acts/23-123.xml"/>
+    <xi:include href="./acts/23-112.xml"/>
+    <xi:include href="./acts/23-111.xml"/>
     <xi:include href="./acts/23-110.xml"/>
     <xi:include href="./acts/23-108.xml"/>
     <xi:include href="./acts/23-106.xml"/>
@@ -110,6 +215,21 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/23-125.xml"/>
+      <xi:include href="./laws/23-124.xml"/>
+      <xi:include href="./laws/23-122.xml"/>
+      <xi:include href="./laws/23-121.xml"/>
+      <xi:include href="./laws/23-108.xml"/>
+      <xi:include href="./laws/23-107.xml"/>
+      <xi:include href="./laws/23-106.xml"/>
+      <xi:include href="./laws/23-105.xml"/>
+      <xi:include href="./laws/23-104.xml"/>
+      <xi:include href="./laws/23-103.xml"/>
+      <xi:include href="./laws/23-94.xml"/>
+      <xi:include href="./laws/23-93.xml"/>
+      <xi:include href="./laws/23-70.xml"/>
+      <xi:include href="./laws/23-69.xml"/>
+      <xi:include href="./laws/23-67.xml"/>
       <xi:include href="./laws/23-58.xml"/>
       <xi:include href="./laws/23-56.xml"/>
       <xi:include href="./laws/23-55.xml"/>
@@ -146,13 +266,13 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/23-216.xml"/>
-      <xi:include href="./acts/23-204.xml"/>
-      <xi:include href="./acts/23-176.xml"/>
+      <xi:include href="./acts/23-333.xml"/>
+      <xi:include href="./acts/23-315.xml"/>
     </collection>
   </collection>
   <collection name="budget">
     <heading>Budget Legislation</heading>
+    <xi:include href="./acts/23-351.xml"/>
     <xi:include href="./acts/23-75.xml"/>
     <xi:include href="./acts/23-69.xml"/>
     <xi:include href="./laws/23-11.xml"/>

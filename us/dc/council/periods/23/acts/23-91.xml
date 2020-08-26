@@ -74,7 +74,7 @@
           </include>
           <aftertext>.</aftertext>
           <codify:annotation codify:doc="D.C. Code" path="§1-307.91a" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§1-307.91a">
-          For temporary (90 days) creation of this section, see <cite doc="D.C. Act" path="§1002">§ 1002 of the Fiscal Year 2020 Budget Support Emergency Act of 2019(D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§1002">§ 1002 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
         </codify:annotation>
         </para>
       </section>
@@ -149,7 +149,7 @@
           <text>The Council shall develop guidelines for the Council Employee Student Loan Repayment Assistance Program to include eligible loans, employee obligations, and calculation of benefits.</text>
         </para>
         <codify:annotation codify:doc="D.C. Code" path="§1-545.01" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§1-545.01">
-          For temporary (90 days) creation of this section, see <cite doc="D.C. Act" path="§1032">§ 1032 of the Fiscal Year 2020 Budget Support Emergency Act of 2019(D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§1032">§ 1032 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
         </codify:annotation>
       </section>
     </container>
@@ -491,6 +491,9 @@
             <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
           </para>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§42-2521" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§42-2521">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§2002">§ 2002 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -531,6 +534,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§2-1217.36e" codified:doc="D.C. Code" codified:path="§2-1217.36e" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -553,6 +557,7 @@
               </para>
             </include>
             <aftertext>.</aftertext>
+            <codify:emergency doc="D.C. Code" path="§2-1217.36l" codified:doc="D.C. Code" codified:path="§2-1217.36l" codified:display="Note"/>
           </para>
         </para>
         <para>
@@ -566,6 +571,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§2-1217.36q" codified:doc="D.C. Code" codified:path="§2-1217.36q" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -597,14 +603,17 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§2-1217.37a" codified:doc="D.C. Code" codified:path="§2-1217.37a" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 4(d)(3) (D.C. Official Code § 2-1217.37c(d)(3)) is amended by striking the phrase "March 1, 2019, if no Bonds are issued." and inserting the phrase "March 1, 2020, if no Bonds are issued." in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§2-1217.37c" codified:doc="D.C. Code" codified:path="§2-1217.37c" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 15 (D.C. Official Code § 2-1217.37n) is amended by striking the phrase "shall expire on March 1, 2019; provided, that the expiration of the authority shall have no effect on any Bonds issued prior to the expiration date" and inserting the phrase ", excluding Refunding Bonds, shall expire on March 1, 2020; provided, that the expiration of the authority shall have no effect on any Bonds issued prior to the expiration date or on the District's ability to issue Refunding Bonds on a future date" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§2-1217.37n" codified:doc="D.C. Code" codified:path="§2-1217.37n" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -636,6 +645,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§2-1217.39a" codified:doc="D.C. Code" codified:path="§2-1217.39a" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -655,6 +665,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§2-1217.39n" codified:doc="D.C. Code" codified:path="§2-1217.39n" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -678,6 +689,7 @@
           <num>(b)</num>
           <text>Strike the phrase "not as a part of an income tax secured revenue bond" and insert the phrase "not combined into a single series with income tax secured revenue bonds" in its place.</text>
         </para>
+        <codify:emergency doc="D.C. Code" path="§42-2812.03" codified:doc="D.C. Code" codified:path="§42-2812.03" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -715,6 +727,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§34-1252.01" codified:doc="D.C. Code" codified:path="§34-1252.01" codified:display="Note"/>
       </section>
       <section>
         <num>2033</num>
@@ -746,6 +759,7 @@
             <num>(2)</num>
             <text>Subsection (c) is amended by striking the phrase "section 2b" and inserting the phrase "sections 2b, 2c, and 3" in its place.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§34-1252.01" codified:doc="D.C. Code" codified:path="§34-1252.01" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -773,6 +787,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§2-1204.11a" codified:doc="D.C. Code" codified:path="§2-1204.11a" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -784,10 +799,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§2-1204.11c" codified:doc="D.C. Code" codified:path="§2-1204.11c" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
           <text>Section 2d(e) (D.C. Official Code § 2-1204.11d(e)) is amended by striking the phrase "section 2e" and inserting the phrase "section 203 of the Office of Cable Television, Film, Music, and Entertainment Amendment Act of 1981, effective October 9, 2002 (D.C. Law 14-193; D.C. Official Code § 34-1252.03)" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§2-1204.11d" codified:doc="D.C. Code" codified:path="§2-1204.11d" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -813,6 +830,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§42-3531.06" codified:doc="D.C. Code" codified:path="§42-3531.06" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -854,6 +872,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§1-325.191" codified:doc="D.C. Code" codified:path="§1-325.191" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -868,6 +887,7 @@
       <section>
         <num>2062</num>
         <text>Section 3(a) of the Commission on Fashion Arts and Events Establishment Act of 2008, effective April 15, 2008 (D.C. Law 17-148; D.C. Official Code § 3-652(a)), is amended by striking the phrase "in accordance with section 2(e)" and inserting the phrase "in accordance with 2(f)" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§3-652" codified:doc="D.C. Code" codified:path="§3-652" codified:display="Note"/>
       </section>
       <section>
         <num>2063</num>
@@ -903,6 +923,7 @@
             <aftertext>.</aftertext>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§1-523.01" codified:doc="D.C. Code" codified:path="§1-523.01" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -917,6 +938,7 @@
       <section>
         <num>2072</num>
         <text>Section 4(m) of the Retail Incentive Act of 2004, effective September 8, 2004 (D.C. Law 15-185; D.C. Official Code § 2-1217.73(m)), is amended by striking the phrase "Park Road, N.W.; thence southeast on Park Road, N.W., to 14th Street, N.W.; thence north on 14th Street, N.W., to Spring Road, N.W.; thence southeast on Spring Road, N.W., to 13th Street, N.W.; thence south on 13th Street, N.W., to Monroe Street, N.W.; thence South on 11th Street, N.W., to Kenyon Street, N.W.; thence west on Kenyon Street, N.W. to 13th. Street, N.W.; thence south on 13th Street, N.W. to V Street, N.W.; thence east on V Street, N.W., to 11th Street, N.W.; thence south on 11th Street, N.W., to the point of beginning" and inserting the phrase  "Lamont Street, N.W.; thence west on Lamont Street N.W., to 17th Street N.W.; then north on 17th Street N.W., to Piney Branch Road N.W.; thence northeast on Piney Branch Road N.W., to 16th Street N.W.; thence south on 16th Street N.W., to Spring Road N.W.; thence east on Spring Road N.W., to 10th Street N.W.; then south on 10th Street N.W., to Monroe Street N.W.; thence southeast on Monroe Street N.W., to Sherman Avenue N.W.; thence south on Sherman Avenue N.W., to Barry Place N.W.; thence west on Barry Place N.W. to 11th Street N.W.; thence south on 11th Street N.W., to the point of beginning" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§2-1217.73" codified:doc="D.C. Code" codified:path="§2-1217.73" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -1002,6 +1024,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§1-328.05" codified:doc="D.C. Code" codified:path="§1-328.05" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -1035,6 +1058,9 @@
             <text>"Program" means the Wage and Hour Education Grants Program established pursuant to this subtitle.</text>
           </para>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§32-171.01" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§32-171.01">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2092">§ 2092 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>2093</num>
@@ -1055,6 +1081,9 @@
           <num>(d)</num>
           <text>The grant period shall be at least one year.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§32-171.02" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§32-171.02">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2093">§ 2093 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>2094</num>
@@ -1075,6 +1104,9 @@
             <text>Specify in its grant application the planned staff, schedule, format, and intended audience of its workshops, and provide a summary of the content of workshops that will be carried out during the grant period.</text>
           </para>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§32-171.03" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§32-171.03">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2094">§ 2094 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>2095</num>
@@ -1154,6 +1186,9 @@
           <num>(g)</num>
           <text>DOES may specify additional requirements for grantees consistent with the purpose of the Program.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§32-171.04" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§32-171.04">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2095">§ 2095 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>2096</num>
@@ -1195,6 +1230,9 @@
           </para>
         </para>
       </section>
+      <codify:annotation codify:doc="D.C. Code" path="§32-171.05" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§32-171.05">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2096">§ 2096 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
     </container>
     <container>
       <prefix>SUBTITLE</prefix>
@@ -1266,6 +1304,7 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-161" codified:doc="D.C. Code" codified:path="§32-161" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -1299,6 +1338,7 @@
               </para>
             </include>
             <aftertext>.</aftertext>
+            <codify:emergency doc="D.C. Code" path="§32-162" codified:doc="D.C. Code" codified:path="§32-162" codified:display="Note"/>
           </para>
         </para>
       </section>
@@ -1313,6 +1353,7 @@
           <num>(b)</num>
           <text>Subparagraph (C) is repealed.</text>
         </para>
+        <codify:emergency doc="D.C. Code" path="§32-1009.01" codified:doc="D.C. Code" codified:path="§32-1009.01" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -1334,6 +1375,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§6-641.09" codified:doc="D.C. Code" codified:path="§6-641.09" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -1348,6 +1390,7 @@
       <section>
         <num>2122</num>
         <text>Section 102(a) of the Public-Private Partnership Act of 2014, effective March 11, 2015 (D.C. Law 20-228; D.C. Official Code § 2-272.01(a)), is amended by striking the phrase "Office of the City Administrator" and inserting the phrase "Office of the Deputy Mayor for Planning and Economic Development" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§2-272.01" codified:doc="D.C. Code" codified:path="§2-272.01" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -1365,6 +1408,7 @@
         <para>
           <num>(a)</num>
           <text>Section 203c (D.C. Official Code § 42-3502.03e) is redesignated as section 203e.</text>
+          <codify:emergency doc="D.C. Code" path="§42-3502.03e" codified:doc="D.C. Code" codified:path="§42-3502.03e" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -1399,6 +1443,7 @@
             <num>(4)</num>
             <text>Subsection (e-2)(1) is amended by striking the phrase "no later than December 13, 2019" and inserting the phrase "by the same date required in subsection (e) of this section for database completion, testing, and operation" in its place.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§42-3502.03c" codified:doc="D.C. Code" codified:path="§42-3502.03c" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -1419,6 +1464,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§42-3502.03d" codified:doc="D.C. Code" codified:path="§42-3502.03d" codified:display="Note"/>
         </para>
         <para>
           <num>(f)</num>
@@ -1461,6 +1507,7 @@
               <text>Subparagraph (B)(i) is amended by striking the phrase "Beginning 241 days after October 30, 2018" and inserting the phrase "Beginning 91 days after completion of the publicly accessible rent control housing database created pursuant to section 203c" in its place.</text>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§42-3502.05" codified:doc="D.C. Code" codified:path="§42-3502.05" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -1479,6 +1526,11 @@
         <para>
           <num>(a)</num>
           <text>Sections 2 (D.C. Official Code § 32-241), 2a (D.C. Official Code § 32-242), 2b (D.C. Official Code § 32-243), and 2c (D.C. Official Code § 32-244) are redesignated as sections 2a, 2b, 2c, and 2d, respectively.</text>
+          <codify:emergency doc="D.C. Code" path="§32-242" codified:doc="D.C. Code" codified:path="§32-242" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§32-243" codified:doc="D.C. Code" codified:path="§32-243" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§32-244" codified:doc="D.C. Code" codified:path="§32-244" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§32-245" codified:doc="D.C. Code" codified:path="§32-245" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§1-328.05" codified:doc="D.C. Code" codified:path="§1-328.05" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -1526,6 +1578,9 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:annotation codify:doc="D.C. Code" path="§32-241" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§32-241">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§2142|(b)">§ 2142(b) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
         </para>
         <para>
           <num>(c)</num>
@@ -1696,6 +1751,7 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-242" codified:doc="D.C. Code" codified:path="§32-242" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -1751,6 +1807,7 @@
               <text>Strike the phrase "evaluation to the" and insert the phrase "evaluation conducted pursuant to subsection (a) of this section to the" in its place.</text>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-245" codified:doc="D.C. Code" codified:path="§32-245" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -1766,6 +1823,10 @@
       <section>
         <num>2152</num>
         <text>Section 2152 of the DC Central Kitchen Grants Amendment Act of 2018, effective October 30, 2018 (D.C. Law 22-168; 65 DCR 9388), is amended by striking the phrase "nutrition programming." and inserting the phrase "nutrition programming; provided, that $500,000 of the funds awarded but not expended in Fiscal Year 2019 shall be available for expenditure in Fiscal Year 2020, as authorized by the Fiscal Year 2020 Local Budget Act of 2019, passed on 2nd reading on May 28, 2019 (Enrolled version of Bill 23-208)." in its place.</text>
+        <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="Not Codified in D.C. Code" codified:doc="D.C. Code" codified:path="§2-553">
+          <find>Documents</find>
+          <replace>Documents</replace>
+        </codify:find-replace>
       </section>
     </container>
     <container>
@@ -1790,6 +1851,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§2-1227.01" codified:doc="D.C. Code" codified:path="§2-1227.01" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -1820,6 +1882,9 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:annotation codify:doc="D.C. Code" path="§2-1227.07" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§2-1227.07">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2162|(b)">§ 2162(b) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
         </para>
       </section>
     </container>
@@ -1835,6 +1900,10 @@
       <section>
         <num>2172</num>
         <text>In Fiscal Year 2020, of the funds allocated to the Non-Departmental Account, up to $250,000 shall be transferred to the Commission on the Arts and Humanities to fund a commemorative work, as that term is defined in section 411(1) of the Street and Alley Closing and Acquisition Procedures Act of 1982, effective April 4, 2011 (D.C. Law 13-275; D.C. Official Code § 9-204.11(1)) ("Act"); provided, that the commemorative work be a statue of a prominent female native Washingtonian and that it be approved pursuant to section 401 of the Act.</text>
+        <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="Not Codified in D.C. Code" codified:doc="D.C. Code" codified:path="§2-553">
+          <find>Documents</find>
+          <replace>Documents</replace>
+        </codify:find-replace>
       </section>
     </container>
     <container>
@@ -1857,6 +1926,7 @@
           <num>(b)</num>
           <text>Strike the phrase "of the 40% requirement" and insert the phrase "of the 50% requirement" in its place.</text>
         </para>
+        <codify:emergency doc="D.C. Code" path="§42-2802" codified:doc="D.C. Code" codified:path="§42-2802" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -1968,6 +2038,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§7-551.01" codified:doc="D.C. Code" codified:path="§7-551.01" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -2063,6 +2134,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§39-202" codified:doc="D.C. Code" codified:path="§39-202" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -2146,6 +2218,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§39-203" codified:doc="D.C. Code" codified:path="§39-203" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -2184,6 +2257,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§39-204" codified:doc="D.C. Code" codified:path="§39-204" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -2318,6 +2392,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§39-205" codified:doc="D.C. Code" codified:path="§39-205" codified:display="Note"/>
         </para>
         <para>
           <num>(e)</num>
@@ -2376,6 +2451,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§39-205.01" codified:doc="D.C. Code" codified:path="§39-205.01" codified:display="Note"/>
         </para>
         <para>
           <num>(f)</num>
@@ -2427,11 +2503,17 @@
                 <num>(e)</num>
                 <text>The grant-managing entity shall enter into a Memorandum of Understanding ("MOU") with the Commission.  The MOU shall set forth certain administrative requirements for the grant-managing entity to abide by when it obtains District funds and awards subgrants involving District funds, and will clarify and reaffirm the grant-managing entity responsibility and obligation with respect to District funds, including the monitoring of the use of District funds.</text>
               </para>
+              <codify:annotation codify:doc="D.C. Code" path="§39-205.02" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§39-205.02">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2202|(f)">§ 2202(f) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
             </section>
             <section>
               <num>6c</num>
               <heading>Transfer provisions.</heading>
               <text>By October 1, 2019, the Mayor shall transfer to the Commission such positions, personnel, property, records, and unexpended balances of appropriations, allocations, and other funds available or assigned to the Office of the Mayor for the purposes of funding and running the Commission, at which time the Commission on the Arts and Humanities within the Office of the Mayor shall be abolished.</text>
+              <codify:annotation codify:doc="D.C. Code" path="§39-205.03" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§39-205.03">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2202|(f)">§ 2202(f) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -2439,6 +2521,7 @@
         <para>
           <num>(g)</num>
           <text>Section 7 (D.C. Official Code § 39-206) is amended by repealing subsections (b) and (c).</text>
+          <codify:emergency doc="D.C. Code" path="§39-206" codified:doc="D.C. Code" codified:path="§39-206" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -2447,10 +2530,12 @@
         <para>
           <num>(a)</num>
           <text>Section 1045(d) of the Delinquent Debt Recovery Act of 2012, effective September 20, 2012 (D.C. Law 19-168; D.C. Official Code § 1-350.04(d)), is amended by striking the phrase "Humanities Enterprise Fund," and inserting the phrase "Humanities Fund," in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§1-350.04" codified:doc="D.C. Code" codified:path="§1-350.04" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 2e(c) of Title IV of the District of Columbia Revenue Act of 1937, effective October 30, 2018 (D.C. Law 22-168; D.C. Official Code § 50-1501.02e(c)) is amended by striking the phrase "Humanities Enterprise Fund," and inserting the phrase "Humanities Fund," in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§50-1501.02e" codified:doc="D.C. Code" codified:path="§50-1501.02e" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -2458,6 +2543,7 @@
           <para>
             <num>(1)</num>
             <text>Section 301(17)(LL) (D.C. Official Code § 1-603.01(17)(LL)) is repealed.</text>
+            <codify:emergency doc="D.C. Code" path="§1-603.01" codified:doc="D.C. Code" codified:path="§1-603.01" codified:display="Note"/>
           </para>
           <para>
             <num>(2)</num>
@@ -2481,6 +2567,7 @@
               </include>
               <aftertext>.</aftertext>
             </para>
+            <codify:emergency doc="D.C. Code" path="§1-604.06" codified:doc="D.C. Code" codified:path="§1-604.06" codified:display="Note"/>
           </para>
         </para>
         <para>
@@ -2489,10 +2576,12 @@
           <para>
             <num>(1)</num>
             <text>Section 47-2002(d) is amended by striking the phrase "shall be dedicated to the Commission on the Arts and Humanities, established by the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201 <em>et seq.</em>) to support the functions, purposes, and costs of the Commission" and inserting the phrase "shall be dedicated to the Arts and Humanities Fund, established by § 39-205.01" in its place.</text>
+            <codify:emergency doc="D.C. Code" path="§47-2002" codified:doc="D.C. Code" codified:path="§47-2002" codified:display="Note"/>
           </para>
           <para>
             <num>(2)</num>
             <text>Section 47-2202(b) is amended by striking the phrase "shall be dedicated to the Commission on the Arts and Humanities, established by the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201 <em>et seq.</em>) to support the functions, purposes, and costs of the Commission" and inserting the phrase "shall be dedicated to the Arts and Humanities Fund, established by § 39-205.01" in its place.</text>
+            <codify:emergency doc="D.C. Code" path="§47-2202" codified:doc="D.C. Code" codified:path="§47-2202" codified:display="Note"/>
           </para>
         </para>
       </section>
@@ -2554,6 +2643,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§42-1706" codified:doc="D.C. Code" codified:path="§42-1706" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -2590,6 +2680,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§6-1103" codified:doc="D.C. Code" codified:path="§6-1103" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -2631,6 +2722,7 @@
             <aftertext>.</aftertext>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§3-202" codified:doc="D.C. Code" codified:path="§3-202" codified:display="Note"/>
       </section>
       <section>
         <num>2233</num>
@@ -2664,6 +2756,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§47-4652" codified:doc="D.C. Code" codified:path="§47-4652" codified:display="Note"/>
       </section>
       <section>
         <num>2234</num>
@@ -2702,6 +2795,9 @@
             <text>That all such excess revenues, together with the excess revenues identified pursuant to this subsection in prior revenue estimates, have been set aside to ensure that the Act be fully funded until such time as the Chief Financial Officer certifies that the Act is fully funded.</text>
           </para>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§30-210.01" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§30-210.01">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="2242">§ 2242 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>2243</num>
@@ -2783,6 +2879,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§2-352.01" codified:doc="D.C. Code" codified:path="§2-352.01" codified:display="Note"/>
       </section>
       <section>
         <num>3003</num>
@@ -2790,10 +2887,12 @@
         <para>
           <num>(a)</num>
           <text>Section 3123(a) (D.C. Official Code § 3-152(a)) is amended by striking the phrase "September 30, 2019" and inserting the phrase "September 30, 2020" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§3-152" codified:doc="D.C. Code" codified:path="§3-152" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 3127 (D.C. Official Code § 3-156) is amended by striking the phrase "October 1, 2019" and inserting the phrase "October 1, 2020" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§3-156" codified:doc="D.C. Code" codified:path="§3-156" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -2817,6 +2916,7 @@
           <num>(b)</num>
           <text>Paragraph (3) is amended by striking the phrase "3 years" and inserting the phrase "5 years" in its place.</text>
         </para>
+        <codify:emergency doc="D.C. Code" path="§5-761" codified:doc="D.C. Code" codified:path="§5-761" codified:display="Note"/>
       </section>
       <section>
         <num>3013</num>
@@ -2847,6 +2947,9 @@
             <num>(2)</num>
             <text>Subsection (c)(1) is amended by striking the phrase "renewal between one and 7 days" and inserting the phrase "renewal at least 15 and no more than 30 days" in its place.</text>
           </para>
+          <codify:annotation codify:doc="D.C. Code" path="§28A-203" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§28A-203">
+          For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§3002|(a)">§ 3002|(a) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
         </para>
         <para>
           <num>(b)</num>
@@ -2866,6 +2969,8 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§28A-121" codified:doc="D.C. Code" codified:path="§28A-121" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§28A-221" codified:doc="D.C. Code" codified:path="§28A-221" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -2881,6 +2986,7 @@
       <section>
         <num>3032</num>
         <text>Section 2(7)(A)(ii) of the Victims of Violent Crime Compensation Act of 1996, effective April 9, 1997 (D.C. Law 11-243; D.C. Official Code § 4-501(7)(A)(ii)), is amended by striking the phrase "of cremation or other chosen method interment" and inserting the phrase "of embalming, burial containers, cremation, and the chosen method of interment; provided, that a claimant's economic loss under this sub-subparagraph shall not exceed $10,000" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§4-501" codified:doc="D.C. Code" codified:path="§4-501" codified:display="Note"/>
       </section>
       <section>
         <num>3033</num>
@@ -2949,10 +3055,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§7-2411" codified:doc="D.C. Code" codified:path="§7-2411" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 103 (D.C. Official Code § 7-2413) is repealed.</text>
+          <codify:emergency doc="D.C. Code" path="§7-2413" action="repeal" codified:doc="D.C. Code" codified:path="§7-2413" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -2973,6 +3081,7 @@
       <section>
         <num>3052</num>
         <text>The lead-in language of section 127(b) of the Vital Records Modernization Amendment Act of 2018, effective October 30, 2018 (D.C. Law 22-164; D.C. Official Code § 7-231.27(b)), is amended by striking the phrase "a pilot program for Fiscal Year 2019 shall be established to waive the fee for a certificate of birth for:" and inserting the phrase "the fee for a certificate of birth shall be waived for:" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§7-231.27" codified:doc="D.C. Code" codified:path="§7-231.27" codified:display="Note"/>
       </section>
       <section>
         <num>3053</num>
@@ -2992,6 +3101,7 @@
             <num>(3)</num>
             <text>The lead-in language of paragraph (2A)(A-i)(i) is amended by striking the phrase "a pilot program for Fiscal Year 2019 shall be established to waive the fee described in subparagraph (A) of this paragraph for:" and inserting the phrase "the fee described in subparagraph (A) of this paragraph shall be waived for:" in its place.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§50-1401.01" codified:doc="D.C. Code" codified:path="§50-1401.01" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -3003,6 +3113,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§50-1401.03" codified:doc="D.C. Code" codified:path="§50-1401.03" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -3036,6 +3147,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§7-671.02" codified:doc="D.C. Code" codified:path="§7-671.02" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -3067,6 +3179,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§7-671.03" codified:doc="D.C. Code" codified:path="§7-671.03" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -3118,6 +3231,7 @@
             <aftertext>.</aftertext>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§16-1053" codified:doc="D.C. Code" codified:path="§16-1053" codified:display="Note"/>
       </section>
       <section>
         <num>3064</num>
@@ -3192,6 +3306,7 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§1-301.86b" codified:doc="D.C. Code" codified:path="§1-301.86b" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -3235,10 +3350,14 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:annotation codify:doc="D.C. Code" path="§1-301.86d" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§1-301.86d">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="3072|(b)">§ 3072(b) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 2(a) of the Omnibus Public Safety and Justice Amendment Act of 2018, enacted on January 30, 2019 (D.C. Act 22-614; 66 DCR 1627), is repealed.</text>
+          <codify:emergency doc="D.C. Code" path="§1-301.86b" codified:doc="D.C. Code" codified:path="§1-301.86b" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -3332,6 +3451,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§5-1104" codified:doc="D.C. Code" codified:path="§5-1104" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -3388,6 +3508,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§19-701" codified:doc="D.C. Code" codified:path="§19-701" codified:display="Note"/>
       </section>
       <section>
         <num>3093</num>
@@ -3426,6 +3547,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§34-1802" codified:doc="D.C. Code" codified:path="§34-1802" codified:display="Note"/>
       </section>
     </container>
   </container>
@@ -3453,6 +3575,7 @@
           <num>(b)</num>
           <text>Subsection (i) is amended by striking the phrase "Compliance Fund" and inserting the phrase "Compliance Funding" in its place.</text>
         </para>
+        <codify:emergency doc="D.C. Code" path="§38-1804.01" codified:doc="D.C. Code" codified:path="§38-1804.01" codified:display="Note"/>
       </section>
       <section>
         <num>4003</num>
@@ -3468,10 +3591,12 @@
             <num>(2)</num>
             <text>Paragraph (11B) is amended by striking the phrase "Compliance Fund" and inserting the phrase "Compliance Funding" in its place.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§38-2901" codified:doc="D.C. Code" codified:path="§38-2901" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 104(a) (D.C. Official Code § 38-2903(a)) is amended by striking the phrase "$10,658 per student for Fiscal Year 2019" and inserting the phrase "$10,980 per student for Fiscal Year 2020" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§38-2903" codified:doc="D.C. Code" codified:path="§38-2903" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -3536,6 +3661,7 @@
             </text>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§38-2904" codified:doc="D.C. Code" codified:path="§38-2904" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -3711,6 +3837,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§38-2905" codified:doc="D.C. Code" codified:path="§38-2905" codified:display="Note"/>
         </para>
         <para>
           <num>(e)</num>
@@ -3741,6 +3868,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§38-2907.01" codified:doc="D.C. Code" codified:path="§38-2907.01" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -3778,10 +3906,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§1-350.02" codified:doc="D.C. Code" codified:path="§1-350.02" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 1045(b)(2) (D.C. Official Code § 1-350.04(b)(2)) is amended by striking the phrase "section 1043(a-1) and (a-2)" and inserting the phrase "section 1043(a-1), (a-2), and (a-3)" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§1-350.04" codified:doc="D.C. Code" codified:path="§1-350.04" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -3797,6 +3927,7 @@
       <section>
         <num>4022</num>
         <text>Section 6(b-22)(3) of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03(b-22)(3)), is amended by striking the phrase "denial of federal grant application" and inserting the phrase "denial of a grant application, the termination of a grant, or other adverse enforcement action taken against a grantee related to a grant (including withholding of payment, suspension of funds, or disallowance of funds)" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§2-1831.03" codified:doc="D.C. Code" codified:path="§2-1831.03" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -3879,6 +4010,9 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:annotation codify:doc="D.C. Code" path="§38-2616" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§38-2616">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§4042">§ 4042 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -3909,6 +4043,7 @@
           <num>(b)</num>
           <text>Sub-subparagraph (ii) is amended by striking the phrase "in the 2017-2018 school year." and inserting the phrase "in each school year." in its place.</text>
         </para>
+        <codify:emergency doc="D.C. Code" path="§1-610.52" codified:doc="D.C. Code" codified:path="§1-610.52" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -3926,6 +4061,7 @@
         <para>
           <num>(a)</num>
           <text>Section 204(a)(1) (D.C. Official Code § 38-236.04(a)(1)) is amended by striking the phrase "2019-2020, no student in grades kindergarten through 8" and inserting the phrase "2019-2020, for students in grades kindergarten through 5, and school year 2020-2021 for students in grades 6 through 8, no student" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§38-236.04" codified:doc="D.C. Code" codified:path="§38-236.04" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -3952,6 +4088,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§38-236.06" codified:doc="D.C. Code" codified:path="§38-236.06" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -4024,14 +4161,17 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§39-105" codified:doc="D.C. Code" codified:path="§39-105" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 7 (D.C. Official Code § 39-107) is amended by striking the phrase "shall be deposited into the Library Collections Account established by section 14." and inserting the phrase "shall be deposited into the DCPL Revenue-Generating Activities Fund in accordance with section 17." in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§39-107" codified:doc="D.C. Code" codified:path="§39-107" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 14(a) (D.C. Official Code § 39-114(a)) is amended by repealing paragraphs (1) and (2).</text>
+          <codify:emergency doc="D.C. Code" path="§39-114" codified:doc="D.C. Code" codified:path="§39-114" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -4067,6 +4207,7 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§39-117" codified:doc="D.C. Code" codified:path="§39-117" codified:display="Note"/>
         </para>
         <para>
           <num>(e)</num>
@@ -4114,6 +4255,7 @@
       <section>
         <num>4092</num>
         <text>Section 5(c)(1)(A) of the Ensuring Community Access to Recreational Spaces Act of 2018, effective February 22, 2019 (D.C. Law 22-210; D.C. Official Code § 38-434(c)(1)(A)), is amended by striking the phrase "subsection, for cleaning, maintaining, and repairing school facilities." and inserting the phrase "subsection." in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§38-434" codified:doc="D.C. Code" codified:path="§38-434" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -4138,6 +4280,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§38-821.01" codified:doc="D.C. Code" codified:path="§38-821.01" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -4236,6 +4379,9 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:annotation codify:doc="D.C. Code" path="§38-822.03a" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§38-822.03a">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§4102|(b)">§ 4102(b) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
         </para>
       </section>
     </container>
@@ -4273,6 +4419,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§38-754.02" codified:doc="D.C. Code" codified:path="§38-754.02" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -4311,6 +4458,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§38-754.03" codified:doc="D.C. Code" codified:path="§38-754.03" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -4333,6 +4481,9 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:annotation codify:doc="D.C. Code" path="§38-1205.14" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§38-1205.14">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§4122">§ 4122 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -4393,6 +4544,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§38-821.02" codified:doc="D.C. Code" codified:path="§38-821.02" codified:display="Note"/>
       </section>
     </container>
   </container>
@@ -4419,6 +4571,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§4-756.05" codified:doc="D.C. Code" codified:path="§4-756.05" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -4460,6 +4613,7 @@
             <aftertext>.</aftertext>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§1-611.08" codified:doc="D.C. Code" codified:path="§1-611.08" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -4481,6 +4635,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§49-1003" codified:doc="D.C. Code" codified:path="§49-1003" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -4495,6 +4650,7 @@
       <section>
         <num>5032</num>
         <text>Section 2(6) of the Adult Protective Services Act of 1984, effective March 14, 1985 (D.C. Law 5-156; D.C. Official Code § 7-1901(6)), is amended by striking the phrase "Department of Human Services" and inserting the phrase "Department of Aging and Community Living" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§7-1901" codified:doc="D.C. Code" codified:path="§7-1901" codified:display="Note"/>
       </section>
       <section>
         <num>5033</num>
@@ -4504,6 +4660,9 @@
             <num>308</num>
             <heading>Transfer of functions and duties from the Department of Human Services.</heading>
             <text>All positions, personnel, property, records, equipment, and unexpended balances available or to be made available of appropriations, allocations, and other funds of the Department of Human Services dedicated to the implementation of the Adult Protective Services Act of 1984, effective March 14, 1985 (D.C. Law 5-156; D.C. Official Code § 7-1901 <em>et seq.</em>), are hereby transferred to the Department of Aging and Community Living.</text>
+            <codify:annotation codify:doc="D.C. Code" path="§7-503.08" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§7-503.08">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§5033">§ 5033 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -4549,6 +4708,9 @@
           <num>(d)</num>
           <text>For the purposes of this section, the term "Families First DC" means a comprehensive neighborhood-based approach aimed at reducing social, economic, and health disparities among District residents and creating stronger, more resilient families, and supportive environments for children through focused access to District and private-sector services and resources based on neighborhood-specific needs and interests.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§7-758.01" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§7-758.01">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§5042">§ 5042 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -4603,6 +4765,9 @@
           </container>
         </include>
         <aftertext>.</aftertext>
+        <codify:annotation codify:doc="D.C. Code" path="§7-744.01" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§7-744.01">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§5052">§ 5052 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -4644,6 +4809,9 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:annotation codify:doc="D.C. Code" path="§4-1303.10" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§4-1303.10">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§5062">§ 5062 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -4775,6 +4943,7 @@
             <aftertext>.</aftertext>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§7-771.07a" codified:doc="D.C. Code" codified:path="§7-771.07a" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -4792,6 +4961,7 @@
         <para>
           <num>(a)</num>
           <text>Section 5062(5) (D.C. Official Code § 44-664.01(5)) is amended by striking the phrase "ending between October 1, 2015, and September 30, 2016" and inserting the phrase "between October 1 and September 30 of the period 3 fiscal years prior to the fiscal year the fee is assessed" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§44-664.01" codified:doc="D.C. Code" codified:path="§44-664.01" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -4808,10 +4978,12 @@
             <num>(3)</num>
             <text>Paragraph (2) is amended by striking the phrase "DFY 2019" and inserting the phrase "each District Fiscal Year" in its place.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§44-664.03" codified:doc="D.C. Code" codified:path="§44-664.03" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 5065(b)(1) (D.C. Official Code § 44-664.04) is amended by striking the phrase "October 1, 2017" and inserting the phrase "October 1, 2018" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§44-664.04" codified:doc="D.C. Code" codified:path="§44-664.04" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -4852,14 +5024,17 @@
               <text>Paragraph (3) is amended by striking the phrase "DFY 2019" and inserting the phrase "each District Fiscal Year" in its place.</text>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§44-664.05" codified:doc="D.C. Code" codified:path="§44-664.05" codified:display="Note"/>
         </para>
         <para>
           <num>(e)</num>
           <text>Section 5067(a)(2) (D.C. Official Code § 44-664.06(a)(2)) is amended by striking the phrase "October 1, 2018" and inserting the phrase "October 1 of each year" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§44-664.06" codified:doc="D.C. Code" codified:path="§44-664.06" codified:display="Note"/>
         </para>
         <para>
           <num>(f)</num>
           <text>Section 5070 (D.C. Official Code § 44-664.09) is amended by striking the phrase "September 30, 2019" and inserting the phrase "September 30, 2029" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§44-664.09" codified:doc="D.C. Code" codified:path="§44-664.09" codified:display="Note"/>
         </para>
       </section>
       <section>
@@ -4868,6 +5043,7 @@
         <para>
           <num>(a)</num>
           <text>Section 5082(4) (D.C. Official Code § 44-664.11(4)) is amended by striking the phrase "ending between October 1, 2015, and September 30, 2016" and inserting the phrase "between October 1 and September 30 of the period 3 fiscal years prior to the fiscal year the fee is assessed" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§44-664.11" codified:doc="D.C. Code" codified:path="§44-664.11" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -4888,14 +5064,17 @@
             <num>(2)</num>
             <text>Subsection (c) is amended by striking the phrase "August 1, 2018" and inserting the phrase "August 1, 2019" in its place.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§44-664.13" codified:doc="D.C. Code" codified:path="§44-664.13" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 5085(b) (D.C. Official Code § 44-664.14(b)) is amended by striking the phrase "October 1, 2018" and inserting the phrase "October 1 of each District Fiscal Year" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§44-664.14" codified:doc="D.C. Code" codified:path="§44-664.14" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
           <text>Section 5089 (D.C. Official Code § 44-664.18) is amended by striking the phrase "September 30, 2019" and inserting the phrase "September 30, 2029" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§44-664.18" codified:doc="D.C. Code" codified:path="§44-664.18" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -5018,6 +5197,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§44-951.04" codified:doc="D.C. Code" codified:path="§44-951.04" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -5072,6 +5252,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§44-951.09" codified:doc="D.C. Code" codified:path="§44-951.09|(a)" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -5104,6 +5285,7 @@
       <section>
         <num>5093</num>
         <text>The East End Health Equity Amendment Act of 2018, effective March 28, 2019 (D.C. Law 22-273; 66 DCR 1581), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§44-407" codified:doc="D.C. Code" codified:path="§44-407" codified:display="Note"/>
       </section>
       <section>
         <num>5094</num>
@@ -5188,6 +5370,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§44-407" codified:doc="D.C. Code" codified:path="§44-407" codified:display="Note"/>
       </section>
       <section>
         <num>5095</num>
@@ -5227,6 +5410,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§7-1407" codified:doc="D.C. Code" codified:path="§7-1407" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -5290,6 +5474,9 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§4-651.05a" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§4-651.05a">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§5122">§ 5122 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -5365,6 +5552,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§7-503.07" codified:doc="D.C. Code" codified:path="§7-503.07" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -5382,6 +5570,7 @@
         <para>
           <num>(a)</num>
           <text>Section 107(b) (D.C. Official Code § 4-651.07(b)) is amended by striking the phrase "DOH" and inserting the phrase "OSSE" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§4-651.07" codified:doc="D.C. Code" codified:path="§4-651.07" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -5405,6 +5594,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§4-651.10" codified:doc="D.C. Code" codified:path="§4-651.10" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -5452,6 +5642,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§4-410.02" codified:doc="D.C. Code" codified:path="§4-410.02" codified:display="Note"/>
       </section>
     </container>
   </container>
@@ -5478,6 +5669,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§50-921.02" codified:doc="D.C. Code" codified:path="§50-921.02" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -5543,6 +5735,7 @@
             <text>Subparagraph (C) is repealed.</text>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§50-921.02" codified:doc="D.C. Code" codified:path="§50-921.02" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -5560,10 +5753,12 @@
         <para>
           <num>(a)</num>
           <text>Section 8(f) (D.C. Official Code § 50-301.07(f)) is repealed.</text>
+          <codify:emergency doc="D.C. Code" path="§50-301.07" codified:doc="D.C. Code" codified:path="§50-301.07" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 20a(k) (D.C. Official Code § 50-301.20(k)), is amended by striking the phrase "monthly revenue reports on the Fund by the 15th of every month" and inserting the phrase "a quarterly revenue report on the Fund by the 15th of the month following the end of each quarter" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§50-301.20" codified:doc="D.C. Code" codified:path="§50-301.20" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -5579,6 +5774,7 @@
       <section>
         <num>6032</num>
         <text>Section 303(c-1) of the District of Columbia Traffic Adjudication Act of 1978, effective September 12, 1978 (D.C. Law 2-104; D.C. Official Code § 50-2303.03(c-1)), is amended by striking the phrase "When a violation is detected by an automated parking enforcement system, the Mayor shall" and inserting the phrase "When a violation is detected by an automated parking enforcement system, or when the operator of a motor vehicle leaves the site of a violation before personal service or service by affixing the notice to the vehicle can be effectuated, the Mayor may" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§50-2303.03" codified:doc="D.C. Code" codified:path="§50-2303.03" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -5594,11 +5790,17 @@
         <num>6042</num>
         <heading>Definitions.</heading>
         <text>For the purposes of this subtitle, the term "public transit services operated by the District government" means the D.C. Circulator bus system and the District's streetcar system.</text>
+        <codify:annotation codify:doc="D.C. Code" path="§35-241" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§35-241">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6042">§ 6042 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6043</num>
         <heading>Transit subsidy agreement.</heading>
         <text>To accomplish the mandates of this subtitle, the Mayor may enter into one or more agreements with the Washington Metropolitan Area Transit Authority for the transportation of elementary and secondary school students, adult learners, foster youth, and summer youth employees at subsidized or free fares.</text>
+        <codify:annotation codify:doc="D.C. Code" path="§35-242" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§35-242">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6043">§ 6043 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6044</num>
@@ -5651,6 +5853,9 @@
           <num>(e)</num>
           <text>The Mayor may establish standards for eligibility to participate in the Kids Ride Free Program and may impose such other restrictions on eligibility and the use of free fares, including limiting the use of free fares to educational and employment purposes, that the Mayor deems appropriate for the proper operational and fiscal administration of the Kids Ride Free Program.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§35-243" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§35-243">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6044">§ 6044 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6045</num>
@@ -5675,6 +5880,9 @@
           <num>(e)</num>
           <text>The Mayor may establish standards for eligibility to participate in the Foster Youth Program, and may impose such other restrictions on eligibility and the use of free fares, including limiting the use of free fares to educational and employment purposes, that the Mayor deems appropriate for the proper operational and fiscal administration and of the Foster Youth Program.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§35-244" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§35-244">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6045">§ 6045 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6046</num>
@@ -5726,6 +5934,9 @@
             <text>Impose such other restrictions on eligibility and the use of subsidized or free fares that the Mayor deems appropriate for the proper operational and fiscal administration of the SYEP Program.</text>
           </para>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§35-245" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§35-245">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6046">§ 6046 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6047</num>
@@ -5774,15 +5985,27 @@
           <num>(c)</num>
           <text>Beginning in Fiscal Year 2020, an eligible student shall receive a subsidy equal to at least $70 per month for each month the student is enrolled in an adult learning program.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§35-246" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§35-246">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6047">§ 6047 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6048</num>
         <heading>Rules.</heading>
         <text>The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>), may issue rules to implement the provisions of this subtitle.</text>
+        <codify:annotation codify:doc="D.C. Code" path="§35-247" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§35-247">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6048">§ 6048 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6049</num>
         <text>An Act To provide for the regulation of fares for the transportation of schoolchildren in the District of Columba, approved August 9, 1955 (69 Stat. 616; D.C. Official Code § 35-232 et seq.), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§35-232" action="repeal of this section" codified:doc="D.C. Code" codified:path="§35-232" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§35-233" action="repeal of this section" codified:doc="D.C. Code" codified:path="§35-233" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§35-234" action="repeal of this section" codified:doc="D.C. Code" codified:path="§35-234" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§35-235" action="repeal of this section" codified:doc="D.C. Code" codified:path="§35-235" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§35-236" action="repeal of this section" codified:doc="D.C. Code" codified:path="§35-236" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§35-237" action="repeal of this section" codified:doc="D.C. Code" codified:path="§35-237" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -5820,6 +6043,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§8-1774.10" codified:doc="D.C. Code" codified:path="§8-1774.10" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -5872,6 +6096,9 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:annotation codify:doc="D.C. Code" path="§8-151.13a" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§8-151.13a">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6062">§ 6062 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6063</num>
@@ -5898,6 +6125,7 @@
           </subsection>
         </include>
         <aftertext>.</aftertext>
+        <codify:marginalia display="DCMR"/>
       </section>
     </container>
     <container>
@@ -5915,10 +6143,12 @@
         <para>
           <num>(a)</num>
           <text>Section 5(b) (D.C Official Code § 50-1731.05(b)) is amended by striking the phrase "A person who holds a learner's permit" and inserting the phrase "A person who holds a learner's permit or is under the age of 18" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§50-1731.05" codified:doc="D.C. Code" codified:path="§50-1731.05" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 6(a) (D.C Official Code § 50-1731.06(a)) is amended by striking the phrase "that the fine" and inserting the phrase "that, for a violation of section 4, the fine" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§50-1731.06" codified:doc="D.C. Code" codified:path="§50-1731.06" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -5985,18 +6215,24 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:annotation codify:doc="D.C. Code" path="§8-151.09a" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§8-151.09a">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§6092">§ 6092 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>6093</num>
         <text>Section 2(1) of the Food Production and Urban Gardens Program Act of 1986, effective February 28, 1987 D.C. Law 6-210; D.C. Official Code § 48-401(1)), is amended by striking the phrase "Department of General Services" and inserting the phrase "Department of Energy and Environment" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§48-401" codified:doc="D.C. Code" codified:path="§48-401" codified:display="Note"/>
       </section>
       <section>
         <num>6094</num>
         <text>Section 2a(b)(4)(B) of the Division of Park Services Act of 1988, effective March 16, 1988 (D.C. Law 7-209; D.C. Official Code § 10-166.01(b)(4)(B)), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§10-166.01" codified:doc="D.C. Code" codified:path="§10-166.01" codified:display="Note"/>
       </section>
       <section>
         <num>6095</num>
         <text>Section 47-868(d)(1) of Title 47 of the District of Columbia Official Code is amended by striking the phrase "Department of General Services" and inserting the phrase "Department of Energy and Environment" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§47-868" codified:doc="D.C. Code" codified:path="§47-868" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -6011,6 +6247,7 @@
       <section>
         <num>6102</num>
         <text>Section 2414.5 of Title 18 of the District of Columbia Municipal Regulations is amended by striking the phrase "Chief of Police" both times it appears and inserting the phrase "Director of the District Department of Transportation" in its place.</text>
+        <codify:marginalia display="DCMR"/>
       </section>
       <section>
         <num>6103</num>
@@ -6030,6 +6267,7 @@
       <section>
         <num>6112</num>
         <text>Subsection (c)(4)(A) of the text under the heading "ASSESSMENT AND PERMIT WORK" of An Act Making appropriations to provide for the expenses of the government of the District of Columbia for fiscal year ending June thirtieth, eighteen hundred and ninety-five, and for other purposes, approved August 7, 1894 (28 Stat. 247; D.C. Official Code § 9-401.06(c)(4)(A)), is amended by striking the phrase "provided," and inserting the phrase "provided, that in Fiscal Year 2020, an agreement to conduct a congestion pricing study shall not exceed $500,000; provided further," in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§9-401.06" codified:doc="D.C. Code" codified:path="§9-401.06" codified:display="Note"/>
       </section>
       <section>
         <num>6113</num>
@@ -6081,6 +6319,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§50-921.21" codified:doc="D.C. Code" codified:path="§50-921.21|(a)" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -6159,6 +6398,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§34-2159" codified:doc="D.C. Code" codified:path="§34-2159" codified:display="Note"/>
       </section>
     </container>
   </container>
@@ -6338,6 +6578,7 @@
             <text>Subsection (f) is repealed.</text>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§47-1806.15" codified:doc="D.C. Code" codified:path="§47-1806.15" codified:display="Note"/>
       </section>
       <section>
         <num>7003</num>
@@ -6473,6 +6714,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§47-1806.06" codified:doc="D.C. Code" codified:path="§47-1806.06" codified:display="Note"/>
       </section>
       <section>
         <num>7013</num>
@@ -6584,6 +6826,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§42-1103" codified:doc="D.C. Code" codified:path="§42-1103" codified:display="Note"/>
       </section>
       <section>
         <num>7023</num>
@@ -6629,6 +6872,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§47-903" codified:doc="D.C. Code" codified:path="§47-903" codified:display="Note"/>
       </section>
       <section>
         <num>7024</num>
@@ -6655,6 +6899,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§47-812" codified:doc="D.C. Code" codified:path="§47-812" codified:display="Note"/>
       </section>
       <section>
         <num>7033</num>
@@ -6682,6 +6927,7 @@
           <num>(b)</num>
           <text>Subparagraph (D)(i) is repealed.</text>
         </para>
+        <codify:emergency doc="D.C. Code" path="§47-812" codified:doc="D.C. Code" codified:path="§47-812" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -6706,6 +6952,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§36-621.05" codified:doc="D.C. Code" codified:path="§36-621.05" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -6729,6 +6976,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§36-621.06" codified:doc="D.C. Code" codified:path="§36-621.06" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -6740,6 +6988,7 @@
             <num>(2)</num>
             <text>This subsection shall apply as of January 30, 2019.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§36-621.15" codified:doc="D.C. Code" codified:path="§36-621.15" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -6788,6 +7037,7 @@
             <num>(4)</num>
             <text>Subparagraph (D) is repealed.</text>
           </para>
+          <codify:emergency doc="D.C. Code" path="§47-2001" codified:doc="D.C. Code" codified:path="§47-2001" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -6799,10 +7049,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§47-2002" codified:doc="D.C. Code" codified:path="§47-2002" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 47-2002.02(2)(A) is amended by striking the phrase "as described in § 47- 2001(n)(1)(A)" and inserting the phrase "as described in § 47-2001(n)(1)(A)(i)" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§47-2002.02" codified:doc="D.C. Code" codified:path="§47-2002.02" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -6814,10 +7066,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§47-2202" codified:doc="D.C. Code" codified:path="§47-2202" codified:display="Note"/>
         </para>
         <para>
           <num>(e)</num>
           <text>Section 47-2202.01(2)(A) is amended by striking the phrase "as described in § 47- 2001(n)(1)(A)" and inserting the phrase "as described in § 47-2001(n)(1)(A)(i)" in its place.</text>
+          <codify:emergency doc="D.C. Code" path="§47-2202.01" codified:doc="D.C. Code" codified:path="§47-2202.01" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -6865,6 +7119,9 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:annotation codify:doc="D.C. Code" path="§47-1099.04" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§47-1099.04">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§7072|(b)">§ 7072(b) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
         </para>
       </section>
     </container>
@@ -6967,6 +7224,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§47-864" codified:doc="D.C. Code" codified:path="§47-864" codified:display="Note"/>
       </section>
       <section>
         <num>7093</num>
@@ -6986,18 +7244,22 @@
       <section>
         <num>7102</num>
         <text>Section 1402 of the Productivity Bank Fund Establishment Act of 1999, effective October 20, 1999 (D.C. Law 13-38; D.C. Official Code § 1-325.01), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§1-325.01" action="repeal of this section" codified:doc="D.C. Code" codified:path="§1-325.01" codified:display="Note"/>
       </section>
       <section>
         <num>7103</num>
         <text>Section 1152 of the Fee Collection Incentive Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 1-325.61), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§1-325.61" action="repeal of this section" codified:doc="D.C. Code" codified:path="§1-325.61" codified:display="Note"/>
       </section>
       <section>
         <num>7104</num>
         <text>Section 7314 of the Internet Sales Tax, Homelessness Prevention, and WMATA Momentum Fund Establishment Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-325.241), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§1-325.241" action="repeal of this section" codified:doc="D.C. Code" codified:path="§1-325.241" codified:display="Note"/>
       </section>
       <section>
         <num>7105</num>
         <text>Section 7154 of the IPW Fund, Destination DC Marketing Fund, and WMATA Momentum Support Fund Establishment Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 1-325.311), is repealed</text>
+        <codify:emergency doc="D.C. Code" path="§1-325.311" action="repeal of this section" codified:doc="D.C. Code" codified:path="§1-325.311" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -7118,6 +7380,9 @@
           <num>(e)</num>
           <text>The Commission shall submit to the Council and the Mayor its final report no later than December 31, 2020.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§1-361.01" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§1-361.01">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§7122">§ 7122 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>7123</num>
@@ -7198,6 +7463,9 @@
           <num>(f)</num>
           <text>Members of the Commission shall act with the utmost integrity and professionalism.  Each member shall avoid conflicts of interest and may seek the advice of the Board of Ethics and Government Accountability, established pursuant to section 202 of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2012, effective April 27, 2012 (D.C. Law 19-124; D.C. Official Code § 1-1161.02),  to ensure that his or her duties are being discharged ethically.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§1-361.02" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§1-361.02">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§7123">§ 7123 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>7124</num>
@@ -7234,6 +7502,9 @@
           <num>(h)</num>
           <text>The Commission's operations shall be funded by annual appropriations.</text>
         </para>
+        <codify:annotation codify:doc="D.C. Code" path="§1-361.03" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§1-361.03">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§7124">§ 7124 of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
       </section>
       <section>
         <num>7125</num>
@@ -7257,6 +7528,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§2-351.05" codified:doc="D.C. Code" codified:path="§2-351.05" codified:display="Note"/>
       </section>
       <section>
         <num>7126</num>
@@ -7479,6 +7751,9 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:annotation codify:doc="D.C. Code" path="§47-1005.03" type="Emergency Legislation" history="false" applicability="2019-09-11" codified:doc="D.C. Code" codified:path="§47-1005.03">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="§7132|(b)">§ 7132(b) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
+        </codify:annotation>
         </para>
       </section>
       <section>
@@ -7491,6 +7766,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§42-3502.05" codified:doc="D.C. Code" codified:path="§42-3502.05" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -7506,110 +7782,197 @@
         <num>7142</num>
         <heading>Sections 3 and 4 of the Naval Lodge Building, Inc.</heading>
         <text>Real Property Tax Relief Act of 2015, effective October 21, 2015 (D.C. Law 21-30; D.C. Official Code § 47-1097, note), are repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§47-1097" action="repeal of applicability provision of D.C. Law 21-30" codified:doc="D.C. Code" codified:path="§47-1097" codified:display="Note"/>
       </section>
       <section>
         <num>7143</num>
         <text>Section 4 of the Safe at Home Act of 2016, effective November 26, 2016 (D.C. Law 21-168; D.C. Official Code § 7-551.01, note), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§7-551.01" action="repeal of applicability provision of D.C. Law 21-168" codified:doc="D.C. Code" codified:path="§7-551.01" codified:display="Note"/>
       </section>
       <section>
         <num>7144</num>
         <text>Section 3 of the Feminine Hygiene and Diaper Sales Tax Exemption Amendment Act of 2016, effective February 18, 2017 (D.C. Law 21-201; D.C. Official Code § 47-2005, note), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§47-2005" action="repeal of applicability provision of D.C. Law 21-201" codified:doc="D.C. Code" codified:path="§47-2005" codified:display="Note"/>
       </section>
       <section>
         <num>7145</num>
         <text>Section 3 of the Advisory Neighborhood Commissions Omnibus Amendment Act of 2016, effective April 7, 2017 (D.C. Law 21-269; D.C. Official Code § 1-309.01, note), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§1-309.01" action="repeal of applicability provision of D.C. Law 21-269" codified:doc="D.C. Code" codified:path="§1-309.01" codified:display="Note"/>
       </section>
       <section>
         <num>7146</num>
         <text>Section 6(a) of the Senior Dental Services Program Act of 2018, effective June 5, 2018 (D.C. Law 22-108; D.C. Official Code § 7-533.05(a)), is amended by striking the phrase "This act" and inserting the phrase "Starting in Fiscal Year 2021, this act" in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§7-533.01" action="amendment of applicability provision of D.C. Law 21-108" codified:doc="D.C. Code" codified:path="§7-533.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§7-533.02" action="amendment of applicability provision of D.C. Law 21-108" codified:doc="D.C. Code" codified:path="§7-533.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§7-533.03" action="amendment of applicability provision of D.C. Law 21-108" codified:doc="D.C. Code" codified:path="§7-533.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§7-533.04" action="amendment of applicability provision of D.C. Law 21-108" codified:doc="D.C. Code" codified:path="§7-533.04" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§7-533.05" action="amendment of applicability provision of D.C. Law 21-108" codified:doc="D.C. Code" codified:path="§7-533.05" codified:display="Note"/>
       </section>
       <section>
         <num>7147</num>
         <text>Section 4 of the Office of Administrative Hearings Jurisdiction Expansion Amendment Act of 2018, effective June 9, 2018 (D.C. Law 22-112; 65 DCR 4600), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§2-1831.01" action="repeal of applicability provision of D.C. Law 22-112" codified:doc="D.C. Code" codified:path="§2-1831.01" codified:display="Note"/>
       </section>
       <section>
         <num>7148</num>
         <text>Section 4 of the Accessible and Transparent Procurement Amendment Act of 2018, effective July 3, 2018 (D.C. Law 22-121; 65 DCR 5083), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§2-361.04a" action="repeal of applicability provision of D.C. Law 22-121" codified:doc="D.C. Code" codified:path="§2-361.04a" codified:display="Note"/>
       </section>
       <section>
         <num>7149</num>
         <text>Section 3 of the Study of Mental Health and Substance Abuse in Immigrant Communities Act of 2018, effective July 17, 2018 (D.C. Law 22-141; 65 DCR 5973), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§7-1141.06" action="repeal of applicability provision of D.C. Law 22-141" codified:doc="D.C. Code" codified:path="§7-1141.06" codified:display="Note"/>
       </section>
       <section>
         <num>7150</num>
         <text>Section 3 of the Public Housing Credit-Building Pilot Program Amendment Act of 2018, effective August 22, 2018 (D.C. Law 22-154; 65 DCR 7146), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§6-214.01" action="repeal of applicability provision of D.C. Law 22-154" codified:doc="D.C. Code" codified:path="§6-214.01" codified:display="Note"/>
       </section>
       <section>
         <num>7151</num>
         <text>Section 4 of the Student Fair Access to School Amendment Act of 2018, effective August 25, 2018 (D.C. Law 22-157; 65 DCR 9890), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§38-236.04" action="repeal of applicability provision of D.C. Law 22-157" codified:doc="D.C. Code" codified:path="§38-236.04" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-236.06" action="repeal of applicability provision of D.C. Law 22-157" display-template="" codified:doc="D.C. Code" codified:path="§38-236.06" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-236.07" action="repeal of applicability provision of D.C. Law 22-157" display-template="" codified:doc="D.C. Code" codified:path="§38-236.07" codified:display="Note"/>
       </section>
       <section>
         <num>7152</num>
         <text>Section 3 of the Healthy Parks Amendment Act of 2018, effective November 27, 2018 (D.C. Law 22-186; 65 DCR 11408), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§10-302.02" action="repeal of applicability provision of D.C. Law 22-186" codified:doc="D.C. Code" codified:path="§10-302.02" codified:display="Note"/>
       </section>
       <section>
         <num>7153</num>
         <text>Section 35 of the Revised Uniform Law on Notarial Acts Act of 2018, effective December 4, 2018 (D.C. Law 22-189; 65 DCR 11606), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§1-1231.19" action="repeal of applicability provision of D.C. Law 22-189" codified:doc="D.C. Code" codified:path="§1-1231.19" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§1-1231.20" action="repeal of applicability provision of D.C. Law 22-189" display-template="" codified:doc="D.C. Code" codified:path="§1-1231.20" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§1-1231.21" action="repeal of applicability provision of D.C. Law 22-189" display-template="" codified:doc="D.C. Code" codified:path="§1-1231.21" codified:display="Note"/>
       </section>
       <section>
         <num>7154</num>
         <text>Section 3 of the Rental Housing Affordability Re-establishment Amendment Act of 2018, effective February 22, 2019 (D.C. Law 22-202; 65 DCR 12333), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§42-3502.05" action="repeal of applicability provision of D.C. Law 22-202" codified:doc="D.C. Code" codified:path="§42-3502.05" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§42-3502.09" action="repeal of applicability provision of D.C. Law 22-202" display-template="" codified:doc="D.C. Code" codified:path="§42-3502.09" codified:display="Note"/>
       </section>
       <section>
         <num>7155</num>
         <text>Section 10 of the Access to Treatment for Anaphylaxis Act of 2018, effective February 22, 2019 (D.C. Law 22-207; 65 DCR 12365), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="7|23D|II" action="repeal of applicability provision of D.C. Law 22-207" codified:doc="D.C. Code" codified:path="§7-2381.01" codified:display="Note"/>
       </section>
       <section>
         <num>7156</num>
         <text>Section 4 of the Pathways to District Government Careers Amendment Act of 2018, effective February 22, 2019 (D.C. Law 22-211; 65 DCR 12603), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§1-603.01" action="repeal of applicability provision of D.C. Law 22-211" codified:doc="D.C. Code" codified:path="§1-603.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§1-604.02a" action="repeal of applicability provision of D.C. Law 22-211" display-template="" codified:doc="D.C. Code" codified:path="§1-604.02a" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§1-608.01" action="repeal of applicability provision of D.C. Law 22-211" display-template="" codified:doc="D.C. Code" codified:path="§1-608.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="1|6|X-C" action="repeal of applicability provision of D.C. Law 22-211" display-template="" codified:doc="D.C. Code" codified:path="§1-610.81" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§32-1408" action="repeal of applicability provision of D.C. Law 22-211" display-template="" codified:doc="D.C. Code" codified:path="§32-1408" codified:display="Note"/>
       </section>
       <section>
         <num>7157</num>
         <text>Section 3 of the Vacancy Increase Reform Amendment Act of 2018, effective February 22, 2019 (D.C. Law 22-223; 66 DCR 185), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§42-3502.13" action="repeal of applicability provision of D.C. Law 22-223" codified:doc="D.C. Code" codified:path="§42-3502.13" codified:display="Note"/>
       </section>
       <section>
         <num>7158</num>
         <text>Section 3 of the Daytime School Parking Zone Act of 2018, effective February 22, 2019 (D.C. Law 22-226; 66 DCR 195), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§50-2541" action="repeal of applicability provision of D.C. Law 22-226" codified:doc="D.C. Code" codified:path="§50-2541" codified:display="Note"/>
       </section>
       <section>
         <num>7159</num>
         <text>Section 4 of the Study of Long-Term Care Facilities and Long-Term Care Services Act of 2018, effective March 13, 2019 (D.C. Law 22-238; 66 DCR 594), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="7|6D" action="repeal of applicability provision of D.C. Law 22-238" codified:doc="D.C. Code" codified:path="§7-681" codified:display="Note"/>
       </section>
       <section>
         <num>7160</num>
         <text>Section 3 of the Healthy Students Amendment Act of 2018, effective March 13, 2019 (D.C. Law 22-240; 66 DCR 912), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§38-821.01" action="repeal of applicability provision of D.C. Law 22-240" codified:doc="D.C. Code" codified:path="§38-821.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-821.02" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-821.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.01" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.02" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.03" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.04" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.04" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.04a" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.04a" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.05" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.05" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.06" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.06" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.07" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.07" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-822.08" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-822.08" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-823.01a" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-823.01a" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-823.01b" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-823.01b" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-823.03" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-823.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-824.01" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-824.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-824.02" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-824.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-824.02a" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-824.02a" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-824.03" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-824.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-824.05" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-824.05" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-825.01" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-825.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-825.02" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-825.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-825.03" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-825.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-826.01" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-826.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-826.02" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-826.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-826.03" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-826.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-827.01" action="repeal of applicability provision of D.C. Law 22-240" display-template="" codified:doc="D.C. Code" codified:path="§38-827.01" codified:display="Note"/>
       </section>
       <section>
         <num>7161</num>
         <text>Section 5 of the Lead Water Service Line Replacement and Disclosure Amendment Act of 2018, effective March 13, 2019 (D.C. Law 22-241; 66 DCR 923), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§34-2158" action="repeal of applicability provision of D.C. Law 22-241" codified:doc="D.C. Code" codified:path="§34-2158" codified:display="Note"/>
       </section>
       <section>
         <num>7162</num>
         <text>Section 5 of the Foreign Government Owned Vacant and Blighted Building Amendment 24 Act of 2018, effective March 22, 2019 (D.C. Law 22-254; 66 DCR 1335), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§42-3131.06" action="repeal of applicability provision of D.C. Law 22-254" codified:doc="D.C. Code" codified:path="§42-3131.06" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§42-3131.09" action="repeal of applicability provision of D.C. Law 22-254" display-template="" codified:doc="D.C. Code" codified:path="§42-3131.09" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§42-3131.19" action="repeal of applicability provision of D.C. Law 22-254" display-template="" codified:doc="D.C. Code" codified:path="§42-3131.19" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§47-1102" action="repeal of applicability provision of D.C. Law 22-254" display-template="" codified:doc="D.C. Code" codified:path="§47-1102" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§47-1011" action="repeal of applicability provision of D.C. Law 22-254" display-template="" codified:doc="D.C. Code" codified:path="§47-1011" codified:display="Note"/>
       </section>
       <section>
         <num>7163</num>
         <text>Section 4 of the Women, Infants, and Children Program Expansion Act of 2018, effective March 22, 2019 (D.C. Law 22-255; 66 DCR 1339), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="2|3B|V" action="repeal of applicability provision of D.C. Law 22-255" codified:doc="D.C. Code" codified:path="§2-381.51" codified:display="Note"/>
       </section>
       <section>
         <num>7164</num>
         <text>Section 601 of the CleanEnergy DC Omnibus Amendment Act of 2018, effective March 22, 2019 (D.C. Law 22-257; 66 DCR 1344), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§50-921.23" action="repeal of applicability provision of D.C. Law 22-255" codified:doc="D.C. Code" codified:path="§50-921.23" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1774.02" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1774.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1774.07" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1774.07" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1774.10" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1774.10" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-173.01" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-173.01" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-173.02" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-173.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1772.21" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.21" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§6-1451.03" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§6-1451.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§6-1451.09" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§6-1451.09" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1772.22" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.22" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1772.23" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.23" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1772.31" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.31" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1772.32" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.32" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§8-1772.33" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.33" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§50-2201.03" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§50-741" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§50-741" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§50-921.23" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§50-921.23" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§50-921.24" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§50-921.24" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§50-742" action="repeal of applicability provision of D.C. Law 22-255" display-template="" codified:doc="D.C. Code" codified:path="§50-742" codified:display="Note"/>
       </section>
       <section>
         <num>7165</num>
         <text>Section 16 of the Rhode Island Avenue (RIA) Tax Increment Financing Act of 2018, effective March 22, 2019 (D.C. Law 22-263; 66 DCR 1378), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="2|12|IX|B|9" action="repeal of applicability provision of D.C. Law 22-263" codified:doc="D.C. Code" codified:path="§2-1217.39a" codified:display="Note"/>
       </section>
       <section>
         <num>7166</num>
         <text>Section 5 of the Public Restroom Facilities Installation and Promotion Act of 2018, effective April 11, 2019 (D.C. Law 22-280; 66 DCR 1595), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="10|10B" action="repeal of applicability provision of D.C. Law 22-280" codified:doc="D.C. Code" codified:path="§10-1051" codified:display="Note"/>
       </section>
       <section>
         <num>7167</num>
         <text>Section 4 of the Employment Protections for Victims of Domestic Violence, Sexual Offenses, and Stalking Amendment Act of 2018, effective April 11, 2019 (D.C. Law 22-281; 66 DCR 1601), is repealed.</text>
+        <codify:emergency doc="D.C. Law 22-281" action="repeal of applicability provision of D.C. Law 22-281" codified:doc="D.C. Code" codified:path="§2-1401.01" codified:display="Note"/>
       </section>
       <section>
         <num>7168</num>
         <text>Section 501 of the Opioid Overdose Treatment and Prevention Omnibus Act of 2018, effective April 11, 2019 (D.C. Law 22-288; 66 DCR 1656), is repealed.</text>
+        <codify:emergency doc="D.C. Law 22-288" action="repeal of applicability provision of D.C. Law 22-288" codified:doc="D.C. Code" codified:path="§7-404|(a)|(2)" codified:display="Note"/>
       </section>
       <section>
         <num>7169</num>
@@ -7640,14 +8003,21 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§10-171.04" action="delayed applicability of this section" codified:doc="D.C. Code" codified:path="§10-171.04" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§10-171.05" action="delayed applicability of this section" codified:doc="D.C. Code" codified:path="§10-171.05" codified:display="Note"/>
       </section>
       <section>
         <num>7170</num>
         <text>Section 501 of the School Safety Omnibus Amendment Act of 2018, effective April 11, 2019 (D.C. Law 22-294; 66 DCR 1707), is repealed.</text>
+        <codify:emergency doc="D.C. Code" path="§38-951.02" action="repeal of applicability provision of D.C. Law 22-294" codified:doc="D.C. Code" codified:path="§38-951.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-951.02" action="repeal of applicability provision of D.C. Law 22-294" display-template="" codified:doc="D.C. Code" codified:path="§38-951.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-951.02" action="repeal of applicability provision of D.C. Law 22-294" display-template="" codified:doc="D.C. Code" codified:path="§38-951.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§38-951.02" action="repeal of applicability provision of D.C. Law 22-294" display-template="" codified:doc="D.C. Code" codified:path="§38-951.02" codified:display="Note"/>
       </section>
       <section>
         <num>7171</num>
         <text>Section 3 of the Economic Development Return on Investment Accountability Amendment Act of 2018, effective April 11, 2019 (D.C. Law 22-295; 66 DCR 2005), is repealed.</text>
+        <codify:emergency doc="D.C. Law 22-295" action="repeal of applicability provision of D.C. Law 22-295" codified:doc="D.C. Code" codified:path="§2-1208.01|(2)" codified:display="Note"/>
       </section>
       <section>
         <num>7172</num>
@@ -7660,14 +8030,17 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Law 22-296" action="amendment of applicability provision of D.C. Law 22-296" codified:doc="D.C. Code" codified:path="§16-572" codified:display="Note"/>
       </section>
       <section>
         <num>7173</num>
         <text>Section 3 of the Performing Arts Promotion Amendment Act of 2018, effective April 11, 2019 (D.C. Law 22-297; 66 DCR 2014), is repealed.</text>
+        <codify:emergency doc="D.C. Law 22-297" action="repeal of applicability provision of D.C. Law 22-297" codified:doc="D.C. Code" codified:path="§47-802|(17)" codified:display="Note"/>
       </section>
       <section>
         <num>7174</num>
         <text>Section 4 of the DC Water Consumer Protection Amendment Act of 2018, effective April 11, 2019 (D.C. Law 22-299; 66 DCR 2020), is repealed.</text>
+        <codify:emergency doc="D.C. Law 22-299" action="repeal of applicability provision of D.C. Law 22-299" codified:doc="D.C. Code" codified:path="§34-804|(c)" codified:display="Note"/>
       </section>
       <section>
         <num>7175</num>
@@ -7675,12 +8048,13 @@
       </section>
       <section>
         <num>7176</num>
-        <heading>Section 9 of the Students in the Care of D.</heading>
-        <text>C. Coordinating Committee Act of 2018, effective April 11, 2019 (D.C. Law 22-303; 66 DCR 2037), is repealed.</text>
+        <text>Section 9 of the Students in the Care of D.C. Coordinating Committee Act of 2018, effective April 11, 2019 (D.C. Law 22-303; 66 DCR 2037), is repealed.</text>
+        <codify:emergency doc="D.C. Law 22-303" action="repeal of applicability provision of D.C. Law 22-303" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(64)" codified:display="Note"/>
       </section>
       <section>
         <num>7177</num>
         <text>Section 5(a) of the Sports Wagering Lottery Amendment Act of 2018, effective May 3, 2019 (D.C. Law 22-312; 66 DCR 1402), is amended by striking the phrase "This act" and inserting the phrase "The amendatory section of 316(d) of section 2(e) of this act" in its place.</text>
+        <codify:emergency doc="D.C. Law 22-312" action="amendment of applicability provision of D.C. Law 22-312" codified:doc="D.C. Code" codified:path="§2-218.54|[(d)]" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -7695,22 +8069,27 @@
       <section>
         <num>7182</num>
         <text>The Incarceration to Incorporation Entrepreneurship Program Act of 2016, effective October 8, 2016 (D.C. Law 21-159; 63 DCR 10771), is repealed.</text>
+        <codify:emergency doc="D.C. Law 21-159" action="repeal of this section" codified:doc="D.C. Code" codified:path="2|12|V-C" codified:display="Note"/>
       </section>
       <section>
         <num>7183</num>
         <text>The Improving Access to Identity Documents Amendment Act of 2016, effective February 18, 2017 (D.C. Law 21-195; 63 DCR 15016), is repealed.</text>
+        <codify:emergency doc="D.C. Law 21-195" action="repeal of amendments to this section" codified:doc="D.C. Code" codified:path="§7-221" codified:display="Note"/>
       </section>
       <section>
         <num>7184</num>
         <text>The Enhanced Penalties for Distracted Driving Amendment Act of 2016, effective February 18, 2017 (D.C. Law 21-196; 63 DCR 15027), is repealed.</text>
+        <codify:emergency doc="D.C. Law 21-196" action="repeal of amendments to this section" codified:doc="D.C. Code" codified:path="§50-1731.06|(a)" codified:display="Note"/>
       </section>
       <section>
         <num>7185</num>
         <text>The Notice in Case of Emergency Amendment Act of 2016, effective April 1, 2017 (D.C. Law 21-225; 64 DCR 154), is repealed.</text>
+        <codify:emergency doc="D.C. Law 21-225" action="repeal of amendments to this section" codified:doc="D.C. Code" codified:path="§1-327.54b" codified:display="Note"/>
       </section>
       <section>
         <num>7186</num>
         <text>Sections 3 and 4 of the Vehicle-for-Hire Accessibility Amendment Act of 2016, effective April 7, 2017 (D.C. Law 21-242; 64 DCR 1608), are repealed.</text>
+        <codify:emergency doc="D.C. Law 21-242" path="§3" action="repeal of this section" codified:doc="D.C. Code" codified:path="§47-1807.13" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -7735,6 +8114,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§10-1202.01" codified:doc="D.C. Code" codified:path="§10-1202.01" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -7758,6 +8138,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§10-1202.02" codified:doc="D.C. Code" codified:path="§10-1202.02" codified:display="Note"/>
         </para>
         <para>
           <num>(c)</num>
@@ -7769,6 +8150,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§10-1202.03" codified:doc="D.C. Code" codified:path="§10-1202.03" codified:display="Note"/>
         </para>
         <para>
           <num>(d)</num>
@@ -7780,11 +8162,13 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§10-1202.08" codified:doc="D.C. Code" codified:path="§10-1202.08" codified:display="Note"/>
         </para>
       </section>
       <section>
         <num>7193</num>
         <text>Any unobligated proceeds from the sale of the Marriot Marquis leasehold shall be held by the Authority and shall be set aside for large capital grants to be issued pursuant to section 203(10K) of the Washington Convention Center Authority Act of 1994, effective September 28, 1994 (D.C. Law 10-188; D.C. Official Code § 10-1202.03(10K)); provided, that the proceeds first be used to satisfy the Authority's current liabilities and legally required reserves, which shall not include the elective purchase or redemption of outstanding indebtedness.</text>
+        <codify:emergency doc="D.C. Code" path="§10-1202.03" action="requirement that any unobligated proceeds from the sale of the Marriot Marquis leasehold shall be held by the Authority" codified:doc="D.C. Code" codified:path="§10-1202.03" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -7866,6 +8250,7 @@
               </include>
               <aftertext>.</aftertext>
             </para>
+            <codify:emergency doc="D.C. Code" path="§47-1817.03" codified:doc="D.C. Code" codified:path="§47-1817.03" codified:display="Note"/>
           </para>
           <para>
             <num>(2)</num>
@@ -7922,6 +8307,7 @@
                 </para>
               </include>
               <aftertext>.</aftertext>
+              <codify:emergency doc="D.C. Code" path="§47-1817.06" codified:doc="D.C. Code" codified:path="§47-1817.06" codified:display="Note"/>
             </para>
           </para>
         </para>
@@ -7931,10 +8317,12 @@
           <para>
             <num>(1)</num>
             <text>Section 47-2001(n)(2)(G) is repealed.</text>
+            <codify:emergency doc="D.C. Code" path="§47-2001" codified:doc="D.C. Code" codified:path="§47-2001" codified:display="Note"/>
           </para>
           <para>
             <num>(2)</num>
             <text>Section 47-2005(31) is repealed.</text>
+            <codify:emergency doc="D.C. Code" path="§47-2005" codified:doc="D.C. Code" codified:path="§47-2005" codified:display="Note"/>
           </para>
         </para>
       </section>
@@ -7951,6 +8339,7 @@
       <section>
         <num>7222</num>
         <text>Section 213(a) of the Washington Convention Center Authority Act of 1994, effective September 28, 1994 (D.C. Law 10-188; D.C. Official Code § 10-1202.13(a)), is amended by striking the phrase "General Fund of the District." and inserting the phrase "General Fund of the District; provided, that at the end of Fiscal Year 2019, 50% of the excess shall be transferred, in cash, not to the General Fund of the District but instead to the DCHA Rehabilitation and Maintenance Fund, established by section 3(c-1) of the District of Columbia Housing Authority Act of 1999, effective May 9, 2000 (D.C. Law 13-105; D.C. Official Code § 6-202(c-1))." in its place.</text>
+        <codify:emergency doc="D.C. Code" path="§10-1202.13" codified:doc="D.C. Code" codified:path="§10-1202.13" codified:display="Note"/>
       </section>
       <section>
         <num>7223</num>
@@ -7992,6 +8381,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§10-1202.04" codified:doc="D.C. Code" codified:path="§10-1202.04" codified:display="Note"/>
         </para>
         <para>
           <num>(b)</num>
@@ -8047,6 +8437,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§10-1202.06" codified:doc="D.C. Code" codified:path="§10-1202.06" codified:display="Note"/>
         </para>
       </section>
       <section>

@@ -171,6 +171,7 @@
         <xi:include href="./sections/2-218.14.xml"/>
         <xi:include href="./sections/2-218.15.xml"/>
         <xi:include href="./sections/2-218.16.xml"/>
+        <xi:include href="./sections/2-218.17.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -264,6 +265,14 @@
         <xi:include href="./sections/2-218.81.xml"/>
         <xi:include href="./sections/2-218.82.xml"/>
       </container>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IX-B</num>
+      <heading>Small and Local Business Enterprise Development Assistance During the COVID-19 emergency.</heading>
+      <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="II" type="History" display="false"/>
+      <xi:include href="./sections/2-218.91.xml"/>
+      <xi:include href="./sections/2-218.92.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -850,11 +859,22 @@
       <annotation app="2019-03-22" doc="D.C. Law 22-255" eff="2019-03-22" path="" type="History" display="false"/>
       <xi:include href="./sections/2-381.51.xml"/>
       <xi:include href="./sections/2-381.52.xml"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7163" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-255, see <cite doc="D.C. Act 23-91" path="§7163">§ 7163 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7163" type="History" display="false"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7163" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-255, see <cite doc="D.C. Act 23-112" path="§7163">§ 7163 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7163" type="History" display="false"/>
       <annotation doc="D.C. Law 23-16" path="§7163" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-255">D.C. Law 22-255</cite>: <cite doc="D.C. Law 23-16" path="§7163">§ 7163 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-255" path="§4">§ 4 of D.C. Law 22-255</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-255">D.C. Law 22-255</cite> has been implemented.
         </annotation>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7163" type="History" display="false"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3C</num>
+    <heading>District Government Contractor Reporting of SARS-CoV-2.</heading>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="V" type="History" display="false"/>
+    <xi:include href="./sections/2-391.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1295,6 +1315,10 @@
       <prefix>Subchapter</prefix>
       <num>V-C</num>
       <heading>Incarceration to Incorporation Entrepreneurship Program. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7182" type="History"/></heading>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7182" display="false">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 23-91" path="§7182">§ 7182 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7182" type="History" display="false"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7182" display="false">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 23-112" path="§7182">§ 7182 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7182" type="History" display="false"/>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7182" type="History" display="false"/>
       <annotation app="2016-10-08" doc="D.C. Law 21-159" eff="2016-10-08" path="" type="History" display="false"/>
       <xi:include href="./sections/2-1210.51.xml"/>
@@ -1616,6 +1640,10 @@
           <xi:include href="./sections/2-1217.39m.xml"/>
           <xi:include href="./sections/2-1217.39n.xml"/>
           <xi:include href="./sections/2-1217.39o.xml"/>
+          <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7165" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) repeal of applicability provision of D.C. Law 22-263, see <cite doc="D.C. Act 23-91" path="§7165">§ 7165 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
+          <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7165" type="History" display="false"/>
+          <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7165" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) repeal of applicability provision of D.C. Law 22-263, see <cite doc="D.C. Act 23-112" path="§7165">§ 7165 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+          <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7165" type="History" display="false"/>
           <annotation doc="D.C. Law 23-16" path="§7165" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-263">D.C. Law 22-263</cite>: <cite doc="D.C. Law 23-16" path="§7165">§ 7165 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-263">D.C. Law 22-263</cite> has been implemented.
         </annotation>
@@ -2066,6 +2094,7 @@
         <xi:include href="./sections/2-1401.03.xml"/>
         <xi:include href="./sections/2-1401.04.xml"/>
         <xi:include href="./sections/2-1401.05.xml"/>
+        <xi:include href="./sections/[2-1401.06].xml"/>
       </container>
       <container>
         <prefix>Subchapter</prefix>
@@ -2144,6 +2173,18 @@
           <xi:include href="./sections/2-1402.82.xml"/>
           <xi:include href="./sections/2-1402.83.xml"/>
         </container>
+        <container>
+          <prefix>Part</prefix>
+          <num>J</num>
+          <reason>Not Funded</reason>
+          <heading>Health Care Professionals.</heading>
+          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§3|(a)" type="History" display="false"/>
+          <annotation app="notfunded" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History" display="false"/>
+          <xi:include href="./sections/2-1402.91.xml"/>
+          <xi:include href="./sections/2-1402.92.xml"/>
+          <annotation type="Applicability" doc="D.C. Law 23-90" path="§2|(b)|(2)" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-90" path="">D.C. Law 23-90</cite>: <cite doc="D.C. Law 23-90" path="§3">§ 3 of D.C. Law 23-90</cite> provided that the creation of this section by <cite doc="D.C. Law 23-90" path="§2|(b)|(2)">§ 2(b)(2) of D.C. Law 23-90</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History"/>
+        </container>
       </container>
       <container>
         <prefix>Subchapter</prefix>
@@ -2165,6 +2206,7 @@
         <xi:include href="./sections/2-1403.14.xml"/>
         <xi:include href="./sections/2-1403.15.xml"/>
         <xi:include href="./sections/2-1403.16.xml"/>
+        <xi:include href="./sections/2-1403.16a.xml"/>
         <xi:include href="./sections/2-1403.17.xml"/>
       </container>
       <container>
@@ -2430,6 +2472,10 @@
       <prefix>Subchapter</prefix>
       <num>VIII</num>
       <heading>Students in the Care of D.C. Coordinating Committee.</heading>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7176" display="false">For temporary (90 days) repeal of applicability provision of D.C. Law 22-303, see <cite doc="D.C. Act 23-91" path="§7176">§ 7176 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
+      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7176" type="History" display="false"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7176" display="false">For temporary (90 days) repeal of applicability provision of D.C. Law 22-303, see <cite doc="D.C. Act 23-112" path="§7176">§ 7176 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7176" type="History" display="false"/>
       <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="" type="History" display="false"/>
       <xi:include href="./sections/2-1599.01.xml"/>
       <xi:include href="./sections/2-1599.02.xml"/>
@@ -2546,6 +2592,13 @@
     <xi:include href="./sections/2-1831.17.xml"/>
     <xi:include href="./sections/2-1831.18.xml"/>
     <xi:include href="./sections/2-1831.19.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>18B</num>
+    <heading>Administrative Hearings Deadline Tolling During a Public Health Emergency.</heading>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="VIII" type="History" display="false"/>
+    <xi:include href="./sections/2-1851.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

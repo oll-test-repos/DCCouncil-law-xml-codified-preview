@@ -127,9 +127,13 @@
         <text>Section 25-113a is amended by adding a new subsection (d) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§25-113a" codified:doc="D.C. Code" codified:path="§25-113a|(d)"/>
+            <codify:insert path="§25-113a" codified:doc="D.C. Code" codified:path="§[25-113.01]|(d)"/>
             <num>(d)</num>
             <text>The license under an on-premises retailer's license, class C/R, D/R, C/H, D/H, C/T, D/T, C/N, D/N, D/X, C/X and class Arena C/X or a manufacturer's license class A or B holding an on-sites sales and consumption permit, shall obtain a sports wagering endorsement from the Board to be eligible to offer sports wagering.</text>
+            <codify:find-replace path="§25-113a|num" count="1" codified:doc="D.C. Code" codified:path="§[25-113.01]">
+              <find>25-113a</find>
+              <replace>[25-113.01]</replace>
+            </codify:find-replace>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -431,7 +435,7 @@
               <text>This moratorium shall not apply to an applicant for an off-premises retailer's license, class B, for the sale of alcoholic beverages in an establishment if:</text>
               <para>
                 <num>(1)</num>
-                <text>The off-premises retailer's license, class B, meets the definition of a full-service grocery store, as defined <cite doc="D.C. Code" path="§25-101|(22A)">§ 25-101(22A)</cite>;</text>
+                <text>The off-premises retailer's license, class B, meets the definition of a full-service grocery store, as defined <span codify:value="[in]"/> <cite doc="D.C. Code" path="§25-101|(22A)">§ 25-101(22A)</cite>;</text>
               </para>
               <para>
                 <num>(2)</num>
@@ -677,7 +681,7 @@
             <para>
               <codify:insert codified:doc="D.C. Code" codified:path="§25-754|(c)"/>
               <num>(c)</num>
-              <text>The Board may permit a licensee to conduct other activities at an approved storage location; except, that that the licensee shall not be permitted to sell, service, or allow the consumption of alcoholic beverages at the storage location.</text>
+              <text>The Board may permit a licensee to conduct other activities at an approved storage location; except, that that the licensee shall not be permitted to sell, <span codify:value="[serve]">service</span>, or allow the consumption of alcoholic beverages at the storage location.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -730,10 +734,7 @@
       </subsection>
     </include>
     <aftertext>.</aftertext>
-    <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR" codified:doc="D.C. Code" codified:path="§2-553">
-      <find>Documents</find>
-      <replace>Documents</replace>
-    </codify:find-replace>
+    <codify:marginalia display="DCMR"/>
   </section>
   <section>
     <num>5</num>
