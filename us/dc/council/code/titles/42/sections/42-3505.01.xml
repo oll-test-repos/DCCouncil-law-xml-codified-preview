@@ -37,7 +37,7 @@
     <num>(e)</num>
     <text>A housing provider may recover possession of a rental unit where the housing provider has in good faith contracted in writing to sell the rental unit or the housing accommodation in which the unit is located for the immediate and personal use and occupancy by another person, so long as the housing provider has notified the tenant in writing of the tenant’s right and opportunity to purchase as provided in <cite path="42|34">Chapter 34 of this title</cite>. The housing provider shall serve on the tenant a 90-day notice to vacate in advance of the housing provider’s action to recover possession of the rental unit. No person shall demand or receive rent for any rental unit which has been repossessed under this subsection during the 12-month period beginning on the date on which the rental unit was originally repossessed by the housing provider.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(e-1)</num>
     <text>Not Funded.</text>
   </para>
@@ -375,11 +375,11 @@
       <text>Any notice required under this subchapter shall be effective when sent to the tenant at the address maintained in the registry.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(o)</num>
     <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(p)</num>
     <text>Repealed.</text>
   </para>
@@ -482,8 +482,8 @@
     <annotation app="notfunded" doc="D.C. Law 23-72" eff="2020-04-16" path="§2|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-72" path="§2|(b)" codified:display="Note" app="2020-04-16" eff="2020-04-16">Applicability of <cite doc="D.C. Law 23-72" path="">D.C. Law 23-72</cite>: <cite doc="D.C. Law 23-72" path="§5">§ 5 of D.C. Law 23-72</cite> provided that the change made to this section by <cite doc="D.C. Law 23-72" path="§2|(b)">§ 2(b) of D.C. Law 23-72</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-04-16" doc="D.C. Law 23-72" eff="2020-04-16" path="§2|(b)" type="History"/>
-    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§404|(b)|(1)" type="History"/>
-    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§404|(b)|(2)" type="History"/>
-    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§404|(b)|(3)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§404|(b)|(1)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§404|(b)|(2)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§404|(b)|(3)" type="History"/>
   </annotations>
 </section>
