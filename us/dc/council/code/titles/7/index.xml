@@ -180,7 +180,7 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Limitation of Healthcare Provider Liability Related to COVID-19 Treatment.</heading>
-    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="VII" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="VII" type="History" display="false"/>
     <xi:include href="./sections/7-311.xml"/>
   </container>
   <container>
@@ -432,7 +432,7 @@
     <prefix>Chapter</prefix>
     <num>6E</num>
     <heading>Long-Term Care Facility reporting during a public health emergency.</heading>
-    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="V" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="V" type="History" display="false"/>
     <xi:include href="./sections/7-691.xml"/>
   </container>
   <container>
@@ -655,6 +655,7 @@
     <xi:include href="./sections/7-771.06.xml"/>
     <xi:include href="./sections/7-771.07.xml"/>
     <xi:include href="./sections/7-771.07a.xml"/>
+    <xi:include href="./sections/7-771.07b.xml"/>
     <xi:include href="./sections/7-771.08.xml"/>
     <xi:include href="./sections/7-771.09.xml"/>
     <xi:include href="./sections/7-771.10.xml"/>
@@ -1300,6 +1301,7 @@
     <xi:include href="./sections/7-1671.06.xml"/>
     <xi:include href="./sections/7-1671.07.xml"/>
     <xi:include href="./sections/7-1671.08.xml"/>
+    <xi:include href="./sections/7-1671.08a.xml"/>
     <xi:include href="./sections/7-1671.09.xml"/>
     <xi:include href="./sections/7-1671.10.xml"/>
     <xi:include href="./sections/7-1671.11.xml"/>
@@ -1440,6 +1442,7 @@
     <prefix>Chapter</prefix>
     <num>19B</num>
     <heading>Health Care Provider Facility Expansion Program.</heading>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7093" type="History" display="false"/>
     <annotation app="2018-05-05" doc="D.C. Law 22-97" eff="2018-05-05" path="" type="History" display="false"/>
     <xi:include href="./sections/7-1941.01.xml"/>
     <xi:include href="./sections/7-1941.02.xml"/>
@@ -1663,7 +1666,7 @@
     <prefix>Chapter</prefix>
     <num>23A-i</num>
     <heading>Mayoral Authority Regarding Licenses and Registrations During a Public Health Emergency.</heading>
-    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="III" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="III" type="History" display="false"/>
     <xi:include href="./sections/7-2335.xml"/>
   </container>
   <container>

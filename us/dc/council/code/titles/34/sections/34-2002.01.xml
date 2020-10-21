@@ -12,6 +12,7 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 11-154" type="History" path="§3a">Sept. 9, 1996, D.C. Law 11-154, § 3a</annotation>
-    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§307|(f)" prefix="as added" type="History"/>
+    <annotation app="2020-10-11" doc="D.C. Act 23-405" eff="2020-08-19" path="§307|(f)" type="History"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§307|(f)" prefix="as added" type="History"/>
   </annotations>
 </section>

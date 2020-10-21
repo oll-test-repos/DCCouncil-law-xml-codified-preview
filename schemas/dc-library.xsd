@@ -225,6 +225,7 @@
                   </xs:sequence>
                 </xs:complexType>
               </xs:element>
+			  <xs:element minOccurs="0" name="history-start" type="xs:string"/>
             </xs:sequence>
           </xs:complexType>
         </xs:element>
