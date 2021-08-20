@@ -47,5 +47,12 @@
     <annotation app="2020-07-27" doc="D.C. Act 23-339" eff="2020-07-27" path="§3" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-128" path="§3" codified:display="Note" app="2020-08-27" eff="2020-08-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-128" path="§3">§ 3 of Medical Marijuana Program Patient Employment Protection Temporary Amendment Act of 2020 (D.C. Law 23-128, Aug. 27, 2020, 67 DCR 8619)</cite>.</annotation>
     <annotation app="2020-08-27" doc="D.C. Law 23-128" eff="2020-08-27" path="§3" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§3" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-72" path="§3" codified:display="Note" app="2021-05-04" eff="2021-05-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-72" path="§3">§ 3 of Medical Marijuana Program Patient Employment Protection Emergency Amendment Act of 2021 (D.C. Act 24-72, May 4, 2021, 68 DCR 004925)</cite>.</annotation>
+    <annotation app="2021-05-04" doc="D.C. Act 24-72" eff="2021-05-04" path="§3" type="History" display="false"/>
   </annotations>
+  <para>
+    <num>(d)</num>
+    <text>The Department shall comply with the requirements of <cite path="1|6|XX-E">subchapter XX-E of Chapter 6 of Title 1</cite>.</text>
+  </para>
 </section>

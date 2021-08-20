@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Repealed</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1407</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-1407(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>DC HealthCare Alliance recertification.</heading>
-  <text>Repealed.</text>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-1407" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1407">Applicability of <cite doc="D.C. Law 22-35" path="">D.C. Law 22-35</cite>: <cite doc="D.C. Law 22-35" path="§3">§ 3 of D.C. Law 22-35</cite> provided that the creation of this section by <cite doc="D.C. Law 22-35" path="§2">§ 2 of D.C. Law 22-35</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>If DC HealthCare Alliance enrollees are required to complete an interview as a recertification requirement more than once in a 12-month period, the Mayor shall:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Only require DC HealthCare Alliance enrollees to complete one in person face-to-face interview for recertification during a 12-month period; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Allow DC HealthCare Alliance enrollees to complete any additional required interviews for recertification over the phone with the Department of Human Services.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-18" type="History" path="§6">July 12, 2001, D.C. Law 14-18, § 7b</annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" prefix="as added" type="History"/>
@@ -19,14 +31,24 @@
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§5102" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§5102" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§5102">§ 5102 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§5102" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5102" type="History"/>
     <annotation doc="D.C. Law 23-16" path="§5102" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§5102">Section 5102 of D.C. Law 23-16</cite> amended this section as added by <cite doc="D.C. Law 22-35" path="§2">section 2  of D.C. Law 22-35</cite> keeping in place the applicability provision. Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5102" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7062" type="History" display="false"/>
-    <annotation doc="D.C. Act 23-404" path="§7062" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Law 22-168" path="§5023">Section 5023 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-35" path="§3|(a)">section 3(a) of D.C. Law 22-35</cite> keeping in place the applicability provision.  Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7062" type="History" display="false"/>
+    <annotation doc="D.C. Law 23-149" path="§7062" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 22-168" path="§5023">Section 5023 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-35" path="§3|(a)">section 3(a) of D.C. Law 22-35</cite> keeping in place the applicability provision.  Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
         </annotation>
-    <annotation doc="D.C. Act 23-404" path="§7062" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7062">Section 7062 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 22-35" path="§3">section 3 of D.C. Law 22-35</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 2 of Law 22-35 has been implemented.
+    <annotation doc="D.C. Law 23-149" path="§7062" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7062">Section 7062 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 22-35" path="§3">section 3 of D.C. Law 22-35</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 2 of Law 22-35 has been implemented.
         </annotation>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7100" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7100" type="History"/>
+    <annotation doc="D.C. Law 23-149" path="§7100" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7100">Section 7100 of D.C. Law 23-149</cite> repealed D.C. Law 22-62, removing the amendment made to this section by that law and implementing the amendment to this section made by <cite doc="D.C. Law 23-16" path="§5102">D.C. Law 23-16</cite>.
+       </annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7100" type="History" display="false"/>
+    <annotation app="2021-08-05" doc="D.C. Act 24-156" eff="2021-08-05" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2021-08-05" doc="D.C. Act 24-156" eff="2021-08-05" path="§3|(a)" type="History"/>
+    <annotation doc="D.C. Act 24-156" path="§3|(a)" type="Applicability" history="false" app="2021-08-05" eff="2021-08-05"><cite doc="D.C. Act 24-79" path="§4|(a)">D.C. Act 24-79</cite> repealed, for 90 days, the amendment to this section made by <cite doc="D.C. Law 23-16" path="§5102">D.C. Law 23-16</cite>, thus temporarily restoring the language created by <cite doc="D.C. Law 22-35" path="§2">D.C. Law 22-35</cite>.
+      </annotation>
+    <annotation doc="D.C. Act 24-156" path="§3|(a)" type="Applicability" history="false" app="2021-08-05" eff="2021-08-05"><cite doc="D.C. Act 24-156" path="§4|(a)">D.C. Act 24-156</cite> repealed, for 90 days, the amendment to this section made by <cite doc="D.C. Law 23-16" path="§5102">D.C. Law 23-16</cite>, thus temporarily restoring the language created by <cite doc="D.C. Law 22-35" path="§2">D.C. Law 22-35</cite>.
+      </annotation>
   </annotations>
 </section>

@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-1104</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-1104(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Police Complaints Board.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a Police Complaints Board (“Board”). The Board shall be composed of 5 members, one of whom shall be a member of the MPD, and 4 of whom shall have no current affiliation with any law enforcement agency. All members of the Board shall be residents of the District of Columbia. The members of the Board shall be appointed by the Mayor, subject to confirmation by the Council. The Mayor shall submit a nomination to the Council for a 90-day period of review, excluding days of Council recess. If the Council does not approve the nomination by resolution within this 90-day review period, the nomination shall be deemed disapproved.</text>
+    <text>There is established a Police Complaints Board ("Board"). The Board shall be composed of 9 members, which shall include one member from each Ward and one at-large member, none of whom, after the expiration of the term of the currently serving member of the MPD, shall be affiliated with any law enforcement agency. All members of the Board shall be residents of the District of Columbia. The members of the Board shall be appointed by the Mayor, subject to confirmation by the Council. The Mayor shall submit a nomination to the Council for a 90-day period of review, excluding days of Council recess. If the Council does not approve the nomination by resolution within this 90-day review period, the nomination shall be deemed disapproved.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -73,11 +76,11 @@
     <num>(d-3)</num>
     <para>
       <num>(1)</num>
-      <text>The Board or any entity selected by the Board shall cause to be conducted an independent review of the activities of MPD's Narcotics and Specialized Investigations Division, and any of its subdivisions ("NSID"), from August 1, 2019, through January 31, 2020.</text>
+      <text>The Board or any entity selected by the Board shall cause to be conducted an independent review of the activities of MPD's Narcotics and Specialized Investigations Division, and any of its subdivisions ("NSID"), from January 1, 2017, through December 31, 2019.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>By September 30, 2021, the Board shall submit to the Mayor and Council a report summarizing the findings of the review, including:</text>
+      <text>By April 30, 2021, the Board shall submit to the Mayor and Council a report summarizing the findings of the review, including:</text>
       <para>
         <num>(A)</num>
         <text>A description of the NSID's operations, management, and command structure;</text>
@@ -167,11 +170,24 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§3082" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§3082">§ 3082 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§3082" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3082" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§704" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§704">§ 704 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§704" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§704" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§704">§ 704 of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§704" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§105|(a)" codified:display="Note" app="2020-07-22" eff="2020-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-336" path="§105|(a)">§ 105(a) of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§105|(a)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§704" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§704">§ 704 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§704" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§704">§ 704 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§704" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§704|(a)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§704|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§704" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§704">§ 704 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§704" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§105|(a)" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§105|(a)">§ 105(a) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
+    <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§105|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§105|(a)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§105|(a)">§ 105(a) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§105|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§105|(a)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-76" path="§105|(a)">§ 105(a) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
+    <annotation app="2021-05-03" doc="D.C. Act 24-76" eff="2021-05-03" path="§105|(a)" type="History" display="false"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§105|(a)" type="History" display="false"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§105|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§105|(a)" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-128" path="§105|(a)">§ 105(a) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>51-101</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on February 4, 2022. To view the text of this section after the expiration of all emergency and/or temporary legislation, click this link: <cite path="§51-101(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§51-101(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>As used in this subchapter, unless the context indicates otherwise:</text>
   <para>
@@ -44,18 +50,11 @@
         </para>
         <para>
           <num>(ii)</num>
-          <para>
-            <num>(I)</num>
-            <text>Service performed after December 31, 1971, by an individual in the employ of the District or any of its instrumentalities (or in the employ of the District and 1 or more states or their instrumentalities) for a hospital or institution of higher education; provided, that such service is excluded from “employment” as defined in the Federal Unemployment Tax Act (26 U.S.C. §§ 3301 to 3311) solely by reason of § 3306(c)(7) of that Act (26 U.S.C. § 3306(c)(7)) and is not excluded from “employment” under paragraph (2)(A)(iv) of this section;</text>
-          </para>
-          <para>
-            <num>(II)</num>
-            <text>Service performed after December 31, 1977, in the employ of the District or any of its instrumentalities, or in any instrumentality of the District and 1 or more states or political subdivisions; provided, that such service is excluded from “employment” as defined in the Federal Unemployment Tax Act (26 U.S.C. §§ 3301 to 3311) by § 3306(c)(7) (26 U.S.C. § 3306(c)(7)) of that Act and is not excluded from “employment” under paragraph (2)(A)(iv) of this section.</text>
-          </para>
+          <text>Service performed after December 31, 1977, in the employ of the District or any state, or political subdivision thereof, or an Indian tribe; any instrumentality of one or more of the foregoing entities that is wholly owned by one or more of the foregoing entities; or any instrumentality of the District or one or more states, or political subdivisions thereof, to the extent that the instrumentality is, with respect to such service, immune under the Constitution of the United States from the tax imposed by section 3301 of the Federal Unemployment Tax Act, approved August 16, 1954 (68A Stat. 439; 26 U.S.C. § 3301)) ("Unemployment Tax Act"); except, that it does not include service described in paragraph (2)(A)(iv) of this section or section 3309(b) of the Unemployment Tax Act (26 U.S.C. § 3309(b)), or to service exempted from compensation pursuant to section 3304(a)(6)(A) of the Unemployment Tax Act (26 U.S.C. § 3304(a)(6)(A)).</text>
         </para>
         <para>
           <num>(iii)</num>
-          <text>Service performed after March 30, 1962, by an individual in the employ of an educational organization, and service performed after December 31, 1971, by an individual in the employ of a religious, charitable, or other organization which is excluded from the term “employment” as defined in the Federal Unemployment Tax Act (26 U.S.C. §§ 3301 to 3311) solely by reason of § 3306(c)(8) of that Act (26 U.S.C. § 3306(c)(8)), except as provided in paragraph (2)(A)(iv);</text>
+          <text>Service performed after March 30, 1962, in the employ of an educational organization, and service performed after December 31, 1971, in the employ of a religious, charitable, or other organization described in section 501(c)(3) of the Internal Revenue Code of 1986, approved October 22, 1986 (100 Stat. 2085; 26 U.S.C. § 501(c)(3)) ("Internal Revenue Code"), which is exempt from income tax under section 501(a) of the Internal Revenue Code (26 U.S.C. § 501(a)); except, that it does not include service described in paragraph (2)(A)(iv) of this section or section 3309(b) of the Unemployment Tax Act (26 U.S.C. § 3309(b)), or to service exempted from compensation pursuant to section 3304(a)(6)(A) of the Unemployment Tax Act (26 U.S.C. § 3304(a)(6)(A)).</text>
         </para>
         <para>
           <num>(iv)</num>
@@ -148,7 +147,7 @@
       </para>
       <para>
         <num>(A-i)</num>
-        <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and in conformity with federal law, the Director may determine that the term "employment" as defined in paragraph (2)(A) of this section may include individuals who are self-employed, seeking part-time employment, do not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under District or federal law or pandemic emergency unemployment compensation.</text>
+        <text>In conformity with federal law, the Director may determine that the term "employment" as defined in paragraph (2)(A) of this section may include individuals who are self-employed, seeking part-time employment, do not have sufficient work history, or otherwise would not qualify for regular unemployment or extended benefits under District or federal law or pandemic emergency unemployment compensation.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -501,6 +500,10 @@
       <num>(26)</num>
       <text>The term “most recent work” as used in <cite path="§51-110|(a)">§ 51-110(a)</cite> and (b) shall mean the employer for whom the individual last performed 30 work days of “employment” as defined in paragraph (2)(B) of this section; provided, however, that should the individual subsequently perform services in “employment” on a less than 30 hour per week basis and then become “unemployed” as defined in paragraph (5) of this section, the subsequent employer shall be considered the “most recent work” if the individual has earned remuneration in its employ of at least 5 times his weekly benefit amount.</text>
     </para>
+    <para>
+      <num>(27)</num>
+      <text>"Indian tribe" shall have the same meaning as provided in section 3306(u) of the Unemployment Tax Act (26 U.S.C. § 3306(u)).</text>
+    </para>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 2304 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that this subtitle [subtitle A of title XXIII, §§ 2301 to 2305 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite>] shall apply 180 calendar days after October 1, 2002.</text>
@@ -555,8 +558,26 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2112|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-14" path="§2|(a)" codified:display="Note" app="2019-02-25" eff="2019-02-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-14" path="§2|(a)">§ 2(a) of Supporting Essential Workers Unemployment Insurance Emergency Amendment Act of 2019 (D.C. Act 23-14, Feb. 25, 2019, 66 DCR 2469)</cite>.</annotation>
     <annotation app="2019-02-25" doc="D.C. Act 23-14" eff="2019-02-25" path="§2|(a)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§102|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§102|(a)">§ 102(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§102|(a)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§102|(a)">§ 102(a) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§102|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§102|(a)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§102|(a)">§ 102(a) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§102|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§102|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§102|(a)">§ 102(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§102|(a)" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§102|(a)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§102|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§102|(a)">§ 102(a) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§102|(a)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§102|(a)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§102|(a)">§ 102(a) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§102|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§102|(a)" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-96" path="§102|(a)">§ 102(a) of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§102|(a)" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§102|(a)" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§102|(a)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§102|(a)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§102|(a)">§ 102(a) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(b)|(1)" type="History" display="false"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(b)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(b)|(1)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(b)|(1)">§ 3(b)(1) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
   </annotations>
 </section>

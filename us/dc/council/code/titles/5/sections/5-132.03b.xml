@@ -55,6 +55,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§4102|(d)" type="History"/>
+    <annotation doc="D.C. Law 15-350" type="History" path="§103b">Apr. 13, 2005, D.C. Law 15-350, § 103b</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4102|(d)" prefix="as added" type="History"/>
   </annotations>
 </section>

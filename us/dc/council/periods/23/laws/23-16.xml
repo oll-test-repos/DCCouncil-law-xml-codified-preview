@@ -405,17 +405,20 @@
             </include>
             <aftertext>.</aftertext>
           </para>
-          <para codify:path="(b)|(2)">
+          <para codify:path="(b)|(2)|text">
             <num>(2)</num>
             <text>The lead-in language of subsection (b)(2) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§1-1163.32d|(b)|(2)"/>
                 <num>(2)</num>
                 <text>If an uncontested election becomes a contested election after a participating candidate is certified under <code-cite doc="D.C. Code" path="§1-1163.32c|(b)">section 332c(b)</code-cite>, the Director of Campaign Finance shall direct, no later than 5 days after the uncontested election becomes a contested election, the Office of the Chief Financial Officer to disburse to the participating candidate, and the Office of the Chief Financial Officer shall disburse, within 5 business days after receiving direction to do so from the Director of Campaign Finance:</text>
               </para>
             </include>
             <aftertext>.</aftertext>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.32d|(b)|(2)">
+              <find>If an uncontested election becomes a contested election after a participating candidate is certified under <code-cite doc="D.C. Code" path="§1-1163.32c|(b)">section 332c(b)</code-cite>, the participating candidate shall receive, no later than 5 business days after the uncontested election becomes a contested election:</find>
+              <replace>If an uncontested election becomes a contested election after a participating candidate is certified under <code-cite doc="D.C. Code" path="§1-1163.32c|(b)">section 332c(b)</code-cite>, the Director of Campaign Finance shall direct, no later than 5 days after the uncontested election becomes a contested election, the Office of the Chief Financial Officer to disburse to the participating candidate, and the Office of the Chief Financial Officer shall disburse, within 5 business days after receiving direction to do so from the Director of Campaign Finance:</replace>
+            </codify:find-replace>
           </para>
         </para>
         <para codify:path="§1-1163.32e">
@@ -3158,7 +3161,7 @@
             <para>
               <codify:insert codified:doc="D.C. Code" codified:path="§42-1706|(c)"/>
               <num>(c)</num>
-              <text>Money in the Fund shall be used for purposes consistent with <code-cite doc="D.C. Code" path="§47-1707">section 30</code-cite>.</text>
+              <text>Money in the Fund shall be used for purposes consistent with <code-cite doc="D.C. Code" path="§42-1707">section 30</code-cite>.</text>
             </para>
             <para>
               <codify:insert codified:doc="D.C. Code" codified:path="§42-1706|(d)"/>
@@ -5531,12 +5534,12 @@
         <text>The Department of Health Functions Clarification Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 7-731 <em>et seq</em>.), is amended by adding a new subtitle E to read as follows:</text>
         <include>
           <container>
-            <codify:insert path="7|7A|V" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-744.01"/>
             <prefix>Subtitle</prefix>
             <num>E</num>
             <heading>Dementia Services.</heading>
             <section>
-              <num codify:value="7-744.01">4948</num>
+              <codify:insert path="7|7A|V" num-value="7-744.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-744.01"/>
+              <num>4948</num>
               <heading>Dementia Services Coordinator.</heading>
               <text>There is established within the Department of Health the position of the Dementia Services Coordinator ("Coordinator"), who shall be a full-time employee of the District. The Coordinator shall be responsible for:</text>
               <para>
@@ -5566,11 +5569,11 @@
                   <text>Carrying out such other duties relevant to the support of individuals with dementia as may be assigned by the Director of the Department of Health.</text>
                 </para>
               </para>
+              <annotation doc="D.C. Law 14-28" type="History" path="§4948">Oct. 3, 2001, D.C. Law 14-28, § 4948 (redesignated)</annotation>
             </section>
           </container>
         </include>
         <aftertext>.</aftertext>
-        <annotation doc="D.C. Law 14-28" type="History" path="§4951">Oct. 3, 2001, D.C. Law 14-28, § 4948 [4951]</annotation>
       </section>
     </container>
     <container>
@@ -6150,7 +6153,7 @@
           <text>A new section 5130 is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert doc="D.C. Code" path="44|9A" after="§44-951.18" num-value="44-951.19" codified:doc="D.C. Code" codified:path="§44-951.19"/>
+              <codify:insert doc="D.C. Code" path="44|9A" after="§44-951.18" num-value="44-951.19" history-prefix="as added" codified:doc="D.C. Code" codified:path="§44-951.19"/>
               <num>5130</num>
               <heading>Dissolution.</heading>
               <para>
@@ -6172,6 +6175,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <annotation doc="D.C. Law 19-21" type="History" path="§5130">Sept. 14, 2011, D.C. Law 19-21, § 5130</annotation>
         </para>
       </section>
       <section>
@@ -6303,7 +6307,8 @@
         <text>Section 7b of the Health Care Privatization Amendment Act of 2001, effective December 13, 2017 (D.C. Law 22-35; D.C. Official Code § 7-1407), is amended to read as follows:</text>
         <include>
           <section>
-            <num>7b</num>
+            <codify:replace doc="D.C. Code" path="§7-1407" codified:doc="D.C. Code" codified:path="§7-1407"/>
+            <num codify:value="7-1407">7b</num>
             <heading>D.C. Healthcare Alliance recertification.</heading>
             <para>
               <num>(a)</num>
@@ -6417,7 +6422,7 @@
             <text>A new subparagraph (B-i) is added to read as follows:</text>
             <include lvl="2">
               <para>
-                <codify:insert after="(B)"/>
+                <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§7-503.07"/>
                 <num>(B-i)</num>
                 <text>The number of aged residents, listed by Ward, who spend down assets in order to qualify for Medicaid, who forgo needed care because they cannot afford the care, and who spend a significant percentage of their income or assets on health care; and</text>
               </para>
@@ -6448,7 +6453,7 @@
               <text>A new sub-subparagraph (iv) is added to read as follows:</text>
               <include lvl="3">
                 <para>
-                  <codify:insert/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§7-503.07"/>
                   <num>(iv)</num>
                   <text>Are disabled;</text>
                 </para>
@@ -6478,7 +6483,7 @@
           <text>A new paragraph (9) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§7-503.07"/>
               <num>(9)</num>
               <text>Current licensing and training programs, administered by the Department of Health or the Department of Employment Services, for in-home healthcare workers and recommendations for improvements to licensing or training programs that would increase the number of in-home healthcare workers in the District.</text>
             </para>
@@ -9804,7 +9809,7 @@
               <text>Paragraph (1) is amended to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:replace codified:doc="D.C. Code" codified:path="§47-1817.06|(a)|(1)"/>
+                  <codify:replace codified:doc="D.C. Code" codified:path="§47-1817.06"/>
                   <num>(1)</num>
                   <para>
                     <num>(A)</num>
@@ -9823,7 +9828,7 @@
               <text>A new paragraph (3) is added to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§47-1817.06|(a)|(3)"/>
+                  <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§47-1817.06"/>
                   <num>(3)</num>
                   <text>For tax years beginning after December 31, 2019, a Qualified High Technology Company shall be allowed a credit against taxes imposed by <cite doc="D.C. Code" path="§47-1807.02">§ 47-1807.02 </cite>as follows:</text>
                   <para>

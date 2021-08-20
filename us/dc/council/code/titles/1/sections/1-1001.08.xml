@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1001.08</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1001.08(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Qualifications of candidates and electors; nomination and election of Delegate, Chairman of the Council, members of Council, Mayor, Attorney General, and members of State Board of Education; petition requirements; arrangement of ballot.</heading>
   <para>
     <num>(a)</num>
@@ -27,7 +30,7 @@
       <num>(1)</num>
       <para>
         <num>(A)</num>
-        <text>No person shall hold elected office pursuant to this section unless he or she has been a bona fide resident of the District of Columbia continuously since the beginning of the 90-day period ending on the date of the next election, and is a qualified elector registered under <cite path="§1-1001.07">§ 1-1001.07</cite>.</text>
+        <text>No person shall hold elected office pursuant to this section unless the person has been a bona fide resident of the District of Columbia continuously since the beginning of the 90-day period ending on the date of the next election, and is a qualified elector registered under <cite path="§1-1001.07">§ 1-1001.07</cite>.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -59,22 +62,25 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Inquired from each signer whether he or she is a registered voter in the same party as the candidate and, where applicable, whether the signer is registered in and a resident of the ward from which the candidate seeks election.</text>
+        <text>Inquired from each signer whether the signer is a registered voter in the same party as the candidate and, where applicable, whether the signer is registered in and a resident of the ward from which the candidate seeks election.</text>
       </para>
     </para>
     <para>
       <num>(3A)</num>
-      <text>For the November 3, 2020, general election:</text>
       <para>
         <num>(A)</num>
-        <text>Petition sheets circulated in support of a candidate for elected office pursuant to <cite path="1|10|I">this subchapter</cite> may be electronically:</text>
+        <text>Petition sheets circulated in support of a candidate for elected office pursuant to  <cite path="1|10|I">this subchapter</cite> must be filed with the Board in hard copy but may be electronically provided by the:</text>
         <para>
           <num>(i)</num>
-          <text>Made available by the candidate to qualified petition circulators; and</text>
+          <text>Board to the candidate;</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Returned by qualified petition circulators to the candidate; and</text>
+          <text>Candidate to qualified petition circulators; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Qualified petition circulator to the candidate.</text>
         </para>
       </para>
       <para>
@@ -84,7 +90,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Any circulator who knowingly and willfully violates any provisions of this section, or any regulations promulgated pursuant to this section, shall upon conviction be subject to a fine of not more than $10,000, or imprisonment for not more than 6 months, or both. Each occurrence of a violation of this section shall constitute a separate offense. Violations of this section shall be prosecuted in the name of the District of Columbia by the Corporation Counsel of the District of Columbia.</text>
+      <text>Any circulator who knowingly and willfully violates any provisions of this section, or any regulations promulgated pursuant to this section, shall upon conviction be subject to a fine of not more than $10,000, or imprisonment for not more than 6 months, or both. Each occurrence of a violation of this section shall constitute a separate offense. Violations of this section shall be prosecuted in the name of the District of Columbia by the Attorney General of the District of Columbia.</text>
     </para>
   </para>
   <para>
@@ -114,12 +120,27 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>For the November 3, 2020, General Election, a political party that does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided that a petition nominating the appropriate number of candidates for presidential electors signed by at least 250 registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
+      <text>For the November 3, 2020, General Election, a political party which does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided a petition nominating the appropriate number of candidates for presidential electors signed by at least 250 registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
     </para>
   </para>
   <para>
     <num>(g)</num>
-    <text>No person may be elected to the office of elector of President and Vice President pursuant to this subchapter unless: (1) He or she is a registered voter in the District; and (2) He or she has been a bona fide resident of the District for a period of 3 years immediately preceding the date of the presidential election. Each person elected as elector of President and Vice President shall, in the presence of the Board, take an oath or solemnly affirm that he or she will vote for the candidates of the party he or she has been nominated to represent, and it shall be his or her duty to vote in such manner in the electoral college.</text>
+    <para>
+      <num>(1)</num>
+      <text>No person may be elected to the office of elector of President and Vice President pursuant to  <cite path="1|10|I">this subchapter</cite> unless the person:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is a registered voter in the District; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Has been a bona fide resident of the District for a period of 3 years immediately preceding the date of the presidential election.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Each person elected as elector of President and Vice President shall, in the presence of the Board, take an oath or solemnly affirm that the person will vote for the candidates of the party the person has been nominated to represent, and it shall be the person's duty to vote in such manner in the electoral college.</text>
+    </para>
   </para>
   <para>
     <num>(h)</num>
@@ -177,7 +198,7 @@
     <num>(j)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (4) of this subsection, a duly qualified candidate for the office of Delegate, Chairman of the Council, member of the Council, Mayor, or Attorney General, may, subject to the provisions of this subsection, be nominated directly as such a candidate for election for such office (including any such election to be held to fill a vacancy). Such person shall be nominated by petition: (A) Filed with the Board not less than 90 days before the date of such general election; and (B) In the case of a person who is a candidate for the office of member of the Council (other than the Chairman or an at-large member), signed by 500 voters who are duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite> in the ward from which the candidate seeks election; and in the case of a person who is a candidate for the office of Delegate, Chairman of the Council, at-large member of the Council, Mayor, or Attorney General, signed by duly registered voters equal in number to 11/2 per centum of the total number of registered voters in the District, as shown by the records of the Board as of 144 days before the date of such election, or by 3,000 persons duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite>, whichever is less. No signatures on such a petition may be counted which have been made on such petition more than 144 days before the date of such election.</text>
+      <text>A duly qualified candidate for the office of Delegate, Chairman of the Council, member of the Council, Mayor, or Attorney General, may, subject to the provisions of this subsection, be nominated directly as such a candidate for election for such office (including any such election to be held to fill a vacancy). Such person shall be nominated by petition: (A) Filed with the Board not less than 90 days before the date of such general election; and (B) In the case of a person who is a candidate for the office of member of the Council (other than the Chairman or an at-large member), signed by 500 voters who are duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite> in the ward from which the candidate seeks election; and in the case of a person who is a candidate for the office of Delegate, Chairman of the Council, at-large member of the Council, Mayor, or Attorney General, signed by duly registered voters equal in number to 11/2 per centum of the total number of registered voters in the District, as shown by the records of the Board as of 144 days before the date of such election, or by 3,000 persons duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite>, whichever is less. No signatures on such a petition may be counted which have been made on such petition more than 144 days before the date of such election.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -186,18 +207,6 @@
     <para>
       <num>(3)</num>
       <text>No person shall be nominated directly as a candidate in any general election for the office of Delegate, Chairman of the Council, member of the Council, Mayor, Attorney General, United States Senator, or United States Representative who is registered to vote as affiliated with a party qualified to conduct a primary election.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>A duly qualified candidate for the following offices for the November 3, 2020, general election may be nominated directly for election to such office by a petition that is filed with the Board not fewer than 90 days before the date of such General Election and signed by the number of voters duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite> as follows:</text>
-      <para>
-        <num>(A)</num>
-        <text>For Delegate or at-large member of the Council, 250 voters; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For member of the Council elected by ward, 150 voters who are registered in the ward from which the candidate seeks election.</text>
-      </para>
     </para>
   </para>
   <para>
@@ -259,7 +268,7 @@
     <num>(l)</num>
     <para>
       <num>(1)</num>
-      <text>Designation of offices of local party committees to be filled by election pursuant to paragraph (4) of <cite path="§1-1001.01">§ 1-1001.01</cite> shall be effected, in accordance with the provision of this subsection, by written communication signed by the chairman of such committee and filed with the Board not later than 180 days before the date of such election.</text>
+      <text>Designation of offices of local party committees to be filled by election pursuant to paragraph (4) of <cite path="§1-1001.01">§ 1-1001.01</cite> shall be effected, in accordance with the provision of this subsection, by written communication signed by the chairperson of such committee and filed with the Board not later than 180 days before the date of such election.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -292,22 +301,7 @@
   </para>
   <para>
     <num>(n)</num>
-    <para>
-      <num>(1)</num>
-      <text>Except as provided in paragraph (2) of this subsection, each candidate in a general or special election for member of the State Board of Education shall be nominated for such office by a nominating petition: (A) Filed with the Board not later than the 90th calendar day before the date of such general or special election; and (B) signed by at least 200 qualified electors who are duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite>, who reside in the school district or ward from which the candidate seeks election, or in the case of a candidate running at large, signed by at least 1,000 of the qualified electors in the District of Columbia registered under such <cite path="§1-1001.07">§ 1-1001.07</cite>. A nominating petition for a candidate in a general or special election for member of the State Board of Education may not be circulated for signatures before the 144th day preceding the date of such election and may not be filed with the Board before the 115th day preceding such date. In a general or special election for members of the State Board of Education, the Board shall arrange the ballot for each school district or ward to enable a voter registered in that school district or ward to vote for any 1 candidate duly nominated to be elected to such office from such school district or ward, and to vote for as many candidates duly nominated for election at large to such office as there are State Board of Education members to be elected at large in such election.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A duly qualified candidate for the following offices for the November 3, 2020, general election may be nominated directly for election to such office by a petition that is filed with the Board not fewer than 90 days before the date of such general election and signed by the number of voters duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite> as follows:</text>
-      <para>
-        <num>(A)</num>
-        <text>For member of the State Board of Education elected at-large, 150 voters; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For member of the State Board of Education elected by ward, 50 voters who are registered in the ward from which the candidate seeks election.</text>
-      </para>
-    </para>
+    <text>Each candidate in a general or special election for member of the State Board of Education shall be nominated for such office by a nominating petition: (A) Filed with the Board not later than the 90th calendar day before the date of such general or special election; and (B) signed by at least 200 qualified electors who are duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite>, who reside in the school district or ward from which the candidate seeks election, or in the case of a candidate running at large, signed by at least 1,000 of the qualified electors in the District of Columbia registered under such <cite path="§1-1001.07">§ 1-1001.07</cite>. A nominating petition for a candidate in a general or special election for member of the State Board of Education may not be circulated for signatures before the 144th day preceding the date of such election and may not be filed with the Board before the 115th day preceding such date. In a general or special election for members of the State Board of Education, the Board shall arrange the ballot for each school district or ward to enable a voter registered in that school district or ward to vote for any 1 candidate duly nominated to be elected to such office from such school district or ward, and to vote for as many candidates duly nominated for election at large to such office as there are State Board of Education members to be elected at large in such election.</text>
   </para>
   <para>
     <num>(o)</num>
@@ -352,11 +346,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>To be eligible to receive the nomination of a political party for public office, a write-in candidate shall be a duly registered member of the party nominated and shall meet all the other qualifications required for election to the office and shall declare his or her candidacy not later than 4:45 p.m. on the day following the date of the election on a form or forms prescribed by the Board.</text>
+      <text>To be eligible to receive the nomination of a political party for public office, a write-in candidate shall be a duly registered member of the party nominated and shall meet all the other qualifications required for election to the office and shall declare the candidate's candidacy not later than 4:45 p.m. on the third day immediately following the date of the election on a form or forms prescribed by the Board.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>To be eligible for election to public office, a write-in candidate shall be a duly registered elector and shall meet all of the other qualifications required for election to the office and shall declare his or her candidacy not later than 4:45 p.m. on the third day immediately following the date of the election in which he or she was a candidate on a form or forms prescribed by the Board.</text>
+      <text>To be eligible for election to public office, a write-in candidate shall be a duly registered elector and shall meet all of the other qualifications required for election to the office and shall declare the candidate's candidacy not later than 4:45 p.m. on the seventh day immediately following the date of the election in which the candidate was a candidate on a form or forms prescribed by the Board.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -491,16 +485,31 @@
     <annotation doc="D.C. Law 21-160" path="§7018" type="Editor's Notes" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7018">Section 7018 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-273" path="§5">§ 5 of D.C. Law 20-273</cite>. Therefore the changes made to this section by D.C. Law 20-273 have been given effect.
         </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7018" type="History" display="false"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)|(2)" type="History"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)|(1)" type="History"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§804|(d)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§804|(d)">§ 804(d) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§804|(d)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§804|(d)">§ 804(d) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§804|(d)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§804|(d)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§804|(d)">§ 804(d) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§804|(d)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-382" path="§2|(d)" codified:display="Note" app="2020-08-13" eff="2020-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-382" path="§2|(d)">§ 2(d) of General Election Preparations Emergency Amendment Act of 2020 (D.C. Act 23-382, Aug. 13, 2020, 67 DCR 9865)</cite>.</annotation>
+    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§804|(d)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§804|(d)">§ 804(d) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§804|(d)" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(1)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(2)|(A)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(2)|(B)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(3)|(B)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(3)|(A)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(3)|(C)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§804|(d)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§804|(d)">§ 804(d) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-422" path="§2|(c)" codified:display="Note" app="2020-10-26" eff="2020-10-26">For temporary (90 days) , see <cite doc="D.C. Act 23-422" path="§2|(c)">§ 2(c) of General Election Preparations Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-422, Oct. 26, 2020, 67 DCR 12827)</cite>.</annotation>
+    <annotation app="2020-10-26" doc="D.C. Act 23-422" eff="2020-10-26" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)|(3)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-167" path="§2|(d)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-167" path="§2|(d)">§ 2(d) of General Election Preparations Temporary Amendment Act of 2020 (D.C. Law 23-167, Dec. 23, 2020, 67 DCR 13022)</cite>.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(1)|(A)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(1)|(B)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(1)|(C)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(1)|(D)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(2)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(3)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(4)|(A)|(i)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(4)|(A)|(ii)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(4)|(B)" type="History"/>
   </annotations>
 </section>

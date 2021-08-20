@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-801</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 15, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-801(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Authorization; description of property; submission and approval of resolution; reacquisition rights; notice.</heading>
   <para>
     <num>(a)</num>
@@ -16,6 +19,22 @@
       <num>(3)</num>
       <text>The Mayor shall submit to the Council a semiannual report explaining the status of each disposition approved by the Council during the previous 2 years, including a schedule for project completion of each disposition, an explanation of impediments, if any, to completion of the project, and a description of the steps that are being taken to resolve them.</text>
     </para>
+    <para>
+      <num>(4)</num>
+      <text>Within 180 days after March 16, 2021, and on an annual basis thereafter, the Department of General Services  shall transmit to the Council a report on green space in the District, which shall include:</text>
+      <para>
+        <num>(A)</num>
+        <text>The total square footage of green space owned by the District, broken down by ward and by the District agency that owns the real property;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The square footage of green space that the District gained or lost over the preceding year, broken down by ward and by the District agency that owns the real property; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A summary of measures taken over the preceding year to increase access to green space for District residents.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(a-1)</num>
@@ -28,7 +47,7 @@
       <text>The proposed resolution shall be accompanied by an analysis setting forth:</text>
       <para>
         <num>(A)</num>
-        <text>Whether the real property could have any use by the District, including a description of the District's current needs for real property, a description of potential public uses considered by the Mayor, and a narrative explaining why the real property is unsuited for each public use considered;</text>
+        <text>Whether the real property could have any use by the District, including a description of the District's current needs for real property, a description of potential public uses considered by the Mayor, the square footage of green space on the real property, and a narrative explaining why the real property is unsuited for each public use considered;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -316,17 +335,6 @@
       <num>(7)</num>
       <text>Notwithstanding the provisions of this subsection, the Mayor may waive the affordable-housing requirements of this subsection if the District-owned real property is less than 5,000 square feet, even though the property may be consolidated with a private development of multifamily housing consisting of 10 or more units.</text>
     </para>
-    <para>
-      <num>(8)</num>
-      <para>
-        <num>(A)</num>
-        <text>Notwithstanding paragraph (2) of this subsection, for the disposition of the District-owned real property located at 1336 8th Street, N.W., 50% of the affordable units shall be for housing for which a low-income household will pay no more than 30% of its income toward housing costs, and 50% of the units shall be housing for which a moderate-income household will pay no more than 30% of its income toward housing costs, whether or not the units to be constructed are rental units or ownership units.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Land Disposition and Development Agreement in the form approved by Council pursuant to the 8th &amp; O Streets, N.W., Disposition Approval Resolution of 2016, effective February 2, 2016 (Res. 21-374; 63 DCR 1498), remains in full force and effect, including, without limitation, the Affordable Housing Covenant attached as an exhibit thereto, which shall be recorded against the property at closing.</text>
-      </para>
-    </para>
   </para>
   <para>
     <num>(b-4)</num>
@@ -490,7 +498,11 @@
   </para>
   <para>
     <num>(d-7)</num>
-    <text>Notwithstanding subsection (d) of this section, the time period within which the Mayor may dispose of District-owned real property located at 1336 8th Street, N.W., and known for tax and assessment purposes as Lot 68 in Square 399, for a mixed-use development providing for affordable housing, residential and market rate housing, and retail, and any ancillary uses allowed under applicable law, pursuant to the 8th &amp; O Streets, N.W., Disposition Approval Resolution of 2016, effective February 2, 2016 (Res. 21-374; 63 DCR 1498), is extended to September 15, 2020.</text>
+    <text>Notwithstanding subsection (d) of this section, the time period within which the Mayor may dispose of District-owned real property located at 1336 8th Street, N.W., and known for tax and assessment purposes as Lots 844 through 848 and 7001 through 7006 in Square 399, for a mixed-use development providing for affordable housing, residential and market rate housing, and retail, and any ancillary uses allowed under applicable law, pursuant to the 8th &amp; O Streets, N.W., Disposition Approval Resolution of 2016, effective February 2, 2016 (Res. 21-374; 63 DCR 1498), is extended to April 7, 2021.</text>
+  </para>
+  <para>
+    <num>(d-8)</num>
+    <text>Notwithstanding subsection (d) of this section, the time period within which the Mayor may dispose of a portion of the District-owned real property located at 3012 Georgia Avenue, N.W., known for tax and assessment purposes as Lot 0849 in Square 2890, for a mixed-use development that provides affordable housing, residential market-rate housing, commercial or community amenity space, and any ancillary uses allowed under applicable law, pursuant to the Bruce Monroe Disposition Approval Resolution of 2016, effective December 20, 2016 (Res. 21-721; 64 DCR 10453), and as extended by the Bruce Monroe Disposition Extension Resolution of 2018, effective November 13, 2018 (Res. 22-643; 65 DCR 13002), is extended to December 20, 2023.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -965,11 +977,27 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-607" path="§2" codified:display="Note" app="2019-01-24" eff="2019-01-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-607" path="§2">§ 2 of Extension of Time to Dispose of Fifth Street, N.W., and I Street, N.W., Emergency Amendment Act of 2018 (D.C. Act 22-607, Jan. 24, 2019, 66 DCR 1593)</cite>.</annotation>
     <annotation app="2019-01-24" doc="D.C. Act 22-607" eff="2019-01-24" path="§2" type="History" display="false"/>
     <annotation app="2019-02-22" doc="D.C. Law 22-209" eff="2019-02-22" path="§2" type="History"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§4073|(a)" type="History"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§4073|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§208" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§208">§ 208 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§208" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§208">§ 208 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§208" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§208" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§208">§ 208 of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§208" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§208" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§208">§ 208 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§208" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§208|(a)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§208|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§208" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§208">§ 208 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§208" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4073|(a)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4073|(b)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-232" eff="2021-03-16" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-232" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-248" eff="2021-03-16" path="§2" type="History"/>
+    <annotation doc="D.C. Law 23-248" path="§3" type="Editor's Notes" history="false" app="2021-03-16" eff="2021-03-16"><cite doc="D.C. Law 23-248" path="§3">Section 3 of D.C. Law 23-248</cite> provided that the law shall apply as of December 20, 2020.
+    </annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-248" eff="2021-03-16" path="§3" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-37" eff="2021-03-17" path="§2" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-37" eff="2021-03-17" path="§2|(a)" type="History"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-37" eff="2021-03-17" path="§2|(b)" type="History"/>
+    <annotation doc="D.C. Act 24-37" path="§2" type="Emergency Legislation" history="false" app="2021-03-17" eff="2021-03-17">
+         For temporary (90 days) amendment of this section, see § 2 of 8th and O Streets, N.W. Extension of Disposition Authority Emergency Amendment Act of 2021 (D.C. Act 24-37, Mar. 17, 2021, 68 DCR 3196).
+        </annotation>
   </annotations>
 </section>

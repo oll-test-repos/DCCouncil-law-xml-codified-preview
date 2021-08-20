@@ -97,6 +97,13 @@
       <xi:include href="./sections/6-262.xml"/>
       <xi:include href="./sections/6-263.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Expenditures from the Public Housing and Structural Transformation Capital Account.</heading>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
+      <xi:include href="./sections/6-271.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -199,6 +206,7 @@
     <xi:include href="./sections/6-504.xml"/>
     <xi:include href="./sections/6-505.xml"/>
     <xi:include href="./sections/6-506.xml"/>
+    <xi:include href="./sections/6-507.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -626,6 +634,7 @@
     <xi:include href="./sections/6-1451.01.xml"/>
     <xi:include href="./sections/6-1451.02.xml"/>
     <xi:include href="./sections/6-1451.03.xml"/>
+    <xi:include href="./sections/6-1451.03a.xml"/>
     <xi:include href="./sections/6-1451.04.xml"/>
     <xi:include href="./sections/6-1451.05.xml"/>
     <xi:include href="./sections/6-1451.06.xml"/>

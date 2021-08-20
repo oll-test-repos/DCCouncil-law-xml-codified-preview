@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>14-307</num>
-  <heading>Physicians and mental health professionals.</heading>
+  <heading>Confidential information.</heading>
   <para>
     <num>(a)</num>
-    <text>In the Federal courts in the District of Columbia and District of Columbia courts a physician or surgeon or mental health professional as defined by <cite path="§7-1201.01|(11)">§ 7-1201.01(11)</cite> or a domestic violence counselor as defined in <cite path="§14-310|(a)|(2)">§ 14-310(a)(2)</cite>, a human trafficking counselor as defined in <cite path="§14-311|(a)|(2)">§  14-311(a)(2)</cite>, or a sexual assault victim advocate as defined in <cite path="§14-312|(a)|(7)">§  14-312(a)(7)</cite> may not be permitted, without the consent of the client, or of his legal representative, to disclose any information, confidential in its nature, that he has acquired in attending a client in a professional capacity and that was necessary to enable him to act in that capacity, whether the information was obtained from the client or from his family or from the person or persons in charge of him.</text>
+    <text>In the Federal courts in the District of Columbia and District of Columbia courts a physician or surgeon or mental health professional as defined by <cite path="§7-1201.01|(11)">§ 7-1201.01(11)</cite> or a domestic violence counselor as defined in <cite path="§14-310|(a)|(2)">§ 14-310(a)(2)</cite>, a human trafficking counselor as defined in <cite path="§14-311|(a)|(2)">§  14-311(a)(2)</cite>, or a sexual assault counselor as defined in <cite path="§23-1907|(10)">§ 23-1907(10)</cite> may not be permitted, without the consent of the client, or of his legal representative, to disclose any information, confidential in its nature, that he has acquired in attending a client in a professional capacity and that was necessary to enable him to act in that capacity, whether the information was obtained from the client or from his family or from the person or persons in charge of him.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -23,7 +23,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>evidence in a grand jury, criminal, delinquency, or civil proceeding where a person is alleged to have defrauded the District of Columbia or federal government in relation to receiving or providing services under the District of Columbia medical assistance program authorized by title 19 of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), or where a person is alleged to have defrauded a health care benefit program; or</text>
+      <text>evidence in a grand jury, criminal, delinquency, or civil proceeding where a person is alleged to have defrauded the District of Columbia or federal government in relation to receiving or providing services under the District of Columbia medical assistance program authorized by title 19 of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 et seq.), where a person is alleged to have defrauded a health care benefit program, or where a person is alleged to have violated <cite path="§22-933.01">[§ 22-933.01]</cite>; or</text>
     </para>
     <para>
       <num>(5)</num>
@@ -75,5 +75,14 @@
     <annotation type="Cross References">Neglected children proceedings, waiver of privilege, see <cite path="§4-1321.05">§ 4-1321.05</cite>.</annotation>
     <annotation type="Cross References">Family division proceedings, privilege under this section, see <cite path="§16-2359">§ 16-2359</cite>.</annotation>
     <annotation type="Cross References">Adult protective services proceedings, waiver of professional privilege, see <cite path="§7-1911">§ 7-1911</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-412" path="§2" codified:display="Note" app="2020-10-14" eff="2020-10-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-412" path="§2">§ 2 of Sexual Assault Victims' Rights Clarification Emergency Amendment Act of 2020 (D.C. Act 23-412, Oct. 14, 2020, 67 DCR 12237)</cite>.</annotation>
+    <annotation app="2020-10-14" doc="D.C. Act 23-412" eff="2020-10-14" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-552" path="§2" codified:display="Note" app="2020-12-22" eff="2020-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-552" path="§2">§ 2 of Sexual Assault Victims' Rights Clarification Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-552, Dec. 22, 2020, 68 DCR 00126)</cite>.</annotation>
+    <annotation app="2020-12-22" doc="D.C. Act 23-552" eff="2020-12-22" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-169" path="§2" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-169" path="§2">§ 2 of Sexual Assault Victims' Rights Clarification Temporary Amendment Act of 2020 (D.C. Law 23-169, Dec. 23, 2020, 67 DCR 13032)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-169" eff="2020-12-23" path="§2" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§401|(a)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§401|(b)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§301" type="History"/>
   </annotations>
 </section>

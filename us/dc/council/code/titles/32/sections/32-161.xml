@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-161</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on December 24, 2021. To view the text of this section after the expiration of the temporary legislation, click this link: <cite path="§32-161(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>District of Columbia labor law universal notice requirements.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Within 120 days after [insert applicability date], the Mayor shall create and maintain an Internet website that states the rights and benefits to which an individual is entitled under the following District of Columbia labor and anti-discrimination laws:</text>
+      <text>Within 120 days after October 1, 2020, the Mayor shall create and maintain an Internet website that states the rights and benefits to which an individual is entitled under the following District of Columbia labor and anti-discrimination laws:</text>
       <para>
         <num>(A)</num>
         <text><cite path="2|2|X-A">Living Wage Act of 2006</cite> [<cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>];</text>
@@ -45,11 +48,15 @@
       </para>
       <para>
         <num>(J)</num>
-        <text><cite path="32|13">An Act To provide for the payment and collection of wages in the District of Columbia</cite> [<cite path="32|13">Chapter 13 of this title</cite>]; and</text>
+        <text><cite path="32|13">An Act To provide for the payment and collection of wages in the District of Columbia</cite> [<cite path="32|13">Chapter 13 of this title</cite>];</text>
       </para>
       <para>
         <num>(K)</num>
-        <text><cite path="32|15">District of Columbia Workers' Compensation Act of 1979</cite> [<cite path="32|15">Chapter 15 of this title</cite>].</text>
+        <text><cite path="32|15">District of Columbia Workers' Compensation Act of 1979</cite> [<cite path="32|15">Chapter 15 of this title</cite>]; and</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>The Workplace Safety During the COVID-19 Pandemic Temporary Amendment Act of 2021, passed on 2nd reading on March 2, 2021 (Engrossed version of Bill 24-59).</text>
       </para>
     </para>
     <para>
@@ -89,7 +96,7 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>Within 120 days after [insert applicability date], the Mayor shall provide to all private employers a clear and concise poster, or make available an electronic version of the poster that can be printed and copied, that states:</text>
+      <text>Within 120 days after October 1, 2020, the Mayor shall provide to all private employers a clear and concise poster, or make available an electronic version of the poster that can be printed and copied, that states:</text>
       <para>
         <num>(A)</num>
         <text>The address of the Internet website established pursuant to subsection (a) of this section and a telephone number or numbers for the offices within the Department of Employment Services and the Office of the Attorney General where an employee may file a complaint or obtain additional information about the employee's rights under the laws referenced in subsection (a)(1) of this section;</text>
@@ -239,13 +246,21 @@
     <annotation doc="D.C. Law 23-16" path="§2102|(a)" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§2102|(a)">D.C. Law 23-16, § 2102(a),</cite> amended this section which is subject to appropriations pursuant to <cite doc="D.C. Law 22-196" path="§8">§ 8 of D.C. Law 22-196</cite>. Therefore the amendment made by D.C. Law 23-16 has not been implemented.
           </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§2132|(a)|(1)|(A)" type="History"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§2132|(a)|(1)|(B)" type="History"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§2132|(a)|(2)|(A)|(i)" type="History"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§2132|(a)|(2)|(A)|(ii)" type="History"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§2132|(a)|(2)|(B)" type="History"/>
-    <annotation doc="D.C. Act 23-404" path="§7065" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7065">Section 7065 of D.C. Act 23-404</cite> amended <cite doc="D.C. Law 22-196" path="§8">section 8 of D.C. Law 22-196</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 3 of Law 22-196 has been implemented.
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(1)|(A)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(1)|(B)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(A)|(i)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(A)|(ii)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2132|(a)|(2)|(B)" type="History"/>
+    <annotation doc="D.C. Law 23-149" path="§7065" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7065">Section 7065 of D.C. Law 23-149</cite> amended <cite doc="D.C. Law 22-196" path="§8">section 8 of D.C. Law 22-196</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 3 of Law 22-196 has been implemented.
         </annotation>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7065" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7065" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-26" path="§401" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-26" path="§401">§ 401 of Workplace Safety During the COVID-19 Pandemic Emergency Amendment Act of 2021 (D.C. Act 24-26, Feb. 26, 2021, 68 DCR 002616)</cite>.</annotation>
+    <annotation app="2021-02-26" doc="D.C. Act 24-26" eff="2021-02-26" path="§401" type="History" display="false"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="§502" type="History" display="false"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="§401|(a)" type="History"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="§401|(b)" type="History"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="§401|(c)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-6" path="§401" codified:display="Note" app="2021-05-13" eff="2021-05-13">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-6" path="§401">§ 401 of Workplace Safety During the COVID-19 Pandemic Temporary Amendment Act of 2021 (D.C. Law 24-6, May 13, 2021, 68 DCR 003198)</cite>.</annotation>
+    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="§401" type="History" display="false"/>
   </annotations>
 </section>

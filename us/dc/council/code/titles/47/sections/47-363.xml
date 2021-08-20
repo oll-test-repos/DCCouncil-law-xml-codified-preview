@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-363</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-363(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Council approval of reprogrammings.</heading>
   <para>
     <num>(a)</num>
@@ -18,7 +21,14 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The Council shall consider the request according to its rules. No request may be submitted to the Chairman of the Council under this subsection during such time as the Council is on recess, according to its rules, nor shall any time period provided in this subsection or in the Council’s rules with respect to the requests continue to run during such time as the Council is on recess.</text>
+      <para>
+        <num>(A)</num>
+        <text>The Council shall consider the request according to its rules. No request may be submitted to the Chairman of the Council under this subsection during such time as the Council is on recess, according to its rules, nor shall any time period provided in this subsection or in the Council’s rules with respect to the requests continue to run during such time as the Council is on recess.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Notwithstanding subparagraph (A) of this paragraph, a reprogramming request for Fiscal Year 2021 funds may be submitted, and the time period for the consideration of the requests shall continue to run, from July 15, 2021, through August 2, 2021, and from September 7, 2021, through September 30, 2021.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -176,6 +186,10 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§8022" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§8022">§ 8022 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§8022" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§8022" type="History"/>
+    <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§2" type="History" display="false"/>
+    <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§2|(a)" type="History"/>
+    <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-158" path="§2" codified:display="Note" app="2021-08-05" eff="2021-08-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-158" path="§2">§ 2 of Recess Reprogramming Emergency Amendment Act of 2021 (D.C. Act 24-158, Aug. 5, 2021, 68 DCR 008014)</cite>.</annotation>
   </annotations>
   <para>
     <num>(f)</num>

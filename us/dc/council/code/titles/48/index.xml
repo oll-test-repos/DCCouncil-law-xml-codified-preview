@@ -46,7 +46,6 @@
     <xi:include href="./sections/48-312.xml"/>
     <xi:include href="./sections/48-313.xml"/>
     <xi:include href="./sections/48-314.xml"/>
-    <xi:include href="./sections/48-314.01.xml"/>
     <xi:include href="./sections/48-315.xml"/>
   </container>
   <container>
@@ -111,9 +110,9 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A</num>
-    <heading>Registration of Third-party Food Delivery Commissions During a Public Health Emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="II" type="History" display="false"/>
-    <xi:include href="./sections/48-641.xml"/>
+    <heading>Third-party Food Delivery.</heading>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="II" type="History" display="false"/>
+    <xi:include href="./sections/48-651.xml"/>
   </container>
   <subheading>Subtitle II. Prescription Drugs.</subheading>
   <container>
@@ -167,6 +166,7 @@
       <xi:include href="./sections/48-803.03a.xml"/>
       <xi:include href="./sections/48-803.04.xml"/>
       <xi:include href="./sections/48-803.05.xml"/>
+      <xi:include href="./sections/48-803.06.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -328,6 +328,7 @@
     <xi:include href="./sections/48-853.03.xml"/>
     <xi:include href="./sections/48-853.03a.xml"/>
     <xi:include href="./sections/48-853.03b.xml"/>
+    <xi:include href="./sections/48-853.03c.xml"/>
     <xi:include href="./sections/48-853.04.xml"/>
     <xi:include href="./sections/48-853.05.xml"/>
     <xi:include href="./sections/48-853.06.xml"/>
@@ -343,6 +344,7 @@
     <annotation app="2017-04-07" doc="D.C. Law 21-248" eff="2017-04-07" path="" type="History" display="false"/>
     <xi:include href="./sections/48-855.01.xml"/>
     <xi:include href="./sections/48-855.02.xml"/>
+    <xi:include href="./sections/48-855.02a.xml"/>
     <xi:include href="./sections/48-855.03.xml"/>
   </container>
   <subheading>Subtitle III. Illegal Drugs.</subheading>
@@ -461,6 +463,15 @@
       <xi:include href="./sections/48-931.01.xml"/>
       <xi:include href="./sections/48-931.02.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9C</num>
+    <heading>Entheogenic Plant and Fungus Policy.</heading>
+    <annotation app="2021-03-16" doc="D.C. Law 23-268" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/48-921.51.xml"/>
+    <xi:include href="./sections/48-921.52.xml"/>
+    <xi:include href="./sections/48-921.53.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

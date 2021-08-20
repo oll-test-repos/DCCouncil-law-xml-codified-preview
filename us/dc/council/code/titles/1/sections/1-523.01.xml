@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-523.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-523.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Mayoral nominees.</heading>
   <para>
     <num>(a)</num>
@@ -20,7 +23,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>No person shall serve in a hold-over capacity for longer than 180 days, excluding days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, after the expiration of the term to which he or she was appointed, in a position that is required by law to be filled by Mayoral appointment with the advice and consent of the Council including to positions on boards and commissions.</text>
+    <text>No person shall serve in a hold-over capacity for longer than 180 days after the expiration of the term to which he or she was appointed, in a position that is required by law to be filled by Mayoral appointment with the advice and consent of the Council including to positions on boards and commissions.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -28,7 +31,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 90-day period of review, excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>,, nominations to the boards and commissions listed in this subsection. If the Council does not approve by resolution within the 90-day period a nomination to these boards or commissions, the nomination shall be deemed disapproved.</text>
+    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 90-day period of review, excluding days of Council recess, nominations to the boards and commissions listed in this subsection. If the Council does not approve by resolution within the 90-day period a nomination to these boards or commissions, the nomination shall be deemed disapproved.</text>
     <para>
       <num>(1)</num>
       <text>The Alcoholic Beverage Control Board, established by <cite path="§25-104|(a)">§ 25-104(a)</cite>;</text>
@@ -179,16 +182,20 @@
     </para>
     <para>
       <num>[(38)]</num>
-      <text>The Corrections Information Council, established by <cite path="§24-101.01">§ 24-101.01</cite>; and</text>
+      <text>The Corrections Information Council, established by <cite path="§24-101.01">§ 24-101.01</cite>;</text>
     </para>
     <para>
       <num>[(39)]</num>
-      <text>The District of Columbia Sentencing Commission, established by <cite path="§3-101|(a)">§ 3-101(a)</cite>.</text>
+      <text>The District of Columbia Sentencing Commission, established by <cite path="§3-101|(a)">§ 3-101(a)</cite>; and</text>
+    </para>
+    <para>
+      <num>(40)</num>
+      <text>Use of Force Review Board, established by <cite path="§5-1151">§ 5-1151</cite>.</text>
     </para>
   </para>
   <para>
     <num>(f)</num>
-    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 45-day period of review, excluding days of Council recess, nominations to the boards and commissions listed in this subsection. The Council shall be deemed to have approved a nomination under this subsection if during the 45-day period, no member introduces a resolution disapproving the nomination. If a member introduces a resolution disapproving the nomination within the 45-day period, the Council shall have an additional 45 days, excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, to disapprove the nomination by resolution, or it will be deemed approved.</text>
+    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 45-day period of review, excluding days of Council recess, nominations to the boards and commissions listed in this subsection. The Council shall be deemed to have approved a nomination under this subsection if during the 45-day period, no member introduces a resolution disapproving the nomination. If a member introduces a resolution disapproving the nomination within the 45-day period, the Council shall have an additional 45 days, excluding days of Council recess, to disapprove the nomination by resolution, or it will be deemed approved.</text>
     <para>
       <num>(1)</num>
       <text>The Apprenticeship Council, established by <cite path="§32-1402">§ 32-1402</cite>;</text>
@@ -443,9 +450,9 @@
     </para>
     <para>
       <num>(64)</num>
-      <text>The Advisory Committee on Street Harassment, established by <cite path="§7-2422">§ 7-2422</cite>;</text>
-      <codify:annotation doc="D.C. Code" path="§1-523.01" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§1-523.01"><cite doc="D.C. Law 22-168" path="§1047">Section 1048 of D.C. Law 22-168</cite> provided that paragraph (64) of subsection (f) of this section shall expire on October 1, 2020.
-            </codify:annotation>
+      <text>Expired;</text>
+      <codify:annotation doc="D.C. Code" path="§1-523.01" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§1-523.01"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that subsection (f)(64) of this section shall expire on October 1, 2020.
+        </codify:annotation>
     </para>
     <para>
       <num>(65)</num>
@@ -466,6 +473,10 @@
     <para>
       <num>(69)</num>
       <text>The Perinatal and Infant Health Advisory Committee, established by <cite path="§7-858.05">§ 7-858.05</cite>.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(70)</num>
+      <text>Not Funded.</text>
     </para>
   </para>
   <para>
@@ -670,8 +681,8 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3056|(b)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3056|(c)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1047" type="History"/>
-    <annotation doc="D.C. Law 22-168" path="§1047" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§1047">Section 1048 of D.C. Law 22-168</cite> provided that paragraph (64) of subsection (f) of this section shall expire on October 1, 2020.
-            </annotation>
+    <annotation doc="D.C. Law 22-168" path="§1047" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that subsection (f)(64) of this section shall expire on October 1, 2020.
+        </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1047" type="History" display="false"/>
     <annotation doc="D.C. Law 22-168" path="I|K" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30">
         Section 1104 of D.C. Law 22-168 provided that this subtitle shall expire on February 1, 2019.
@@ -700,7 +711,7 @@
     <annotation type="Applicability" doc="D.C. Law 22-250" path="§3" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-250" path="">D.C. Law 22-250</cite>: <cite doc="D.C. Law 22-250" path="§10">§ 10 of D.C. Law 22-250</cite> provided that the change made to this section by <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§3" type="History"/>
     <annotation doc="D.C. Law 22-250" path="§10|(a)" type="Applicability" history="false" display-template="" app="2019-03-13" eff="2019-03-13">
-                Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Act 23-404" path="§1104">§ 1104 of D.C. Act 23-404</cite>, repealed the requirement that <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> would be subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the amendment made by <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> has been implemented.
+                Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Law 23-149" path="§1104">§ 1104 of D.C. Law 23-149</cite>, repealed the requirement that <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> would be subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the amendment made by <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> has been implemented.
               </annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)" type="History" display="false"/>
     <annotation doc="D.C. Law 22-250" path="§10" type="Applicability" history="false" display-template="" app="2019-03-13" eff="2019-03-13">
@@ -745,16 +756,45 @@
           Applicability of <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite>: <cite doc="D.C. Law 23-16" path="§7176">§ 7176 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite>. Therefore the amendment of this section by <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite> has been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7176" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§904|(a)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§904|(a)">§ 904(a) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§904|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§904|(a)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§904|(a)">§ 904(a) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§904|(a)" type="History" display="false"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-118" eff="2020-06-24" path="§3|(a)" type="History"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-118" eff="2020-06-24" path="§3|(b)" type="History"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-118" eff="2020-06-24" path="§3|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§107" codified:display="Note" app="2020-07-22" eff="2020-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-336" path="§107">§ 107 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§107" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§1104" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§904|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§904|(a)">§ 904(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§904|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§904|(a)">§ 904(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§904|(a)" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)|(1)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)|(2)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§904|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§904|(a)">§ 904(a) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§904|(b)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) creation of § 1-523.11, see <cite doc="D.C. Law 23-130" path="§904|(b)">§ 904(b) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§107" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§107">§ 107 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
+    <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§107" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1104" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§107" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§107">§ 107 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§107" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 23-184" path="§201" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the change made to this section by <cite doc="D.C. Law 23-184" path="§201">§ 201 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§201" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(b)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(c)" type="History"/>
+    <annotation doc="D.C. Act 24-77" path="§2" type="Applicability" history="false" app="2021-04-06" eff="2021-04-06"><cite doc="D.C. Act 24-77" path="§2"> Section 2 of D.C. Act 24-77</cite> provided that subsection (a)(1) of this section shall not apply to the compensation of a person serving in an interim capacity as the State Superintendent of Education from April 6, 2021 through December 31, 2021.
+    </annotation>
+    <annotation app="2021-04-06" doc="D.C. Act 24-77" eff="2021-04-06" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Act 24-102" path="§2" type="Applicability" history="false" app="2021-06-17" eff="2021-06-17"><cite doc="D.C. Act 24-102" path="§2"> Section 2 of D.C. Act 24-102</cite> provided that subsection (a)(1) of this section shall not apply to the compensation of a person serving in an interim capacity as the State Superintendent of Education from April 6, 2021 through December 31, 2021.
+    </annotation>
+    <annotation app="2021-06-17" doc="D.C. Act 24-102" eff="2021-06-17" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-15" path="§2" type="Applicability" history="false" app="2021-07-28" eff="2021-07-28"><cite doc="D.C. Law 24-15" path="§2"> Section 2 of D.C. Law 24-15</cite> provided that subsection (a)(1) of this section shall not apply to the compensation of a person serving in an interim capacity as the State Superintendent of Education from April 6, 2021 through December 31, 2021.
+    </annotation>
+    <annotation app="2021-07-28" doc="D.C. Law 24-15" eff="2021-07-28" path="§2" type="History" display="false"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107" type="History" display="false"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(a)" type="History"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(b)" type="History"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§107" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-128" path="§107">§ 107 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
   </annotations>
 </section>

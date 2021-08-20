@@ -601,6 +601,7 @@
     <xi:include href="./sections/31-2231.18.xml"/>
     <xi:include href="./sections/31-2231.19.xml"/>
     <xi:include href="./sections/31-2231.20.xml"/>
+    <xi:include href="./sections/31-2231.20a.xml"/>
     <xi:include href="./sections/31-2231.21.xml"/>
     <xi:include href="./sections/31-2231.22.xml"/>
     <xi:include href="./sections/31-2231.23.xml"/>
@@ -623,7 +624,7 @@
     <prefix>Chapter</prefix>
     <num>23A</num>
     <heading>Tolling of Deadlines Under Commercial Insurance Policies During the Period of a Public Health Emergency.</heading>
-    <annotation app="2020-07-27" doc="D.C. Act 23-343" eff="2020-07-27" path="" type="History" display="false"/>
+    <annotation app="2021-07-29" doc="D.C. Law 24-19" eff="2021-07-29" path="" type="History" display="false"/>
     <xi:include href="./sections/31-2321.xml"/>
   </container>
   <subheading>Subtitle II-A. Service Contract Regulation.</subheading>
@@ -644,6 +645,25 @@
     <xi:include href="./sections/31-2351.11.xml"/>
     <xi:include href="./sections/31-2351.12.xml"/>
     <xi:include href="./sections/31-2351.13.xml"/>
+  </container>
+  <subheading>Subtitle II-B. Appraisal Management Companies.<annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" type="History"/></subheading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23R</num>
+    <heading>Appraisal Management Company Regulation.</heading>
+    <annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-2361.01.xml"/>
+    <xi:include href="./sections/31-2361.02.xml"/>
+    <xi:include href="./sections/31-2361.03.xml"/>
+    <xi:include href="./sections/31-2361.04.xml"/>
+    <xi:include href="./sections/31-2361.05.xml"/>
+    <xi:include href="./sections/31-2361.06.xml"/>
+    <xi:include href="./sections/31-2361.07.xml"/>
+    <xi:include href="./sections/31-2361.08.xml"/>
+    <xi:include href="./sections/31-2361.09.xml"/>
+    <xi:include href="./sections/31-2361.10.xml"/>
+    <xi:include href="./sections/31-2361.11.xml"/>
+    <xi:include href="./sections/31-2361.12.xml"/>
   </container>
   <subheading>Subtitle III. Fire, Casualty, Marine, Motor Vehicle and Related Insurance.</subheading>
   <container>
@@ -1268,10 +1288,24 @@
   <container>
     <prefix>Chapter</prefix>
     <num>38C</num>
+    <heading>Health Insurer Requirement to Provide a Special Enrollment Period for a Pregnant Individual.</heading>
+    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-3841.01.xml"/>
+    <xi:include href="./sections/31-3841.02.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>38D</num>
     <heading>Telehealth Reimbursement.</heading>
     <xi:include href="./sections/31-3861.xml"/>
     <xi:include href="./sections/31-3862.xml"/>
+    <xi:include href="./sections/31-3862.01.xml"/>
     <xi:include href="./sections/31-3863.xml"/>
+    <xi:include href="./sections/31-3864.xml"/>
+    <xi:include href="./sections/31-3865.xml"/>
+    <xi:include href="./sections/31-3866.xml"/>
+    <xi:include href="./sections/31-3867.xml"/>
+    <xi:include href="./sections/31-3868.xml"/>
   </container>
   <subheading>Subtitle V. Liability and Related Insurance.</subheading>
   <container>
@@ -1977,4 +2011,5 @@
     <xi:include href="./sections/31-6208.xml"/>
     <xi:include href="./sections/31-6209.xml"/>
   </container>
+  <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
 </container>

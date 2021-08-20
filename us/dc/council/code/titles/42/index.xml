@@ -1075,7 +1075,7 @@
     <prefix>Chapter</prefix>
     <num>28E</num>
     <heading>Affordable Housing Loan Fund Authorization.</heading>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
     <xi:include href="./sections/42-2858.01.xml"/>
   </container>
   <container>
@@ -1215,33 +1215,33 @@
       <xi:include href="./sections/42-3173.12.xml"/>
     </container>
   </container>
-  <subheading>Subtitle VI-A. Special Landlord and Tenant Responsibilities During a Public Health Emergency.<annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="IV" type="History" display="false"/></subheading>
+  <subheading>Subtitle VI-A. Special Landlord and Tenant Responsibilities During a Public Health Emergency.<annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/></subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>31H</num>
     <heading>Mortgage Relief During a Public Health Emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="IV" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
     <xi:include href="./sections/42-3191.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>31I</num>
     <heading>Tenant Rent-Payment_Plan Programs During a Public Health Emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="IV" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
     <xi:include href="./sections/42-3192.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>31J</num>
     <heading>Residential cleaning During a Public Health Emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="IV" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
     <xi:include href="./sections/42-3193.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>31K</num>
     <heading>Rent Increase Prohibition During a Public Health Emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="IV" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
     <xi:include href="./sections/42-3194.01.xml"/>
   </container>
   <subheading>Subtitle VII. Rental Housing.</subheading>
@@ -1413,6 +1413,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>34A</num>
+    <heading>STAY DC Improvements.</heading>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="" type="History" display="false"/>
+    <xi:include href="./sections/34-3411.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>35</num>
     <heading>Rental Housing Generally.</heading>
     <container>
@@ -1454,6 +1461,7 @@
       <xi:include href="./sections/42-3502.13.xml"/>
       <xi:include href="./sections/42-3502.14.xml"/>
       <xi:include href="./sections/42-3502.15.xml"/>
+      <xi:include href="./sections/42-3502.15a.xml"/>
       <xi:include href="./sections/42-3502.16.xml"/>
       <xi:include href="./sections/42-3502.16a.xml"/>
       <xi:include href="./sections/42-3502.17.xml"/>
@@ -1461,6 +1469,7 @@
       <xi:include href="./sections/42-3502.19.xml"/>
       <xi:include href="./sections/42-3502.20.xml"/>
       <xi:include href="./sections/42-3502.21.xml"/>
+      <xi:include href="./sections/42-3502.21a.xml"/>
       <xi:include href="./sections/42-3502.22.xml"/>
       <xi:include href="./sections/42-3502.22a.xml"/>
       <xi:include href="./sections/42-3502.23.xml"/>
@@ -1499,6 +1508,8 @@
       <xi:include href="./sections/42-3505.06.xml"/>
       <xi:include href="./sections/42-3505.07.xml"/>
       <xi:include href="./sections/42-3505.08.xml"/>
+      <xi:include href="./sections/42-3505.09.xml"/>
+      <xi:include href="./sections/42-3505.10.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

@@ -425,6 +425,7 @@
       <xi:include href="./sections/50-1301.05a.xml"/>
       <xi:include href="./sections/50-1301.06.xml"/>
       <xi:include href="./sections/50-1301.07.xml"/>
+      <xi:include href="./sections/50-1307.07a.xml"/>
       <xi:include href="./sections/50-1301.08.xml"/>
       <xi:include href="./sections/50-1301.09.xml"/>
     </container>
@@ -557,6 +558,7 @@
       <xi:include href="./sections/50-1401.01a.xml"/>
       <xi:include href="./sections/50-1401.01b.xml"/>
       <xi:include href="./sections/50-1401.01c.xml"/>
+      <xi:include href="./sections/50-1401.01d.xml"/>
       <xi:include href="./sections/50-1401.02.xml"/>
       <xi:include href="./sections/50-1401.03.xml"/>
       <xi:include href="./sections/50-1401.04.xml"/>
@@ -595,6 +597,9 @@
       <xi:include href="./sections/50-1501.02f.xml"/>
       <xi:include href="./sections/50-1501.02g.xml"/>
       <xi:include href="./sections/50-1501.02h.xml"/>
+      <xi:include href="./sections/50-1501.02i.xml"/>
+      <xi:include href="./sections/50-1501.02j.xml"/>
+      <xi:include href="./sections/50-1501.02k.xml"/>
       <xi:include href="./sections/50-1501.03.xml"/>
       <xi:include href="./sections/50-1501.03a.xml"/>
       <xi:include href="./sections/50-1501.04.xml"/>
@@ -706,6 +711,8 @@
         <xi:include href="./sections/50-1606.xml"/>
         <xi:include href="./sections/50-1607.xml"/>
         <xi:include href="./sections/50-1608.xml"/>
+        <xi:include href="./sections/50-1608.01.xml"/>
+        <xi:include href="./sections/50-1608.02.xml"/>
         <xi:include href="./sections/50-1609.xml"/>
       </container>
       <container>
@@ -895,11 +902,14 @@
         <xi:include href="./sections/50-2201.02.xml"/>
         <xi:include href="./sections/50-2201.03.xml"/>
         <xi:include href="./sections/50-2201.03a.xml"/>
+        <xi:include href="./sections/50-2201.03b.xml"/>
+        <xi:include href="./sections/50-2201.03c.xml"/>
         <xi:include href="./sections/50-2201.04.xml"/>
         <xi:include href="./sections/50-2201.04a.xml"/>
         <xi:include href="./sections/50-2201.04b.xml"/>
         <xi:include href="./sections/50-2201.04c.xml"/>
         <xi:include href="./sections/50-2201.04d.xml"/>
+        <xi:include href="./sections/50-2201.04e.xml"/>
         <xi:include href="./sections/50-2201.05.xml"/>
         <xi:include href="./sections/50-2201.05a.xml"/>
         <xi:include href="./sections/50-2201.05b.xml"/>
@@ -981,6 +991,7 @@
         <xi:include href="./sections/50-2206.14.xml"/>
         <xi:include href="./sections/50-2206.15.xml"/>
         <xi:include href="./sections/50-2206.16.xml"/>
+        <xi:include href="./sections/50-2206.16a.xml"/>
         <xi:include href="./sections/50-2206.17.xml"/>
         <xi:include href="./sections/50-2206.18.xml"/>
       </container>
@@ -1034,19 +1045,13 @@
         <xi:include href="./sections/50-2209.04.xml"/>
         <annotation type="Applicability" codified:display="Note" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-155" path="§801">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§801">§ 801 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
         <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§801" type="History"/>
+        <xi:include href="./sections/50-2209.05.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Automated Enforcement Expansion Plan.</heading>
         <xi:include href="./sections/50-2209.11.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>C</num>
-        <heading>Automated Traffic Enforcement Reporting to Council.</heading>
-        <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="VI|J" type="History" display="false"/>
-        <xi:include href="./sections/50-2209.21.xml"/>
       </container>
     </container>
   </container>
@@ -1069,6 +1074,7 @@
       <xi:include href="./sections/50-2301.09.xml"/>
       <xi:include href="./sections/50-2301.10.xml"/>
       <xi:include href="./sections/50-2301.11.xml"/>
+      <xi:include href="./sections/50-2301.12.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1138,6 +1144,13 @@
     <heading>Autonomous Vehicles.</heading>
     <xi:include href="./sections/50-2351.xml"/>
     <xi:include href="./sections/50-2352.xml"/>
+    <xi:include href="./sections/50-2352.01.xml"/>
+    <xi:include href="./sections/50-2352.02.xml"/>
+    <xi:include href="./sections/50-2352.03.xml"/>
+    <xi:include href="./sections/50-2352.04.xml"/>
+    <xi:include href="./sections/50-2352.05.xml"/>
+    <xi:include href="./sections/50-2352.06.xml"/>
+    <xi:include href="./sections/50-2352.07.xml"/>
     <xi:include href="./sections/50-2353.xml"/>
     <xi:include href="./sections/50-2353.01.xml"/>
     <xi:include href="./sections/50-2354.xml"/>
@@ -1176,6 +1189,10 @@
     <heading>Complete Streets.</heading>
     <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
     <xi:include href="./sections/50-2381.xml"/>
+    <xi:include href="./sections/50-2382.xml"/>
+    <xi:include href="./sections/50-2383.xml"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(e)|(1)" type="History"/>
   </container>
   <subheading>Subtitle VIII. Vehicles On Public And Private Space.</subheading>
   <container>
@@ -1265,6 +1282,14 @@
     <heading>Ward 1 Residential Parking.</heading>
     <xi:include href="./sections/50-2551.xml"/>
     <xi:include href="./sections/50-2552.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>25C</num>
+    <heading>Residential Parking Permit Voluntary Exclusion.</heading>
+    <annotation app="2020-12-23" doc="D.C. Law 23-164" eff="2020-12-23" path="" type="History" display="false"/>
+    <xi:include href="./sections/50-2561.xml"/>
+    <xi:include href="./sections/50-2562.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

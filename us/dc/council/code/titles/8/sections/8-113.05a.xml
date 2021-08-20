@@ -26,6 +26,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6043" type="History"/>
+    <annotation doc="D.C. Law 8-242" type="History" path="§6a">Mar. 8, 1991, D.C. Law 8-242, § 6a</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§6043" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2304</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on February 4, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2304(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-2304(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Issuance of emergency executive order; contents; actions of Mayor after issuance.</heading>
   <para>
     <num>(a)</num>
@@ -25,29 +31,13 @@
   <para>
     <num>(b)</num>
     <text>Upon the issuance of an emergency executive order the Mayor may:</text>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>Expend such funds appropriated to the District of Columbia government sufficient to carry out public emergency service missions and responsibilities;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Implement those provisions of the District of Columbia response plan as issued by the Mayor, without regard to established operating procedures relating to the performance of public works, entering into contracts, incurring obligations, employment of temporary workers, rental of equipment, purchase of supplies and materials, and expenditure of public funds; provided, that this paragraph shall apply only to employees of the District of Columbia government; provided further, that a summary of each emergency procurement entered into during a period for which a public health emergency is declared shall be provided to the Council no later than 7 days after the contract is awarded.  The summary shall include:</text>
-      <para>
-        <num>(A)</num>
-        <text>A description of the goods or services procured;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The source selection method;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The award amount; and</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>The name of the awardee.</text>
-      </para>
+      <text>Implement those provisions of the District of Columbia response plan as issued by the Mayor, without regard to established operating procedures relating to the performance of public works, entering into contracts, incurring obligations, employment of temporary workers, rental of equipment, purchase of supplies and materials, and expenditure of public funds; provided, that this paragraph shall apply only to employees of the "District of Columbia government; provided further, that, with respect to the public health emergency declared in the Mayor's order dated March 11, 2020, and any extensions thereof, the additional authority provided pursuant to this paragraph for entering into contracts and incurring obligations shall expire on November 5, 2021;</text>
     </para>
     <para>
       <num>(3)</num>
@@ -165,11 +155,29 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-194">D.C. Law 14-194</cite>, in subsecs. (b)(2) and (b)(6), substituted “District of Columbia response plan” for “emergency operations plan”; made nonsubstantive changes in subsecs. (b)(12) and (b)(13); and added subsec. (b)(14).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-1504.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-204.50a">§ 1-204.50a</cite>, <cite path="§7-401">§ 7-401</cite>, <cite path="§7-2304.01">§ 7-2304.01</cite>, and <cite path="§22-1319">§ 22-1319</cite>.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§507|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§507|(a)">§ 507(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-247" path="§301|(a)" codified:display="Note" app="2020-03-17" eff="2020-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-247" path="§301|(a)">§ 301(a) of COVID-19 Response Emergency Amendment Act of 2020 (D.C. Act 23-247, Mar. 17, 2020, 67 DCR 3093)</cite>.</annotation>
+    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§301|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§507|(a)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§507|(a)">§ 507(a) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§507|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§507|(a)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§507|(a)">§ 507(a) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§507|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§507|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§507|(a)">§ 507(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§507|(a)" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§507|(a)|(1)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§507|(a)|(2)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§507|(a)|(3)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§507|(a)|(4)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§507|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§507|(a)">§ 507(a) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§507|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§507|(a)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§507|(a)">§ 507(a) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§507|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§507|(a)" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-96" path="§507|(a)">§ 507(a) of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§507|(a)" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§507|(a)" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§507|(a)|(1)" type="History"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§507|(a)|(2)" type="History"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§507|(a)|(3)" type="History"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§507|(a)|(4)" type="History"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§507|(a)|(5)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§507|(a)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§507|(a)">§ 507(a) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(y)|(1)" type="History" display="false"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(y)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(y)|(1)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(y)|(1)">§ 3(y)(1) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
   </annotations>
 </section>

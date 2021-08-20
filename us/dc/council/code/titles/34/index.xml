@@ -52,6 +52,19 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>3A</num>
+    <heading>General provisions after October 12, 2021.</heading>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(k)" type="History" display="false"/>
+    <xi:include href="./sections/34-131.xml"/>
+    <xi:include href="./sections/34-132.xml"/>
+    <xi:include href="./sections/34-133.xml"/>
+    <xi:include href="./sections/34-134.xml"/>
+    <xi:include href="./sections/34-135.xml"/>
+    <xi:include href="./sections/34-136.xml"/>
+    <xi:include href="./sections/34-137.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>4</num>
     <heading>General Provisions.</heading>
     <xi:include href="./sections/34-401.xml"/>
@@ -216,12 +229,12 @@
     <xi:include href="./sections/34-1130.xml"/>
     <xi:include href="./sections/34-1131.xml"/>
   </container>
-  <subheading>Subtitle IA. Utility Payment Plans During a Public Health Emergency.<annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="III" type="History" display="false"/></subheading>
+  <subheading>Subtitle IA. Utility Payment Plans During a Public Health Emergency.<annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="III" type="History" display="false"/></subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>11A</num>
     <heading>Utility Payment Plans During a Public Health Emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="III" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="III" type="History" display="false"/>
     <xi:include href="./sections/34-1151.xml"/>
   </container>
   <subheading>Subtitle II. Cable Television.</subheading>
@@ -434,7 +447,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Cable Service During a Public Health Emergency.</heading>
-      <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§307|(b)" type="History" display="false"/>
+      <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§307|(b)" type="History" display="false"/>
       <xi:include href="./sections/34-1271.01.xml"/>
     </container>
   </container>
@@ -792,6 +805,7 @@
       <xi:include href="./sections/34-2133.xml"/>
       <xi:include href="./sections/34-2134.xml"/>
     </container>
+    <xi:include href="./sections/34-2161.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1010,11 +1024,14 @@
     <xi:include href="./sections/34-2701.xml"/>
     <xi:include href="./sections/34-2702.xml"/>
     <xi:include href="./sections/34-2703.xml"/>
+    <xi:include href="./sections/34-2703.01.xml"/>
     <xi:include href="./sections/34-2704.xml"/>
     <xi:include href="./sections/34-2705.xml"/>
     <xi:include href="./sections/34-2706.xml"/>
     <xi:include href="./sections/34-2707.xml"/>
     <xi:include href="./sections/34-2708.xml"/>
     <xi:include href="./sections/34-2709.xml"/>
+    <xi:include href="./sections/34-2710.xml"/>
+    <xi:include href="./sections/34-2711.xml"/>
   </container>
 </container>

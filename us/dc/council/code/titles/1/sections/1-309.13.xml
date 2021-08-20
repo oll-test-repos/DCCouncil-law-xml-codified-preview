@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.13</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on February 4, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.13(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Advisory Neighborhood Commissions — Funds; audit of accounts; employees; financial reports; publications.</heading>
   <para>
     <num>(a)</num>
@@ -126,7 +129,7 @@
           <text>Authorized by at least 2 officers of the Commission, one of whom shall be the Treasurer or Chairperson; and</text>
         </para>
         <para>
-          <num>(ii)</num>
+          <num>[(iii)]</num>
           <text>Conducted according to a procedure determined by the OANC.</text>
         </para>
       </para>
@@ -197,7 +200,7 @@
     <num>(l)</num>
     <para>
       <num>(1)</num>
-      <text>A Commission shall expend funds received through the annual allocation received pursuant to subsection (a) of this section, or other donated funds, for public purposes within the Commission area or for the functioning of the Commission office, including staff salaries, Commissioner training, property liability insurance, legal expenses for Commission representation by an attorney licensed in the District before an agency, board, or commission of the District government, and nominal refreshments at Commission meetings. Nominal refreshments shall be limited to $100 worth of food and nonalcoholic beverages per regular public Commission meeting, and any refreshments purchased shall be available to the public. Expenditures may be in the form of grants by the Commission for public purposes within the Commission area pursuant to subsection (m) of this section. A public purpose shall be a purpose that benefits the community as a whole and is not done for the primary purpose of benefitting a private entity. A Commission may expend its funds for Commissioner training on subjects pertaining to their official duties when such training is not available from government sources. A Commission may expend its funds to purchase insurance or obtain indemnification against any loss in connection with the assets of the Commission or any liability in connection with the activities of the Commission, such insurance or indemnification to be purchased or obtained in such amounts and from such sources as the Commission deems to be appropriate. Funds may be used to pay the local transportation expenses of a Commissioner if the Commissioner is officially representing the Commission or a committee of the Commission at public hearings or meetings or is engaged in official Commission business. Where a Commissioner submits a complete and valid application for reimbursement for travel or childcare expenses under subsection (l-1) of this section, a Commission shall reimburse that Commissioner for all requested expenses for which the Commissioner qualifies under subsection (l-1).</text>
+      <text>A Commission shall expend funds received through the annual allocation received pursuant to subsection (a) of this section, or other donated funds, for public purposes within the Commission area or for the functioning of the Commission office, including staff salaries, Commissioner training, property liability insurance, legal expenses for Commission representation by an attorney licensed in the District before an agency, board, or commission of the District government, and nominal refreshments at Commission meetings. Nominal refreshments shall be limited to $100 worth of food and nonalcoholic beverages per regular public Commission meeting, and any refreshments purchased shall be available to the public. Expenditures may be in the form of grants by the Commission for public purposes within the Commission area pursuant to subsection (m) of this section. A public purpose shall be a purpose that benefits the community as a whole and is not done for the primary purpose of benefitting a private entity. A Commission may expend its funds for Commissioner training on subjects pertaining to their official duties when such training is not available from government sources. A Commission may expend its funds to purchase insurance or obtain indemnification against any loss in connection with the assets of the Commission or any liability in connection with the activities of the Commission, such insurance or indemnification to be purchased or obtained in such amounts and from such sources as the Commission deems to be appropriate. Funds may be used to pay the local transportation expenses of a Commissioner if the Commissioner is officially representing the Commission or a committee of the Commission at public hearings or meetings or is engaged in official Commission business. Where a Commissioner submits a complete and valid application for reimbursement for travel or childcare expenses under subsection (l-1) of this section, a Commission shall reimburse that Commissioner for all requested expenses for which the Commissioner qualifies under subsection (l-1) [of this section].</text>
     </para>
     <para>
       <num>(2)</num>
@@ -447,11 +450,23 @@
     <annotation doc="D.C. Law 23-68" path="§3" type="Applicability" history="false" display-template="" app="2020-03-19" eff="2020-03-19"><cite doc="D.C. Law 23-68" path="§16">Section 16 of D.C. Law 23-68</cite> provided that the changes made to this section by D.C. Law 23-68 shall apply as of October 1, 2019.
     </annotation>
     <annotation app="2020-03-19" doc="D.C. Law 23-68" eff="2020-03-19" path="§3" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§1032|(a)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§905|(e)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§905|(e)">§ 905(e) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§905|(e)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§905|(e)">§ 905(e) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§905|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§905|(e)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§905|(e)">§ 905(e) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§905|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§905|(e)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§905|(e)">§ 905(e) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§905|(e)" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§905|(e)|(1)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§905|(e)|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§905|(e)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§905|(e)">§ 905(e) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§905|(e)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1032|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§905|(e)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§905|(e)">§ 905(e) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§905|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§905|(e)" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-96" path="§905|(e)">§ 905(e) of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§905|(e)" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§905|(e)" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§905|(e)|(1)" type="History"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§905|(e)|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§905|(e)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§905|(e)">§ 905(e) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
   </annotations>
   <para>
     <num>(t)</num>

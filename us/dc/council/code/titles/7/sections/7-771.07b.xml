@@ -8,7 +8,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Notwithstanding D.C. Official Code §§ <cite path="§44-361">44-361</cite>, <cite path="§44-362">44-362</cite>, <cite path="§44-363">44-363</cite>, and <cite path="§44-365">44-365</cite>, funds may be transferred from the Medicaid reserve to the Department:</text>
+    <text>Notwithstanding §§ <cite path="§47-361">47-361</cite>, <cite path="§47-362">47-362</cite>, <cite path="§47-363">47-363</cite>, and <cite path="§47-365">47-365</cite>, funds may be transferred from the Medicaid reserve to the Department:</text>
     <para>
       <num>(1)</num>
       <text>To pay expenses associated with increased Medicaid enrollment or service utilization upon a determination by the Agency Fiscal Officer that available funds within the Department are projected to be exhausted;</text>
@@ -37,7 +37,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Funding <cite doc="D.C. Act" path="23-390">the Postpartum Coverage Expansion Act of 2020, passed on 2nd reading on July 21, 2020 (Enrolled version of Bill 23-326)</cite>; and</text>
+          <text>Funding §§ <cite path="§31-3861|(2A)">31-3861(2A)</cite> and <cite path="§31-3862.01">31-3862.01</cite>; and</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -62,7 +62,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>To award a competitive grant in an amount not to exceed $150,000 to fund operating expenses associated with the provisions of medical respite care services to individuals who are homeless.</text>
+        <text>To award a competitive grant in an amount not to exceed $150,000 to fund operating expenses associated with the provision of medical respite care services to individuals who are homeless.</text>
       </para>
     </para>
   </para>
@@ -72,9 +72,52 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>Funds may be reprogrammed from the Medicaid reserve for purposes other than those detailed in subsection (b) of this section, subject to <cite path="47|3|IV">subchapter IV of Chapter 3 of Title 47</cite>; provided, that the Office of the Chief Financial Officer determines that sufficient funds are still available within the Medicaid reserve to ensure a deficiency will not occur at the Department.</text>
+    <para>
+      <num>(1)</num>
+      <text>There is established as a special fund the Medicaid Reserve Fund ("Fund").</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The following monies shall be deposited into the Fund:</text>
+      <para>
+        <num>(A)</num>
+        <text>All unspent local fund monies remaining in the operating budget of the Medicaid Reserve at the end of Fiscal Year 2021; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>All unspent local fund monies remaining in the operating budget of the Department of Health Care Finance at the end of Fiscal Year 2021.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Money in the Fund shall be used for operating expenses permitted under this section.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <para>
+        <num>(A)</num>
+        <text>The money deposited into the Fund, but not expended in a fiscal year, shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year or at any other time.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      </para>
+    </para>
   </para>
   <annotations>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§5032|(b)" type="History"/>
+    <annotation doc="D.C. Law 17-109" type="History" path="§8b">Feb. 27, 2008, D.C. Law 17-109, § 8b</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5032|(b)" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-6" path="§3|(a)" codified:display="Note" app="2021-01-29" eff="2021-01-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-6" path="§3|(a)">§ 3(a) of Department of Health Care Finance Alliance Reform and Budget Transparency Emergency Amendment Act of 2021 (D.C. Act 24-6, Jan. 29, 2021, 68 DCR 001539)</cite>.</annotation>
+    <annotation app="2021-01-29" doc="D.C. Act 24-6" eff="2021-01-29" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§401|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(D)|(i)|(I)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(D)|(i)|(II)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(D)|(ii)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-251" path="§202|(a)|(1)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-251" path="">D.C. Law 23-251</cite>: <cite doc="D.C. Law 23-251" path="§401">§ 401 of D.C. Law 23-251</cite> provided that the change made to this section by <cite doc="D.C. Law 23-251" path="§202|(a)|(1)">§ 202(a)(1) of D.C. Law 23-251</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)" type="History"/>
   </annotations>
 </section>

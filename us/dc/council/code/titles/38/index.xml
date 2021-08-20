@@ -175,6 +175,23 @@
       <heading>Truancy and Dropout Prevention.</heading>
       <xi:include href="./sections/38-241.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>Students' Right to Home or Hospital Instruction.</heading>
+      <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
+      <xi:include href="./sections/38-251.01.xml"/>
+      <xi:include href="./sections/38-251.02.xml"/>
+      <xi:include href="./sections/38-251.03.xml"/>
+      <xi:include href="./sections/38-251.04.xml"/>
+      <xi:include href="./sections/38-251.05.xml"/>
+      <xi:include href="./sections/38-251.06.xml"/>
+      <xi:include href="./sections/38-251.07.xml"/>
+      <xi:include href="./sections/38-251.08.xml"/>
+      <xi:include href="./sections/38-251.09.xml"/>
+      <xi:include href="./sections/38-251.10.xml"/>
+      <xi:include href="./sections/38-251.11.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -397,7 +414,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>School Health Innovations Grant Program.</heading>
-      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7095" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7095" type="History" display="false"/>
       <annotation app="2018-05-05" doc="D.C. Law 22-98" eff="2018-05-05" path="" type="History" display="false"/>
       <xi:include href="./sections/38-671.01.xml"/>
       <xi:include href="./sections/38-671.02.xml"/>
@@ -1577,6 +1594,21 @@
       <xi:include href="./sections/38-2573.01.xml"/>
     </container>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>25D</num>
+    <reason>Not Funded</reason>
+    <heading>Prevention of Reading Difficulties.</heading>
+    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/38-2581.01.xml"/>
+    <xi:include href="./sections/38-2581.02.xml"/>
+    <xi:include href="./sections/38-2581.03.xml"/>
+    <xi:include href="./sections/38-2581.04.xml"/>
+    <xi:include href="./sections/38-2581.05.xml"/>
+    <xi:include href="./sections/38-2581.06.xml"/>
+    <xi:include href="./sections/38-2581.07.xml"/>
+  </container>
   <subheading>Subtitle VIII. State Level Agencies and Activities.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1780,6 +1812,13 @@
     <heading>District of Columbia Public Schools Contracting and Spending.</heading>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="IV" type="History" display="false"/>
     <xi:include href="./sections/38-2955.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29A-ii</num>
+    <heading>Student Activity Funds for theatrical and music performances.</heading>
+    <annotation app="2021-07-29" doc="D.C. Act 24-131" eff="2021-07-29" path="" type="History" display="false"/>
+    <xi:include href="./sections/38-2961.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

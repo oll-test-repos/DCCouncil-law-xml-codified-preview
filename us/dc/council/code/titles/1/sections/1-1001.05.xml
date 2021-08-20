@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1001.05</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1001.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Board of Elections — Duties.</heading>
   <para>
     <num>(a)</num>
@@ -39,11 +42,39 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>Operate polling places; provided, that for the November 3, 2020, General Election, the Board shall operate no fewer than 80 polling places, including a polling place for individuals incarcerated in the Department of Corrections' custody at the Central Detention Facility and Correctional Treatment Facility, if public health guidance permits;</text>
+      <text>Operate polling places;</text>
     </para>
     <para>
       <num>(9A)</num>
-      <text>For the June 2, 2020, Primary Election, mail every registered qualified elector an absentee ballot application and a postage-paid return envelope;</text>
+      <text>Before any upcoming voter registration or absentee ballot deadlines and with reasonable time for qualified electors to return materials to the Board:</text>
+      <para>
+        <num>(A)</num>
+        <text>Provide to every unregistered qualified elector in the Department of Corrections' care or custody and endeavor to provide to every unregistered qualified elector in the Bureau of Prisons' care or custody:</text>
+        <para>
+          <num>(i)</num>
+          <text>A voter registration form and postage-paid return envelope; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Lay-friendly educational materials about the importance of voting and the right of an individual currently incarcerated or with a criminal record to vote in the District; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Provide to every registered qualified elector in the Department of Corrections' care or custody and endeavor to provide to every registered qualified elector in the Bureau of Prisons' care or custody:</text>
+        <para>
+          <num>(i)</num>
+          <text>A voter guide;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Lay-friendly educational materials about the importance of voting and the right of an individual currently incarcerated or with a criminal record to vote in the District; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Without first requiring an absentee ballot application to be submitted, an absentee ballot and postage-paid return envelope;</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(9A-i)</num>
@@ -55,7 +86,7 @@
     </para>
     <para>
       <num>(10A)</num>
-      <text>Accept absentee ballots postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 7th day after the election; provided, that for elections held in calendar year 2020, the Board shall accept absentee ballots postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 10th day after the election;</text>
+      <text>Accept absentee ballots postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 7th day after the election;</text>
     </para>
     <para>
       <num>(11)</num>
@@ -260,7 +291,15 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>No person shall be listed on the ballot as a candidate for nomination for President in such primary unless there shall have been filed with the Board no later than 90 days before the date of such presidential primary election a petition on behalf of his or her candidacy signed by at least 1,000, or 1%, whichever is less, of the qualified electors of the District of Columbia who are registered under <cite path="§1-1001.07">§ 1-1001.07</cite>, and of the same political party as the nominee.</text>
+      <text>No person shall be listed on the ballot as a candidate for nomination for President in such presidential preference primary election unless:</text>
+      <para>
+        <num>(A)</num>
+        <text>No later than 90 days before the date of such presidential preference primary election, there shall have been filed with the Board a petition on behalf of the person signed by at least 1,000, or 1%, whichever is fewer, of the qualified electors of the District who are registered under <cite path="§1-1001.07">§ 1-1001.07</cite>, and are of the same political party as the nominee; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The person has complied with the rules of the political party to be listed on the ballot, and if the party rules provide for candidate qualification by means other than gathering petition signatures as described in subparagraph (A) of this paragraph, the political party shall certify to the Board no later than 24 hours after the date that is 90 days before the date of such presidential preference primary election the names of candidates for nomination who have qualified by such means.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -286,7 +325,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>No candidate for delegate or alternate may be listed on the ballot unless such candidate was properly selected according to the rules of his political party relating to the nomination of candidates for delegate or alternate.</text>
+        <text>No candidate for delegate or alternate may be listed on the ballot unless such candidate was properly selected according to the rules of the candidate's political party relating to the nomination of candidates for delegate or alternate.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -306,7 +345,7 @@
       <text>The Board shall:</text>
       <para>
         <num>(A)</num>
-        <text>Arrange the ballot for the presidential preference primary so as to enable each voter to indicate his or her choice for presidential nominee and for the slate of delegates and alternates pledged to support that prospective nominee with 1 mark, and provide an alternative to vote for individual delegates or uncommitted slates of delegates; and</text>
+        <text>Arrange the ballot for the presidential preference primary so as to enable each voter to indicate the voter's choice for presidential nominee and for the slate of delegates and alternates pledged to support that prospective nominee with 1 mark, and provide an alternative to vote for individual delegates or uncommitted slates of delegates; and</text>
       </para>
       <para>
         <num>(B)</num>
@@ -315,7 +354,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>The delegates and alternates, of each political party in the District of Columbia to the national convention of that party convened for the nomination of that party for President, elected in accordance with this subchapter, shall only be obliged to vote for the candidate whom he or she has been selected to represent in accordance with properly promulgated rules of the political party, on the 1st ballot cast at the convention for nominees for President, or until such time as such candidate to whom the delegate is committed withdraws his candidacy, whichever 1st occurs.</text>
+      <text>The delegates and alternates, of each political party in the District of Columbia to the national convention of that party convened for the nomination of that party for President, elected in accordance with <cite path="1|10|I">this subchapter</cite>, shall be obliged to vote only for the candidate whom the delegate or alternate has been selected to represent in accordance with properly promulgated rules of the political party, on the 1st ballot cast at the convention for nominees for President, or until such time as such candidate to whom the delegate is committed withdraws the candidate's candidacy, whichever 1st occurs.</text>
     </para>
   </para>
   <para>
@@ -336,7 +375,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The Executive Director shall be a District resident throughout his or her term and failure to maintain District residency shall result in a forfeiture of the position.</text>
+        <text>The Executive Director shall be a District resident throughout the Executive Director's term and failure to maintain District residency shall result in a forfeiture of the position.</text>
       </para>
       <para>
         <num>(B-i)</num>
@@ -379,11 +418,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>No provision of this subchapter shall be construed as permitting the Board to appoint any personnel who are not full-time paid employees of the Board to preliminarily determine alleged violations of the law affecting elections, conflicts of interest, or lobbying.</text>
+      <text>No provision of this subchapter shall be construed as permitting the Board to appoint any personnel who are not full-time paid employees of the Board to preliminarily determine alleged violations of the law affecting elections.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Board may appoint a General Counsel to serve at the pleasure of the Board. The General Counsel shall be entitled to receive compensation at the same rate as the Executive Director of the Board and shall be responsible solely to the Board. The General Counsel shall perform such duties as may be delegated or assigned to him or her by rule or order of the Board.</text>
+      <text>The Board may appoint a General Counsel to serve at the pleasure of the Board. The General Counsel shall be entitled to receive compensation at the same rate as the Executive Director of the Board and shall be responsible solely to the Board. The General Counsel shall perform such duties as may be delegated or assigned to the General Counsel by rule or order of the Board.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -405,11 +444,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The Board shall establish standards to measure the performance of polling place workers, including the past performance of a polling place worker, and shall consider the polling place worker’s past performance before appointing him or her to work as a polling place worker in a subsequent election.</text>
+        <text>The Board shall establish standards to measure the performance of polling place workers, including the past performance of a polling place worker, and shall consider the polling place worker’s past performance before appointing the polling place worker to work as a polling place worker in a subsequent election.</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>For the November 3, 2020 General Election, election workers, including precinct captains and polling place workers, who are District government employees are not required to be District residents or qualified electors.</text>
+        <text>Election workers, including precinct captains and polling place workers, who are District government employees are not required to be District residents or qualified electors.</text>
       </para>
     </para>
   </para>
@@ -678,7 +717,7 @@
     <annotation type="Applicability" doc="D.C. Law 22-250" path="§5|(c)" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-250" path="">D.C. Law 22-250</cite>: <cite doc="D.C. Law 22-250" path="§10">§ 10 of D.C. Law 22-250</cite> provided that the change made to this section by <cite doc="D.C. Law 22-250" path="§5|(c)">§ 5(c) of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§5|(c)" type="History"/>
     <annotation doc="D.C. Law 22-250" path="§10|(a)" type="Applicability" history="false" display-template="" app="2019-03-13" eff="2019-03-13">
-                Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Act 23-404" path="§1104">§ 1104 of D.C. Act 23-404</cite>, repealed the requirement that <cite doc="D.C. Law 22-250" path="§5|(c)">§ 5(c) of D.C. Law 22-250</cite> would be subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the amendment made by <cite doc="D.C. Law 22-250" path="§5|(c)">§ 5(c) of D.C. Law 22-250</cite> has been implemented.
+                Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Law 23-149" path="§1104">§ 1104 of D.C. Law 23-149</cite>, repealed the requirement that <cite doc="D.C. Law 22-250" path="§5|(c)">§ 5(c) of D.C. Law 22-250</cite> would be subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the amendment made by <cite doc="D.C. Law 22-250" path="§5|(c)">§ 5(c) of D.C. Law 22-250</cite> has been implemented.
               </annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)" type="History" display="false"/>
     <annotation app="2019-05-23" doc="D.C. Law 22-315" eff="2019-05-23" path="§5" type="History"/>
@@ -698,20 +737,73 @@
     <annotation app="2020-01-16" doc="D.C. Act 23-198" eff="2020-01-16" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-69" path="§2" codified:display="Note" app="2020-03-19" eff="2020-03-19">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-69" path="§2">§ 2 of Primary Election Filing Requirement Temporary Amendment Act of 2020 (D.C. Law 23-69, Mar. 19, 2020, 67 DCR 751)</cite>.</annotation>
     <annotation app="2020-03-19" doc="D.C. Law 23-69" eff="2020-03-19" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§804|(b)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§804|(b)">§ 804(b) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§804|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§804|(b)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§804|(b)">§ 804(b) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§804|(b)" type="History" display="false"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§2|(a)" type="History"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§2|(b)" type="History"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§2|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§201|(b)" codified:display="Note" app="2020-07-22" eff="2020-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-336" path="§201|(b)">§ 201(b) of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§201|(b)" type="History" display="false"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(b)|(3)" type="History"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§1104" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§804|(b)|(2)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§804|(b)|(2)">§ 804(b)(2) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-382" path="§2|(b)" codified:display="Note" app="2020-08-13" eff="2020-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-382" path="§2|(b)">§ 2(b) of General Election Preparations Emergency Amendment Act of 2020 (D.C. Act 23-382, Aug. 13, 2020, 67 DCR 9865)</cite>.</annotation>
+    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§804|(b)|(2)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§804|(b)|(2)">§ 804(b)(2) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§804|(b)|(2)" type="History" display="false"/>
-    <annotation app="2020-10-05" doc="D.C. Act 23-410" eff="2020-10-05" path="§2|(b)|(1)" type="History"/>
-    <annotation app="2020-10-05" doc="D.C. Act 23-410" eff="2020-10-05" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(b)|(1)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-410" path="§2|(b)|(2)" codified:display="Note" app="2020-10-05" eff="2020-10-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-410" path="§2|(b)|(2)">§ 2(b)(2) of Election Worker Residency Requirement Waiver Emergency Amendment Act of 2020 (D.C. Act 23-410, Oct. 5, 2020, 67 DCR 11511)</cite>.</annotation>
+    <annotation app="2020-10-05" doc="D.C. Act 23-410" eff="2020-10-05" path="§2|(b)|(2)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§804|(b)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§804|(b)">§ 804(b) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-422" path="§2|(a)" codified:display="Note" app="2020-10-26" eff="2020-10-26">For temporary (90 days) , see <cite doc="D.C. Act 23-422" path="§2|(a)">§ 2(a) of General Election Preparations Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-422, Oct. 26, 2020, 67 DCR 12827)</cite>.</annotation>
+    <annotation app="2020-10-26" doc="D.C. Act 23-422" eff="2020-10-26" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§201|(b)" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§201|(b)">§ 201(b) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
+    <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§201|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1104" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§201|(b)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§201|(b)">§ 201(b) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§201|(b)" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(b)|(3)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-167" path="§2|(b)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-167" path="§2|(b)">§ 2(b) of General Election Preparations Temporary Amendment Act of 2020 (D.C. Law 23-167, Dec. 23, 2020, 67 DCR 13022)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-170" eff="2020-12-23" path="§2|(b)|(2)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Law 23-170" path="§2|(b)|(2)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Law 23-170" path="§2|(b)|(2)">§ 2(b)(2) of Election Worker Residency Requirement Waiver Temporary Amendment Act of 2020 (D.C. Law 23-170, Dec. 23, 2020, 67 DCR 13214)</cite>.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(2)|(A)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(2)|(B)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(2)|(C)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(2)|(D)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(3)|(A)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(3)|(B)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(3)|(C)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(3)|(D)|(i)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(3)|(D)|(ii)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(3)|(D)|(iii)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-192" path="§2|(d)|(1)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-192" path="">D.C. Law 23-192</cite>: <cite doc="D.C. Law 23-192" path="§4">§ 4 of D.C. Law 23-192</cite> provided that the change made to this section by <cite doc="D.C. Law 23-192" path="§2|(d)|(1)">§ 2(d)(1) of D.C. Law 23-192</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§2|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§201|(b)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-76" path="§201|(b)">§ 201(b) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
+    <annotation app="2021-05-03" doc="D.C. Act 24-76" eff="2021-05-03" path="§201|(b)" type="History" display="false"/>
   </annotations>
+  <para>
+    <num>(m)</num>
+    <text>By July 1, 2021, and biennially thereafter, the Board and the Corrections Information Council, established by <cite path="§24-101.01">§ 24-101.01</cite>, shall jointly submit a report to the Mayor and Council on the <cite doc="D.C. Law 23-277">Restore the Vote Amendment Act of 2020</cite> ("Act"), including:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of incarcerated qualified electors registered since the Act's effective date [April 27, 2021], or, beginning in the July 1, 2023 report, since the date of the previous report;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of incarcerated registered qualified electors who voted, for each election held since the Act's effective date  [April 27, 2021][,] or, beginning in the July 1, 2023 report, since the date of the previous report;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>An analysis of the Act's implementation and any identifiable challenges; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any policy or legislative recommendations to ensure that all incarcerated qualified electors have a meaningful opportunity to register and vote.</text>
+    </para>
+  </para>
 </section>

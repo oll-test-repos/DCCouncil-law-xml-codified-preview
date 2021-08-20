@@ -173,6 +173,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>IV-E</num>
+      <heading>Official State Mammal of the District of Columbia.</heading>
+      <annotation app="2020-12-23" doc="D.C. Law 23-160" eff="2020-12-23" path="" type="History" display="false"/>
+      <xi:include href="./sections/1-167.31.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Official Fruit of the District of Columbia.</heading>
       <xi:include href="./sections/1-171.xml"/>
@@ -651,6 +658,7 @@
         <xi:include href="./sections/1-301.155.xml"/>
         <xi:include href="./sections/1-301.156.xml"/>
         <xi:include href="./sections/1-301.157.xml"/>
+        <xi:include href="./sections/1-301.158.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1214,6 +1222,13 @@
       </container>
       <container>
         <prefix>Part</prefix>
+        <num>KK-i</num>
+        <heading>New Hospital at St. Elizabeths Startup Reserve Fund.</heading>
+        <annotation app="2020-10-20" doc="D.C. Law 23-138" eff="2020-10-20" path="II" type="History" display="false"/>
+        <xi:include href="./sections/1-325.365.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
         <num>LL</num>
         <heading>Ward 7 and Ward 8 Entrepreneur Grant Fund.</heading>
         <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
@@ -1244,7 +1259,7 @@
         <prefix>Part</prefix>
         <num>PP</num>
         <heading>Audit Engagement Fund.</heading>
-        <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="I" type="History" display="false"/>
+        <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
         <xi:include href="./sections/1-325.411.xml"/>
       </container>
     </container>
@@ -1414,12 +1429,12 @@
       <prefix>Subchapter</prefix>
       <num>XVIII</num>
       <reason>Repealed</reason>
-      <heading>Expenditure Commission. [Repealed]<annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7106" type="History"/></heading>
+      <heading>Expenditure Commission. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/></heading>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VII" type="History" display="false"/>
       <xi:include href="./sections/1-361.01.xml"/>
       <xi:include href="./sections/1-361.02.xml"/>
       <xi:include href="./sections/1-361.03.xml"/>
-      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7106" type="History"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/>
     </container>
   </container>
   <container>
@@ -1483,13 +1498,6 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>III-A</num>
-      <heading>Review Period for any Matter Transmitted to the Council for Approval or Disapproval During a Public Health Emergency.</heading>
-      <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(b)" type="History" display="false"/>
-      <xi:include href="./sections/1-523.11.xml"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Modifications of Board of Education Reduction-In-Force Procedures.</heading>
       <xi:include href="./sections/1-525.01.xml"/>
@@ -1547,7 +1555,7 @@
       <prefix>Subchapter</prefix>
       <num>X</num>
       <heading>Freeze on Pay Increases and Benefits fromOctober 1, 2020 through September 30, 2021.</heading>
-      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="I" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
       <xi:include href="./sections/1-555.01.xml"/>
       <xi:include href="./sections/1-555.02.xml"/>
       <xi:include href="./sections/1-555.03.xml"/>
@@ -1613,6 +1621,7 @@
       <xi:include href="./sections/1-606.01.xml"/>
       <xi:include href="./sections/1-606.02.xml"/>
       <xi:include href="./sections/1-606.03.xml"/>
+      <xi:include href="./sections/1-606.03a.xml"/>
       <xi:include href="./sections/1-606.04.xml"/>
       <xi:include href="./sections/1-606.05.xml"/>
       <xi:include href="./sections/1-606.06.xml"/>
@@ -1645,7 +1654,7 @@
       <prefix>Subchapter</prefix>
       <num>VII-B</num>
       <heading>Transgender and Non-Binary Employment Study.</heading>
-      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
       <xi:include href="./sections/1-607.61.xml"/>
       <xi:include href="./sections/1-607.62.xml"/>
     </container>
@@ -1890,6 +1899,7 @@
       <xi:include href="./sections/1-615.01.xml"/>
       <xi:include href="./sections/1-615.02.xml"/>
       <xi:include href="./sections/1-615.03.xml"/>
+      <xi:include href="./sections/1-615.03a.xml"/>
       <xi:include href="./sections/1-615.04.xml"/>
       <xi:include href="./sections/1-615.05.xml"/>
     </container>
@@ -2014,6 +2024,14 @@
       <xi:include href="./sections/1-620.42.xml"/>
       <xi:include href="./sections/1-620.43.xml"/>
       <xi:include href="./sections/1-620.44.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>XX-E</num>
+      <heading>Medical Marijuana Program Patient Employment Protections.</heading>
+      <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="" type="History" display="false"/>
+      <xi:include href="./sections/1-620.61.xml"/>
+      <xi:include href="./sections/1-620.62.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2188,6 +2206,7 @@
       <xi:include href="./sections/1-627.04.xml"/>
       <xi:include href="./sections/1-627.05.xml"/>
       <xi:include href="./sections/1-627.06.xml"/>
+      <xi:include href="./sections/1-627.07.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2709,7 +2728,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>11A</num>
-    <heading>Government Ethics and Accountability.</heading>
+    <heading>Ethics and Government Accountability.</heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -2725,7 +2744,7 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading>Government Ethics and Accountability.</heading>
+        <heading>Board of Ethics and Government Accountability.</heading>
         <xi:include href="./sections/1-1162.02.xml"/>
         <xi:include href="./sections/1-1162.03.xml"/>
         <xi:include href="./sections/1-1162.04.xml"/>
@@ -2842,7 +2861,6 @@
         <prefix>Part</prefix>
         <num>C-i</num>
         <heading>Fair Elections Program.</heading>
-        <annotation doc="D.C. Law 19-124" type="History" path="§332l" display="false">Apr. 27, 2012, D.C. Law 19-124, § 332l</annotation>
         <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" type="History" display="false"/>
         <xi:include href="./sections/1-1163.32a.xml"/>
         <xi:include href="./sections/1-1163.32b.xml"/>

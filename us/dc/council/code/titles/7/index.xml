@@ -138,6 +138,7 @@
     <xi:include href="./sections/7-231.13.xml"/>
     <xi:include href="./sections/7-231.14.xml"/>
     <xi:include href="./sections/7-231.15.xml"/>
+    <xi:include href="./sections/7-231.15a.xml"/>
     <xi:include href="./sections/7-231.16.xml"/>
     <xi:include href="./sections/7-231.17.xml"/>
     <xi:include href="./sections/7-231.18.xml"/>
@@ -180,7 +181,7 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Limitation of Healthcare Provider Liability Related to COVID-19 Treatment.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="VII" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="VII" type="History" display="false"/>
     <xi:include href="./sections/7-311.xml"/>
   </container>
   <container>
@@ -234,6 +235,7 @@
         <xi:include href="./sections/7-503.06.xml"/>
         <xi:include href="./sections/7-503.07.xml"/>
         <xi:include href="./sections/7-503.08.xml"/>
+        <xi:include href="./sections/7-503.09.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -305,6 +307,13 @@
       <xi:include href="./sections/7-571.04.xml"/>
       <xi:include href="./sections/7-571.05.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5A</num>
+    <heading>Interstate Physical Therapy Compact.</heading>
+    <annotation app="2021-03-16" doc="D.C. Law 23-220" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-581.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -432,7 +441,7 @@
     <prefix>Chapter</prefix>
     <num>6E</num>
     <heading>Long-Term Care Facility reporting during a public health emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="V" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="V" type="History" display="false"/>
     <xi:include href="./sections/7-691.xml"/>
   </container>
   <container>
@@ -545,16 +554,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <heading>Dementia Services Coordinator.</heading>
+      <heading>Dementia Services Coordinator.<annotation app="notfunded" doc="D.C. Law 23-201" eff="2021-03-16" path="§5|(a)" type="History" display="false"/><annotation app="notfunded" doc="D.C. Law 23-201" eff="2021-03-16" path="§2|(a)" type="History"/></heading>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="V" type="History" display="false"/>
-      <container>
-        <prefix>Subtitle</prefix>
-        <num>E</num>
-        <heading>Dementia Services.</heading>
-        <xi:include href="./sections/7-744.01.xml"/>
-        <annotation doc="D.C. Law 14-28" type="History" path="§4951">Oct. 3, 2001, D.C. Law 14-28, § 4948 [4951]</annotation>
-        <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5052" prefix="as added" type="History"/>
-      </container>
+      <xi:include href="./sections/7-744.01.xml"/>
+      <xi:include href="./sections/7-744.02.xml"/>
     </container>
   </container>
   <container>
@@ -659,6 +662,7 @@
     <xi:include href="./sections/7-771.08.xml"/>
     <xi:include href="./sections/7-771.09.xml"/>
     <xi:include href="./sections/7-771.10.xml"/>
+    <xi:include href="./sections/7-771.10a.xml"/>
     <xi:include href="./sections/7-771.11.xml"/>
   </container>
   <container>
@@ -850,6 +854,13 @@
   <container>
     <prefix>Chapter</prefix>
     <num>11A</num>
+    <heading>Psychology Interjurisdictional Compact.</heading>
+    <annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History" display="false"/>
+    <xi:include href="./sections/7-1121.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11B<annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History"/></num>
     <heading>Department of Mental Health Establishment.</heading>
     <xi:include href="./sections/7-1131.01.xml"/>
     <xi:include href="./sections/7-1131.02.xml"/>
@@ -875,7 +886,7 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>11B</num>
+    <num>11C<annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History"/></num>
     <heading>Department of Behavioral Health.</heading>
     <container>
       <prefix>Subchapter</prefix>
@@ -902,7 +913,7 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>11C</num>
+    <num>11D<annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History"/></num>
     <heading>Department of Mental Health Funding.</heading>
     <xi:include href="./sections/7-1151.01.xml"/>
   </container>
@@ -1130,6 +1141,7 @@
     <xi:include href="./sections/7-1407.xml"/>
     <xi:include href="./sections/7-1408.xml"/>
     <xi:include href="./sections/7-1409.xml"/>
+    <xi:include href="./sections/7-1410.xml"/>
   </container>
   <subheading>Subtitle F. Anatomical Parts.</subheading>
   <container>
@@ -1343,6 +1355,7 @@
       <xi:include href="./sections/7-1721.05.xml"/>
       <xi:include href="./sections/7-1721.06.xml"/>
       <xi:include href="./sections/7-1721.07.xml"/>
+      <xi:include href="./sections/7-1721.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1442,7 +1455,7 @@
     <prefix>Chapter</prefix>
     <num>19B</num>
     <heading>Health Care Provider Facility Expansion Program.</heading>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7093" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7093" type="History" display="false"/>
     <annotation app="2018-05-05" doc="D.C. Law 22-97" eff="2018-05-05" path="" type="History" display="false"/>
     <xi:include href="./sections/7-1941.01.xml"/>
     <xi:include href="./sections/7-1941.02.xml"/>
@@ -1606,6 +1619,7 @@
         <xi:include href="./sections/7-2203.xml"/>
         <xi:include href="./sections/7-2204.xml"/>
         <xi:include href="./sections/7-2205.xml"/>
+        <xi:include href="./sections/7-2205.01.xml"/>
         <xi:include href="./sections/7-2206.xml"/>
         <xi:include href="./sections/7-2207.xml"/>
         <xi:include href="./sections/7-2208.xml"/>
@@ -1625,6 +1639,7 @@
         <xi:include href="./sections/7-2231.08.xml"/>
         <xi:include href="./sections/7-2231.09.xml"/>
         <xi:include href="./sections/7-2231.10.xml"/>
+        <xi:include href="./sections/7-2231.11.xml"/>
       </container>
     </container>
     <container>
@@ -1666,8 +1681,15 @@
     <prefix>Chapter</prefix>
     <num>23A-i</num>
     <heading>Mayoral Authority Regarding Licenses and Registrations During a Public Health Emergency.</heading>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="III" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="III" type="History" display="false"/>
     <xi:include href="./sections/7-2335.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23A-ii</num>
+    <heading>Authority of the Chief Procurement Officer During a Public Health Emergency.</heading>
+    <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="II" type="History" display="false"/>
+    <xi:include href="./sections/7-2336.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1922,11 +1944,16 @@
       <xi:include href="./sections/7-2510.05.xml"/>
       <xi:include href="./sections/7-2510.06.xml"/>
       <xi:include href="./sections/7-2510.07.xml"/>
+      <xi:include href="./sections/7-2510.07a.xml"/>
+      <xi:include href="./sections/7-2510.07b.xml"/>
+      <xi:include href="./sections/7-2510.07c.xml"/>
+      <xi:include href="./sections/7-2510.07d.xml"/>
       <xi:include href="./sections/7-2510.08.xml"/>
       <xi:include href="./sections/7-2510.09.xml"/>
       <xi:include href="./sections/7-2510.10.xml"/>
       <xi:include href="./sections/7-2510.11.xml"/>
       <xi:include href="./sections/7-2510.12.xml"/>
+      <xi:include href="./sections/7-2510.13.xml"/>
     </container>
     <subheading>Unit B. Strict Liability for Illegal Sale and Distribution of Firearms.</subheading>
     <xi:include href="./sections/7-2531.01.xml"/>
@@ -2065,6 +2092,7 @@
     <xi:include href="./sections/7-3202.xml"/>
     <xi:include href="./sections/7-3203.xml"/>
     <xi:include href="./sections/7-3204.xml"/>
+    <xi:include href="./sections/7-3204.01.xml"/>
     <xi:include href="./sections/7-3205.xml"/>
   </container>
 </container>

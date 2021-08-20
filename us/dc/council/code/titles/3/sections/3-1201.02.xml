@@ -222,7 +222,7 @@
       <text>“Practice by an audiology assistant” means assisting a licensed audiologist in implementing audiology care and treatment plans for patients under the direct supervision and direction of the licensed audiologist.</text>
     </para>
     <para>
-      <num>[(2D)]</num>
+      <num>(2D)</num>
       <para>
         <num>(A)</num>
         <text>"Practice of certified professional midwifery" means the provision of primary maternity care and well-women care by a certified professional midwife licensed under <cite path="3|12">this chapter</cite> to a patient-client during the preconception, antepartum, intrapartum, and postpartum periods. The practice of certified professional midwifery includes:</text>
@@ -244,11 +244,11 @@
         </para>
         <para>
           <num>(v)</num>
-          <text>Developing a written plan of care specific to the patient-client to ensure continuity of care throughout the antepartum, intrapartum, and postpartum periods, including an emergency birth plan;</text>
+          <text>Developing a written plan of care that must be provided to a patient-client and included in the medical record specific to the patient-client to ensure continuity of care throughout the antepartum, intrapartum, and postpartum periods, including an emergency birth plan;</text>
         </para>
         <para>
           <num>(vi)</num>
-          <text>Consulting, collaborating, referring, or transferring care to appropriate health care professionals;</text>
+          <text>Consulting, collaborating, referring, or transferring care to appropriate health care professionals in accordance with the national standard of care;</text>
         </para>
         <para>
           <num>(vii)</num>
@@ -259,7 +259,7 @@
           </para>
           <para>
             <num>(II)</num>
-            <text>Conducting the delivery of a fetus in an out-of-hospital setting;</text>
+            <text>Conducting the delivery of a fetus in an out-of-hospital setting or inpatient setting;</text>
           </para>
           <para>
             <num>(III)</num>
@@ -1262,11 +1262,15 @@
     <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(b)|(1)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-115" path="§2|(b)" codified:display="Note" app="2020-06-24" eff="2020-06-24">Applicability of <cite doc="D.C. Law 23-115" path="">D.C. Law 23-115</cite>: <cite doc="D.C. Law 23-115" path="§3">§ 3 of D.C. Law 23-115</cite> provided that the change made to this section by <cite doc="D.C. Law 23-115" path="§2|(b)">§ 2(b) of D.C. Law 23-115</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(b)" type="History"/>
-    <annotation doc="D.C. Act 23-404" path="§7078" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7078">Section 7078 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-97" path="§6">section 6 of D.C. Law 23-97</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-97 has been implemented.
+    <annotation doc="D.C. Law 23-149" path="§7078" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7078">Section 7078 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-97" path="§6">section 6 of D.C. Law 23-97</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-97 has been implemented.
         </annotation>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7078" type="History" display="false"/>
-    <annotation doc="D.C. Act 23-404" path="§7081" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7081">Section 7081 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-115 has been implemented.
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7078" type="History" display="false"/>
+    <annotation doc="D.C. Law 23-149" path="§7081" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7081">Section 7081 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-115 has been implemented.
         </annotation>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7081" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7081" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§301|(a)|(2)|(A)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§301|(a)|(2)|(B)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§301|(a)|(2)|(C)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§301|(a)|(1)" type="History"/>
   </annotations>
 </section>
