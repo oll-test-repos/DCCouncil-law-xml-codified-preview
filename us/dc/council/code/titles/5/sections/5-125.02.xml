@@ -14,6 +14,10 @@
     <num>(2)</num>
     <text>Repealed.</text>
   </para>
+  <para>
+    <num>(3)</num>
+    <text>"Neck restraint" means the use of any body part or object to attempt to control or disable a person by applying pressure against the person's neck, including the trachea or carotid artery, with the purpose, intent, or effect of controlling or restricting the person's movement or restricting their blood flow or breathing.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 6-77" type="History" path="§3">Jan. 25, 1986, D.C. Law 6-77, § 3, 32 DCR 6497</annotation>
     <annotation type="Editor's Notes">Mayor authorized to issue rules: See Historical and Statutory Notes following <cite path="§5-125.01">§ 5-125.01</cite>.</annotation>
@@ -33,8 +37,4 @@
     <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§101|(b)|(3)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§101|(b)" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-128" path="§101|(b)">§ 101(b) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
   </annotations>
-  <para>
-    <num>(3)</num>
-    <text>"Neck restraint" means the use of any body part or object to attempt to control or disable a person by applying pressure against the person's neck, including the trachea or carotid artery, with the purpose, intent, or effect of controlling or restricting the person's movement or restricting their blood flow or breathing.</text>
-  </para>
 </section>

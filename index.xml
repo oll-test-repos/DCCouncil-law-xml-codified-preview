@@ -10,7 +10,8 @@
       <xml-bulk>https://github.com/oll-test-repos/DCCouncil-law-xml</xml-bulk>
       <html-bulk>https://github.com/oll-test-repos/DCCouncil-law-html</html-bulk>
       <html>https://code.dccouncil.us</html>
-      <static-assets>https://github.com/oll-test-repos/DCCouncil-law-static-assets</static-assets>
+      <static-assets>https://github.com/oll-test-repos/openlawlibrary-law-static-assets</static-assets>
+      <law-git>https://github.com/oll-test-repos/DCCouncil-law.git</law-git>
     </canonical-urls>
     <redirects>
       <redirect>
@@ -18,14 +19,13 @@
         <out>/us/dc/council</out>
       </redirect>
     </redirects>
-    <history-start>2020-01-01</history-start>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="31c744b8120a9a0aae2dec6c182bff721b6e36e9"/>
+        <repository name="DCCouncil/law-xml" commit="6dfc23b528a926c44052069d7dd0d871ee765bc9"/>
       </repositories>
-      <platform version="2.3.0" reproducible="false"/>
-      <build-date>2021-09-29</build-date>
-      <codified-date>2021-08-05</codified-date>
+      <platform version="2.6.0" reproducible="false"/>
+      <build-date>2022-02-24</build-date>
+      <codified-date>2021-08-23</codified-date>
     </build>
   </meta>
   <xi:include href="./us/dc/council/code/index.xml"/>

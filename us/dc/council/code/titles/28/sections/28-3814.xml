@@ -199,6 +199,18 @@
     <num>(k)</num>
     <text>No creditor, debt collector, or collection agency, or their representatives or agents shall contact consumers by telephone before 8 a.m. and after 9 p.m. EST or EDT, whichever time zone is in effect.</text>
   </para>
+  <para placeholder="Repealed">
+    <num>(l)</num>
+    <text>[Repealed].</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(m)</num>
+    <text>[Repealed].</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(n)</num>
+    <text>[Repealed].</text>
+  </para>
   <annotations>
     <annotation doc="Pub. L. 92-200" type="History">Dec. 17, 1971, 85 Stat. 675, Pub. L. 92-200, § 4</annotation>
     <annotation doc="D.C. Law 19-59" type="History">Dec. 2, 2011, D.C. Law 19-59, § 2, 58 DCR 8973</annotation>
@@ -230,16 +242,4 @@
     <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(j)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(j)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(j)">§ 3(j) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
   </annotations>
-  <para placeholder="Repealed">
-    <num>(l)</num>
-    <text>[Repealed].</text>
-  </para>
-  <para placeholder="Repealed">
-    <num>(m)</num>
-    <text>[Repealed].</text>
-  </para>
-  <para placeholder="Repealed">
-    <num>(n)</num>
-    <text>[Repealed].</text>
-  </para>
 </section>

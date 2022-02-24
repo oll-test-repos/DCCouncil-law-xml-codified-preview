@@ -85,6 +85,26 @@
       </para>
     </para>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>For the purposes of <cite path="2|5|II">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"COVID-19 closure" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>A period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A period of time during which a public body is closed due to the COVID-19 coronavirus disease, as determined by the personnel authority of the public body.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Initial COVID-19 closure" means March 11, 2020 through January 15, 2021.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="Pub. L. 90-614" type="History" path="§209">Oct. 21, 1968, Pub. L. 90-614, title II, § 209</annotation>
     <annotation doc="D.C. Law 1-96" type="History">as added Mar. 29, 1977, D.C. Law 1-96, § 2, 23 DCR 3744</annotation>
@@ -115,24 +135,4 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-267" eff="2021-03-16" path="§2|(c)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-267" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16">For temporary (225 days) , see <cite doc="D.C. Law 23-267" path="§2|(c)">§ 2(c) of FOIA Tolling Temporary Amendment Act of 2020 (D.C. Law 23-267, Mar. 16, 2021, 68 DCR 001190)</cite>.</annotation>
   </annotations>
-  <para>
-    <num>(c)</num>
-    <text>For the purposes of <cite path="2|5|II">this subchapter</cite>, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"COVID-19 closure" means:</text>
-      <para>
-        <num>(A)</num>
-        <text>A period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>A period of time during which a public body is closed due to the COVID-19 coronavirus disease, as determined by the personnel authority of the public body.</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Initial COVID-19 closure" means March 11, 2020 through January 15, 2021.</text>
-    </para>
-  </para>
 </section>

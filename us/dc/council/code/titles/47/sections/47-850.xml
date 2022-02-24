@@ -26,6 +26,14 @@
     <num>(e)</num>
     <text>The real property tax bill shall indicate whether the real property is receiving the deduction.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(f)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(g)</num>
+    <text>Not Funded.</text>
+  </para>
   <annotations>
     <text type="Editor's Notes">Section 3 of Law 15-135 provided that § 2(a), (b), and (c)(3) of the act shall apply as of October 1, 2003.</text>
     <text type="Editor's Notes">Section 3 of <cite doc="D.C. Law 14-147">D.C. Law 14-147</cite> provided that section 2 shall apply as of October 1, 2001, except insofar as the retroactive application results in an increase of tax to the real property or owner thereof.</text>
@@ -101,12 +109,4 @@
     <annotation app="2019-04-11" doc="D.C. Law 22-283" eff="2019-04-11" path="§2" type="History"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§6|(a)" type="History"/>
   </annotations>
-  <para placeholder="Not Funded">
-    <num>(f)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para placeholder="Not Funded">
-    <num>(g)</num>
-    <text>Not Funded.</text>
-  </para>
 </section>

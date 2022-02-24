@@ -240,6 +240,14 @@
       <text>One year after the sale or offering for sale of a new product becomes subject to the requirements of subsection (c) of this section, the product shall not be installed in the District of Columbia unless the efficiency of the new product meets or exceeds the efficiency standards set forth herein.</text>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(d)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(e)</num>
+    <text>Not Funded.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 17-64" type="History" path="§4">Dec. 11, 2007, D.C. Law 17-64, § 4, 54 DCR 10964</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§8-1771.05">§ 8-1771.05</cite>.</annotation>
@@ -256,12 +264,4 @@
     <annotation type="Applicability" doc="D.C. Law 23-195" path="§2|(c)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-195" path="">D.C. Law 23-195</cite>: <cite doc="D.C. Law 23-195" path="§3">§ 3 of D.C. Law 23-195</cite> provided that the change made to this section by <cite doc="D.C. Law 23-195" path="§2|(c)">§ 2(c) of D.C. Law 23-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(c)" type="History"/>
   </annotations>
-  <para placeholder="Not Funded">
-    <num>(d)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para placeholder="Not Funded">
-    <num>(e)</num>
-    <text>Not Funded.</text>
-  </para>
 </section>
