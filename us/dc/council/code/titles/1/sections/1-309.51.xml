@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>1-309.51</num>
+  <heading>Succession.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Except as provided in this section, each Advisory Neighborhood Commission ("ANC") shall be the successor in interest with regard to any assets, obligations, or agreements of its predecessor previously established by law.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The successor in interest to any agreement with an ANC as of December 31, 2022, shall be the ANC within whose boundaries the subject of the agreement is located. For purposes of this subsection, the term "agreement" shall include any voluntary agreement executed pursuant to <cite path="25">Title 25</cite>, any agreement relating to a Planned Unit Development, zoning variance, or special exception, and any agreement relating to historic preservation.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Chief Financial Officer, in coordination with the Office of Advisory Neighborhood Commissions, shall reapportion the quarterly allotments for the periods on or after January 2, 2023, based on the requirements of <cite path="§1-207.38|(e)">§ 1-207.38(e)</cite>, and the boundaries of the new ANC areas <cite doc="D.C. Law 24-148">established by</cite> the Advisory Neighborhood Commission Boundaries Act of 2022 (D.C. Law 24-148).</text>
+  </para>
+  <annotations>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-439" path="§3" codified:display="Note" app="2022-08-10" eff="2022-06-16">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-439" path="§3">§ 3 of Advisory Neighborhood Commission Boundaries Emergency Act of 2022 (D.C. Act 24-439, June 16, 2022, 69 DCR 7525)</cite>.</annotation>
+    <annotation app="2022-08-10" doc="D.C. Act 24-439" eff="2022-06-16" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-520" path="§3" codified:display="Note" app="2022-08-10" eff="2022-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-520" path="§3">§ 3 of Advisory Neighborhood Commission Boundaries Congressional Review Emergency Act of 2022 (D.C. Act 24-520, July 27, 2022, 69 DCR 009791)</cite>.</annotation>
+    <annotation app="2022-08-10" doc="D.C. Act 24-520" eff="2022-07-27" path="§3" type="History" display="false"/>
+    <annotation app="2022-08-10" doc="D.C. Law 24-148" eff="2022-08-10" path="" type="History" display="false"/>
+    <annotation app="2022-08-10" doc="D.C. Law 24-148" eff="2022-08-10" path="§3" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-599" path="§3" codified:display="Note" app="2022-10-31" eff="2022-10-31">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-599" path="§3">§ 3 of Advisory Neighborhood Commission Allotment Emergency Amendment Act of 2022 (D.C. Act 24-599, Oct. 31, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-31" doc="D.C. Act 24-599" eff="2022-10-31" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-233" path="§3|(b)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-233" path="§3|(b)">§ 3(b) of Advisory Neighborhood Commission Allotment Temporary Amendment Act of 2022 (D.C. Law 24-233, Dec. 21, 2022, 69 DCR 14036)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-233" eff="2022-12-21" path="§3|(b)" type="History" display="false"/>
+  </annotations>
+</section>

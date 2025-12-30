@@ -4,8 +4,69 @@
   <heading>Penalties for theft.</heading>
   <para>
     <num>(a)</num>
-    <heading>Theft in the first degree. —</heading>
-    <text>Any person convicted of theft in the first degree shall be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite> or imprisoned for not more than 10 years, or both, if the value of the property obtained or used is $1,000 or more.</text>
+    <para>
+      <num>(1)</num>
+      <text>Theft in the first degree. – Any person convicted of theft in the first degree shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 10 years, or both, if:</text>
+      <para>
+        <num>(A)</num>
+        <text>The value of the property obtained or used is $1000 or more; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <para>
+          <num>(i)</num>
+          <text>The person commits theft twice or more within a period of 6 months and the aggregate value of property obtained is $1000 or more.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>When a person commits theft twice or more within a period of 6 months pursuant to sub-subparagraph (i) of this subparagraph, the thefts may be aggregated and charged in a single count, in which event they shall constitute a single offense.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A conviction for first degree theft under paragraph (1)(C) of this subsection merges with any other conviction for robbery under <cite path="§22-2801">§ 22-2801</cite>, and malicious destruction of property under <cite path="§22-303">§ 22-303</cite>, arising from the same act or course of conduct.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For a person found guilty of 2 or more offenses that merge under this subsection, the sentencing court shall either:</text>
+      <para>
+        <num>(A)</num>
+        <text>Vacate all but one of the offenses prior to sentencing according to the rule of priority in paragraph (4) of this subsection; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Enter judgment and sentence the actor for offenses that merge; provided, that:</text>
+        <para>
+          <num>(i)</num>
+          <text>Sentences for the offenses run concurrent to one another; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The convictions for all but, at most, one of the offenses shall be vacated after:</text>
+          <para>
+            <num>(I)</num>
+            <text>The time for appeal has expired; or</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The judgment that was appealed has been decided.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>When convictions are vacated under paragraph (3)(A) of this subsection, the conviction that remains shall be the conviction for:</text>
+      <para>
+        <num>(A)</num>
+        <text>The offense with the highest authorized maximum period of incarceration; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If 2 or more offenses have the same highest authorized maximum period of incarceration, any offense that the sentencing court deems appropriate.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -47,5 +108,10 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-88">D.C. Law 18-88</cite>, in subsec. (a), substituted “$1,000” for “$250”; in subsec. (b), substituted “if the property obtained or used has some value” for “if the value of the property obtained or used is less than $250”; and added subsecs. (c) and (d).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-3812.</annotation>
     <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§18|(b)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§18|(b)">§ 18(b) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§18|(b)" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§18|(b)">§ 18(b) of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§18|(b)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§23|(b)" type="History"/>
   </annotations>
 </section>

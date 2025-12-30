@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2201.02</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of this chapter, the term:</text>
+  <text>For the purposes of this chapter, and all rules issued thereunder, the term:</text>
   <para>
     <num>(1)</num>
     <text>“Alcohol” means a liquid, gas, or solid, containing ethanol from whatever source or by whatever processes produced, whether or not intended for human consumption.</text>
@@ -63,7 +63,7 @@
     <num>(6A)</num>
     <para>
       <num>(A)</num>
-      <text>"Electric mobility device" means a device weighing less than 60 pounds that:</text>
+      <text>"Electric mobility device" means a device weighing less than 75 pounds that:</text>
       <para>
         <num>(i)</num>
         <text>Has an electric motor;</text>
@@ -78,7 +78,7 @@
       </para>
       <para>
         <num>(iv)</num>
-        <text>Is no greater than 24 inches wide and 48 inches long.</text>
+        <text>Is no greater than 24 inches wide and 55 inches long.</text>
       </para>
     </para>
     <para>
@@ -156,7 +156,7 @@
       <text>"Personal mobility device" or "PMD" means a motorized propulsion device that is designed to transport only one person that:</text>
       <para>
         <num>(i)</num>
-        <text>Weighs 60 pounds or more; or</text>
+        <text>Weighs 75 pounds or more; or</text>
       </para>
       <para>
         <num>(ii)</num>
@@ -186,10 +186,14 @@
   </para>
   <para>
     <num>(14A)</num>
-    <text>"SFD fleet" means all shared fleet devices of any single type of shared fleet device made available for rent by a permitted operator.</text>
+    <text>"Rider" mean a person riding a bicycle, motorized bicycle, e-bicycle, electric mobility device, or other personal mobility device. The term "rider" does not include a person operating a motor-driven cycle or motorcycle, as those terms are defined in 18 DCMR § 9901.1.</text>
   </para>
   <para>
     <num>(14B)</num>
+    <text>"SFD fleet" means all shared fleet devices of any single type of shared fleet device made available for rent by a permitted operator.</text>
+  </para>
+  <para>
+    <num>(14C)</num>
     <para>
       <num>(A)</num>
       <text>"SFD operating company" means a company that provides rental of shared fleet devices for use in the public right-of-way without requiring the installation of any infrastructure within the public right-of-way.</text>
@@ -200,16 +204,16 @@
     </para>
   </para>
   <para>
-    <num>(14C)</num>
+    <num>(14D)</num>
     <text>"SFD permit" means a public-right-of-way occupancy permit issued by the Director to a shared fleet device operating company to offer shared fleet devices for rental in the public right-of-way in the District.</text>
   </para>
   <para>
-    <num>(14D)</num>
+    <num>(14E)</num>
     <text>"Shared fleet device" means an electric mobility device, bicycle, or electrically-powered motorized bicycle that is available for short-term rental and is permitted for use in public space.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(15)</num>
-    <text>“This chapter” includes all lawful regulations issued thereunder by the Council of the District of Columbia and all lawful rules issued thereunder by the Mayor of the District of Columbia or his designated agent.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(16)</num>
@@ -280,16 +284,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 10(a) of Motor Vehicle Definition Electric Personal Assistive Mobility Device Exemption Emergency Amendment Act of 2005 (D.C. Act 16-237, December 22, 2005,  53 DCR 249).</annotation>
     <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 2(a) of the Motor Coach Vehicles Tax Exemption Emergency Amendment Act of 1999 (D.C. Act 13-182, November 22, 1999,  47 DCR 1).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 10(a) of Motor Vehicle Definition Electric Personal Assistive Mobility Device Exemption Temporary Amendment Act of 2006 (<cite doc="D.C. Law 16-85">D.C. Law 16-85</cite>, April 4, 2006, law notification  53 DCR 3344).</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-266">D.C. Law 19-266</cite> rewrote this section.</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “The term ‘vehicle conveyance fee’ shall” for “ ‘Vehicle conveyance fee’ shall” in (16).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-303">D.C. Law 17-303</cite> added par. (16).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-67">D.C. Law 17-67</cite> added par. (15).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in par. (1), purported to substitute “person with a disability” for “handicapped person”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-224">D.C. Law 16-224</cite> revived the provisions of <cite doc="D.C. Law 14-235">D.C. Law 14-235</cite> that expired on October 1, 2005, and rewrote pars. (1) and (12).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-289">D.C. Law 15-289</cite> added pars. (13) and (14).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite> validated previously made technical corrections; repealed par. (3); and in par. (10), substituted “The term ‘traffic’ shall” for “Traffic shall”. Prior to amendment, par. (3) had read as follows: “(3) The term ‘District’ means the District of Columbia.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-235">D.C. Law 14-235</cite> rewrote par. (1) and added par. (12). Par. (1) had read as follows: “(1) The term ‘motor vehicle’ means all vehicles propelled by internal-combustion engines, electricity, or steam. The term ‘motor vehicle’ shall not include traction engines, road rollers, vehicles propelled only upon rails or tracks, and battery-operated wheelchairs when operated by a handicapped person at speeds not exceeding 10 miles per hour.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-289">D.C. Law 13-289</cite> added the definition for the term mini-van.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 40-602.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-702.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§5-114.01">§ 5-114.01</cite>, <cite path="§31-2402">§ 31-2402</cite>, <cite path="§50-601">§ 50-601</cite>, <cite path="§50-1108">§ 50-1108</cite>, <cite path="§50-1201">§ 50-1201</cite>, <cite path="§50-1301.02">§ 50-1301.02</cite>, <cite path="§50-1331.01">§ 50-1331.01</cite>, <cite path="§50-1401.01">§ 50-1401.01</cite>, <cite path="§50-1501.01">§ 50-1501.01</cite>, <cite path="§50-1505.01">§ 50-1505.01</cite>, <cite path="§50-1901">§ 50-1901</cite>, <cite path="§50-2301.02">§ 50-2301.02</cite>, and <cite path="§50-2602">§ 50-2602</cite>.</annotation>
@@ -310,5 +304,16 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(8)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(9)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(10)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6112|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6112|(a)">§ 6112(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6112|(a)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6112|(a)|(1)|(A)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6112|(a)|(1)|(B)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6112|(a)|(2)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-214" eff="2022-12-21" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2022-12-21" doc="D.C. Law 24-214" eff="2022-12-21" path="§2|(a)|(1)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-161" path="§4|(a)" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§4|(a)">§ 4(a) of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)|(3)" type="History"/>
+    <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§4|(a)|(1)" type="History"/>
   </annotations>
 </section>

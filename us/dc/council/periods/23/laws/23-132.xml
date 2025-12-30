@@ -38,7 +38,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§31-3861" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§31-3861" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(b)</num>
       <text>A new section 3a is added to read as follows:</text>
       <include>
@@ -78,7 +78,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-132" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§31-3861|(2A)"/>
+      <codify:applicability doc="D.C. Law 23-132" path="§2|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§31-3862.01"/>
     </para>
     <para>
       <num>(b)</num>

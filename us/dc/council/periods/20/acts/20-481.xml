@@ -7,10 +7,10 @@
   <meta>
     <effective>2014-11-18</effective>
     <citations>
-      <citation type="act" url="http://lims.dccouncil.us/Download/32810/B20-0986-SignedAct.pdf">D.C. Act 20-481</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/32810/Signed_Act/B20-0986-SignedAct.pdf?Id=104794">D.C. Act 20-481</citation>
       <citation type="register">61 DCR 12133</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B20-0986">
+    <history url="https://lims.dccouncil.gov/Legislation/B20-0986">
       <vote date="2014-10-28" reading="Oral"/>
       <vote date="2014-10-28" reading="Final"/>
       <enacted>2014-11-18</enacted>
@@ -363,8 +363,8 @@
       <text>Within 60 days of the effective date of the New Columbia Statehood Initiative and Omnibus Boards and Commissions Reform Amendment Act of 2014, passed on 2nd reading on October 28, 2014 (Enrolled version of Bill 20-71), the Commission shall issue a report with findings as to whether the Statehood Delegation should receive compensation in the form of a salary or stipend and, if so, the appropriate amount of such compensation.</text>
     </section>
   </container>
-  <container>
-    <heading>66666TITLE II -- OMNIBUS BOARDS AND COMMISSIONS REFORM</heading>
+  <container name="title-ii----omnibus-boards-and-commissions-reform">
+    <heading>TITLE II -- OMNIBUS BOARDS AND COMMISSIONS REFORM</heading>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>A</num>

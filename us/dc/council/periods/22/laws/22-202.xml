@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-202">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-202" codify:applicability="notfunded">
   <num type="law">22-202</num>
   <num type="bill">22-570</num>
   <num type="act">22-501</num>
@@ -8,7 +8,6 @@
   <meta>
     <introduced>2017-11-07</introduced>
     <effective>2019-02-22</effective>
-    <temporary/>
     <citations>
       <citation type="law" url="http://lims.dccouncil.us/Download/39177/B22-0570-SignedAct.pdf">D.C. Law 22-202</citation>
       <citation type="act" url="http://lims.dccouncil.us/Download/39177/B22-0570-SignedAct.pdf">D.C. Act 22-501</citation>

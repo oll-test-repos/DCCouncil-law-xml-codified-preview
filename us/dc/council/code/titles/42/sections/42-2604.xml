@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2604</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-2604(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Promulgation of rules and regulations by Mayor; review by Council; contents of loan agreements.</heading>
   <para>
     <num>(a)</num>
@@ -13,9 +16,13 @@
       <num>(1)</num>
       <text>All applicants for and recipients of financial assistance from the Funds shall be tenant organizations (as defined in <cite path="§42-3401.03|(18)">§ 42-3401.03(18)</cite> or a first time homebuyer seeking to purchase housing in the District of Columbia as a primary residence including, but not limited to, single family homes, condominium units, or occupancy rights to cooperative housing. For the purposes of this section, the term “first time homebuyer” means a real property purchaser who had no ownership interest in his or her principal residence at any time during the 3 year period ending on the date of his or her application for assistance, but including an applicant who has divorced or separated during the 3 year period where a formal settlement has been made under which the applicant does not receive an ownership interest in a primary residence which had been jointly owned, and who has no other current ownership interest in residential real property.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(1A)</num>
-      <text>Priority in the allocation of assistance under the Fund shall be given to residents of the District of Columbia and District of Columbia residents who are low income, elderly, displaced applicants, or residents with disabilities.</text>
+      <text>Repealed.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(1B)</num>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -24,6 +31,25 @@
     <para>
       <num>(3)</num>
       <text>Repealed.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>No later than 120 days after October 1, 2022, the Mayor shall issue updated rules that will allow organizations that meet the following criteria to provide homebuyer education and counseling and to underwrite eligibility for the Home Purchase Assistance Program:</text>
+      <para>
+        <num>(A)</num>
+        <text>The organization is approved by the United States Department of Housing and Urban Development to provide housing counseling services, including homebuyer education workshops, pre-purchase counseling, and financial management.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The organization provides access to below market, fixed-rate mortgages with no down payment or closing costs.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The rules shall require any such organizations to provide closing disclosure verifying the mortgage and use of any Home Purchase Assistance Program funds.</text>
     </para>
   </para>
   <annotations>
@@ -40,5 +66,16 @@
     <annotation type="Prior Codifications">1981 Ed., § 45-2204.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-3502">§ 47-3502</cite>.</annotation>
     <annotation type="Cross References">Lower income homeownership households, qualifications, see <cite path="§47-3502">§ 47-3502</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§2062|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§2062|(b)">§ 2062(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2062|(b)" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2062|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2152|(d)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2152|(d)">§ 2152(d) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2152|(d)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2152|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2182|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2182|(b)">§ 2182(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2182|(b)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2182|(b)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2182|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2182|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2182|(b)">§ 2182(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

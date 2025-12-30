@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>6B</num>
+  <heading>Delegation of functions.</heading>
+  <text>The Mayor shall delegate the functions enumerated in <cite path="6|5">Chapter 5 of Title 6</cite> to the Director of the Department of Buildings.</text>
+  <annotations>
+    <annotation doc="D.C. Law 13-105" type="History" path="§20">May 9, 2000, D.C. Law 13-105, § 20, 47 DCR 1325</annotation>
+  </annotations>
+</section>

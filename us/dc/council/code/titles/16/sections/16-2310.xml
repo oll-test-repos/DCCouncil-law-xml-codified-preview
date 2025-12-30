@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-2310</num>
+  <text>
+      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">section 18(c)(1) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
+      </text>
+  <text>
+      *NOTE: The amendments to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">section 18(c)(1) of D.C. Law 25-175</cite> shall expire on December 31, 2026.*
+      </text>
   <heading>Criteria for detaining children.</heading>
   <para>
     <num>(a)</num>
@@ -189,5 +195,29 @@
     <annotation doc="D.C. Law 22-168" path="§7016" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction impacting this section.
             </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7016" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§3" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§3">§ 3 of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-257" path="§3" codified:display="Note" app="2023-10-16" eff="2023-10-16">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-257" path="§3">§ 3 of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 70 DCR 13849)</cite>.</annotation>
+    <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§3" codified:display="Note" app="2023-12-21" eff="2023-12-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-339" path="§3">§ 3 of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
+    <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§3" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§3">§ 3 of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§13|(c)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§13|(c)">§ 13(c) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§13|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§13|(c)" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§13|(c)">§ 13(c) of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§13|(c)" type="History" display="false"/>
+    <annotation history="false" path="§18|(c)|(1)" type="Expiration of Law" app="2024-06-08" eff="2024-06-08" doc="D.C. Law 25-175"><cite doc="D.C. Law 25-175" path="§18|(c)|(2)">Section 18(c)(2) of D.C. Law 25-175</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">Section 18(c)(1) of D.C. Law 25-175</cite> shall expire 225 days after June 8, 2024 [January 10, 2025].</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§18|(c)|(1)" type="History" display="false"/>
+    <annotation history="false" path="§2|(a)" type="Expiration of Law" app="2025-04-22" eff="2025-04-22" doc="D.C. Act 26-56"><cite doc="D.C. Act 26-56" path="§2|(a)">Section 2(a) of D.C. Act 26-56</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">Section 18(c)(1) of D.C. Law 25-175</cite> shall expire on July 15, 2025.</annotation>
+    <annotation app="2025-04-22" doc="D.C. Act 26-56" eff="2025-04-22" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" path="§2|(a)" type="Expiration of Law" app="2025-06-17" eff="2025-06-17" doc="D.C. Law 26-14"><cite doc="D.C. Law 26-14" path="§2|(a)">Section 2(a) of D.C. Law 26-14</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">Section 18(c)(1) of D.C. Law 25-175</cite> shall expire on July 15, 2025.</annotation>
+    <annotation app="2025-06-17" doc="D.C. Law 26-14" eff="2025-06-17" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" path="§7|(a)" type="Expiration of Law" app="2025-07-14" eff="2025-07-14" doc="D.C. Act 26-109"><cite doc="D.C. Act 26-109" path="§7|(a)">Section 7(a) of D.C. Act 26-109</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">Section 18(c)(1) of D.C. Law 25-175</cite> shall expire on December 31, 2026.</annotation>
+    <annotation app="2025-07-14" doc="D.C. Act 26-109" eff="2025-07-14" path="§7|(a)" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-169" eff="2025-10-23" path="§7|(a)" type="History" display="false"/>
+    <annotation history="false" path="§7|(a)" type="Expiration of Law" app="2025-10-23" eff="2025-10-23" doc="D.C. Act 26-169"><cite doc="D.C. Act 26-169" path="§7|(a)">Section 7(a) of D.C. Act 26-169</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">Section 18(c)(1) of D.C. Law 25-175</cite> shall expire on December 31, 2026.</annotation>
+    <annotation app="2025-10-28" doc="D.C. Law 26-52" eff="2025-10-28" path="§8|(a)" type="History" display="false"/>
+    <annotation history="false" path="§8|(a)" type="Expiration of Law" app="2025-10-28" eff="2025-10-28" doc="D.C. Law 26-52"><cite doc="D.C. Law 26-52" path="§8|(a)">Section 8(a) of D.C. Law 26-52</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-175" path="§18|(c)|(1)">Section 18(c)(1) of D.C. Law 25-175</cite> shall expire on December 31, 2026.</annotation>
   </annotations>
 </section>

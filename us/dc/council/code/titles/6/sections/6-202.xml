@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-202</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-202(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of District of Columbia Housing Authority; purposes of Authority; Fund.</heading>
   <para>
     <num>(a)</num>
@@ -9,6 +12,40 @@
   <para>
     <num>(b)</num>
     <text>The Authority shall govern public housing and implement the Housing Act of 1937 in the District, and shall be responsible for providing decent, safe, and sanitary dwellings, and related facilities, for persons and families of low-and moderate-income in the District.</text>
+  </para>
+  <para>
+    <num>(b-1)</num>
+    <para>
+      <num>(1)</num>
+      <para>
+        <num>(A)</num>
+        <text>Beginning on December 1, 2022, and monthly thereafter, the Authority shall submit a report to the Mayor, Attorney General, and each Councilmember that details:</text>
+        <para>
+          <num>(i)</num>
+          <text>The amount of operating reserves, expressed in dollars and in months of expenses, for the public housing program, Housing Choice Voucher Program, and the Authority's operations overall;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The number of vacant public housing units classified by repair status, such as move-in ready, repairs in progress, and offline due to major repair needs;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The average length of time that public housing units have been vacant in the prior year, by repair status; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>A detailed accounting of expenses paid for with District funds in the prior month and the expenses budgeted for payment with District funds in the remainder of the fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In lieu of a monthly report, the Authority may provide the Mayor, Attorney General, and each Councilmember with access to an online database through which the above reports can be generated.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If HUD designates the Authority as a Standard Performer or High Performer in HUD's Public Housing Assessment System or if the Authority demonstrates that the lack of such a designation is solely due to the presence of HUD's Moving to Work agreement with the Authority, the requirements of paragraph (1) of this subsection shall be waived for 12 months from the date such designation was received from HUD or documented by the Authority.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -29,11 +66,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Annual appropriations;</text>
+        <text>Annual appropriations; and</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(C)</num>
-        <text>Any remaining local funds available to the Authority for the Local Rent Supplement Program at the conclusion of each fiscal year; and</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(D)</num>
@@ -62,14 +99,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <para>
-        <num>(A)</num>
-        <text>The money deposited into the R&amp;M Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the R&amp;M Fund shall be continually available without regard to fiscal year limitation.</text>
-      </para>
+      <text>Any money remaining available in the R&amp;M Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
     </para>
     <para>
       <num>(6)</num>
@@ -80,11 +110,11 @@
       </para>
       <para>
         <num>(A-i)</num>
-        <text>The number and location of units that were made available to new tenants during the prior year as a result of R&amp;M Fund investments, including the number that were made available to existing District residents; and</text>
+        <text>The number and location of units that were made available to new tenants during the prior year, including the number that were made available to existing District residents; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The Authority's planned use of money in the R&amp;M Fund for the succeeding fiscal year, identifying the following:</text>
+        <text>Identification of the following:</text>
         <para>
           <num>(i)</num>
           <text>The address of each public housing unit to be repaired, rehabilitated, or renovated;</text>
@@ -147,5 +177,25 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2232|(b)|(1)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2232|(b)|(2)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2232|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-12" path="§2|(a)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-12" path="§2|(a)">§ 2(a) of Housing Authority Accountability Congressional Review Emergency Amendment Act of 2023 (D.C. Act 24-12, Feb. 26, 2021, 68 DCR 2551)</cite>.</annotation>
+    <annotation app="2021-02-26" doc="D.C. Act 24-12" eff="2021-02-26" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-629" path="§2|(a)" codified:display="Note" app="2022-11-03" eff="2022-11-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-629" path="§2|(a)">§ 2(a) of Housing Authority Accountability Emergency Amendment Act of 2022 (D.C. Act 24-629, Nov. 3, 2022, 69 DCR 014026)</cite>.</annotation>
+    <annotation app="2022-11-03" doc="D.C. Act 24-629" eff="2022-11-03" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-273" path="§2|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-273" path="§2|(a)">§ 2(a) of Housing Authority Accountability Temporary Amendment Act of 2022 (D.C. Law 24-273, Feb. 23, 2023, 69 DCR 14762)</cite>.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-273" eff="2023-02-23" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2132|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2022|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2022|(b)">§ 2022(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2022|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(b)|(1)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(b)|(1)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(b)|(2)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(b)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7086" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7086">§ 7086 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7086" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-145" path="§2|(b)" codified:display="Note" app="2025-09-04" eff="2025-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-145" path="§2|(b)">§ 2(b) of Housing Authority Resident Empowerment Emergency Amendment Act of 2025 (D.C. Act 26-145, Sept. 4, 2025, 72 DCR 9614)</cite>.</annotation>
+    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7086" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7086" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7086" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7086">§ 7086 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

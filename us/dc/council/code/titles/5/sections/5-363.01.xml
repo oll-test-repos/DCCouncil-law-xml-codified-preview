@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>5-363.01</num>
+  <heading proof="needed">Limitations on less-lethal weapons acquired by District law enforcement agencies; reporting requirements.</heading>
+  <para>
+    <num>(a)</num>
+    <text>District law enforcement agencies shall maintain the following information regarding any less-lethal weapon in their inventory on a publicly accessible website:</text>
+    <para>
+      <num>(1)</num>
+      <text>A description of the less-lethal weapon, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>How the less-lethal weapon is used or deployed;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The physiological and psychological effect that the less-lethal weapon has on people; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Whether the less-lethal weapon is indiscriminate in nature or if it can be targeted at specific individuals in a crowd;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any technical documentation issued or published by the manufacturer or distributor of the less-lethal weapon;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>An explanation for the law enforcement agency's need for the less-lethal weapon;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A description of the personnel who will use, be equipped with, or have access to the less-lethal weapon;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A description of the training those personnel have or will receive on how to use or deploy the less-lethal weapon, including how the training addresses the requirements of <cite path="5|3A">Chapter 3A of this title</cite>; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The total price of the less-lethal weapons sought.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Before acquiring a new type of less-lethal weapon, MPD shall publish on a publicly accessible website the information described in subsection (a)(1) of this section at least 28 days prior to acquiring or purchasing the new type of less-lethal weapon.</text>
+  </para>
+  <annotations>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-336" path="§106" codified:display="Note" app="2023-04-21" eff="2020-07-22">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-336" path="§106">§ 106 of Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020 (D.C. Act 23-336, July 22, 2020, 67 DCR 9148)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-336" eff="2020-07-22" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§106" codified:display="Note" app="2023-04-21" eff="2020-10-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-437" path="§106">§ 106 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 23-437" eff="2020-10-28" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§106" codified:display="Note" app="2023-04-21" eff="2020-12-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-151" path="§106">§ 106 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 23-151" eff="2020-12-03" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§106" codified:display="Note" app="2023-04-21" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-76" path="§106">§ 106 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-76" eff="2021-05-03" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§106" codified:display="Note" app="2023-04-21" eff="2021-07-29">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-128" path="§106">§ 106 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-128" eff="2021-07-29" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§106" codified:display="Note" app="2023-04-21" eff="2021-09-03">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-23" path="§106">§ 106 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-23" eff="2021-09-03" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§106" codified:display="Note" app="2023-04-21" eff="2022-04-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-370" path="§106">§ 106 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 69 DCR 3370)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-370" eff="2022-04-07" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§106" codified:display="Note" app="2023-04-21" eff="2022-06-28">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-454" path="§106">§ 106 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Act 24-454" eff="2022-06-28" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§106" codified:display="Note" app="2023-04-21" eff="2022-08-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§106">§ 106 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-149" eff="2022-08-12" path="§106" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I|P" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§123" type="History"/>
+  </annotations>
+</section>

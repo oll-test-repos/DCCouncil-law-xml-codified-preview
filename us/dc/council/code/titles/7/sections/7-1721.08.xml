@@ -32,7 +32,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Any license to sell tobacco products issued pursuant to D.C. Official Code § 47-2404:</text>
+    <text>Any license to sell tobacco products issued pursuant to <cite path="§47-2404">§ 47-2404</cite>:</text>
     <para>
       <num>(1)</num>
       <text>May be suspended, after a hearing, for a first or second violation of subsection (a) of this section; and</text>
@@ -44,7 +44,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>In addition to the penalties described in section 8(a)(4), a violation of subsection (a) of this section shall constitute a violation of D.C. Official Code § 28-3904. The Attorney General for the District of Columbia may use the Attorney General's investigatory powers pursuant to D.C. Official Code § 28-3910 and enforcement authority pursuant to D.C. Official Code § 28-3909 to investigate or prosecute suspected violations of subsection (a) of this section.".</text>
+    <text>In addition to the penalties described in <cite path="§7-1721.07|(a)|(4)">§ 7-1721.07(a)(4)</cite>, a violation of subsection (a) of this section shall constitute a violation of <cite path="§28-3904">§ 28-3904</cite>. The Attorney General for the District of Columbia may use the Attorney General's investigatory powers pursuant to <cite path="§28-3910">§ 28-3910</cite> and enforcement authority pursuant to <cite path="§28-3909">§ 28-3909</cite> to investigate or prosecute suspected violations of subsection (a) of this section.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -59,6 +59,14 @@
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 51-2-ch117" path="§9">Feb. 7, 1891, 26 Stat. 736, ch. 117, § 9</annotation>
-    <annotation app="2021-07-21" doc="D.C. Act 24-122" eff="2021-07-21" path="§2|(h)" prefix="as added" type="History"/>
+    <annotation app="2021-09-22" doc="D.C. Law 24-25" eff="2021-09-22" path="§2|(h)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Law 24-25" path="§2|(h)" type="Applicability" history="false" app="2021-09-22" eff="2021-09-22">
+        Applicability of D.C. Law 24-25: <cite doc="D.C. Law 24-25" path="§4">§ 4 of D.C. Law 24-25</cite> provided that the creation this section by § 2(h) of D.C. Law 24-25 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section has not been implemented.
+      </annotation>
+    <annotation app="2021-09-22" doc="D.C. Law 24-25" eff="2021-09-22" path="§2|(h)" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-25" path="§4|(a)" type="Applicability" history="false" app="2021-09-22" eff="2021-09-22">
+       Applicability of <cite doc="D.C. Law 24-25">D.C. Law 24-25</cite>: The Budget Office of the Council of the District of Columbia has determined that <cite doc="D.C. Law 24-25">D.C. Law 24-25</cite> has been funded.  Therefore the creation of this section by § 2(h) of D.C. Law 24-25 has been implemented. 
+      </annotation>
+    <annotation app="2021-09-22" doc="D.C. Law 24-25" eff="2021-09-22" path="§4|(a)" type="History" display="false"/>
   </annotations>
 </section>

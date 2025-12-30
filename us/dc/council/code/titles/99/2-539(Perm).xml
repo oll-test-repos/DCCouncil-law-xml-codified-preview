@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-539(Perm)</num>
   <heading>Definitions.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current. To see the current law, click this link <cite path="§2-539">Current Version</cite>*
+      </text>
   <para>
     <num>(a)</num>
     <text>For the purposes of this subchapter, the following terms shall have the same meanings as provided in <cite path="§2-502">§ 2-502</cite>:</text>
@@ -67,7 +70,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>“Critical infrastructure information” means information not customarily in the public domain that is related to the security of critical infrastructure of companies that are regulated by the Public Service Commission of the District of Columbia, including information regarding:</text>
+      <text>“Critical infrastructure information” means information not customarily in the public domain that is related to the security of critical infrastructure of the District of Columbia Water and Sewer Authority or companies that are regulated by the Public Service Commission of the District of Columbia, including information regarding:</text>
       <para>
         <num>(A)</num>
         <text>Actual, potential, or threatened interference with, attack on, compromise of, or incapacitation of critical infrastructure or protected systems by either physical or computer-based attack or similar conduct (including the misuse of or unauthorized access to all types of communications and data transmission systems) that violates federal or District of Columbia laws, harms interstate commerce of the United States or the economy of the District of Columbia, or threatens public health or safety;</text>
@@ -86,6 +89,7 @@
     <annotation doc="Pub. L. 90-614" type="History" path="§209">Oct. 21, 1968, Pub. L. 90-614, title II, § 209</annotation>
     <annotation doc="D.C. Law 1-96" type="History">as added Mar. 29, 1977, D.C. Law 1-96, § 2, 23 DCR 3744</annotation>
     <annotation doc="D.C. Law 20-160" type="History">Feb. 26, 2015, D.C. Law 20-160, § 2(b), 61 DCR 10735</annotation>
+    <annotation doc="D.C. Law 25-230" type="History" path="§2|(b)">Dec. 10, 2024, D.C. Law 25-230, § 2(b), 71 DCR 12816</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(b) of the  Critical Infrastructure Freedom of Information Third Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-580, Jan. 13, 2015, 62 DCR 1264, 21 STAT 730).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(b) of the  Critical Infrastructure Freedom of Information Second Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-459, Oct. 24, 2014, 61 DCR 11374, 20 STAT 4364).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(b) of the Critical Infrastructure Freedom of Information Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-285, February 20, 2014,  61 DCR 1603).</annotation>

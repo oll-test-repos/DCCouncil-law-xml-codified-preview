@@ -96,7 +96,7 @@
   </para>
   <para>
     <num>(h)</num>
-    <text>An ex parte extreme risk protection order issued pursuant to this section shall remain in effect for an initial period not to exceed 14 days. The court may extend an ex parte extreme risk protection order in additional 14-day increments for good cause shown.</text>
+    <text>An ex parte extreme risk protection order issued pursuant to this section shall remain in effect for an initial period not to exceed 14 days. The court may extend an ex parte extreme risk protection order in additional 14-day increments for good cause shown, or for longer periods if all parties consent.</text>
   </para>
   <para>
     <num>(i)</num>
@@ -132,5 +132,10 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(g)|(3)|(A)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(g)|(3)|(B)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(g)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(g)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§11|(g)">§ 11(g) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(g)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§11|(g)" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§11|(g)">§ 11(g) of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§11|(g)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§15|(g)" type="History"/>
   </annotations>
 </section>

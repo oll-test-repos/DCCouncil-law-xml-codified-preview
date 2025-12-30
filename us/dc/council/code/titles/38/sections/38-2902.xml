@@ -8,7 +8,31 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The Formula shall apply only to operating budget appropriations from the District of Columbia General Fund for DCPS and for Public Charter Schools. It shall not apply to funds from federal or other revenue sources, or to funds appropriated to other agencies and funds of the District government.</text>
+    <text>The Formula shall apply only to operating budget appropriations from the District of Columbia General Fund for DCPS and Public Charter Schools; except, that the Formula shall not apply to:</text>
+    <para placeholder="Repealed">
+      <num>(1)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Funds from federal or other revenue sources;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Funds appropriated to other agencies and funds of the District government;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any program operated by DCPS that provides special education outreach, referral, and evaluation services for children under 5 years 11 months of age ("eligible children"), if the program serves eligible children who have not yet entered the school system or are homeschooled; or</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>IMPACTplus bonus payments.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-1)</num>
+    <text>Starting in Fiscal Year 2029, the cost of IMPACTplus bonus payments shall be paid from operating budget appropriations from the General Fund for DCPS and included in the Formula.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -31,5 +55,16 @@
     <annotation doc="D.C. Law 23-16" path="§4004" type="Editor's Notes" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§4004">Section 4004 of D.C. Law 23-16</cite> provided the following: "It is the intent of the Council that in the 2019-2020 school year, the Uniform Per Student Funding Formula funds that would have been allocated to Monument Academy Public Charter School should follow students who were enrolled in Monument Academy Public Charter School for the 2019-2020 school year to the District of Columbia public schools or public charter schools in which they ultimately enroll."
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§4004" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4002|(b)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4002|(b)">§ 4002(b) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4002|(b)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4002|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4002|(a)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§4002|(a)">§ 4002(a) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4002|(a)" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4002|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4002|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4002|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4002|(b)">§ 4002(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4002|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4002|(b)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4002|(b)|(2)" type="History"/>
   </annotations>
 </section>

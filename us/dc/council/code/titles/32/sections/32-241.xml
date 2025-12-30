@@ -59,5 +59,11 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2142|(b)" prefix="as added" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2082|(a)|(1)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2082|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-205" path="§2" codified:display="Note" app="2023-07-31" eff="2023-07-31">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-205" path="§2">§ 2 of Middle School Career Exploration Pilot Emergency Amendment Act of 2023. (D.C. Act 25-205, July 31, 2023, 70 DCR 10765)</cite>.</annotation>
+    <annotation app="2023-07-31" doc="D.C. Act 25-205" eff="2023-07-31" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-279" path="§2|(a)" codified:display="Note" app="2023-10-30" eff="2023-10-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-279" path="§2|(a)">§ 2(a) of Middle School Career Exploration Pilot Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-279, Oct. 30, 2023, 70 DCR 14487)</cite>.</annotation>
+    <annotation app="2023-10-30" doc="D.C. Act 25-279" eff="2023-10-30" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-84" path="§2|(a)" codified:display="Note" app="2023-11-28" eff="2023-11-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-84" path="§2|(a)">§ 2(a) of Middle School Career Exploration Pilot Temporary Amendment Act of 2023. (D.C. Law 25-84, Nov. 28, 2023, 70 DCR 13816)</cite>.</annotation>
+    <annotation app="2023-11-28" doc="D.C. Law 25-84" eff="2023-11-28" path="§2|(a)" type="History" display="false"/>
   </annotations>
 </section>

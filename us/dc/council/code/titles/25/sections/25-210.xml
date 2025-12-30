@@ -1,14 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>25-210</num>
-  <heading>ABRA funding.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§25-210(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>ABCA funding.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a fund designated as the Alcoholic Beverage Regulation Administration Fund, which shall be separate from the General Fund of the District of Columbia. All funds obtained from alcoholic beverage licensing and permitting fees shall be deposited into the ABRA Fund without regard to fiscal year limitation pursuant to an act of Congress. All fees deposited into the ABRA Fund shall not revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in this subsection, subject to authorization by Congress in an appropriations act. The funds deposited in the ABRA Account shall be used to fund the expenses of ABRA in the discharge of its administrative and regulatory duties. Funds obtained from penalties and fines, as prescribed by <cite path="25|8">Chapter 8 of this title</cite>, shall be credited to the General Fund of the District of Columbia.</text>
+    <text>There is established as a special fund the Alcoholic Beverage and Cannabis Administration Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (d) of this section.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(b)</num>
+    <text>[Repealed].</text>
   </para>
   <para>
-    <num>(b)</num>
-    <text>The Mayor shall submit to the Council, as part of the annual budget, a budget for ABRA and a request for an appropriation for expenditures from the ABRA Fund. This estimate shall include expenditures for salaries, fringe benefits, overhead charges, training, supplies, technical, professional, and any and all other services necessary to discharge the duties and responsibilities of ABRA.</text>
+    <num>(c)</num>
+    <text>All funds obtained from alcoholic beverage licensing and permitting fees shall be deposited in the Fund. Funds obtained from penalties and fines, as prescribed by <cite path="25|8">Chapter 8 of this title</cite>, shall be deposited in the unassigned fund balance of the General Fund of the District of Columbia.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Money in the Fund shall be used to fund the operations of ABCA.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 9026 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided: “Sec. 9026. ABC—Keg Registration Fees. “Notwithstanding any other law, the funds which are deposited in the fund designated for accounting purposes by the Office of the Chief Financial Officer as fund 6018 within the Alcoholic Beverage Regulation Administration shall be deposited in the Alcoholic Beverage Regulation Administration Fund, established by D.C. Official Code <cite path="§25-210|(a)">§ 25-210(a)</cite>, and shall not be accounted for by a separate fund or account. Any unexpended funds in fund 6018 on the effective date of this subtitle shall be transferred to the Alcoholic Beverage Regulation Administration Fund.”</text>
@@ -20,5 +42,15 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (a), validated a previously made technical correction.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> substituted “ABRA Fund” for “ABRA Account” in subsec. (b); and rewrote subsec. (a) which had read as follows: “(a) There is established within the General Fund of the District of Columbia an account designated as the Alcoholic Beverage Regulation Administration Account, to which all funds obtained from alcoholic beverage taxes and licensing and permitting fees shall be credited. Any monies deposited in the ABRA Account but not expended in a fiscal year shall be returned to the General Fund. Subject to the applicable laws relating to the appropriation of District funds, monies received and credited to the ABRA Account shall be used to fund the expenses of ABRA in the discharge of its administrative and regulatory duties. Funds obtained from penalties and fines, as prescribed by Chapter 8, shall be credited to the General Fund.”</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§25-101">§ 25-101</cite>.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7073" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7073">§ 7073 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7073" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7073" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7073|(a)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7073|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7073|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7073" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7073">§ 7073 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-601.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§36-601.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Creation [of the District of Columbia Lottery and Gaming Control Board]; established as an office within the Office of the Chief Financial Officer; transfer of powers; definitions.</heading>
   <para>
     <num>(a)</num>
@@ -15,6 +18,18 @@
     <text>For the purposes of <cite path="36|6">this chapter</cite> and <cite path="22|17|I">subchapter I of Chapter 17 of Title 22</cite>, the term:</text>
     <para>
       <num>(1)</num>
+      <text>"ABCA" means the Alcoholic Beverage and Cannabis Administration.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>"Bingo" means a form of gambling in which the winning chances are determined by a random drawing of a subset of numbered objects among a total set of 75 objects, consecutively numbered from 1 to 75, and the bingo cards held by the players, which cards are sold, rented, or used only at the time of the gambling activity.</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>"Bingo card" means a card, including paper formats, electronic representations, and image formats, that contains 5 rows of 5 spaces each, each space imprinted with a number between 1 and 75 inclusive, except the central space which is marked "FREE".</text>
+    </para>
+    <para>
+      <num>(1C)</num>
       <text>"Board" means the District of Columbia Lottery and Gaming Control Board established by this section.</text>
     </para>
     <para>
@@ -28,6 +43,22 @@
     <para>
       <num>(4)</num>
       <text>"Certified business enterprise" or "CBE" shall have the same meaning as provided in <cite path="§2-218.02|(1D)">§ 2-218.02(1D)</cite>.</text>
+    </para>
+    <para>
+      <num>(4A)</num>
+      <text>"Commercial bingo" means bingo for which any type of consideration is paid or collected in order to play, and each number is drawn and verbally announced by an individual physically present in the same physical location as the game's participants, who compete against each other in a common bingo game, but does not include:</text>
+      <para>
+        <num>(A)</num>
+        <text>Bingo sponsored, conducted, or held by an entity in accordance with <cite path="§36-601.23|(b)">§ 36-601.23(b)</cite>, <cite path="§36-601.23|(c)">(c)</cite>, or <cite path="§36-601.23|(d)">(d)</cite>.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Bingo played on or with the assistance of a gambling device, as that term is defined by section 1(a) of An Act To prohibit transportation of gambling devices in interstate and foreign commerce, approved January 2, 1951 (64 Stat. 1134; 15 U.S.C. 1171(a)); or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Bingo played over the internet or in an online environment or on any machine or mechanical device that would qualify as or constitute a facsimile of class II gaming, as that term is defined in section 4(7) of the Indian Gaming Regulatory Act, approved October 17, 1988 (102 Stat. 2467; 25 U.S.C. § 2703(7)).</text>
+      </para>
     </para>
     <para>
       <num>(5)</num>
@@ -66,6 +97,10 @@
       <text>"Joint venture" shall have the same meaning as provided in <cite path="§2-218.02|(11)">§ 2-218.02(11)</cite>.</text>
     </para>
     <para>
+      <num>(10A)</num>
+      <text>"Licensed Establishment" means a business licensed by ABCA that holds an on-premises retailer's license, class C/R, D/R, C/T, D/T, C/H, D/H, C/X, D/X, C/RB, D/RB, C/N, or D/N.</text>
+    </para>
+    <para>
       <num>(11)</num>
       <text>"Majority interest" means:</text>
       <para>
@@ -90,6 +125,10 @@
       <text>"Operator" means an individual, group of individuals, or entity that holds a sports wagering operator license issued by the District.</text>
     </para>
     <para>
+      <num>(13A)</num>
+      <text>"Raffle" means a lottery, other than a lottery operated by the District pursuant to <cite path="36|6|I">this subchapter</cite>, in which a prize is won by at least one of multiple persons buying chances.</text>
+    </para>
+    <para>
       <num>(14)</num>
       <text>"Resident-owned business" or "ROB" shall have the same meaning as provided in <cite path="§2-218.02|(15)">§ 2-218.02(15)</cite>.</text>
     </para>
@@ -98,26 +137,34 @@
       <text>"Small Business Enterprise" or "SBE" shall have the same meaning as provided in <cite path="§2-218.02|(16)">§ 2-218.02(16)</cite>.</text>
     </para>
     <para>
+      <num>(15A)</num>
+      <text>"Sporting event" means any professional sporting or professional athletic event, including motor sports sanctioned by a national or international organization or association, collegiate sporting or athletic event, Olympic sporting or athletic event, sporting or athletic event sanctioned by a national or international organization or association, esports event, or other event authorized by the Office. Such term shall not include a nonprofessional, non-collegiate, or non-Olympic sporting or athletic event if the majority of the participants are under the age of 18.</text>
+    </para>
+    <para>
       <num>(16)</num>
       <text>"Sports governing body" means the governing body for a sports league that is registered with the Office, including, if registered, Major League Baseball, Major League Soccer, National Basketball Association, National Football League, National Hockey League, and the Women's National Basketball Association.</text>
     </para>
     <para>
       <num>(17)</num>
-      <text>"Sports wagering" means accepting wagers on sporting events, or a portion of a sporting event, or on the individual performance statistics of an athlete in a sporting event or combination of sporting events, including single-­game bets, teaser bets, parlays, over-under, moneyline, pools, exchange wagering, in-game wagering, in-play bets, proposition bets, straight bets, or other means by a system or method of wagering, including in-person or over the internet through websites or on mobile devices. The term "sports wagering" does not include any fantasy or simulated game or contest such as fantasy sports in which:</text>
+      <text>"Sports wagering" means accepting wagers on sporting events, or a portion of a sporting event, or on the individual performance statistics of an athlete in a sporting event or combination of sporting events, including single-game bets, teaser bets, parlays, over-under, moneyline, pools, exchange wagering, in-game wagering, in-play bets, proposition bets, straight bets, or other means by a system or method of wagering, including in-person or over the internet through websites or on mobile devices. The term "sports wagering" does not include any fantasy or simulated game or contest such as fantasy sports in which:</text>
       <para>
         <num>(A)</num>
-        <text>Participants own, manage, or coach imaginary teams;</text>
+        <text>There are no fewer than 2 participants; provided, that all participants are natural persons and a fantasy sports contest operator shall not be construed to be a participant;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>All prizes and awards offered to winning participants are established and made known to participants in advance of the game or contest;</text>
+        <text>Participants own, manage, or coach imaginary teams;</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>The winning outcome of the game or contest reflects the relative skill of the participants and is determined by statistics generated by actual individuals, including athletes in the case of a sporting event; and</text>
+        <text>All prizes and awards offered to winning participants are established and made known to participants in advance of the game or contest;</text>
       </para>
       <para>
         <num>(D)</num>
+        <text>The winning outcome of the game or contest reflects the relative skill of the participants and is determined by statistics generated by actual individuals, including athletes in the case of a sporting event; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
         <text>No winning outcome is based solely on the performance of an individual athlete or on the score, point spread, or any performance of any single real-world team or any combination of real-world teams.</text>
       </para>
     </para>
@@ -174,14 +221,21 @@
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-312" path="§2|(d)|(1)" codified:display="Note" app="2019-05-03" eff="2019-05-03">Applicability of <cite doc="D.C. Law 22-312" path="">D.C. Law 22-312</cite>: <cite doc="D.C. Law 22-312" path="§5">§ 5 of D.C. Law 22-312</cite> provided that the change made to this section by <cite doc="D.C. Law 22-312" path="§2|(d)|(1)">§ 2(d)(1) of D.C. Law 22-312</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(d)|(1)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation doc="D.C. Law 23-16" path="§7177" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
           Applicability of <cite doc="D.C. Law 22-312">D.C. Law 22-312</cite>: <cite doc="D.C. Law 23-16" path="§7177">§ 7177 of D.C. Law 23-16</cite> amended <cite doc="D.C. Law 22-312" path="§5|(a)">§ 5(a) of D.C. Law 22-312</cite> to repeal the delayed applicability affecting this section. Therefore the amendment of this section by <cite doc="D.C. Law 22-312">D.C. Law 22-312</cite> has been implemented.</annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7177" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§6|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7172|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7172|(a)">§ 7172(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7172|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7172|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7172|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2073|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2073|(a)">§ 2073(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2073|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(a)|(2)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(a)|(3)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(a)|(4)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2073|(a)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2073|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2073|(a)">§ 2073(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

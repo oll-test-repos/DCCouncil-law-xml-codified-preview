@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>1-327.56b</num>
+  <heading proof="needed">Call data collection and posting.</heading>
+  <para>
+    <num>(a)</num>
+    <text>On a monthly basis, the Office shall collect and publicly post on the Office's website the number of calls eligible to be diverted and the number of calls actually diverted to:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Department of Behavioral Health Access Help Line;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The District Department of Transportation, for motor vehicle collisions that do not result in an injury;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Department of Public Works ("DPW"), for parking enforcement; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Fire and Emergency Medical Services Department ("FEMS") Nurse Triage Line.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>On a monthly basis, the Office shall collect and publicly post the following information on the Office's website:</text>
+    <para>
+      <num>(1)</num>
+      <text>Descriptions of each call-handling issue, including mistaken addresses, duplicate responses, or any other error or omission reported by the Council, other agencies, the news media, OUC staff, or other sources, as well as the cause of the issue, whether the issue was sustained, and the corrective action taken by the Office;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of shifts operated under minimum staffing levels, for call-takers, dispatchers, and supervisors,  including the difference between the minimum staffing level for each role required per shift and the actual number of staff members for each role on a shift;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Average and maximum call-to-answer times;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Average and maximum answer-to-dispatch times;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Percent of 911 calls in which call to queue is 90 seconds or less;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The total number of calls;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The number of calls in the queue for over 15 seconds;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The number of abandoned calls, defined as any call that is disconnected before it is answered;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>The number and type of 911 misuse calls;</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>The number of text-to-911 messages received;</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>Average and maximum queue-to-dispatch and dispatch-to-arrival times for Priority 1 calls to Fire and Emergency Services ("FEMS") and Priority 1 calls to the Metropolitan Police Department ("MPD");</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>The percentage of Priority 1 calls to FEMS and Priority 1 calls to MPD that move from queue to dispatch in 60 seconds or less;</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>Average and maximum time of call to arrival on the scene times for Priority 1 calls to FEMS and MPD; and</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>The percentage of emergency medical services calls that lead to dispatch of advanced life support.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>All data posted according to this section shall be archived and publicly posted for at least 5 years from the date of publication.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 15-205" type="History" path="§3207b">Dec. 7, 2004, D.C. Law 15-205, § 3207b</annotation>
+    <annotation doc="D.C. Law 15-205" type="History" path="§3207b" display="false">Dec. 7, 2004, D.C. Law 15-205, § 3207b</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-198" path="§2" codified:display="Note" app="2024-06-08" eff="2023-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-198" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Emergency Amendment Act of 2023 (D.C. Act 25-198, July 27, 2023, 70 DCR 10746)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-198" eff="2023-07-27" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-259" path="§2" codified:display="Note" app="2024-06-08" eff="2023-10-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-259" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-259, Oct. 25, 2023, 70 DCR 14432)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-259" eff="2023-10-25" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-76" path="§2" codified:display="Note" app="2024-06-08" eff="2023-11-28">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-76" path="§2">§ 2 of Office of Unified Communications Transparency and Accuracy Temporary Amendment Act of 2023 (D.C. Law 25-76, Nov. 28, 2023, 70 DCR 13746)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-76" eff="2023-11-28" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§2" codified:display="Note" app="2024-06-08" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§2|includes|3207b">§ 3207b of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-410" eff="2024-03-11" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§2" codified:display="Note" app="2024-06-08" eff="2024-06-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-490" path="§2|includes|3207b">§ 3207b of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-490" eff="2024-06-07" path="§2" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§3" prefix="as added" type="History"/>
+  </annotations>
+</section>

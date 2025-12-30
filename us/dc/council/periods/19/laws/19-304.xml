@@ -6,10 +6,10 @@
     <stub/>
     <effective>2013-05-01</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/26084/B19-0328-SignedAct.pdf">D.C. Law 19-304</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/26084/Signed_Act/B19-0328-SignedAct.pdf?Id=105022">D.C. Law 19-304</citation>
       <citation type="register">60 DCR 2717</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B19-0328">
+    <history url="https://lims.dccouncil.gov/Legislation/B19-0328">
       <narrative>Law 19-304, the “Interstate Compact on Educational Opportunity for Military Children Establishment Act of 2012,” was introduced in Council and assigned Bill No. 19-328. The Bill was adopted on first and second readings on December 4, 2012 and December 18, 2012, respectively. Returned without signature by the Mayor on February 11, 2013, it was assigned Act No. 19-671 and transmitted to Congress for its review. D.C. Law 19-304 became effective on May 1, 2013.</narrative>
     </history>
   </meta>
@@ -92,5 +92,14 @@
   <section>
     <num>21</num>
     <codified:stub doc="D.C. Code" path="§49-1101.20"/>
+    <text/>
+    <include>
+      <para>
+        <codify:insert doc="D.C. Code" path="§49-1101.20" after="(a)" num-value="(b)" codified:doc="D.C. Code" codified:path="§49-1101.20|(b)"/>
+        <num>(b)</num>
+        <text>Five members of the State Council shall constitute a quorum for the transaction of official business and the issuance of rules and regulations.</text>
+      </para>
+    </include>
+    <aftertext>.</aftertext>
   </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 23-246">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 23-246" codify:applicability="notfunded">
   <num type="law">23-246</num>
   <num type="bill">23-878</num>
   <num type="act">23-608</num>
@@ -31,17 +31,18 @@
         <heading codify:value="Voluntary agreement moratorium."/>
         <para>
           <num>(a)</num>
-          <text>Notwithstanding the requirements of section 215, tenants and housing providers shall not enter into a voluntary agreement pursuant to section 215(a) for 2 years beginning on the applicability date of the Voluntary Agreement Moratorium Amendment Act of 2020, passed on 2nd reading December 15, 2020 (enrolled version of Bill 23-878).</text>
+          <text>Notwithstanding the requirements of <code-cite doc="D.C. Code" path="§42-3502.15">section 215</code-cite>, tenants and housing providers shall not enter into a voluntary agreement pursuant to <code-cite doc="D.C. Code" path="§42-3502.15|(a)">section 215(a)</code-cite> for 2 years beginning on <span codify:value="October 1, 2021">the applicability date of the Voluntary Agreement Moratorium Amendment Act of 2020, passed on 2nd reading December 15, 2020 (enrolled version of Bill 23-878)</span>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Subsection (a) of this section shall not affect any voluntary agreements that have already been approved by the Rent Administrator pursuant to section 215(b) prior to the applicability date of the Voluntary Agreement Moratorium Amendment Act of 2020, passed on 2nd reading December 15, 2020 (enrolled version of Bill 23-878).</text>
+          <text>Subsection (a) of this section shall not affect any voluntary agreements that have already been approved by the Rent Administrator pursuant to <code-cite doc="D.C. Code" path="§42-3502.15|(b)">section 215(b)</code-cite> prior to <span codify:value="October 1, 2021">the applicability date of the Voluntary Agreement Moratorium Amendment Act of 2020, passed on 2nd reading December 15, 2020 (enrolled version of Bill 23-878)</span>.</text>
         </para>
         <annotation doc="D.C. Law 6-10" type="History" path="§215a">July 17, 1985, D.C. Law 6-10, § 215a</annotation>
         <codify:not-funded-anno doc="D.C. Code" path="§42-3502.15a" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§42-3502.15a" codified:display="Note"/>
       </section>
     </include>
     <aftertext>.</aftertext>
+    <codify:not-funded-anno doc="D.C. Code" path="§42-3502.15a" applicability-path="§3" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§42-3502.15a" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
@@ -49,7 +50,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-246" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3502.15a"/>
+      <codify:applicability doc="D.C. Law 23-246" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

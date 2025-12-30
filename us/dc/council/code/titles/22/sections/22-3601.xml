@@ -8,7 +8,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The provisions of subsection (a) of this section shall apply to the following offenses: Abduction, arson, aggravated assault, assault with a dangerous weapon, assault with intent to kill, commit first degree sexual abuse, or commit second degree sexual abuse, assault with intent to commit any other offense, burglary, carjacking, armed carjacking, extortion or blackmail accompanied by threats of violence, kidnapping, malicious disfigurement, manslaughter, mayhem, murder, robbery, sexual abuse in the first, second, and third degrees, theft, fraud in the first degree, and fraud in the second degree, identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy to commit any of the foregoing offenses.</text>
+    <text>The provisions of subsection (a) of this section shall apply to the following offenses: any crime of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>, theft, fraud in the first degree, and fraud in the second degree, identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy to commit any of the foregoing offenses.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -31,5 +31,10 @@
     <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§2|(c)|(1)" type="History"/>
     <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§2|(c)|(2)" type="History"/>
     <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§2|(c)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§18|(c)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§18|(c)">§ 18(c) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§18|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§18|(c)" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§18|(c)">§ 18(c) of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§18|(c)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§23|(c)" type="History"/>
   </annotations>
 </section>

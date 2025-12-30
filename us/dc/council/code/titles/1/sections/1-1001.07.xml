@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1001.07</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1001.07(Perm)">Permanent Version</cite>.*
+      *NOTE: The amendments made to this section by <cite doc="D.C. Law 25-278" path="§2|(a)">Section 2(a) of D.C. Law 25-278</cite> shall apply as of July 1, 2025.*
       </text>
   <heading>Voter.</heading>
   <para>
@@ -16,16 +16,20 @@
       <num>(2)</num>
       <para>
         <num>(A)</num>
-        <text>Executes an application to register to vote by signature or mark (unless prevented by physical disability) on a form approved pursuant to subsection (b) of this section or by the Election Assistance Commission attesting that the person meets the requirements of a qualified elector, and if the person desires to vote in party elections, indicating the person's political party affiliation; or</text>
+        <text>Executes an application to register to vote by signature or mark (unless prevented by disability) on a form approved pursuant to subsection (b) of this section or by the Election Assistance Commission attesting that the person meets the requirements of a qualified elector, and if the person desires to vote in party elections, indicating the person's political party affiliation;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Automatically registers pursuant to subsection (c) of this section; and</text>
+        <text>Automatically registers pursuant to subsection (c) of this section; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Has been placed on the preapproved for registration list pursuant to <cite path="§1-1001.07b">§ 1-1001.07b</cite> and subsequently activates the person's registration; and</text>
       </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Board approves the person's registration application as provided in subsection (e) of this section.</text>
+      <text>The Board approves the person's registration application as provided in subsections (e) and (g) of this section.</text>
     </para>
   </para>
   <para>
@@ -35,7 +39,7 @@
       <text>No application for voter registration may be accepted or processed by the Board unless the application includes:</text>
       <para>
         <num>(A)</num>
-        <text>The DMV-issued identification number of the applicant, or</text>
+        <text>The DMV-issued identification number of the applicant; or</text>
       </para>
       <para>
         <num>(B)</num>
@@ -105,10 +109,10 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Unless the applicant indicates that the applicant does not want to register to vote:</text>
+        <text>Unless the applicant indicates that the applicant does not want to register to vote or indicates the applicant is not a U.S. citizen:</text>
         <para>
           <num>(i)</num>
-          <text>Each DMV application for a DMV-issued driver's license (including any renewal application) or nondriver's identification card shall automatically serve as an application to register to vote or update the applicant's voter registration information; and</text>
+          <text>Each DMV application for a DMV-issued driver's license (including any renewal application) or nondriver's identification card shall automatically serve as an application to register to vote. However, any person who, at the time of the transaction with the DMV provides a document that demonstrates non-citizenship shall not be offered the opportunity to register to vote; and</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -151,13 +155,13 @@
           </para>
           <para>
             <num>(VII)</num>
-            <text>Ability to decline to register to vote, or, if already registered in the District, ability to decline to update the applicant's voter registration.</text>
+            <text>Ability to decline to register to vote.</text>
           </para>
         </para>
       </para>
       <para>
         <num>(D)</num>
-        <text>For each applicant who did not decline to register to vote or update the applicant's voter registration information under subparagraph (B) of this paragraph and stated that the applicant is a citizen of the United States, the automatic voter registration agency shall provide to the Board electronic records containing the applicant's:</text>
+        <text>For each applicant who did not decline to register to vote under subparagraph (B) of this paragraph, the automatic voter registration agency shall provide to the Board electronic records containing the applicant's:</text>
         <para>
           <num>(i)</num>
           <text>Legal name;</text>
@@ -205,7 +209,26 @@
       </para>
       <para>
         <num>(F)</num>
-        <text>Any application for the purpose of a change of address or name submitted pursuant to this subsection shall be considered notification to the Board of the change of address or name unless the applicant states on the application that the change of address or name is not for voter registration purposes.</text>
+        <para>
+          <num>(i)</num>
+          <text>If a person submits a change of name or address notice to the DMV, such application shall be considered notification to the Board of the change of name or address. If the person who submits the notice is already registered or preregistered to vote or on the preapproved for registration list, and the information provided in the notice differs from the person's name, residence address, or mailing address on the voter roll or preapproved for registration list, the Board shall use the information provided in the notice to update the person's record pursuant to sub-subparagraph (iv) of this subparagraph.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>If the Board determines that information transmitted by the DMV pursuant to subsection (c)(1)(D) of this section or  <cite path="§1-1001.07b|(a)">§ 1-1001.07b(a)</cite> or by the Department of Health Care Finance pursuant to <cite path="§1-1001.07b|(b)">§ 1-1001.07b(b)</cite>, indicates that a person who is already registered or preregistered to vote or who is on the preapproved for registration list has supplied a name, residence address, or mailing address to the DMV or the Department of Health Care Finance that differs from the person's name, residence address, or mailing address on file with the Board, the Board shall use the information provided by the DMV or the Department of Health Care Finance to update the person's record pursuant to sub-subparagraph (iv) of this subparagraph.</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>If the Board determines that information transmitted by a government agency designated pursuant to <cite path="§1-1001.07b|(c)">§ 1-1001.07b(c)</cite> or separately designated pursuant to subsection (c)(1)(A) of this section indicates that a person who is already registered or preregistered to vote or who is on the preapproved for registration list has supplied a name, residence address, or mailing address as part of a transaction with the agency that differs from the person's name, residence address, or mailing address on file with the Board, the Board shall use the information provided by the agency to update the person's record pursuant to sub-subparagraph (iv) of this subparagraph.</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Upon receipt of the information described in sub-subparagraph (i), (ii), or (iii) of this subparagraph, the Board shall update the voter roll or preapproved for registration list to reflect the change of name, residence address, or mailing address and send to the voter's address of record, by forwardable mail, notice of the change and a return form and postage-paid, preaddressed envelope by which the voter may verify or correct the information.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>If the person returns the form described in sub-subparagraph (iv) of this subparagraph and indicates that the change to the voter roll or preapproved for registration list was in error, the Board shall immediately correct the person's previously updated information in the voter roll or preapproved for registration list.</text>
+        </para>
       </para>
       <para>
         <num>(G)</num>
@@ -234,9 +257,9 @@
           <text>The Board shall consider an application that the automatic voter registration agency accepted for the purposes of voter registration on or before the voter registration deadline as timely received.</text>
         </para>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(J)</num>
-        <text>Any form issued by mail for the purposes of correcting or updating a driver's permit or nondriver's identification card shall be designed so that the individual may decline to correct or update the individual's address or name for voter registration purposes and provide a mailing address, if mail is not received at the residence address.</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(K)</num>
@@ -244,7 +267,11 @@
       </para>
       <para>
         <num>(L)</num>
-        <text>Except as provided in this subsection, any citizenship information provided by an applicant for voter registration purposes shall not be otherwise retained, used, or shared by the automatic voter registration agency.</text>
+        <text>Except as provided in this subsection and <cite path="§1-1001.07b">§ 1-1001.07b</cite>, any citizenship information provided by an applicant for voter registration purposes shall not be otherwise retained, used, or shared by the automatic voter registration agency.</text>
+      </para>
+      <para>
+        <num>(M)</num>
+        <text>Automatic voter registration agencies shall not register individuals who are not U.S. citizens.</text>
       </para>
     </para>
     <para placeholder="Repealed">
@@ -427,7 +454,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>These mail-in voter registration applications shall be placed in each office or substation of the agency in an accessible location and in clear view so that citizens may easily obtain a mail-in voter registration application.</text>
+        <text>These mail-in voter registration applications shall be placed in each office or substation of the agency in an accessible location and in clear view so that residents may easily obtain a mail-in voter registration application.</text>
       </para>
       <para>
         <num>(D)</num>
@@ -449,7 +476,7 @@
       <num>(2)</num>
       <para>
         <num>(A)</num>
-        <text>If the application is accepted, the notification shall include the applicant’s name, address, date of birth, party affiliation (if any), ward, precinct and Advisory Neighborhood Commission single-member district (“SMD”), the address of the applicant’s polling place and the hours during which the polls will be open. The voter registration notification shall state that the applicant shall not vote before the applicant's 18th birthday. The Board may include along with the registration notification any voter education materials it deems appropriate. Registration of the applicant shall be effective on the date the Board determines that the applicant is a qualified elector and eligible to register to vote in the District of Columbia.</text>
+        <text>If the application is accepted, the notification shall include the applicant’s name, address, date of birth, party affiliation (if any), ward, precinct and Advisory Neighborhood Commission single-member district (“SMD”), and information on how to vote. The voter registration notification shall state that the applicant shall not vote before the applicant's 18th birthday. The Board may include along with the registration notification any voter education materials it deems appropriate. Registration of the applicant shall be effective on the date the Board determines that the applicant is a qualified elector and eligible to register to vote in the District of Columbia.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -500,27 +527,45 @@
     <num>(g)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (4) of this subsection, at any time except during the 21-day period preceding any regularly scheduled election, a qualified elector or any individual who will be a qualified elector at the time of the next election may register to vote in the precinct in which the voter maintains residence by completing a voter registration application and submitting it in person at the Board's office, using the digital voter service system required by subsection (b)(2A) of this section,, or by mail. A registration that is received no later than 4:45 P.M. on the 21st day preceding any election, or such time on that day as the Board’s office remains open to receive registrations, shall be accepted.</text>
+      <text>Except as provided in paragraph (4) of this subsection, at any time except during the 21-day period preceding any regularly scheduled election, a qualified elector or any individual who will be a qualified elector at the time of the next election may register to vote in the precinct in which the voter maintains residence by completing a voter registration application or request to activate the qualified elector's registration and submitting it in person at the Board's office, using the digital voter service system required by subsection (b)(2A) of this section, or by mail. A registration or request to activate the elector's registration that is received no later than 4:45 P.M. on the 21st day preceding any election, or such time on that day as the Board’s office remains open to receive registrations, shall be accepted.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Board shall process voter registration applications and voter registration update notifications that are received, whether received postmarked, non-postmarked, or digitally, by the Board by the 21st day preceding any election.</text>
+      <text>The Board shall process voter registration applications, voter registration update notifications, and requests to activate registration that are received, whether received postmarked, non-postmarked, or digitally, by the Board by the 21st day preceding any election.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Board shall process faxed postcard applications from persons eligible to vote absentee in federal elections in the District of Columbia pursuant to the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1966 (100 Stat. 924; 42 U.S.C. § 1973ff et seq.), which are faxed not later than the 21st day preceding any election.</text>
+      <text>The Board shall process faxed postcard applications from persons eligible to vote by mail-in ballot in federal elections in the District of Columbia pursuant to the Uniformed and Overseas Citizens Absentee Voting Act, approved August 28, 1966 (100 Stat. 924; 42 U.S.C. § 1973ff et seq.), which are faxed not later than the 21st day preceding any election.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>After the 21st day preceding an election, a qualified elector may register to vote in the precinct in which the voter maintains residence by completing a voter registration application and submitting it in person at the Board’s office. A qualified elector shall not change the qualified elector's party affiliation after the 21st day preceding an election.</text>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>After the 21st day preceding an election, a qualified elector may register to vote in the precinct in which the voter maintains residence by completing a voter registration application or request to activate the qualified elector's registration and submitting it in person at the Board's office.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Board may permit a qualified elector to register to vote by requesting to activate the qualified elector's registration using the digital voter service system required by subsection (b)(2A) of this section or by mail after the 21st day preceding an election.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A qualified elector shall not change the qualified elector's party affiliation after the 21st day preceding an election; except, that a qualified elector on the preapproved for registration list who is requesting to activate the qualified elector's registration may select a party affiliation after the 21st day preceding an election; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A qualified elector may register to vote by requesting to activate the qualified elector's registration through the return of a mail ballot pursuant to <cite path="§1-1001.07b|(d)|(4)|(E)">§ 1-1001.07b(d)(4)(E)</cite> that is accepted by the Board pursuant to <cite path="§1-1001.05|(a)|(10A)">§ 1-1001.05(a)(10A)</cite>. An otherwise valid mail ballot received from a qualified elector on the preapproved for registration list shall be processed and counted in the same manner as a mail ballot received from a registered voter; except, that any qualified elector on the preapproved for registration list for whom there is no signature on file shall be required to provide the last 4 digits of the qualified elector's social security number on the ballot envelope in addition to a signature. The qualified elector's mail-in ballot shall be counted notwithstanding the absence of a signature on file, and the signature on the ballot envelope shall become the qualified elector's signature on file.</text>
+      </para>
     </para>
     <para>
       <num>(5)</num>
-      <text>A qualified elector may register on election day by appearing in person at the polling place for the precinct in which the individual maintains residence by completing a voter registration application, making an oath in the form prescribed by the Board, and providing proof of residence. An individual may prove residence for purposes of registering by presenting such identification as required under federal law, District law, or Board regulation, including a current and valid government photo identification or a copy of a current utility bill, bank statement, government check, pay check, or other document specified by the Board, that shows the current name and address of the voter. Each individual who successfully registers on Election Day shall cast a regular ballot. A qualified elector shall not change the qualified elector's party affiliation on election day.</text>
+      <text>A qualified elector may register during early voting or on election day by appearing in person at any Vote Center and by completing a voter registration application, making an oath in the form prescribed by the Board, and providing proof of residence. An individual may prove residence for purposes of registering by presenting such identification as required under federal law, District law, or Board regulation, including a current and valid government photo identification or a copy of a current utility bill, bank statement, government check, pay check, or other document specified by the Board, that shows the current name and address of the voter. Each individual who successfully registers on Election Day shall cast a regular ballot. A qualified elector shall not change the qualified elector's party affiliation on election day.</text>
     </para>
     <para>
       <num>(6)</num>
-      <text>The precinct captain shall keep a record of individuals who attempt to register on election day and shall indicate the form of proof of residency provided by the person. The record shall be forwarded to the Board with the election returns for that precinct.</text>
+      <text>The site coordinator shall keep a record of individuals who attempt to register during early voting or on election day and indicate the form of proof of residency provided by the person. The record shall be forwarded to the Board.</text>
     </para>
     <para>
       <num>(7)</num>
@@ -540,6 +585,10 @@
         <num>(B)</num>
         <text>The Board shall make the list available to public inspection upon request.</text>
       </para>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>A qualified elector may register to vote by requesting to activate the qualified elector's registration while appearing in person at a Vote Center pursuant to <cite path="§1-1001.07b|(d)|(4)|(D)">§ 1-1001.07b(d)(4)(D)</cite>. A qualified elector on the preapproved for registration list appearing in person at a Vote Center during voting hours is not required to provide proof of residence to activate the qualified elector's registration. Each qualified elector on the preapproved for registration list who successfully activates their registration at a Vote Center during voting hours shall cast a regular ballot; provided, that any qualified elector on the preapproved for registration list for whom there is no signature on file shall be required to provide either their DMV-issued identification number or the last 4 digits of their social security number in order to activate their registration at a Vote Center. A qualified elector who is requesting to activate the qualified elector's registration by appearing in person at a Vote Center during voting hours may select a party affiliation at a Vote Center during voting hours.</text>
     </para>
   </para>
   <para>
@@ -573,21 +622,21 @@
     <num>(i)</num>
     <para>
       <num>(1)</num>
-      <text>A person shall be entitled to vote in an election in the District of Columbia if the person is a duly registered voter. A qualified elector shall be considered duly registered in the District if the person has met the requirements for voter registration and, on the day of the election, either resides at the address listed on the Board’s records or files an election day change of address pursuant to this subsection.</text>
+      <text>A person shall be entitled to vote in an election in the District of Columbia if the person is a duly registered voter. A qualified elector shall be considered duly registered in the District if the person has met the requirements for voter registration and, at the time of voting, either resides at the address listed on the Board’s records or files an election day change of address pursuant to this subsection.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Each registered voter who changes the registered voter's place of residence from that listed on the Board’s records shall notify the Board, in writing, of the new residence address. A change of address shall be effective on the date the notification was mailed as shown by the United States Postal Service postmark. If not postmarked, the notification shall be effective on the date of receipt by the Board. Change of address notifications from registrants shall be accepted pursuant to subsection (g) of this section, except that any registrant who has not notified the Board of the registered voter's current residence address by the deadline established by subsection (g) of this section may be permitted to vote at the polling place that serves the current residence address by filing an election day change of address notice pursuant to paragraph (4) of this subsection.</text>
+      <text>Each registered voter who changes the registered voter's place of residence from that listed on the Board’s records shall notify the Board, in writing, of the new residence address. A change of address shall be effective on the date the notification was mailed as shown by the United States Postal Service postmark. If not postmarked, the notification shall be effective on the date of receipt by the Board. Change of address notifications from registrants shall be accepted pursuant to subsection (g) of this section, except that any registrant who has not notified the Board of the registered voter's current residence address by the deadline established by subsection (g) of this section may be permitted to vote by filing an election day change of address notice pursuant to paragraph (4) of this subsection.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Each registered voter who votes at a polling place on election day shall affirm the registered voter's residence address as it appears on the official registration roll for the precinct. The act of signing a copy of the official registration roll for the precinct shall be deemed affirmation of the voter’s address as it appears on the Board’s registration records.</text>
+      <text>Each registered voter who votes at a Vote Center during early voting or on election day shall affirm the registered voter's residence address as it appears on the official registration roll. The act of signing a copy of the official registration roll shall be deemed affirmation of the voter's address as it appears on the Board's registration records.</text>
     </para>
     <para>
       <num>(4)</num>
       <para>
         <num>(A)</num>
-        <text>A registered voter who has moved within the District but has not notified the Board in writing of the registered voter's current address by the deadline established pursuant to subsection (g) of this section, or who is designated inactive pursuant to subsection (j) of this section, shall, prior to being permitted to vote, file notification of a change of address on a form provided by the Board, at the polling place serving the current residence address; provided, that the voter shall provide proof of address change in the form of a current and valid government photo identification or a copy of a current utility bill, bank statement, government check, pay check, or other document specified by the Board that shows the current name and address of the voter either in person on election day or at the Board's office or a voter registration agency following the election.</text>
+        <text>A registered voter who has moved within the District but has not notified the Board in writing of the registered voter's current address by the deadline established pursuant to subsection (g) of this section, or who is designated inactive pursuant to subsection (j) of this section, shall, prior to being permitted to vote, file notification of a change of address on a form provided by the Board; provided, that the voter shall provide proof of address change in the form of a current and valid government photo identification or a copy of a current utility bill, bank statement, government check, pay check, or other document specified by the Board that shows the current name and address of the voter either in person on election day or at the Board's office or a voter registration agency following the election.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -595,14 +644,14 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>A registered voter who files an election day change of address may vote by regular ballot on election day at the polling place serving the current residence address or the accessible polling place assigned by the Board pursuant to <cite path="§1-1001.09|(b)|(3)">§ 1-1001.09(b)(3)</cite>.</text>
+        <text>A registered voter who files a change of address at a Vote Center and provides valid proof of residence pursuant to subparagraph (A) of this paragraph may vote by regular ballot during early voting or on election day.</text>
       </para>
     </para>
     <para>
       <num>(5)</num>
       <para>
         <num>(A)</num>
-        <text>As soon as practicable after the election, the Board shall mail each registered voter who filed a change of address at the polls on election day a nonforwardable address confirmation notice to the address provided in the written affirmation.</text>
+        <text>As soon as practicable after the election, the Board shall mail each registered voter who filed a change of address at the polls during early voting or on election day a nonforwardable address confirmation notice to the address provided in the written affirmation.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -611,7 +660,7 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>Each individual who has not previously voted in a federal election in the District and who registers to vote by mail shall present, either at the time of registration, at the polling place, or when voting by mail, a copy of a current and valid government photo identification or a copy of a current utility bill, bank statement, government check, or pay check that shows the name and address of the voter. Individuals who fail to present this identification shall vote by special ballot. This paragraph shall not apply to:</text>
+      <text>Each individual who has not previously voted in a federal election in the District and who registers to vote by mail shall present, either at the time of registrationor when voting in person or by mail, a copy of a current and valid government photo identification or a copy of a current utility bill, bank statement, government check, or pay check that shows the name and address of the voter. Individuals who fail to present this identification shall vote by special ballot. This paragraph shall not apply to:</text>
       <para>
         <num>(A)</num>
         <text>Individuals whose registration application includes a DMV-issued identification number or at least the last 4 digits of the individual’s social security number, and matches an existing identification record bearing the same number, name, and date of birth as the application; or</text>
@@ -629,7 +678,7 @@
       <text>The Board shall develop a systematic program to maintain the voter roll and keep it current. This program shall include the following:</text>
       <para>
         <num>(A)</num>
-        <text>In January of each odd-numbered year, the Board shall confirm the address of each registered voter who did not confirm the registrant's address through the voting process or file a change of address at the polls in the preceding general election by mailing a first class nonforwardable postcard to the address listed on the Board’s records.</text>
+        <text>By March 31 of each odd-numbered year, the Board shall confirm the address of each registered voter who did not confirm the registrant's address through the voting process or file a change of address at the polls in the preceding general election by mailing a first class nonforwardable postcard to the address listed on the Board’s records.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -649,18 +698,29 @@
       <para>
         <num>(C)</num>
         <text>The notices prescribed in subparagraphs (A) and (B) of this paragraph shall include a pre-addressed and postage paid return notification postcard to enable the registrant to correct any address information obtained from the United States Postal Service. In addition, the notices shall include the following information:</text>
-        <text>“If you did not change your residence, or changed residence but remained in the District, you should return the card not later than the deadline for mail registration for the next federal election (the 30th day before the election). If the card is not returned, affirmation of your address may be required before you are permitted to vote in any election during the period beginning on the date of the notice and ending on the day after the date of the second general election for federal office that occurs after the date of the notice, and if you do not vote in an election during that period, your name will be removed from the list of eligible voters.”.</text>
+        <text>“If you did not change your residence, or changed residence but remained in the District, you should return the card not later than the deadline for mail registration for the next federal election (the 21st day before the election). If the card is not returned, affirmation of your address may be required before you are permitted to vote in any election during the period beginning on the date of the notice and ending on the day after the date of the second general election for federal office that occurs after the date of the notice, and if you do not vote in an election during that period, your name will be removed from the list of eligible voters.”.</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>The Board may, in addition, utilize information obtained from the United States Postal Service, the National Change of Address System (“NCOA”), the DMV (subject to the provisions of subsection (c)(1)(D) of this section, which identifies registrants who have moved from the addresses listed on the Board’s records. In these cases the Board shall issue the notices prescribed in subparagraph (B) of this paragraph.</text>
+        <para>
+          <num>(i)</num>
+          <text>The Board may, in addition, utilize information obtained from the United States Postal Service and the National Change of Address System, which identifies registrants who have moved from the addresses listed on the Board's records. In these cases, the Board shall issue the notices prescribed in subparagraph (B) of this paragraph.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Board shall process information obtained from the DMV identifying registrants who have updated their name or address from the information listed in the Board's records as provided in subsection (c)(1)(F) of this section.</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The Board shall utilize information obtained from the Department of Health Care Finance (subject to compliance with all applicable federal laws and regulations), and any other agency designated by the Board, identifying registrants who have updated their name or address from the information listed in the Board's records as provided in subsection (c)(1)(F) of this section.</text>
+        </para>
       </para>
     </para>
     <para>
       <num>(2)</num>
       <para>
         <num>(A)</num>
-        <text>Upon mailing of the notice required in paragraph (1)(B) of this subsection, the registrant’s voter registration status shall be designated as inactive on the voter roll.</text>
+        <text>Upon receipt of the United States Postal Service-returned notices described in paragraph (1)(B)(ii) and (iii) of this subsection, the Board shall designate the registrant's voter registration status as inactive on the voter roll.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -668,12 +728,12 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Where the Board mails the notice required in paragraph (1)(B) of this subsection, and the registrant fails to respond to the notice and fails to vote during the period beginning on the date the notice was mailed and ending on the day after the second general election for federal office, the registrant’s name shall be removed from the voter roll.</text>
+        <text>Where the Board mails the forwardable notice required in paragraph (1)(B) of this subsection, and the registrant fails to respond to the notice and fails to vote during the period beginning on the date the notice was mailed and ending on the day after the second general election for federal office, the registrant’s name shall be removed from the voter roll.</text>
       </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>As part of its systematic voter roll maintenance program, the Board may, by regulation, develop additional procedures to identify and remove from the voter roll registrants who are deceased and no notification was received from the Bureau of Vital Statistics, who have moved from the District and no notification was received from the registrant or the United States Postal Service, or who otherwise no longer meets the qualifications as duly registered voters.</text>
+      <text>As part of its systematic voter roll maintenance program, the Board may, by regulation, develop additional procedures to identify and remove from the voter roll registrants who are deceased and no notification was received from the Vital Records Division of the Department of Health, who have moved from the District and no notification was received from the registrant or the United States Postal Service, or who otherwise no longer meets the qualifications as duly registered voters.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -693,9 +753,9 @@
       <para>
         <num>(C)</num>
         <text>Shall not be included where the Board is required:</text>
-        <para>
+        <para placeholder="Repealed">
           <num>(i)</num>
-          <text>To provide lists of registered voters at the polls on election day or for public inspection;</text>
+          <text>Repealed.</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -710,6 +770,10 @@
         <num>(D)</num>
         <text>Their names shall not be sold by the Board either in hard copy form or electronic media, except upon specific request of the purchaser and the fact that the registrations are designated as inactive is made known to the purchaser.</text>
       </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The Board may use reliable information obtained from the Department of Corrections or the Federal Bureau of Prisons to update the address information of incarcerated voters.</text>
     </para>
   </para>
   <para>
@@ -733,6 +797,10 @@
     <para>
       <num>(4A)</num>
       <text>At least monthly, the Board shall request from the Bureau of Prisons the name, location of incarceration, and contact information for each qualified elector in the Bureau of Prisons' care or custody.</text>
+    </para>
+    <para>
+      <num>(4B)</num>
+      <text>At least monthly, at the request of the Board, the Department of Corrections shall provide the Board with the name and date of birth of each person transferred from the Department of Corrections to the Bureau of Prisons.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -840,7 +908,7 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 21-495" path="§2|(a)" codified:display="Note" app="2016-10-07" eff="2016-10-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-495" path="§2|(a)">§ 2(a) of Election Day Change of Address Emergency Amendment Act of 2016 (D.C. Act 21-495, Oct. 7, 2016, 63 DCR 12605)</cite>.</annotation>
     <annotation app="2016-10-07" doc="D.C. Act 21-495" eff="2016-10-07" path="§2|(a)" type="History" display="false"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7010" type="History" display="false"/>
-    <annotation doc="D.C. Law 21-160" path="§7010" type="Editor's Notes" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7010">Section 7010 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-158" path="§3">§ 3 of D.C. Law 20-158</cite>. Therefore the changes made to this section by D.C. Law 20-158 have been given effect.
+    <annotation doc="D.C. Law 21-160" path="§7010" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7010">Section 7010 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-158" path="§3">§ 3 of D.C. Law 20-158</cite>. Therefore the changes made to this section by D.C. Law 20-158 have been given effect.
         </annotation>
     <annotation doc="D.C. Law 21-160" path="§7018" type="Editor's Notes" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7018">Section 7018 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-273" path="§5">§ 5 of D.C. Law 20-273</cite>. Therefore the changes made to this section by D.C. Law 20-273 have been given effect.
         </annotation>
@@ -903,8 +971,8 @@
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§201|(c)|(2)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§201|(c)|(2)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§201|(c)|(2)">§ 201(c)(2) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§201|(c)|(2)" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(c)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-167" path="§2|(c)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-167" path="§2|(c)">§ 2(c) of General Election Preparations Temporary Amendment Act of 2020 (D.C. Law 23-167, Dec. 23, 2020, 67 DCR 13022)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(c)" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(f)|(1)|(A)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(f)|(1)|(B)|(i)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(f)|(1)|(B)|(ii)" type="History"/>
@@ -937,5 +1005,62 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§2|(c)|(10)|(B)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§201|(c)|(2)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-76" path="§201|(c)|(2)">§ 201(c)(2) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
     <annotation app="2021-05-03" doc="D.C. Act 24-76" eff="2021-05-03" path="§201|(c)|(2)" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(b)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-242" path="§2|(b)" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-242" path="">D.C. Law 24-242</cite>: <cite doc="D.C. Law 24-242" path="§3">§ 3 of D.C. Law 24-242</cite> provided that the change made to this section by <cite doc="D.C. Law 24-242" path="§2|(b)">§ 2(b) of D.C. Law 24-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(b)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(A)|(i)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(A)|(ii)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(A)|(iii)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(A)|(i)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(A)|(ii)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(B)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(C)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(D)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(E)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(3)|(F)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(A)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(B)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(C)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(4)|(D)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)|(5)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-265" path="§2|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-265" path="">D.C. Law 24-265</cite>: <cite doc="D.C. Law 24-265" path="§3">§ 3 of D.C. Law 24-265</cite> provided that the amendment, except for one of the amendments to subsection (c)(1)(B) and (M), to this section by <cite doc="D.C. Law 24-265" path="§2|(a)">§ 2(a) of D.C. Law 24-265</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(1)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(2)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(D)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(E)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(A)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(B)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(D)|(i)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(D)|(ii)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(E)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(F)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(5)|(A)|(i)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(5)|(A)|(ii)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(5)|(B)|(i)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(5)|(B)|(ii)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(5)|(C)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(5)|(D)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(5)|(E)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(6)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7084" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7084">Section 7084 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-242" path="§3">section 3 of D.C. Law 24-242</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(b) of Law 24-242 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7084" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-50" path="§7087" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7087">Section 7087 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-265" path="§3">section 3 of D.C. Law 24-265</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(a) of Law 24-265 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7087" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(2)|(B)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(2)|(C)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-278" eff="2025-03-07" path="§2|(a)|(4)" type="History"/>
+    <annotation history="false" path="§2|(a)" type="Editor's Notes" app="2025-03-07" eff="2025-03-07" doc="D.C. Law 25-278"><cite doc="D.C. Law 25-278" path="§3">Section 3 of D.C. Law 25-278</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-278" path="§2|(a)">section 2(a) of D.C. Law 25-278</cite> shall apply as of July 1, 2025.</annotation>
   </annotations>
 </section>

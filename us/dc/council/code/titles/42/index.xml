@@ -43,8 +43,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <reason>Repealed</reason>
       <heading>Uniform Notarial Acts. [Repealed]<annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(a)" type="History"/></heading>
+      <reason>Repealed</reason>
       <xi:include href="./sections/42-141.xml"/>
       <xi:include href="./sections/42-142.xml"/>
       <xi:include href="./sections/42-143.xml"/>
@@ -518,6 +518,62 @@
     <xi:include href="./sections/42-1603.xml"/>
     <xi:include href="./sections/42-1604.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16A</num>
+    <heading>Uniform Unlawful Restrictions in Land Records.</heading>
+    <annotation app="2024-08-14" doc="D.C. Law 25-201" eff="2024-08-14" path="I" type="History" display="false"/>
+    <xi:include href="./sections/42-1621.xml"/>
+    <xi:include href="./sections/42-1622.xml"/>
+    <xi:include href="./sections/42-1623.xml"/>
+    <xi:include href="./sections/42-1624.xml"/>
+    <xi:include href="./sections/42-1625.xml"/>
+    <xi:include href="./sections/42-1626.xml"/>
+    <xi:include href="./sections/42-1627.xml"/>
+    <xi:include href="./sections/42-1628.xml"/>
+    <xi:include href="./sections/42-1629.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16B</num>
+    <heading>Uniform Commercial Real Estate Receivership.</heading>
+    <annotation app="2025-03-07" doc="D.C. Law 25-269" eff="2025-03-07" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-1641.xml"/>
+    <xi:include href="./sections/42-1642.xml"/>
+    <xi:include href="./sections/42-1643.xml"/>
+    <xi:include href="./sections/42-1644.xml"/>
+    <xi:include href="./sections/42-1645.xml"/>
+    <xi:include href="./sections/42-1646.xml"/>
+    <xi:include href="./sections/42-1647.xml"/>
+    <xi:include href="./sections/42-1648.xml"/>
+    <xi:include href="./sections/42-1649.xml"/>
+    <xi:include href="./sections/42-1650.xml"/>
+    <xi:include href="./sections/42-1651.xml"/>
+    <xi:include href="./sections/42-1652.xml"/>
+    <xi:include href="./sections/42-1653.xml"/>
+    <xi:include href="./sections/42-1654.xml"/>
+    <xi:include href="./sections/42-1655.xml"/>
+    <xi:include href="./sections/42-1656.xml"/>
+    <xi:include href="./sections/42-1657.xml"/>
+    <xi:include href="./sections/42-1658.xml"/>
+    <xi:include href="./sections/42-1659.xml"/>
+    <xi:include href="./sections/42-1660.xml"/>
+    <xi:include href="./sections/42-1661.xml"/>
+    <xi:include href="./sections/42-1662.xml"/>
+    <xi:include href="./sections/42-1663.xml"/>
+    <xi:include href="./sections/42-1664.xml"/>
+    <xi:include href="./sections/42-1665.xml"/>
+    <xi:include href="./sections/42-1666.xml"/>
+    <xi:include href="./sections/42-1667.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16C</num>
+    <heading>Tangled Title Disclosure.</heading>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-1681.xml"/>
+    <xi:include href="./sections/42-1682.xml"/>
+  </container>
   <subheading>Subtitle II. Brokers and Realtors.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -608,6 +664,7 @@
       <xi:include href="./sections/42-1901.04.xml"/>
       <xi:include href="./sections/42-1901.05.xml"/>
       <xi:include href="./sections/42-1901.06.xml"/>
+      <xi:include href="./sections/42-1901.06a.xml"/>
       <xi:include href="./sections/42-1901.07.xml"/>
       <xi:include href="./sections/42-1901.08.xml"/>
     </container>
@@ -749,12 +806,29 @@
     <prefix>Chapter</prefix>
     <num>20A</num>
     <heading>Limited-Equity Cooperative Task Force.</heading>
-    <annotation app="2018-07-03" doc="D.C. Law 22-119" eff="2018-07-03" path="" type="History" display="false"/>
-    <xi:include href="./sections/42-2061.xml"/>
-    <xi:include href="./sections/42-2062.xml"/>
-    <xi:include href="./sections/42-2063.xml"/>
-    <xi:include href="./sections/42-2064.xml"/>
-    <xi:include href="./sections/42-2065.xml"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Limited-Equity Cooperative Task Force.</heading>
+      <annotation app="2018-07-03" doc="D.C. Law 22-119" eff="2018-07-03" path="" type="History" display="false"/>
+      <xi:include href="./sections/42-2061.xml"/>
+      <xi:include href="./sections/42-2062.xml"/>
+      <xi:include href="./sections/42-2063.xml"/>
+      <xi:include href="./sections/42-2064.xml"/>
+      <xi:include href="./sections/42-2065.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Limited Equity Cooperative Advisory Council Act.</heading>
+      <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
+      <xi:include href="./sections/42-2067.01.xml"/>
+      <xi:include href="./sections/42-2067.02.xml"/>
+      <xi:include href="./sections/42-2067.03.xml"/>
+      <xi:include href="./sections/42-2067.04.xml"/>
+      <xi:include href="./sections/42-2067.05.xml"/>
+    </container>
+    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -765,6 +839,15 @@
     <xi:include href="./sections/42-2072.xml"/>
     <xi:include href="./sections/42-2073.xml"/>
     <xi:include href="./sections/42-2074.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>20C</num>
+    <heading>Relief for River East at Grandview Condominium Owners.</heading>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|N" type="History" display="false"/>
+    <xi:include href="./sections/42-2081.xml"/>
+    <xi:include href="./sections/42-2082.xml"/>
+    <xi:include href="./sections/42-2083.xml"/>
   </container>
   <subheading>Subtitle IV. Housing Enhancement Programs.</subheading>
   <container>
@@ -839,6 +922,14 @@
     <xi:include href="./sections/42-2206.xml"/>
     <xi:include href="./sections/42-2207.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22A</num>
+    <heading>Reentry Housing and Services Program.</heading>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="II" type="History" display="false"/>
+    <xi:include href="./sections/42-2231.xml"/>
+    <xi:include href="./sections/42-2232.xml"/>
+  </container>
   <subheading>Subtitle V. Housing Finance and Assistance.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -905,6 +996,7 @@
       <num>I</num>
       <heading>General Provisions.</heading>
       <xi:include href="./sections/42-2601.xml"/>
+      <xi:include href="./sections/42-2601.01.xml"/>
       <xi:include href="./sections/42-2602.xml"/>
       <xi:include href="./sections/42-2602.01.xml"/>
       <xi:include href="./sections/42-2603.xml"/>
@@ -1020,6 +1112,7 @@
       <xi:include href="./sections/42-2803.xml"/>
       <xi:include href="./sections/42-2803.01.xml"/>
       <xi:include href="./sections/42-2804.xml"/>
+      <xi:include href="./sections/42-2805.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1093,6 +1186,14 @@
     <xi:include href="./sections/42-3001.xml"/>
     <xi:include href="./sections/42-3002.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>30A</num>
+    <heading>Single Family Home Rehabilitation Program.</heading>
+    <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="I" type="History" display="false"/>
+    <xi:include href="./sections/42-3021.xml"/>
+    <xi:include href="./sections/42-3022.xml"/>
+  </container>
   <subheading>Subtitle VI. Nuisance Property.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1114,6 +1215,7 @@
     <xi:include href="./sections/42-3112.xml"/>
     <xi:include href="./sections/42-3113.xml"/>
     <xi:include href="./sections/42-3114.xml"/>
+    <xi:include href="./sections/42-3115.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1134,7 +1236,9 @@
       <heading>Registration of Vacant Buildings.</heading>
       <xi:include href="./sections/42-3131.05.xml"/>
       <xi:include href="./sections/42-3131.05a.xml"/>
+      <xi:include href="./sections/42-3131.05b.xml"/>
       <xi:include href="./sections/42-3131.06.xml"/>
+      <xi:include href="./sections/42-3131.06a.xml"/>
       <xi:include href="./sections/42-3131.07.xml"/>
       <xi:include href="./sections/42-3131.08.xml"/>
       <xi:include href="./sections/42-3131.09.xml"/>
@@ -1148,6 +1252,8 @@
       <xi:include href="./sections/42-3131.17.xml"/>
       <xi:include href="./sections/42-3131.18.xml"/>
       <xi:include href="./sections/42-3131.19.xml"/>
+      <xi:include href="./sections/42-3131.20.xml"/>
+      <xi:include href="./sections/42-3131.21.xml"/>
     </container>
   </container>
   <container>
@@ -1215,36 +1321,7 @@
       <xi:include href="./sections/42-3173.12.xml"/>
     </container>
   </container>
-  <subheading>Subtitle VI-A. Special Landlord and Tenant Responsibilities During a Public Health Emergency.<annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/></subheading>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>31H</num>
-    <heading>Mortgage Relief During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/42-3191.01.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>31I</num>
-    <heading>Tenant Rent-Payment_Plan Programs During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/42-3192.01.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>31J</num>
-    <heading>Residential cleaning During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/42-3193.01.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>31K</num>
-    <heading>Rent Increase Prohibition During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/42-3194.01.xml"/>
-  </container>
-  <subheading>Subtitle VII. Rental Housing.</subheading>
+  <subheading>Subtitle VII. Rental Housing and Commercial Tenancy.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>32</num>
@@ -1405,7 +1482,6 @@
       <xi:include href="./sections/42-3405.09.xml"/>
       <xi:include href="./sections/42-3405.10.xml"/>
       <xi:include href="./sections/42-3405.10a.xml"/>
-      <xi:include href="./sections/42-3405.10b.xml"/>
       <xi:include href="./sections/42-3405.11.xml"/>
       <xi:include href="./sections/42-3405.12.xml"/>
       <xi:include href="./sections/42-3405.13.xml"/>
@@ -1415,8 +1491,8 @@
     <prefix>Chapter</prefix>
     <num>34A</num>
     <heading>STAY DC Improvements.</heading>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="" type="History" display="false"/>
-    <xi:include href="./sections/34-3411.01.xml"/>
+    <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-3411.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1469,7 +1545,6 @@
       <xi:include href="./sections/42-3502.19.xml"/>
       <xi:include href="./sections/42-3502.20.xml"/>
       <xi:include href="./sections/42-3502.21.xml"/>
-      <xi:include href="./sections/42-3502.21a.xml"/>
       <xi:include href="./sections/42-3502.22.xml"/>
       <xi:include href="./sections/42-3502.22a.xml"/>
       <xi:include href="./sections/42-3502.23.xml"/>
@@ -1571,7 +1646,6 @@
       <xi:include href="./sections/42-3509.08.xml"/>
       <xi:include href="./sections/42-3509.09.xml"/>
       <xi:include href="./sections/42-3509.10.xml"/>
-      <xi:include href="./sections/42-3509.11.xml"/>
     </container>
   </container>
   <container>
@@ -1617,6 +1691,19 @@
     <annotation doc="D.C. Law 22-33" path="§7031" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7031">Section 7031 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-259">D.C. Law 21-259</cite> has been implemented.
             </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7031" type="History" display="false"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>35C</num>
+    <heading>Bedbug Control.</heading>
+    <reason>Repealed</reason>
+    <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-3551.01.xml"/>
+    <xi:include href="./sections/42-3551.02.xml"/>
+    <xi:include href="./sections/42-3551.03.xml"/>
+    <xi:include href="./sections/42-3551.04.xml"/>
+    <xi:include href="./sections/42-3551.05.xml"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7206" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <prefix>§</prefix>
   <num>5-1104(Perm)</num>
   <heading>Police Complaints Board.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§5-1104">Current Version</cite>*
+      </text>
   <para>
     <num>(a)</num>
-    <text>There is established a Police Complaints Board ("Board"). The Board shall be composed of 5 members, one of whom shall be a member of the MPD, and 4 of whom shall have no current affiliation with any law enforcement agency. All members of the Board shall be residents of the District of Columbia. The members of the Board shall be appointed by the Mayor, subject to confirmation by the Council. The Mayor shall submit a nomination to the Council for a 90-day period of review, excluding days of Council recess. If the Council does not approve the nomination by resolution within this 90-day review period, the nomination shall be deemed disapproved.</text>
+    <text>There is established a Police Complaints Board. The Board shall be composed of 5 members, one of whom shall be a member of the MPD, and 4 of whom shall have no current affiliation with any law enforcement agency. All members of the Board shall be residents of the District of Columbia. The members of the Board shall be appointed by the Mayor, subject to confirmation by the Council. The Mayor shall submit a nomination to the Council for a 90-day period of review, excluding days of Council recess. If the Council does not approve the nomination by resolution within this 90-day review period, the nomination shall be deemed disapproved.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -21,7 +23,7 @@
   </para>
   <para>
     <num>(d-1)</num>
-    <text>The Board may, where appropriate, monitor and evaluate MPD's handling of, and response to, First Amendment assemblies, as defined in <u>§ 5-333.02</u>, held on District streets, sidewalks, or other public ways, or in District parks.</text>
+    <text>The Board may, where appropriate, monitor and evaluate MPD's handling of, and response to, First Amendment assemblies, as defined in <cite path="§5-333.02">§ 5-333.02</cite>, held on District streets, sidewalks, or other public ways, or in District parks.</text>
   </para>
   <para>
     <num>(d-2)</num>
@@ -69,6 +71,10 @@
       <num>(6)</num>
       <text>Beginning on December 31, 2017, and by December 31 of each year thereafter, the Board shall deliver a report to the Mayor and the Council that analyzes the information evaluated by the Board under paragraph (1) of this subsection.</text>
     </para>
+    <para>
+      <num>(7)</num>
+      <text>Not Funded.</text>
+    </para>
   </para>
   <para>
     <num>(d-3)</num>
@@ -85,7 +91,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>An evaluation of stops and searches conducted by NSID officers, including an analysis of the records identified in <u>§ 5-113.01(a)(4B)</u>;</text>
+        <text>An evaluation of stops and searches conducted by NSID officers, including an analysis of the records identified in <cite path="§5-113.01|(a)|(4B)">§ 5-113.01(a)(4B)</cite>;</text>
       </para>
       <para>
         <num>(C)</num>
@@ -93,7 +99,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>An evaluation of the adequacy of discipline imposed by the Metropolitan Police Department on NSID officers as a result of a sustained allegation of misconduct pursuant to <u>§ 5-1112</u>; and</text>
+        <text>An evaluation of the adequacy of discipline imposed by the Metropolitan Police Department on NSID officers as a result of a sustained allegation of misconduct pursuant to <cite path="§5-1112">§ 5-1112</cite>; and</text>
       </para>
       <para>
         <num>(E)</num>
@@ -141,6 +147,109 @@
     </para>
   </para>
   <para>
+    <num>(d-4)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para>
+    <num>(d-5)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Executive Director, or an entity selected by the Executive Director, shall conduct a study to determine whether the Metropolitan Police Department ("MPD") engaged in biased policing when it conducted threat assessments before or during assemblies within the District.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>At a minimum, the study shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Examine MPD's use of threat assessments before or during assemblies in the District from January 2017 through January 2021;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Determine whether MPD engaged in biased policing when it conducted threat assessments before or during assemblies in the District from January 2017 through January 2021;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Provide a detailed analysis of MPD's response to each assembly in the District between January 2017 through January 2021, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>Number of arrests made;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Number of civilian and officer injuries;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Type of injuries;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Number of fatalities;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Number of officers deployed;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>What type of weaponry and crowd control tactics were used;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Whether riot gear was used; and</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Whether any of the individuals involved in the assembly were on the Federal Bureau of Investigation's terrorist watchlist;</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>If there is a finding that biased policing has occurred, determine whether MPD's response to those engaged in the assembly varied based on the race, color, religion, sex, national origin, or gender; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Provide recommendations based on the findings in the study, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>If biased policing occurred, how to prevent bias from impacting whether MPD conducts a threat assessment and how to ensure bias does not impact a threat assessment going forward;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>If biased policing has not been found to have occurred, how to ensure that there is not a disparity in MPD's response to all assemblies across all groups, of proportionate size and characteristics, in the District in the future; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>If the study is inconclusive on the occurrence of biased policing, what additional steps must be taken to reach a conclusion.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Any collaborating outside partners shall meet the following criteria:</text>
+      <para>
+        <num>(A)</num>
+        <text>Be nonpartisan;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Have expertise and knowledge of law enforcement practices in the District, bias in policing, homegrown domestic terrorism in the United States, and intelligence data sharing practices;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Have a history of conducting studies and evaluations of law enforcement procedures, regulations, and practices; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Have experience developing solutions to policy or legal challenges.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Executive Director shall submit a report on the study to the Council no later than 12 months after April 21, 2023.</text>
+    </para>
+  </para>
+  <para>
     <num>(e)</num>
     <text>Within 60 days of the end of each fiscal year, the Board shall transmit to the entities named in subsection (d) of this section an annual report of the operations of the Board and the Office of Police Complaints.</text>
   </para>
@@ -153,7 +262,16 @@
     <annotation doc="D.C. Law 12-285" type="History">June 12, 1999, D.C. Law 12-285, § 4(e), 46 DCR 1355</annotation>
     <annotation doc="D.C. Law 15-194" type="History">Sept. 30, 2004, D.C. Law 15-194, § 902(b), 51 DCR 9406</annotation>
     <annotation doc="D.C. Law 15-352" type="History">Apr. 13, 2005, D.C. Law 15-352, § 141, 52 DCR 2296</annotation>
-    <annotation doc="D.C. Law 21-125" type="History">June 30, 2016, D.C. Law 21-125, § 208(a), 63 DCR 4659</annotation>
-    <annotation doc="D.C. Law 23-16" type="History">Sept. 11, 2019, D.C. Law 23-16, § 141, 66 DCR 8621</annotation>
+    <annotation doc="D.C. Law 21-125" type="History" path="§208|(a)">June 30, 2016, D.C. Law 21-125, § 208(a), 63 DCR 4659</annotation>
+    <annotation doc="D.C. Law 23-16" type="History" path="§3082">Sept. 11, 2019, D.C. Law 23-16, § 3082, 66 DCR 8621</annotation>
+    <annotation doc="D.C. Law 24-345" type="History">Apr. 21, 2023, D.C. Law 24-345, §§ 105(d), 124, 70 DCR 7904</annotation>
+    <annotation doc="D.C. Law 25-175" type="History" path="§14|(a)">June 8, 2024, D.C. Law 25-175, § 14(a), 71 DCR 2732</annotation>
+    <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 4(e) of the Confirmation Act Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-92, June 4, 1999,  46 DCR 5330).</annotation>
+    <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 4(e) of the Confirmation Emergency Amendment Act of 1999 (D.C. Act 13-25, March 15, 1999,  46 DCR 2971).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-352">D.C. Law 15-352</cite> added subsec. (d-1).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-194">D.C. Law 15-194</cite>, in the section heading and subsec. (a), substituted “Police Complaints Board” for “Citizen Complaint Review Board”; in subsec. (d), deleted “the Financial Responsibility and Management Assistance Authority,” following “the Council”; and in subsec. (e), substituted “Police Complaints” for “Citizen Complaint Review”.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 4-914.</annotation>
+    <annotation type="Section References">This section is referenced in <cite path="§1-523.01">§ 1-523.01</cite>.</annotation>
+    <annotation type="Cross References">Mayoral nomination of agency heads, Police Complaints Board, see <cite path="§1-523.01">§ 1-523.01</cite>.</annotation>
   </annotations>
 </section>

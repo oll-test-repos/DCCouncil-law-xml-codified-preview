@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>22-4503.03</num>
+  <heading proof="needed">Endangerment with a firearm.</heading>
+  <para>
+    <num>(a)</num>
+    <text>A person commits endangerment with a firearm when the person:</text>
+    <para>
+      <num>(1)</num>
+      <text>Knowingly discharges a projectile from a firearm outside a licensed firing range; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Either:</text>
+      <para>
+        <num>(A)</num>
+        <text>The person knows that the discharged projectile creates a substantial risk of death or bodily injury to another person; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In fact:</text>
+        <para>
+          <num>(i)</num>
+          <text>The person is in, or the discharged projectile travels through or stops in, a location that is:</text>
+          <para>
+            <num>(I)</num>
+            <text>Open to the general public at the time of the offense;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>A communal area of multi-unit housing; or</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>Inside a public conveyance or a rail station; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The person does not have permission to discharge a projectile from a firearm under:</text>
+          <para>
+            <num>(I)</num>
+            <text>A written permit issued by the Metropolitan Police Department; or</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Other District or federal law.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Except as provided in subsection (c) of this section, whoever violates this section shall upon conviction be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 5 years, or both.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Whoever violates this section shall upon conviction be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 10 years, or both, if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The violation of this section occurs after a person has been convicted of a felony, either in the District of Columbia or another jurisdiction; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Five or more projectiles are discharged from a firearm within a single course of conduct.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>When arising from the same act or course of conduct, a conviction for an offense under this section shall merge with a conviction:</text>
+    <para>
+      <num>(1)</num>
+      <text>Under <cite path="§22-4503.01">§ 22-4503.01</cite>; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For another offense outside of <cite path="22|45">this chapter</cite> that has, as an element in the offense definition or in the applicable penalty enhancement, possessing or having readily available a firearm, imitation firearm, or dangerous weapon.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>No mental state shall be required as to any element under subsection (a)(2)(B) of this section.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>It shall be a defense to liability under this section that the person discharged a firearm under circumstances constituting lawful self-defense or defense of others.</text>
+  </para>
+  <annotations>
+    <annotation type="History" doc="Stat. 72-1-ch465" path="§3c">July 8, 1932, 47 Stat. 651, ch. 465, § 3c</annotation>
+    <annotation type="History" doc="Stat. 72-1-ch465" path="§3c" display="false">July 8, 1932, 47 Stat. 651, ch. 465, § 3c</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§6|(b)" codified:display="Note" app="2024-06-08" eff="2023-07-20">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-175" path="§6|(b)">§ 6(b) of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-175" eff="2023-07-20" path="§6|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-257" path="§5|(b)" codified:display="Note" app="2024-06-08" eff="2023-10-16">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-257" path="§5|(b)">§ 5(b) of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 70 DCR 13849)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-257" eff="2023-10-16" path="§5|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§6|(b)" codified:display="Note" app="2024-06-08" eff="2023-12-21">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-339" path="§6|(b)">§ 6(b) of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-339" eff="2023-12-21" path="§6|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§6|(b)" codified:display="Note" app="2024-06-08" eff="2024-01-17">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-101" path="§6|(b)">§ 6(b) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-101" eff="2024-01-17" path="§6|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§24|(d)" codified:display="Note" app="2024-06-08" eff="2024-03-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-410" path="§24|(d)|includes|3c">§ 3c of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-410" eff="2024-03-11" path="§24|(d)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§24|(d)" codified:display="Note" app="2024-06-08" eff="2024-06-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-490" path="§24|(d)|includes|3c">§ 3c of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Act 25-490" eff="2024-06-07" path="§24|(d)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§29|(d)" prefix="as added" type="History"/>
+  </annotations>
+</section>

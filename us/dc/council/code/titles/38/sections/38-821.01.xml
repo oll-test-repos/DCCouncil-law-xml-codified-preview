@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-821.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-821.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
   <para>
@@ -74,13 +77,17 @@
     <num>(1F)</num>
     <text>"Health education" means instruction of the District of Columbia Health Education Standards.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(1G)</num>
-    <text>“Healthy Schools Fund” means the fund established by <cite path="§38-821.02">§ 38-821.02</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(2)</num>
     <text>“Healthy Youth and Schools Commission” or “Commission” means the body established by <cite path="§38-827.01">§ 38-827.01</cite>.</text>
+  </para>
+  <para>
+    <num>(2A)</num>
+    <text>"LEA" means local education agency, which is the District of Columbia Public Schools system or an individual or a group of public charter schools operating under a single charter.</text>
   </para>
   <para>
     <num>(3)</num>
@@ -230,7 +237,6 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-209" type="History" path="§203a">July 27, 2010, D.C. Law 18-209, § 203a</annotation>
     <annotation doc="D.C. Law 18-209" type="History" path="§101">July 27, 2010, D.C. Law 18-209, § 101, 57 DCR 4779</annotation>
     <annotation doc="D.C. Law 19-37" type="History">Oct. 20, 2011, D.C. Law 19-37, § 2(a), 58 DCR 6841</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Healthy Schools Emergency Amendment Act of 2011 (D.C. Act 19-143, August 9, 2011,  58 DCR 6814).</annotation>
@@ -271,5 +277,16 @@
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7160" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§4|(a)" type="History"/>
+    <annotation doc="D.C. Law 24-45" path="§7182" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C.Law 24-45" path="§7182">Section 7182 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 22-21" path="§11">section 11 of D.C. Law 22-21</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(a) of Law 22-21 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7182" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4012|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4012|(a)">§ 4012(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4012|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4012|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4052|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4052|(b)">§ 4052(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4052|(b)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4052|(b)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4052|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§4052|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§4052|(b)">§ 4052(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

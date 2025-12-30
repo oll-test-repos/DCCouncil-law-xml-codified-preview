@@ -3,13 +3,61 @@
   <prefix>§</prefix>
   <num>42-3505.01(Perm)</num>
   <heading>Evictions.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§42-3505.01">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
-    <text>Except as provided in this section, no tenant shall be evicted from a rental unit, notwithstanding the expiration of the tenant's lease or rental agreement, so long as the tenant continues to pay the rent to which the housing provider is entitled for the rental unit; provided, that the nonpayment of a late fee shall not be the basis for an eviction. No tenant shall be evicted from a rental unit for any reason other than for nonpayment of rent unless the tenant has been served with a written notice to vacate which meets the requirements of this section. Notices to vacate for all reasons other than for nonpayment of rent shall be served upon both the tenant and the Rent Administrator. All notices to vacate shall contain a statement detailing the reasons for the eviction, and if the housing accommodation is required to be registered by this chapter, a statement that the housing accommodation is registered with the Rent Administrator.</text>
+    <para>
+      <num>(1)</num>
+      <text>Except as provided in this section, no tenant shall be evicted from a rental unit, notwithstanding the expiration of the tenant's lease or rental agreement, so long as the tenant continues to pay the rent to which the housing provider is entitled for the rental unit; provided, that the nonpayment of a late fee shall not be the basis for an eviction. No tenant shall be evicted from a rental unit for any reason unless the tenant has been served with a written notice which meets the requirements of this section. Notices for all reasons other than for nonpayment of rent shall be served upon both the tenant and the Rent Administrator.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If a notice is served by posting a copy on the premises, a photograph of the posted notice must be submitted to the court. The photograph must have a readable timestamp that indicates the date and time of when the summons was posted.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If the landlord knows the tenant speaks a primary language other than English or Spanish that is covered under <cite path="§2-1933">§ 2-1933</cite>, the landlord must provide the notice in that language.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Court shall dismiss a claim brought by a housing provider to recover possession of a rental unit where the housing provider:</text>
+      <para>
+        <num>(A)</num>
+        <text>Did not provide notice as required by this section;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Filed the claim to recover possession of the rental unit before the number of days of notice required by this section had elapsed;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>In cases where a notice to quit or a summons and complaint are served by posting on the leased premise, failed to provide the Superior Court of the District of Columbia with photographic evidence of the posted service with a readable timestamp that indicates the date and time of when the notice or summons were posted, or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>In cases where the landlord knows the tenant speaks a primary language other than English or Spanish that is covered under <cite path="§2-1933">§ 2-1933</cite>, failed to provide the notice required by this section in that language.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>A housing provider shall provide the tenant with notice of the housing provider's intent to file a claim against a tenant to recover possession of a rental unit for the non-payment of rent at least 30 days before filing the claim; except, that the housing provider shall not issue such notice if the amount of rent that the tenant has failed to pay is less than $600.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Notice provided to a tenant shall contain the following or substantively similar language:</text>
+      <text>The total amount of rent owed is [list specific amount due]. A ledger showing the dates of rent charges and payments for the period of delinquency is attached. You have the right to remain in the rental unit if the total balance of unpaid rent is paid in full.</text>
+      <aftertext>[Name of housing provider] has the right to file a case in court seeking your eviction if the amount of rent you owe is equal to at least $600 and you do not pay the balance of unpaid rent in full within 30 days of this notice. If the amount you owe is lower than $600, [name of housing provider] can notify you of the amount due but cannot file a case in court seeking your eviction.</aftertext>
+      <aftertext>You have the right to defend yourself in court. Only a court can order your eviction. For further help or to seek free legal services, contact the Office of the Tenant Advocate at 202-719-6560 or the Landlord Tenant Legal Assistance Network at 202-780-2575.</aftertext>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>A housing provider may recover possession of a rental unit where the tenant is violating an obligation of tenancy and fails to correct the violation within 30 days after receiving from the housing provider a notice to correct the violation or vacate.</text>
+    <text>A housing provider may recover possession of a rental unit when the tenant is violating an obligation of the tenancy, other than nonpayment of rent, and fails to correct the violation within 30 days after receiving notice from the housing provider.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -86,7 +134,7 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>An inspector from the Department of Consumer and Regulatory Affairs has inspected the housing accommodation for the accuracy of material statements in the application and has reported his or her findings to the Rent Administrator and the Chief Tenant Advocate;</text>
+          <text>An inspector from the Department of Buildings has inspected the housing accommodation for the accuracy of material statements in the application and has reported his or her findings to the Rent Administrator and the Chief Tenant Advocate;</text>
         </para>
         <para>
           <num>(iv)</num>
@@ -407,6 +455,21 @@
     <num>(p)</num>
     <text>Repealed.</text>
   </para>
+  <para>
+    <num>(q)</num>
+    <text>No tenant shall be evicted from a rental unit unless the housing provider provides documentation to the court at the time of filing a writ of restitution demonstrating that the housing provider has a current business license for rental housing issued pursuant to <cite path="§47-2828|(c)|(1)">§ 47-2828(c)(1)</cite>, unless the court waived the license requirement. The requirements of this subsection shall not apply to complaints involving subtenants.</text>
+  </para>
+  <para>
+    <num>(r)</num>
+    <para>
+      <num>(1)</num>
+      <text>The court shall stay any proceedings for a claim brought by a housing provider to recover possession of a rental unit for non-payment of rent if a tenant submits documentation to the court demonstrating that he or she has a pending Emergency Rental Assistance Program application. Proceedings shall be stayed until a determination of funding has been made and, if the application is approved, funding has been distributed to the housing provider.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>When an eviction that involves non-payment of rent has been authorized by the court and a tenant notifies the housing provider that he or she has a pending Emergency Rental Assistance Program application no later than 48 hours prior to the scheduled date and time of the eviction, the housing provider shall reschedule the eviction for a date no earlier than 3 weeks from the current scheduled eviction date to allow for the application to be processed, a determination of funding to be made, and, if the application is approved, funding to be distributed to the housing provider. Any further stay or rescheduling of the eviction date may only be granted by order of the Superior Court or by agreement of the housing provider.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 6-10" type="History" path="§501">July 17, 1985, D.C. Law 6-10, § 501, 32 DCR 3089</annotation>
     <annotation doc="D.C. Law 6-192" type="History">Feb. 24, 1987, D.C. Law 6-192, § 13(g), 33 DCR 7836</annotation>
@@ -426,5 +489,9 @@
     <annotation doc="D.C. Law 22-33" path="§7045" type="History">Dec. 13, 2017, D.C. Law 22-33, § 7045, 64 DCR 7652</annotation>
     <annotation doc="D.C. Law 22-245" path="§2|(a)" type="History">Mar. 13, 2019, D.C. Law 22-245, § 2(a), 66 DCR 962</annotation>
     <annotation doc="D.C. Law 23-72" path="§2|(b)" type="History">Apr. 16, 2020, D.C. Law 23-72, § 2(b), 67 DCR 2476</annotation>
+    <annotation doc="D.C. Law 23-269" path="§501|(y)|(6)" type="History">Apr. 5, 2021, D.C. Law 23-269, § 501(y)(6), 68 DCR 1490</annotation>
+    <annotation doc="D.C. Law 24-115" path="§3|(a)" type="History">May 18, 2022, D.C. Law 24-115, § 3(a), 69 DCR 2638</annotation>
+    <annotation doc="D.C. Law 24-287" path="§102" type="History">Mar. 10, 2023, D.C. Law 24-287, § 102, 70 DCR 538</annotation>
+    <annotation doc="D.C. Law 25-65" path="§2|(c)" type="History">Nov. 28, 2023, D.C. Law 25-65, § 2(c), 70 DCR 13822</annotation>
   </annotations>
 </section>

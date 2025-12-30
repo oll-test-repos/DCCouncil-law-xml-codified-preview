@@ -93,6 +93,10 @@
         <text>incest (<cite path="§22-1901">§ 22-1901</cite>).</text>
       </para>
     </para>
+    <para>
+      <num>(1A)</num>
+      <text>Any offense that is properly joinable with any of the crimes listed in paragraph (1) of this subsection is barred if not commenced within 15 years after it is committed.</text>
+    </para>
     <para placeholder="Repealed">
       <num>(2)</num>
       <text>[Repealed].</text>
@@ -268,6 +272,10 @@
       <num>(5)</num>
       <text>The period of limitation shall not begin to run for forced labor, trafficking in labor or commercial sex, sex trafficking of children, and benefitting financially from human trafficking until the victim is no longer subject to the means used to obtain or maintain his or her labor or services or commercial sex acts.</text>
     </para>
+    <para>
+      <num>(6)</num>
+      <text>The period of limitation for an offense under <cite path="§22-1431|(b)">[§ 22-1431(b)]</cite>, shall not begin to run until the victim reaches 18 years of age.</text>
+    </para>
   </para>
   <para>
     <num>(e)</num>
@@ -321,5 +329,11 @@
     <annotation doc="D.C. Law 22-311" path="§5|(b)" type="Applicability" history="false" app="2019-05-03" eff="2019-05-03"><cite doc="D.C. Law 22-311" path="§5|(b)">Section 5(b) of D.C. Law 22-311</cite> provided that the amendments made to this section by D.C. Law 22-311 shall apply to an offense committed before, on, or, after May 3, 2019, unless the statute of limitations for the offense expired before May 3, 2019.
       </annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-311" eff="2019-05-03" path="§5|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§25|(a)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§25|(a)">§ 25(a) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§25|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§25|(a)" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§25|(a)">§ 25(a) of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§25|(a)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§30|(a)" type="History"/>
+    <annotation app="2025-04-18" doc="D.C. Law 25-322" eff="2025-04-18" path="§4" type="History"/>
   </annotations>
 </section>

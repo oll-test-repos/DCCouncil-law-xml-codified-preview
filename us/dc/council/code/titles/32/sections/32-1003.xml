@@ -1,30 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1003</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-1003(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Requirements.</heading>
   <para>
     <num>(a)</num>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>Except as provided in subsection (h) of this section, as of January 1, 2005, the minimum wage required to be paid to any employee by any employer in the District of Columbia shall be $6.60 an hour, or the minimum wage set by the United States government pursuant to the Fair Labor Standards Act (29 U.S.C. § 206 et seq.) (“Fair Labor Standards Act”), plus $1, whichever is greater.</text>
+      <text>Repealed.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>Except as provided in subsection (h) of this section, as of January 1, 2006, the minimum wage required to be paid to any employee by any employer in the District of Columbia shall be $7 an hour, or the minimum wage set by the United States government pursuant to the Fair Labor Standards Act, plus $1, whichever is greater.</text>
+      <text>Repealed.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>Except as provided in subsection (h) of this section, as of July 1, 2014, the minimum wage required to be paid to any employee by any employer in the District of Columbia shall be $9.50 an hour, or the minimum wage set by the United States government pursuant to the Fair Labor Standards Act, plus $1, whichever is greater.</text>
+      <text>Repealed.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(4)</num>
-      <text>Except as provided in subsection (h) of this section, as of July 1, 2015, the minimum wage required to be paid to any employee by any employer in the District of Columbia shall be $10.50 an hour, or the minimum wage set by the United States government pursuant to the Fair Labor Standards Act, plus $1, whichever is greater.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(5)</num>
       <para>
         <num>(A)</num>
-        <text>Except as provided in subsection (h) of this section and subparagraph (B) of this paragraph, the minimum hourly wage required to be paid to an employee by an employer shall be as of:</text>
+        <text>Except as provided in subsection (h) of this section and subparagraph (B) of this paragraph, the minimum hourly wage shall be as of:</text>
         <para>
           <num>(i)</num>
           <text>July 1, 2016:  $11.50;</text>
@@ -65,15 +68,19 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>A person shall be employed in the District of Columbia when:</text>
+    <text>Except as provided in subsection (h) of this section, an employer shall pay the minimum wage established pursuant to subsection (a) of this section to an employee for all hours the employee works for the employer when:</text>
     <para>
       <num>(1)</num>
-      <text>The person regularly spends more than 50% of their working time in the District of Columbia; or</text>
+      <text>The employee regularly spends more than 50% of their working time in the District of Columbia; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The person’s employment is based in the District of Columbia and the person regularly spends a substantial amount of their working time in the District of Columbia and not more than 50% of their working time in any particular state.</text>
+      <text>The employee's employment is based in the District of Columbia and the employee regularly spends a substantial amount of their working time in the District of Columbia and not more than 50% of their working time in any particular state.</text>
     </para>
+  </para>
+  <para>
+    <num>(b-1)</num>
+    <text>Except as provided in subsection (h) of this section, an employee shall not be paid less than the District's minimum wage for each hour worked in the District when an employee performs at least 2 hours of work in the District, for the same employer, within one workweek.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -99,31 +106,47 @@
     <num>(f)</num>
     <para>
       <num>(1)</num>
-      <text>The minimum hourly wage required to be paid by an employer to an employee who receives gratuities ("tipped minimum wage"), provided that the employee actually receives gratuities in an amount at least equal to the difference between the hourly wage paid and the minimum hourly wage as set by subsection (a) of this section, shall be as of:</text>
-      <para>
-        <num>(A)</num>
-        <text>January 1, 2005: $2.77;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>July 1, 2017: $3.33;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>July 1, 2018: $3.89:</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>July 1, 2019: $ 4.45; and</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>July 1, 2020: $ 5.00.</text>
-      </para>
+      <text>For purposes of this subsection, the term "tipped minimum wage" shall mean the minimum hourly wage required to be paid by an employer to an employee who receives tips.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Beginning on July 1, 2021, and no later than July 1 of each successive year, the tipped minimum wage shall be increased in proportion to the annual average increase, if any, in the Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical Area published by the Bureau of Labor Statistics of the United States Department of Labor for the previous calendar year. Any increase under this paragraph shall be adjusted to the nearest multiple of $.05.</text>
+      <text>As of July 1, 2021, the "tipped minimum wage" shall be $5.05 an hour with tips on top; provided , that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section. This tipped minimum wage will increase on July 1, 2022 in proportion to the annual average increase, if any, in the Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical Area published by the Bureau of Labor Statistics of the United States Department of Labor for the previous calendar year. Any increase under this paragraph shall be adjusted to the nearest multiple of $.05.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of May 1, 2023, the tipped minimum wage shall be not less than $6.00 an hour with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of July 1, 2023, the tipped minimum wage shall be not less than $8.00 an hour, with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of July 1, 2024, the tipped minimum wage shall be not less than $10.00 an hour, with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(6)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(6A)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of July 1, 2026, the tipped minimum wage shall be 56% of the minimum wage provided in subsection (a) of this section, with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of July 1, 2028, the tipped minimum wage shall be 60% of the minimum wage provided in subsection (a) of this section, with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of July 1, 2030, the tipped minimum wage shall be 65% of the minimum wage provided in subsection (a) of this section, with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of July 1, 2032, the tipped minimum wage shall be 70% of the minimum wage provided in subsection (a) of this section, with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Except as provided in subsections (h) and (i) of this section, as of July 1, 2034, the tipped minimum wage shall be 75% of the minimum wage provided in subsection (a) of this section, with tips on top; provided, that the employee actually receives tips in an amount at least equal to the difference between the hourly wage paid and the minimum wage as set by subsection (a) of this section.</text>
     </para>
   </para>
   <para>
@@ -165,6 +188,10 @@
   <para>
     <num>(h)</num>
     <text>Beginning on July 1, 2019, and no later than July 1 of each successive year, an employer shall pay a security officer working in an office building in the District of Columbia wages, or any combination of wages and benefits, that are not less than the combined amount of the minimum wage and fringe benefit rate in effect on September 1 of the immediately preceding year for the guard 1 classification established by the United States Secretary of Labor pursuant to Chapter 67 of Title 41 of the United States Code (41 U.S.C. § 6701 <em>et seq.</em>), as amended.</text>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>The provisions of subsection (f)(2), (3), (4), (5), (6)(6A), (7), (8), (9), and (10) of this section shall not apply to employees of the District of Columbia, or to employees employed to perform services provided under contracts with the District of Columbia. Those employees shall continue to be subject to the minimum wage requirements of <cite path="32|10|I">this subchapter</cite> as they existed before the February 23, 2023, and to the requirements of all other applicable laws, regulations, or policies relating to wages or benefits, including <cite path="2|2|X-A">subchapter X-A of Chapter 2 of Title 2</cite>.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 7004 of Law 20-155 repealed <cite doc="D.C. Law 20-91">D.C. Law 20-91</cite>, § 3.</text>
@@ -215,5 +242,55 @@
     <annotation doc="D.C. Law 23-149" path="§7065" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7065">Section 7065 of D.C. Law 23-149</cite> amended <cite doc="D.C. Law 22-196" path="§8">section 8 of D.C. Law 22-196</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by section 6(b) of Law 22-196 has been implemented.
         </annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7065" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-3" path="§2" codified:display="Note" app="2023-01-26" eff="2023-01-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-3" path="§2">§ 2 of Tipped Minimum Wage Increase Implementation Clarification Emergency Amendment Act of 2023 (D.C. Act 25-3, Jan. 26, 2023, 70 DCR 1628)</cite>.</annotation>
+    <annotation app="2023-01-26" doc="D.C. Act 25-3" eff="2023-01-26" path="§2" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-281" eff="2023-02-23" path="§2|(a)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-281" eff="2023-02-23" path="§2|(b)" type="History"/>
+    <annotation doc="D.C. Law 24-281" path="§3" type="Editor's Notes" history="false" app="2023-02-23" eff="2023-02-23"><cite doc="D.C. Law 24-281" path="§3">Section 3 of D.C. Law 24-281</cite> provides that nothing in D.C. Law 24-281 shall be construed as preventing the Council of the District of Columbia from increasing minimum wages or benefits to levels in excess of those provided for in D.C. Law 24-281 for any category of employees.
+      
+    </annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-281" eff="2023-02-23" path="§3" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-281" path="§4" type="Editor's Notes" history="false" app="2023-02-23" eff="2023-02-23"><cite doc="D.C. Law 24-281" path="§4">Section 4 of D.C. Law 24-281</cite> provides that nothing in D.C. Law 24-281 act shall be construed as preventing employers, during any period in which §32-1003(f)(7) is in effect, from implementing a mandatory tip sharing policy among all employees, regardless of whether such employees normally receive tips
+    </annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-281" eff="2023-02-23" path="§4" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-281" path="§5" type="Editor's Notes" history="false" app="2023-02-23" eff="2023-02-23"><cite doc="D.C. Law 24-281" path="§5">Section 5 of D.C. Law 24-281</cite> provides that if any section of Law 24-281 or its application to any persons or circumstances is held invalid, the remainder of this measure, or the application of its provisions to other persons or circumstances, shall not be affected. To this end, the provisions of Law 24-281 are severable.
+    </annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-281" eff="2023-02-23" path="§5" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-2" path="§2" codified:display="Note" app="2023-04-19" eff="2023-04-19">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-2" path="§2">§ 2 of Tipped Minimum Wage Increase Implementation Clarification Temporary Amendment Act of 2023 (D.C. Law 25-2, Apr. 19, 2023, 70 DCR 2648)</cite>.</annotation>
+    <annotation app="2023-04-19" doc="D.C. Law 25-2" eff="2023-04-19" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-2" path="§3" type="Applicability" history="false" app="2023-04-19" eff="2023-04-19"><cite doc="D.C. Law 25-2" path="§3">Section 3 of D.C. Law 25-2</cite> (temporary (225-day) legislaiton) provided that the amendments made by D.C. Law 25-2 to this section shall apply as of November 30, 2022.
+    </annotation>
+    <annotation app="2023-04-19" doc="D.C. Law 25-2" eff="2023-04-19" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-321" path="§2" codified:display="Note" app="2023-11-21" eff="2023-11-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-321" path="§2">§ 2 of Tipped Wage Increase Implementation Clarification Second Emergency Amendment Act of 2023 (D.C. Act 25-321, Nov. 21, 2023, 70 DCR 15486)</cite>.</annotation>
+    <annotation app="2023-11-21" doc="D.C. Act 25-321" eff="2023-11-21" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-120" path="§2" codified:display="Note" app="2024-02-06" eff="2024-02-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-120" path="§2">§ 2 of Tipped Wage Increase Implementation Clarification Second Temporary Amendment Act of 2023 (D.C. Law 25-120, Feb. 6, 2024, 70 DCR 15733)</cite>.</annotation>
+    <annotation app="2024-02-06" doc="D.C. Law 25-120" eff="2024-02-06" path="§2" type="History" display="false"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-132" eff="2024-03-01" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-132" eff="2024-03-01" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-132" eff="2024-03-01" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-132" eff="2024-03-01" path="§2|(b)|(3)|(A)" type="History"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-132" eff="2024-03-01" path="§2|(b)|(3)|(B)" type="History"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-132" eff="2024-03-01" path="§2|(c)" type="History"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-132" eff="2024-03-01" path="§2|(b)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-587" path="§2" codified:display="Note" app="2024-10-23" eff="2024-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-587" path="§2">§ 2 of Labor and Safety Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-587, Oct. 23, 2024, 71 DCR 12966)</cite>.</annotation>
+    <annotation app="2024-10-23" doc="D.C. Act 25-587" eff="2024-10-23" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-233" path="§2" codified:display="Note" app="2024-12-12" eff="2024-12-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-233" path="§2">§ 2 of Labor and Safety Omnibus Temporary Amendment Act of 2024 (D.C. Law 25-233, Dec. 12, 2024, 71 DCR 12968)</cite>.</annotation>
+    <annotation app="2024-12-12" doc="D.C. Law 25-233" eff="2024-12-12" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-94" path="§2" codified:display="Note" app="2025-06-30" eff="2025-06-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-94" path="§2">§ 2 of Tipped Minimum Wage Increase Clarification Emergency Amendment Act of 2025 (D.C. Act 26-94, June 30, 2025, 72 DCR 7561)</cite>.</annotation>
+    <annotation app="2025-06-30" doc="D.C. Act 26-94" eff="2025-06-30" path="§2" type="History" display="false"/>
+    <annotation doc="D.C. Act 26-146" path="§2222|(a)" type="Applicability" app="2025-09-03" eff="2025-09-03"><cite doc="D.C. Act 26-146" path="§2223">Section 2223 of D.C. Act 26-146</cite> provided that the amendments made to subsection (f) of this section shall apply as of July 25, 2025.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2222|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2222|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2222|(a)">§ 2222(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2222|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)|(1)|(A)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)|(1)|(B)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)|(1)|(C)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)|(1)|(D)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)|(1)|(E)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)|(2)" type="History"/>
+    <annotation doc="D.C. Act 26-210" path="§2222|(a)" type="Applicability" app="2025-11-24" eff="2025-11-24"><cite doc="D.C. Act 26-210" path="§2223">Section 2223 of D.C. Act 26-210</cite> provided that the amendments made to subsection (f) of this section shall apply as of July 25, 2025.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2222|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2222|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2222|(a)">§ 2222(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

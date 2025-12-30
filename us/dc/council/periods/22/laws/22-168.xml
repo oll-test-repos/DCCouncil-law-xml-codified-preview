@@ -1102,7 +1102,7 @@
           <para>
             <num>(2)</num>
             <text>Paragraph (3A) is redesignated as paragraph (3B).</text>
-            <codify:replace codify:path="(3B)|num" codified:doc="D.C. Code" codified:path="§1-1161.01|[(3C)]">
+            <codify:replace codify:path="(3B)|num" codified:doc="D.C. Code" codified:path="§1-1161.01|(3C)">
               <num>[(3C)]</num>
             </codify:replace>
           </para>
@@ -1111,7 +1111,7 @@
             <text>A new paragraph (3A) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert after="(3A)" num-value="[(3B)]" codified:doc="D.C. Code" codified:path="§1-1161.01|[(3B)]"/>
+                <codify:insert after="(3A)" num-value="[(3B)]" codified:doc="D.C. Code" codified:path="§1-1161.01|(3B)"/>
                 <num>(3A)</num>
                 <text>"Board" means the Board of Ethics and Government Accountability established by <code-cite doc="D.C. Code" path="§1-1162.02">section 202</code-cite>.</text>
               </para>
@@ -2199,7 +2199,7 @@
             <find>Office.</find>
             <replace>Office. [Repealed]</replace>
           </codify:find-replace>
-          <codify:repeal path="2|5|V" display-template="" codified:doc="D.C. Code" codified:path="§2-591"/>
+          <codify:repeal path="2|5|V" display-template="" codified:doc="D.C. Code" codified:path="§2-591|annos"/>
         </para>
       </section>
       <section codify:path="§1-1171.01|(1)">
@@ -2489,14 +2489,14 @@
             <num>(1)</num>
             <text>"Certified Business Enterprise agreement" means an agreement with the Department of Small and Local Business Development pursuant to <code-cite doc="D.C. Code" path="2|2|IX-A">the Small and Certified Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 <em>et seq.</em>)</code-cite>.</text>
           </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>"First Source agreement" means an agreement with the Department of Employment Services governing certain obligations of the developer pursuant to <code-cite doc="D.C. Code" path="§2-219.03">section 4 of the First Source Employment Agreement Act of 1984, effective June 29, 1984 (D.C. Law 5-93; D.C. Official Code § 2-219.03),</code-cite> and Mayor's Order 83-265, dated November 9, 1983, regarding job creation and employment generated as a result of the construction on the property.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>"Qualifying project" means a mixed-use or retail real estate development project that is in a low-income community, as that term is defined in section 45D of the Internal Revenue Code of 1986, approved December 21, 2000 (114 Stat. 2763; 26 U.S.C. § 45D).</text>
+          <para>
+            <num>(2)</num>
+            <text>"First Source agreement" means an agreement with the Department of Employment Services governing certain obligations of the developer pursuant to <code-cite doc="D.C. Code" path="§2-219.03">section 4 of the First Source Employment Agreement Act of 1984, effective June 29, 1984 (D.C. Law 5-93; D.C. Official Code § 2-219.03),</code-cite> and Mayor's Order 83-265, dated November 9, 1983, regarding job creation and employment generated as a result of the construction on the property.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>"Qualifying project" means a mixed-use or retail real estate development project that is in a low-income community, as that term is defined in section 45D of the Internal Revenue Code of 1986, approved December 21, 2000 (114 Stat. 2763; 26 U.S.C. § 45D).</text>
+          </para>
         </para>
       </section>
     </container>
@@ -4192,11 +4192,11 @@
               </para>
               <para>
                 <num>(c)</num>
-                <text>Money in the Fund shall be used for developing and maintaining the database created by <span codify:value="["/><code-cite doc="D.C. Code" path="§42-3502.03c|(a)">section 203a(a)</code-cite><span codify:value="]"/>.</text>
+                <text>Money in the Fund shall be used for developing and maintaining the database created by <code-cite doc="D.C. Code" path="§42-3502.03c|(a)">section 203a(a)</code-cite>.</text>
               </para>
               <para>
                 <num>(d)</num>
-                <text>While the Office of Tenant Advocate is developing and administering the database, it shall administer the Fund.  The Office of Tenant Advocate shall transfer Fund administration to the Rent Administrator upon transferring administration and maintenance of the database to the Division pursuant to <span codify:value="["/><code-cite doc="D.C. Code" path="§42-3502.03c|(e-2)">section 203a(e-2)</code-cite><span codify:value="]"/>.</text>
+                <text>While the Office of Tenant Advocate is developing and administering the database, it shall administer the Fund.  The Office of Tenant Advocate shall transfer Fund administration to the Rent Administrator upon transferring administration and maintenance of the database to the Division pursuant to <code-cite doc="D.C. Code" path="§42-3502.03c|(e-2)">section 203a(e-2)</code-cite>.</text>
               </para>
               <para>
                 <num>(e)</num>
@@ -4306,7 +4306,7 @@
                     <num>(B)</num>
                     <para>
                       <num>(i)</num>
-                      <text>Beginning 241 days after <span codify:value="October 30, 2018">the effective date of the Rental Housing Registration Update Amendment Act of 2018, passed on 2nd reading on June 26, 2018 (Enrolled version of Bill 22-753)</span>, a housing provider, other than the federal government, who fails to register a housing accommodation under this section shall pay a penalty of $100 per unit to the District government.  The penalty shall be deposited into the Rental Housing Registration Fund established by <span codify:value="["/><code-cite doc="D.C. Code" path="§42-3502.03e">section 203b</code-cite><span codify:value="]"/>.</text>
+                      <text>Beginning 241 days after <span codify:value="October 30, 2018">the effective date of the Rental Housing Registration Update Amendment Act of 2018, passed on 2nd reading on June 26, 2018 (Enrolled version of Bill 22-753)</span>, a housing provider, other than the federal government, who fails to register a housing accommodation under this section shall pay a penalty of $100 per unit to the District government.  The penalty shall be deposited into the Rental Housing Registration Fund established by <code-cite doc="D.C. Code" path="§42-3502.03e">section 203b</code-cite>.</text>
                     </para>
                     <para>
                       <num>(ii)</num>
@@ -5189,8 +5189,8 @@
         <text>Section 204(d) of the Freedom of Information Act of 1976, effective March 29, 1977 (D.C. Law 1-96; D.C. Official Code § 2-534(d)), is amended by adding a new paragraph (3) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§2-534|(d)|(3)"/>
-            <num>(3)</num>
+            <codify:insert codified:doc="D.C. Code" codified:path="§2-534|(d)|[(2)]"/>
+            <num codify:value="[(2)]">(3)</num>
             <text>The provisions of <code-cite doc="D.C. Code" path="2|5|II">this title</code-cite> shall not apply to:</text>
             <para>
               <num>(A)</num>
@@ -6609,7 +6609,6 @@
         <para codify:path="§38-2602|(b)">
           <num>(b)</num>
           <text>Section 3(d) is repealed.</text>
-          <codify:repeal path="(30)" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(30)"/>
         </para>
         <para>
           <num>(c)</num>
@@ -7251,7 +7250,7 @@
           <para>
             <num>(1)</num>
             <text>The lead-in language is amended by striking the date "February 1, 2018" and inserting the date "October 1, 2018" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1409|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1409">
               <find>February 1, 2018</find>
               <replace>October 1, 2018</replace>
             </codify:find-replace>
@@ -7259,8 +7258,8 @@
           <para>
             <num>(2)</num>
             <text>Paragraphs (7) and (8) are repealed.</text>
-            <codify:repeal path="(7)" codified:doc="D.C. Code" codified:path="§7-1409|(a)|(7)"/>
-            <codify:repeal path="(8)" codified:doc="D.C. Code" codified:path="§7-1409|(a)|(8)"/>
+            <codify:repeal path="(7)" codified:doc="D.C. Code" codified:path="§7-1409"/>
+            <codify:repeal path="(8)" codified:doc="D.C. Code" codified:path="§7-1409"/>
           </para>
         </para>
         <para>
@@ -7268,7 +7267,7 @@
           <text>A new subsection (b) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-1409|(b)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§7-1409"/>
               <num>(b)</num>
               <text>Within one year after <span codify:value="October 30, 2018">the effective date of the D.C. Healthcare Alliance Recertification Reporting Amendment Act of 2018, passed on 2nd reading on June 26, 2018 (Enrolled version of Bill 22-753)</span>, the Mayor shall submit a public report to the Council that shall include, for each of the last 12 months, the following information:</text>
               <para>
@@ -7304,8 +7303,8 @@
           <find>Repealed</find>
           <replace>Not funded</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§7-1409|(b)" history="false" codified:doc="D.C. Code" codified:path="§7-1409|(b)"/>
-        <codify:find-replace doc="D.C. Code" path="§7-1409|(b)" count="1" history="false" codified:doc="D.C. Code" codified:path="§7-1409|(b)">
+        <codify:repeal doc="D.C. Code" path="§7-1409|(b)" history="false" codified:doc="D.C. Code" codified:path="§7-1409"/>
+        <codify:find-replace doc="D.C. Code" path="§7-1409|(b)" count="1" history="false" codified:doc="D.C. Code" codified:path="§7-1409">
           <find>Repealed</find>
           <replace>Not funded</replace>
         </codify:find-replace>
@@ -8038,7 +8037,7 @@
               <text>A new subsection (d) is added to read as follows:</text>
               <include>
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§47-2002|(d)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§47-2002|(d)|(1)"/>
                   <num>(d)</num>
                   <text>5% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before <span codify:value="October 30, 2018">the effective date of this subsection</span>, shall be dedicated to the Commission on the Arts and Humanities established by <code-cite doc="D.C. Code" path="39|2">the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201, <em>et seq.</em>,</code-cite> to support the functions, purposes, and costs of the Commission.</text>
                 </para>
@@ -8137,7 +8136,7 @@
               <text>A new subsection (b) is added to read as follows:</text>
               <include>
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§47-2202|(b)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§47-2202|(b)|(1)"/>
                   <num>(b)</num>
                   <text>5% of the use tax revenue collected at the rate provided by the lead-in language of subsection (a) that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District Bonds or notes existing on or before <span codify:value="[October 30, 2018]">the effective date of this subsection</span> shall be dedicated to the Commission on the Arts and Humanities, established by <code-cite doc="D.C. Code" path="39|2">the Commission on the Arts and Humanities Act, effective January 29, 1998 (D.C. Law 12-42; D.C. Official Code § 39-201, <em>et seq</em>.)</code-cite> to support the functions, purposes, and costs of the Commission.</text>
                 </para>
@@ -8579,8 +8578,8 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <annotation doc="D.C. Law 11-111" type="History" path="§216b">Apr. 18, 1996, D.C. Law 11-111, § 216b</annotation>
         </para>
-        <annotation doc="D.C. Law 11-111" type="History" path="§216b">Apr. 18, 1996, D.C. Law 11-111, § 216b</annotation>
       </section>
     </container>
     <container>
@@ -8643,7 +8642,7 @@
         <text>This subtitle may be cited as the "School and Park Facilities and Grounds 311 Expansion Act of 2018".</text>
       </section>
       <section>
-        <codify:replace path="§10-721" display="New Subchapter III, Chapter 7, Title 10 New" codified:doc="D.C. Code" codified:path="§10-721"/>
+        <codify:replace path="§10-721" display="New Subchapter III, Chapter 7, Title 10 New" codified:doc="D.C. Code" codified:path="§10-721|(a)"/>
         <num codify:value="10-721">6072</num>
         <heading codify:value="School and Park Facilities and Grounds 311 Expansion."/>
         <text>Within 180 days after <span codify:value="October 30, 2018">the effective date of this act</span>, the Mayor shall permit persons to submit requests via the District's 311 system for repairs and other maintenance services at Department of Parks and Recreation and District of Columbia Public Schools facilities and grounds that are maintained by the Department of General Services.</text>
@@ -9171,9 +9170,9 @@
         <text>Section 656(c) of the Fire and Police Medical Leave and Limited Duty Amendment Act of 2004, effective May 1, 2013 (D.C. Law 19-311; D.C. Official Code § 5-656(c)), is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace doc="D.C. Law 15-194" path="§656|(c)" codified:doc="D.C. Code" codified:path="§5-656|(c)"/>
+            <codify:replace doc="D.C. Law 15-194" path="§656|(c)" codified:doc="D.C. Code" codified:path="§5-656"/>
             <num>(c)</num>
-            <text><code-cite doc="D.C. Code" path="§5-652">Section 652</code-cite> shall apply as of October 1, 2018.</text>
+            <text><code-cite doc="D.C. Code" path="§5-652" codify:value="Section 5-652">Section 652</code-cite> shall apply as of October 1, 2018.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -9308,11 +9307,6 @@
               <num>(a)</num>
               <text>Amendatory section 501a(b) of the Healthy Schools Act of 2010, effective July 27, 2010 (D.C. Law 18-209; D.C. Official Code § 38-821.01 <em>et seq.</em>), within section 2(c) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
               <codify:repeal doc="D.C. Law 22-21" path="§11"/>
-              <codify:repeal doc="D.C. Code" path="§38-825.01a|(b)" history="false" codified:doc="D.C. Code" codified:path="§38-825.01a|(b)"/>
-              <codify:find-replace doc="D.C. Code" path="§38-825.01a|(b)" count="1" history="false" codified:doc="D.C. Code" codified:path="§38-825.01a|(b)">
-                <find>Repealed</find>
-                <replace>Not Funded</replace>
-              </codify:find-replace>
               <codify:annotation doc="D.C. Code" path="§38-821.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-821.01"><cite doc="D.C. Law 22-168" path="§7019">Section 7019 of D.C. Law 22-168</cite> amendeded <cite doc="D.C. Law 22-21" path="§11">section 11 of D.C. Law 22-21</cite>  removing the applicability restriction impacting this section. Therefore the amendments made to this section by <cite doc="D.C. Law 22-21">D.C. Law 22-21</cite> have been implemented.</codify:annotation>
               <codify:annotation doc="D.C. Code" path="§38-825.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-825.01"><cite doc="D.C. Law 22-168" path="§7019">Section 7019 of D.C. Law 22-168</cite> amendeded <cite doc="D.C. Law 22-21" path="§11">section 11 of D.C. Law 22-21</cite>  removing the applicability restriction impacting this section. Therefore the amendments made to this section by <cite doc="D.C. Law 22-21">D.C. Law 22-21</cite> have been implemented.</codify:annotation>
               <codify:annotation doc="D.C. Code" path="§38-825.01a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-825.01a"><cite doc="D.C. Law 22-168" path="§7019">Section 7019 of D.C. Law 22-168</cite> amendeded <cite doc="D.C. Law 22-21" path="§11">section 11 of D.C. Law 22-21</cite> removing the applicability restriction impacting this section. Therefore the amendments made to this section by <cite doc="D.C. Law 22-21">D.C. Law 22-21</cite> have been implemented, except for subsection (b) of section.</codify:annotation>
@@ -9405,7 +9399,7 @@
         <num>7027</num>
         <text>Section 4 of the Africare Real Property Tax Relief Act of 2018, effective March 29, 2018 (D.C. Law 22-79; 65 DCR 1563), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-79" path="§4"/>
-        <codify:annotation doc="D.C. Law 22-79" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§[47-1099.02]"><cite doc="D.C. Law 22-168" path="§7027">Section 7027 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-79" path="§4">section 4 of D.C. Law 22-79</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-79">D.C. Law 22-79</cite> has been implemented.</codify:annotation>
+        <codify:annotation doc="D.C. Law 22-79" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-1099.02"><cite doc="D.C. Law 22-168" path="§7027">Section 7027 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-79" path="§4">section 4 of D.C. Law 22-79</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-79">D.C. Law 22-79</cite> has been implemented.</codify:annotation>
       </section>
       <section>
         <num>7028</num>
@@ -9474,7 +9468,7 @@
         <num>7034</num>
         <text>Section 3 of the University of the District of Columbia Leased Property Tax Abatement Amendment Act of 2018, enacted on May 3, 2018 (D.C. Act 22-319; 65 DCR 5028), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-114" path="§3"/>
-        <codify:annotation doc="D.C. Code" path="§[47-1099.03]" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§[47-1099.03]"><cite doc="D.C. Law 22-168" path="§7034">Section 7034 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-114" path="§3">§ 3 of D.C. Law 22-114</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-114">D.C. Law 22-114</cite> has been given effect.
+        <codify:annotation doc="D.C. Code" path="§[47-1099.03]" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-1099.03"><cite doc="D.C. Law 22-168" path="§7034">Section 7034 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-114" path="§3">§ 3 of D.C. Law 22-114</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-114">D.C. Law 22-114</cite> has been given effect.
           </codify:annotation>
       </section>
       <section>
@@ -9490,7 +9484,7 @@
         <num>7036</num>
         <text>Section 4 of the Home Composting Incentives Amendment Act of 2018, enacted on May 21, 2018 (D.C. Act 22-373; 65 DCR 5984), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-146" path="§4"/>
-        <codify:annotation doc="D.C. Law 22-146" path="§2|(a)" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.01|(8A)"><cite doc="D.C. Law 22-168" path="§7036">Section 7036 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-146" path="§4">§ 4 of D.C. Law 22-146</cite> removing the applicability restriction impacting this section. Therefore the amendments made to this section by <cite doc="D.C. Law 22-146">D.C. Law 22-146</cite> have been given effect.
+        <codify:annotation doc="D.C. Law 22-146" path="§2|(a)" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.01|(8D)"><cite doc="D.C. Law 22-168" path="§7036">Section 7036 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-146" path="§4">§ 4 of D.C. Law 22-146</cite> removing the applicability restriction impacting this section. Therefore the amendments made to this section by <cite doc="D.C. Law 22-146">D.C. Law 22-146</cite> have been given effect.
           </codify:annotation>
         <codify:annotation doc="D.C. Law 22-146" path="§2|(b)" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-1031.12a"><cite doc="D.C. Law 22-168" path="§7036">Section 7036 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-146" path="§4">§ 4 of D.C. Law 22-146</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-146">D.C. Law 22-146</cite> has been given effect.
           </codify:annotation>
@@ -9513,8 +9507,8 @@
         <para codify:path="(8)">
           <num>(a)</num>
           <text>Paragraph (8) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(8)"/>
-          <codify:find-replace path="§47-1803.03|(b)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(8)">
+          <codify:repeal codified:doc="D.C. Code" codified:path="§47-1803.03|(b)"/>
+          <codify:find-replace path="§47-1803.03|(b)|(8)" count="1" codified:doc="D.C. Code" codified:path="§47-1803.03|(b)">
             <find>[Repealed]</find>
             <replace>Repealed</replace>
           </codify:find-replace>
@@ -9524,7 +9518,7 @@
           <text>A new paragraph (9) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§47-1803.03|(b)|(9)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§47-1803.03|(b)"/>
               <num>(9)</num>
               <text>A deduction allowed under section 199A of the Internal Revenue Code of 1986 (26 U.S.C. § 199A).</text>
             </para>
@@ -9575,7 +9569,7 @@
         <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (FF) to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:insert path="§47-1803.02|(a)|(2)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(FF)"/>
+            <codify:insert path="§47-1803.02|(a)|(2)" after="(EE)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(FF)"/>
             <num>(FF)</num>
             <text>The amount received by a taxpayer pursuant to <cite doc="D.C. Code" path="§7-2831|(b)">§ 7-2831(b)</cite>.</text>
           </para>
@@ -10370,7 +10364,7 @@
         <num>7202</num>
         <text>The Washington Metropolitan Area Transit Authority Fund Act of 2006, effective June 16, 2006 (D.C. Law 16-132; D.C. Official Code § 9-1108.01 <em>et seq</em>.), is repealed.</text>
         <codify:repeal doc="D.C. Law 16-132" codified:doc="D.C. Code" codified:path="§9-1108.01"/>
-        <codify:find-replace doc="D.C. Code" path="9|11|IV-A" count="1" codified:doc="D.C. Code" codified:path="§9-1108.01">
+        <codify:find-replace doc="D.C. Code" path="9|11|IV-A" count="1" codified:doc="D.C. Code" codified:path="§9-1108.01|annos">
           <find>Fund.</find>
           <replace>Fund. [Repealed]</replace>
         </codify:find-replace>
@@ -10394,7 +10388,7 @@
         <num>7204</num>
         <text>The Stroke System of Care Act of 2014, effective March 10, 2015 (D.C. Law 20-185; D.C. Official Code § 44-1151 <em>et seq</em>.), is repealed.</text>
         <codify:repeal doc="D.C. Law 20-185" codified:doc="D.C. Code" codified:path="§44-1151"/>
-        <codify:find-replace doc="D.C. Code" path="44|11A" count="1" codified:doc="D.C. Code" codified:path="§44-1151">
+        <codify:find-replace doc="D.C. Code" path="44|11A" count="1" codified:doc="D.C. Code" codified:path="§44-1151|annos">
           <find>Care.</find>
           <replace>Care. [Repealed]</replace>
         </codify:find-replace>
@@ -10403,7 +10397,7 @@
         <num>7205</num>
         <text>The Unemployment Profile Act of 2015, effective December 15, 2015 (D.C. Law 21-38; .D.C. Official Code § 32-1371 <em>et seq</em>), is repealed.</text>
         <codify:repeal doc="D.C. Code" path="§32-1371" codified:doc="D.C. Code" codified:path="§32-1371"/>
-        <codify:find-replace doc="D.C. Code" path="32|13D" count="1" codified:doc="D.C. Code" codified:path="§32-1371">
+        <codify:find-replace doc="D.C. Code" path="32|13D" count="1" codified:doc="D.C. Code" codified:path="§32-1371|annos">
           <find>Profile.</find>
           <replace>Profile. [Repealed]</replace>
         </codify:find-replace>
@@ -10756,7 +10750,7 @@
           <text>A new section 47-4668 is added to read as follows:</text>
           <include>
             <section>
-              <codify:replace path="§[47-4669]" display="New" codified:doc="D.C. Code" codified:path="§[47-4669]"/>
+              <codify:replace path="§[47-4669]" display="New" codified:doc="D.C. Code" codified:path="§47-4669"/>
               <prefix>§</prefix>
               <num codify:value="[47-4669]">47-4688</num>
               <heading>Columbian Quarter Local Jobs and Tax Reduction Incentive.</heading>
@@ -10796,7 +10790,7 @@
         <num>7243</num>
         <heading>Applicability.</heading>
         <text>This act shall not apply to any tax year before October 1, 2022.</text>
-        <codify:annotation doc="D.C. Code" path="§[47-4669]" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§[47-4669]"><cite doc="D.C. Law 22-168" path="§7243">Section 7243 of D.C. Law 22-168</cite> provided that the creation of this section by <cite doc="D.C. Law 22-168" path="§7242|(b)">section 7242(b) of D.C. Law 22-168</cite> shall not apply to any tax year before October 1, 2022.
+        <codify:annotation doc="D.C. Code" path="§[47-4669]" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-4669"><cite doc="D.C. Law 22-168" path="§7243">Section 7243 of D.C. Law 22-168</cite> provided that the creation of this section by <cite doc="D.C. Law 22-168" path="§7242|(b)">section 7242(b) of D.C. Law 22-168</cite> shall not apply to any tax year before October 1, 2022.
         </codify:annotation>
       </section>
     </container>
@@ -11350,7 +11344,7 @@
               <find>Check-Off.</find>
               <replace>Check-Off. [Repealed].</replace>
             </codify:find-replace>
-            <codify:repeal doc="D.C. Code" path="47|40" codified:doc="D.C. Code" codified:path="§47-4001"/>
+            <codify:repeal doc="D.C. Code" path="47|40" codified:doc="D.C. Code" codified:path="§47-4001|annos"/>
           </para>
         </para>
       </section>
@@ -11865,7 +11859,7 @@
               </para>
               <para>
                 <num>(e)</num>
-                <text><span codify:value="["/><cite doc="D.C. Code" path="47|3|IV">Subchapter IV</cite><span codify:value=" of this chapter]"> of Chapter 3 of Title 47 of the District of Columbia Official Code</span> shall not apply to reallocations made pursuant to this section.</text>
+                <text><cite doc="D.C. Code" path="47|3|IV">Subchapter IV of Chapter 3 of Title 47 of the District of Columbia Official Code</cite> shall not apply to reallocations made pursuant to this section.</text>
               </para>
             </section>
           </include>

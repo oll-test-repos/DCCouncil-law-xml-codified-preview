@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>44-951.09(Perm)</num>
   <heading>Budget.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§44-951.09">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
     <text>The Board shall submit its proposed fiscal year 2011 operating budget and each subsequent operating budget for the Corporation to the Mayor on the date that District departments and agencies are required to submit proposed budgets to the Mayor. Prior to submission to the Mayor, the proposed operating budget must be certified by the Chief Financial Officer of the District of Columbia as being balanced.</text>
@@ -21,7 +24,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The inpatient, outpatient, and support services necessary to provide services pursuant to subparagraphs (A) and (B) of this paragraph, appropriately scaled to require a District operating subsidy equal to or less than $22.14 million in Fiscal Year 2020 or equal to or less than $15 million per year thereafter[.]</text>
+        <text>The inpatient, outpatient, and support services necessary to provide services pursuant to subparagraphs (A) and (B) of this paragraph, appropriately scaled to require a District operating subsidy equal to or less than $22.14 million in Fiscal Year 2020 or equal to or less than $15 million per year thereafter.</text>
       </para>
     </para>
     <para>
@@ -44,5 +47,6 @@
   <annotations>
     <annotation doc="D.C. Law 19-21" type="History" path="§5120">Sept. 14, 2011, D.C. Law 19-21, § 5120, 58 DCR 6226</annotation>
     <annotation doc="D.C. Law 23-16" type="History" path="§5092|(b)">Sept. 11, 2019, D.C. Law 23-16, § 5092(b), 66 DCR 8621</annotation>
+    <annotation doc="D.C. Law 24-147" type="History" path="§107|(g)">July 12, 2022, D.C. Law 24-147, § 107(g), 69 DCR 003386</annotation>
   </annotations>
 </section>

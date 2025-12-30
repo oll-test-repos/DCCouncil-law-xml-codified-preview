@@ -4,7 +4,7 @@
   <heading>Rulemaking and interagency agreements.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor shall promulgate rules as necessary to implement the provisions of this unit. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, and days of Council recess. If the Council does not approve or disapprove the proposed rules by resolution within this 30-day period, the proposed rules shall be deemed approved.</text>
+    <text>The Mayor shall promulgate rules as necessary to implement the provisions of <cite path="2|14|C">this unit</cite>. The proposed rules shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, and days of Council recess. If the Council does not approve or disapprove the proposed rules by resolution within this 30-day period, the proposed rules shall be deemed approved.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -12,7 +12,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>All agencies assigned specific functions under the rules described in subsection (b) of this section shall enter into a Memorandum of Agreement (“MOA”) or a Memorandum of Understanding (“MOU”) with the Office of Disability Rights. Each MOA or MOU shall describe operational and communication procedures for interaction with the Office.</text>
+    <text>All agencies assigned specific functions under the rules described in subsection (b) of this section shall enter into a Memorandum of Agreement ("MOA") or a Memorandum of Understanding ("MOU") with the Office of Disability Rights and with the Office for the Deaf, Deafblind, and Hard of Hearing. Each MOA or MOU shall describe operational and communication procedures for interaction with the Office and with ODDHH.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-239" type="History" path="§9">Mar. 8, 2007, D.C. Law 16-239, § 9, 54 DCR 404</annotation>
@@ -20,9 +20,13 @@
     <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§101" type="History" display="false"/>
     <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§102" type="History" display="false"/>
     <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§103" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-152" eff="2020-12-08" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-152" eff="2020-12-08" path="§2|(e)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-152" path="§2|(e)" codified:display="Note" app="2020-12-08" eff="2020-12-08">Applicability of <cite doc="D.C. Law 23-152" path="">D.C. Law 23-152</cite>: <cite doc="D.C. Law 23-152" path="§3">§ 3 of D.C. Law 23-152</cite> provided that the change made to this section by <cite doc="D.C. Law 23-152" path="§2|(e)">§ 2(e) of D.C. Law 23-152</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-08" doc="D.C. Law 23-152" eff="2020-12-08" path="§2|(e)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-152" path="§2|(e)" codified:display="Note" app="2020-12-08" eff="2020-12-08">Applicability of <cite doc="D.C. Law 23-152" path="">D.C. Law 23-152</cite>: <cite doc="D.C. Law 23-152" path="§3">§ 3 of D.C. Law 23-152</cite> provided that the change made to this section by <cite doc="D.C. Law 23-152" path="§2|(e)">§ 2(e) of D.C. Law 23-152</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 24-159" path="§7191" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7191">Section 7191 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-152" path="§3">section 3 of D.C. Law 23-152</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-152 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7191" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-45" path="§7191" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7191">Section 7191 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-152" path="§3">section 3 of D.C. Law 23-152</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-152 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7191" type="History" display="false"/>
   </annotations>
 </section>

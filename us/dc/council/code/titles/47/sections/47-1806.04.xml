@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1806.04</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 3, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1806.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Tax on residents and nonresidents — Credits — In general.</heading>
   <para>
     <num>(a)</num>
@@ -14,7 +17,14 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 1988, an individual who incurs household and dependent care services necessary to engage in gainful employment and who is allowed a credit under § 21 of the Internal Revenue Code of 1986, shall be allowed, against the tax imposed by this chapter for the taxable year, an amount equal to 32% of the credit allowed under § 21 of the Internal Revenue Code of 1986, regardless of the amount of the credit actually used to offset federal tax liability.</text>
+      <para>
+        <num>(A)</num>
+        <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 1988, but before January 1, 2025, an individual who incurs household and dependent care services necessary to engage in gainful employment and who is allowed a credit under § 21 of the Internal Revenue Code of 1986, shall be allowed, against the tax imposed by this chapter for the taxable year, an amount equal to 32% of the credit allowed under § 21 of the Internal Revenue Code of 1986, regardless of the amount of the credit actually used to offset federal tax liability.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2025, an individual who incurs household and dependent care services necessary to engage in gainful employment and who is allowed a credit under § 21 of the Internal Revenue Code of 1986, shall be allowed, against the tax imposed by this chapter for the taxable year, an amount equal to 24.25% of the credit allowed under § 21 of the Internal Revenue Code of 1986, regardless of the amount of the credit actually used to offset federal tax liability.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -99,6 +109,18 @@
         <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2014, an individual with a qualifying child who is eligible for and claimed an earned income tax credit on their federal tax return under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 40% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986; provided, that the credit shall not be allowed to a resident who has elected to claim the low income tax credit provided for in subsection (e) of this section.</text>
       </para>
       <para>
+        <num>(B-1)</num>
+        <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2021, an individual with a qualifying child who is allowed an earned income tax credit under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 70% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986.</text>
+      </para>
+      <para>
+        <num>(B-2)</num>
+        <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2024, an individual with a qualifying child who is allowed an earned income tax credit under section 32 of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in an amount equal to 100% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986.</text>
+      </para>
+      <para placeholder="Repealed">
+        <num>(B-3)</num>
+        <text>[Repealed].</text>
+      </para>
+      <para>
         <num>(C)</num>
         <para>
           <num>(i)</num>
@@ -109,6 +131,17 @@
           <text>The amount of the credit allowable to a taxpayer under subsubparagraph (i) of this subparagraph for any taxable year shall not exceed the credit percentage of the earned income amount, over the phaseout percentage of 8.48% of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount of $17,235, increased annually by the cost-of-living adjustment.</text>
         </para>
       </para>
+      <para>
+        <num>(D)</num>
+        <para>
+          <num>(i)</num>
+          <text>If a return is filed for a full calendar or fiscal year beginning after December 31, 2022, an individual, with or without a qualifying child, who is a resident of the District but is not a citizen or resident alien of the United States, who would otherwise be allowed an earned income tax credit under section 32 of the Internal Revenue Code of 1986 but for the fact that the individual is not a citizen or resident alien of the United States, shall be allowed a credit against the tax imposed by this chapter for the taxable year in the same amounts and to the same extent as provided in this subsection.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For taxable years beginning after December 31, 2022, an individual who would otherwise be allowed a federal earned income tax credit but for the requirement of section 32(m) of the Internal Revenue Code of 1986 shall be allowed a credit against the tax imposed by this chapter for the taxable year in the same amounts and to the same extent as provided in this subsection and the form of any such return shall be prescribed by the Chief Financial Officer; except, that an individual taxpayer identification number issued by the Internal Revenue Service shall be permitted for the individual, the individual's spouse, or any qualifying child claimed on the return.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -116,7 +149,69 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The credit allowed under this subsection shall be refundable to the resident claiming the credit.</text>
+      <para>
+        <num>(A)</num>
+        <text>The credit allowed under this subsection shall be refundable to the individual claiming the credit.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <para>
+          <num>(i)</num>
+          <text>For the taxable year ending December 31, 2022, the amount equal to 40% of the earned income tax credit allowed under section 32 of the Internal Revenue Code of 1986 shall be paid to the individual in one lump sum payment, and:</text>
+          <para>
+            <num>(I)</num>
+            <text>If the amount of the remaining refund is at least $600, the remaining refund shall be paid in 11 equal monthly payments; or</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>If the amount of the remaining refund is less than $600, the remaining refund shall be paid in one lump sum payment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For the taxable year ending December 31, 2023:</text>
+          <para>
+            <num>(I)</num>
+            <text>If the amount of the earned income tax credit allowed is at least $1,200, the entire amount of the earned income tax credit allowed shall be paid to the individual in 12 equal monthly payments; or</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>If the amount of the earned income tax credit allowed is less than $1,200, the entire amount of the earned income tax credit allowed shall be paid to the individual in one lump sum payment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii-a)</num>
+          <text>For taxable years beginning after December 31, 2023:</text>
+          <para>
+            <num>(I)</num>
+            <text>If the amount of the earned income tax credit allowed is at least $1,200, the individual may elect, in the manner and form prescribed by the Chief Financial Officer, whether the entire amount of the earned income tax credit allowed shall be paid to the individual in either 12 equal monthly payments or one lump sum payment; or</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>If the amount of the earned income tax credit allowed is less than $1,200, the entire amount of the earned income tax credit allowed shall be paid to the individual in one lump sum payment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>No interest shall be allowed on any refund payments made under this subparagraph.</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Notwithstanding sub-subparagraphs (i) and (ii) of this subparagraph, the entire amount of a credit to be refunded shall be immediately subject to the offset provisions of <cite path="47|44|III">[subchapter III of Chapter 44 of this title]</cite>.</text>
+        </para>
+        <para placeholder="Repealed">
+          <num>(v)</num>
+          <text>[Repealed].</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Notwithstanding sub-subparagraph (i) of this subparagraph, any refunds to be paid pursuant to paragraph (1)(C) of this subsection shall be paid in one lump sum for the taxable year ending December 31, 2022.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A lump sum payment or a periodic payment made pursuant to this paragraph shall not be considered income for the purpose of determining eligibility or benefit amount for public assistance.</text>
+      </para>
     </para>
     <para>
       <num>(4)</num>
@@ -152,6 +247,14 @@
         <num>(E)</num>
         <text>The taxpayer shall have paid an amount in child support in the taxable year at least equal to the amount of current child support due during the taxable year for which the taxpayer is seeking the credit.</text>
       </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Any refunds paid pursuant to this subsection shall be paid in the manner described in subsection (f)(3) of this section.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A lump sum payment or a periodic payment made pursuant to this subsection shall not be considered income for the purposes of determining eligibility for public assistance.</text>
     </para>
   </para>
   <annotations>
@@ -210,5 +313,29 @@
     <annotation doc="D.C. Law 22-33" path="§7174" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7174">Section 7174 of Law 22-33</cite> provided that the changes made to this section by Law 22-33 shall apply as of January 1, 2018.
         </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7174" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7232|(b)|(1)|(A)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7232|(b)|(1)|(B)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7232|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§7012" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§7012">§ 7012 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7012" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7012" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-561" path="§4" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-561" path="§4">§ 4 of Earned Income Tax Credit Expansion Clarification Emergency Amendment Act of 2022 (D.C. Act 24-561, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-561" eff="2022-10-17" path="§4" type="History" display="false"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-195" eff="2022-12-13" path="§4|(a)" type="History"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-195" eff="2022-12-13" path="§4|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7032" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7032">§ 7032 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7032" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(b)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(b)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7032|(b)|(3)" type="History"/>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(i)" type="History" display="false"/>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(i)|(1)|(B)" type="History"/>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(i)|(1)|(C)" type="History"/>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(i)|(1)|(A)" type="History"/>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(i)|(2)|(A)" type="History"/>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(i)|(2)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-214" path="§2|(i)" codified:display="Note" app="2025-12-03" eff="2025-12-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-214" path="§2|(i)">§ 2(i) of D.C. Income and Franchise Tax Conformity and Revision Emergency Amendment Act of 2025 (D.C. Act 26-214, Dec. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

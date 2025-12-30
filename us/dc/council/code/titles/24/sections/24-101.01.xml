@@ -23,6 +23,10 @@
         <text>Of the members first appointed, the Mayor shall appoint one member for a one-year term. The other mayoral appointee and the Council appointee shall serve 2-year terms. Thereafter, members shall be appointed for terms of 2 years. A Board member may be reappointed. A person appointed to fill a vacancy on the Board occurring prior to the expiration of a term shall serve for the remainder of the term or until a successor has been appointed.</text>
       </para>
       <para>
+        <num>(B-1)</num>
+        <text>Notwithstanding any other provision of law, the term expiration date for a Council appointment to the Corrections Information Council shall be December 7th of the year in which the term expires.</text>
+      </para>
+      <para>
         <num>(C)</num>
         <text>The Mayor shall designate the chairperson of the Board.</text>
       </para>
@@ -189,5 +193,20 @@
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§15|(a)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§15|(b)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§15|(c)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-344" path="§7" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-344" path="">D.C. Law 24-344</cite>: <cite doc="D.C. Law 24-344" path="§26">§ 26 of D.C. Law 24-344</cite> provided that the change made to this section by <cite doc="D.C. Law 24-344" path="§7">§ 7 of D.C. Law 24-344</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§26|(a)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§7" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-344" eff="2023-04-21" path="§7" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-622" path="§3" codified:display="Note" app="2024-11-04" eff="2024-11-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-622" path="§3">§ 3 of Residential Tranquility Emergency Amendment Act of 2024 (D.C. Act 25-622, Nov. 4, 2024, 71 DCR 13558)</cite>.</annotation>
+    <annotation app="2024-11-04" doc="D.C. Act 25-622" eff="2024-11-04" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-2" path="§3" codified:display="Note" app="2025-01-31" eff="2025-01-31">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-2" path="§3">§ 3 of Residential Tranquility Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-2, Jan. 31, 2025, 72 DCR 1130)</cite>.</annotation>
+    <annotation app="2025-01-31" doc="D.C. Act 26-2" eff="2025-01-31" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-55" path="§3" codified:display="Note" app="2025-04-22" eff="2025-04-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-55" path="§3">§ 3 of Residential Tranquility Second Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-55, Apr. 22, 2025, 72 DCR 4916)</cite>.</annotation>
+    <annotation app="2025-04-22" doc="D.C. Act 26-55" eff="2025-04-22" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-119" path="§3" codified:display="Note" app="2025-07-21" eff="2025-07-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-119" path="§3">§ 3 of Residential Tranquility Emergency Amendment Act of 2025 (D.C. Act 26-119, July 21, 2025, 72 DCR 8178)</cite>.</annotation>
+    <annotation app="2025-07-21" doc="D.C. Act 26-119" eff="2025-07-21" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-153" path="§3" codified:display="Note" app="2025-10-03" eff="2025-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-153" path="§3">§ 3 of Residential Tranquility Second Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-153, Oct. 3, 2025, 72 DCR 10901)</cite>.</annotation>
+    <annotation app="2025-10-03" doc="D.C. Act 26-153" eff="2025-10-03" path="§3" type="History" display="false"/>
+    <annotation app="2025-10-28" doc="D.C. Law 26-53" eff="2025-10-28" path="§3" type="History"/>
   </annotations>
 </section>

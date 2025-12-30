@@ -1,10 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2002</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2002(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2002(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2002(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Imposition of tax.</heading>
   <para>
     <num>(a)</num>
-    <text>A tax is imposed upon all vendors for the privilege of selling at retail certain tangible personal property and for the privilege of selling certain selected services (defined as “retail sale” and “sale at retail” in this chapter). The rate of such tax shall be 6.00% of the gross receipts from sales of or charges for such tangible personal property and services, except that:</text>
+    <text>A tax is imposed upon all vendors for the privilege of selling at retail certain tangible personal property and for the privilege of selling certain selected services (defined as “retail sale” and “sale at retail” in this chapter). The rate of such tax on the gross receipts from sales of or charges for such tangible personal property and services shall be 6.0% before October 1, 2026, and 7.0% beginning on October 1, 2026, and continuing thereafter; except, that:</text>
     <para>
       <num>(1)</num>
       <text>The rate of tax shall be 18% of the gross receipts from the sale of or charges for the service of parking or storing of motor vehicles or trailers, except the service of parking or storing of motor vehicles or trailers on a parking lot owned or operated by the Washington Metropolitan Area Transit Authority and located adjacent to a Washington Metropolitan Area Transit Authority passenger stop or station;</text>
@@ -64,21 +73,25 @@
       <num>(7)</num>
       <para>
         <num>(A)</num>
-        <text>The rate of tax shall be 6% of the gross receipts from the sale of or charges for medical marijuana, as defined in <cite path="7|16B">[Chapter 16B of Title 7]</cite>.</text>
+        <text>The rate of tax shall be 6% of the gross receipts from the sale of or charges for medical cannabis, as defined in <cite path="7|16B">[Chapter 16B of Title 7]</cite>.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The proceeds of the tax collected under subparagraph (A) of this paragraph shall be deposited in the Healthy DC and Health Care Expansion Fund established by [<cite path="§31-3514.02">§ 31-3514.02</cite>].</text>
+        <text>In Fiscal Year 2026, the proceeds of the tax collected under subparagraph (A) of this paragraph shall be deposited in the Healthy DC and Health Care Expansion Fund established by <cite path="§31-3514.02">§ 31-3514.02</cite>; except, that all proceeds of such tax above the amount certified for Fiscal Year 2026 in the approved Fiscal Year 2023 budget shall be deposited in the General Fund of the District of Columbia.</text>
       </para>
     </para>
     <para>
       <num>(8)</num>
       <text>The rate of tax shall be 8% of the gross receipts from the sale of or charges for soft drinks.</text>
     </para>
+    <para>
+      <num>(9)</num>
+      <text>The rate of tax shall be 7.5% on the gross receipts from the sale of or charges collected to play commercial bingo.</text>
+    </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>Of the sales tax revenue received pursuant to this section, $1,170,000 annually shall be used to fund the Reimbursable Detail Subsidy Program in the Alcoholic Beverage Regulation Administration.</text>
+    <text>[Repealed].</text>
   </para>
   <para>
     <num>(c)</num>
@@ -86,7 +99,54 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>5% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018, shall be dedicated to the Arts and Humanities Fund, established by <cite path="§39-205.01">§ 39-205.01</cite>.</text>
+    <para>
+      <num>(1)</num>
+      <text>For fiscal years ending before October 1, 2023, 5% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018, shall be dedicated to the Arts and Humanities Fund, established by <cite path="§39-205.01">§ 39-205.01</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For fiscal years beginning after September 30, 2023, there shall be dedicated to the Arts and Humanities Fund from the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section, the following amounts:</text>
+      <para>
+        <num>(A)</num>
+        <text>In Fiscal Year 2024 and Fiscal Year 2025, the lesser of:</text>
+        <para>
+          <num>(i)</num>
+          <text>5% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An amount equal to 102% of the amount dedicated to the Arts and Humanities Fund in the prior fiscal year pursuant to this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In Fiscal Year 2026, the lesser of:</text>
+        <para>
+          <num>(i)</num>
+          <text>4.615% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An amount equal to 102% of the amount dedicated to the Arts and Humanities Fund in the prior fiscal year pursuant to this subsection; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>In Fiscal Year 2027 and each subsequent fiscal year, the lesser of:</text>
+        <para>
+          <num>(i)</num>
+          <text>4.286% of the sales tax revenue collected at the rate provided by the lead-in language of subsection (a) of this section that is not dedicated to legislatively proposed or existing tax increment financing districts or pledged to the benefit of holders of District bonds or notes existing on or before October 30, 2018; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An amount equal to 102% of the amount dedicated to the Arts and Humanities Fund in the prior fiscal year pursuant to this subsection.</text>
+        </para>
+      </para>
+    </para>
+    <para placeholder="Repealed">
+      <num>(3)</num>
+      <text>[Repealed].</text>
+    </para>
   </para>
   <annotations>
     <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite>: Section 7053 of <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> provided that § 7052 of the act shall not apply if Fiscal Year 2015 revenues in the June 2015 quarterly revenue estimate issued by the Chief Financial Officer are sufficient to implement fully <cite path="§5-525.01|(c)">§ 5-525.01(c)</cite>.</text>
@@ -203,5 +263,51 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2203|(d)|(1)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7052|(a)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7052|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-323" path="§4" codified:display="Note" app="2022-02-11" eff="2022-02-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-323" path="§4">§ 4 of Medical Marijuana Patient Access Extension Emergency Amendment Act of 2022 (D.C. Act 24-323, Feb. 11, 2022, 69 DCR 001268)</cite>.</annotation>
+    <annotation app="2022-02-11" doc="D.C. Act 24-323" eff="2022-02-11" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-400" path="§4" codified:display="Note" app="2022-05-09" eff="2022-05-09">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-400" path="§4">§ 4 of Medical Marijuana Patient Access Extension Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-400, May 9, 2022, 69 DCR 5035)</cite>.</annotation>
+    <annotation app="2022-05-09" doc="D.C. Act 24-400" eff="2022-05-09" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-122" path="§4" codified:display="Note" app="2022-05-18" eff="2022-05-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-122" path="§4">§ 4 of Medical Marijuana Patient Access Extension Temporary Amendment Act of 2022 (D.C. Law 24-122, May 18, 2022, 69 DCR 002670)</cite>.</annotation>
+    <annotation app="2022-05-18" doc="D.C. Law 24-122" eff="2022-05-18" path="§4" type="History" display="false"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§154|(e)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§5073" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§5073">§ 5073 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§5073" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5073" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§9|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(c)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-332" path="§7|(c)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-332" path="">D.C. Law 24-332</cite>: <cite doc="D.C. Law 24-332" path="§9">§ 9 of D.C. Law 24-332</cite> provided that the change made to this section by <cite doc="D.C. Law 24-332" path="§7|(c)">§ 7(c) of D.C. Law 24-332</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§7|(c)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7062" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(a)|(2)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(a)|(1)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7024|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-437" path="§3" codified:display="Note" app="2024-04-08" eff="2024-04-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-437" path="§3">§ 3 of Medical Cannabis Patient Card Extension and 4/20 Medical Cannabis Sales Tax Holiday Week Emergency Amendment Act of 2024 (D.C. Act 25-437, Apr. 8, 2024, 71 DCR 4118)</cite>.</annotation>
+    <annotation app="2024-04-08" doc="D.C. Act 25-437" eff="2024-04-08" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7052|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7052|(a)">§ 7052(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7052|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-193" path="§3" codified:display="Note" app="2024-07-19" eff="2024-07-19">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-193" path="§3">§ 3 of Medical Cannabis Patient Card Extension and 4/20 Medical Cannabis Sales Tax Holiday Week Temporary Amendment Act of 2024 (D.C. Law 25-193, July 19, 2024, 71 DCR 6749)</cite>.</annotation>
+    <annotation app="2024-07-19" doc="D.C. Law 25-193" eff="2024-07-19" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-526" path="§3" codified:display="Note" app="2024-07-23" eff="2024-07-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-526" path="§3">§ 3 of Medical Cannabis Patient Card Extension and 4/20 Medical Cannabis Sales Tax Holiday Week Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-526, July 23, 2024, 71 DCR 9590)</cite>.</annotation>
+    <annotation app="2024-07-23" doc="D.C. Act 25-526" eff="2024-07-23" path="§3" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7052|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7052|(a)|(3)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7052|(a)|(3)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7052|(a)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2074|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2074|(a)">§ 2074(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2074|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5054|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5054|(a)">§ 5054(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5054|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7002|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7002|(a)">§ 7002(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7002|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2074|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5054|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7002|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5054|(a)|(1)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5054|(a)|(2)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2074|(a)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7002|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2074|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2074|(a)">§ 2074(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5054|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5054|(a)">§ 5054(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7002|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7002|(a)">§ 7002(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

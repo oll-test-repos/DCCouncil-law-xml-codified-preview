@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-77">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-77" codify:applicability="notfunded">
   <num type="law">21-77</num>
   <num type="bill">21-5</num>
   <num type="act">21-259</num>
@@ -168,11 +168,11 @@
     <para codify:path="§7|(d)">
       <num>(d)</num>
       <text>Section 7(d) (D.C. Official Code § 38-651.06(d)) is amended by striking the phrase "a minor" and inserting the word "the" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-651.06|(d)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-651.06">
         <find>a minor</find>
         <replace>the</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.06|(d)" codified:display="Note"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.06" codified:display="Note"/>
     </para>
     <para codify:path="§10|(a)">
       <num>(e)</num>
@@ -224,11 +224,11 @@
     <para codify:doc="D.C. Law 6-99" codify:path="§102|(11)|(B)|(iii)">
       <num>(a)</num>
       <text>Section 102(11)(B)(iii) of the District of Columbia Health Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201.02(11)(B)(iii)), is amended by striking the phrase "of the person for whom" and inserting the phrase "of the person for whom or, with respect to auto-injectable epinephrine, the school to which" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1201.02|(11)|(B)|(iii)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1201.02|(11)">
         <find>of the person for whom</find>
         <replace>of the person for whom or, with respect to auto-injectable epinephrine, the school to which</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§3-1201.02|(11)|(B)|(iii)" codified:display="Note"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§3-1201.02|(11)" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Law 13-176" codify:path="§3|(b)">
       <num>(b)</num>

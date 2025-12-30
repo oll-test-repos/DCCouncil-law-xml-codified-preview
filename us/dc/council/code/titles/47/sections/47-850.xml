@@ -1,14 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-850</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-850(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-850(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Residential property tax relief — Homestead deduction for houses and condominium units.</heading>
   <para>
     <num>(a)</num>
-    <text>For purposes of levying the real property tax during a tax year, the Mayor shall deduct $67,500, increased annually, beginning October 1, 2012, by the cost-of-living adjustment (if the adjustment does not result in a multiple of $50, rounded to the next lowest multiple of $50), from the assessed value of real property which qualifies as a homestead. The deduction shall be apportioned equally between each installment during a tax year and shall not be carried forward or carried back.</text>
+    <text>Except as provided in subsection (a-2) of this section, for purpose of levying the real property tax during a tax year, the Mayor shall deduct $67,500, increased annually, beginning October 1, 2012, by the cost-of-living adjustment (if the adjustment does not result in a multiple of $50, rounded to the next lowest multiple of $50), from the assessed value of real property which qualifies as a homestead. The deduction shall be apportioned equally between each installment during a tax year and shall not be carried forward or carried back.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para placeholder="Repealed">
     <num>(a-1)</num>
-    <text>Not Funded.</text>
+    <text>[Repealed].</text>
+  </para>
+  <para>
+    <num>(a-2)</num>
+    <para>
+      <num>(1)</num>
+      <text>For purposes of levying the real property tax during a tax year, the Mayor shall deduct from the assessed value of real property that qualifies for the homestead deduction and is owned by a veteran the amount of $445,000; provided, that the:</text>
+      <para>
+        <num>(A)</num>
+        <text>Veteran has been classified by the United States Department of Veterans Affairs as having a total and permanent disability as a result of a service-incurred condition or service-aggravated condition or is paid at the 100% disability rating level as a result of unemployability; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Veteran's household is an eligible household as defined in <cite path="§47-863|(a)|(1A)|(A)">§ 47-863(a)(1A)(A)</cite>; except, that <cite path="§47-863|(a)|(1A)|(A)|(iii)|(I)|(aa)">§ 47-863(a)(1A)(A)(iii)(I)(aa)</cite> and <cite path="§47-863|(a)|(1A)|(A)|(iii)|(II)">(II)</cite> shall not apply.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The deduction shall be apportioned equally between each installment during a tax year and shall not be carried forward or carried back.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <para>
+        <num>(A)</num>
+        <text>To qualify for and receive the deduction provided pursuant to this subsection, the veteran, or the veteran's legal guardian, attorney-in-fact, or other legal representative, shall complete and file with the District of Columbia Office of Veterans Affairs an application, in a form prescribed by the Mayor, that includes a statement that the veteran meets the requirements set forth in paragraph (1) of this subsection, and complies with other requirements as set forth in this section.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The District of Columbia Office of Veterans Affairs shall timely and routinely certify to the Office of Tax and Revenue that the veteran meets the disability requirements for the deduction provided pursuant to this subsection.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -26,13 +62,28 @@
     <num>(e)</num>
     <text>The real property tax bill shall indicate whether the real property is receiving the deduction.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para placeholder="Repealed">
     <num>(f)</num>
-    <text>Not Funded.</text>
+    <text>[Repealed].</text>
   </para>
-  <para placeholder="Not Funded">
+  <para placeholder="Repealed">
     <num>(g)</num>
-    <text>Not Funded.</text>
+    <text>[Repealed].</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <para>
+      <num>(1)</num>
+      <text>Except for subsection (a) of this section, for the purposes of this section and <cite path="§47-850.02">§§ 47-850.02</cite>, <cite path="§47-850.03">47-850.03</cite>, and <cite path="§47-850.04">47-850.04</cite>, the deduction provided pursuant to subsection [(a-2)] of this section shall be deemed a homestead deduction.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Notwithstanding <cite path="§47-863">§§ 47-863</cite> and <cite path="§47-864">47-864</cite>, a real property receiving the deduction provided pursuant to subsection [(a-2)] of this section shall not receive the credit under <cite path="§47-864">§ 47-864</cite> or the deduction under <cite path="§47-863">§ 47-863</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>For purposes of this section, an individual who occupies real property pursuant to a land lease with a community land trust as defined by <cite path="§47-803|(1)">§ 47-803(1)</cite> shall be deemed the owner thereof and entitled to apply for a homestead deduction for such real property.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 3 of Law 15-135 provided that § 2(a), (b), and (c)(3) of the act shall apply as of October 1, 2003.</text>
@@ -102,11 +153,31 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-850.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§47-802">§ 47-802</cite>, <cite path="§47-820">§ 47-820</cite>, <cite path="§47-849">§ 47-849</cite>, <cite path="§47-850.02">§ 47-850.02</cite>, <cite path="§47-850.03">§ 47-850.03</cite>, <cite path="§47-863">§ 47-863</cite>, <cite path="§47-864">§ 47-864</cite>, <cite path="§47-1806.09">§ 47-1806.09</cite>, and <cite path="§47-3503">§ 47-3503</cite>.</annotation>
     <annotation app="notfunded" doc="D.C. Law 22-283" eff="2019-04-11" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-283" eff="2019-04-11" path="§2|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-283" eff="2019-04-11" path="§2|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-283" eff="2019-04-11" path="§2|(b)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 22-283" eff="2019-04-11" path="§2|(c)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-283" path="§2" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-283" path="">D.C. Law 22-283</cite>: <cite doc="D.C. Law 22-283" path="§3">§ 3 of D.C. Law 22-283</cite> provided that the change made to this section by <cite doc="D.C. Law 22-283" path="§2">§ 2 of D.C. Law 22-283</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-04-11" doc="D.C. Law 22-283" eff="2019-04-11" path="§2" type="History"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§6|(a)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7172" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7172" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§7072" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§7072">§ 7072 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7072" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7072|(a)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7072|(b)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7072|(c)" type="History"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-194" eff="2022-12-13" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-194" eff="2022-12-13" path="§3|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2152|(a)|(3)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2152|(a)|(3)">§ 2152(a)(3) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2152|(a)|(3)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§8009" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§8009">§ 8009 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§8009" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2152|(a)|(3)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§8009" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§8009|(a)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§8009|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2152|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2152|(a)|(3)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2152|(a)|(3)">§ 2152(a)(3) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§8009" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§8009">§ 8009 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

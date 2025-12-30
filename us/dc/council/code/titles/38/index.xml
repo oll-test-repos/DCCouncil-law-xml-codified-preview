@@ -60,11 +60,13 @@
     <prefix>Chapter</prefix>
     <num>1A</num>
     <heading>District of Columbia Public Schools.</heading>
+    <xi:include href="./sections/38-170.xml"/>
     <xi:include href="./sections/38-171.xml"/>
     <xi:include href="./sections/38-172.xml"/>
     <xi:include href="./sections/38-173.xml"/>
     <xi:include href="./sections/38-174.xml"/>
     <xi:include href="./sections/38-174.01.xml"/>
+    <xi:include href="./sections/38-174.02.xml"/>
     <xi:include href="./sections/38-175.xml"/>
   </container>
   <container>
@@ -78,6 +80,8 @@
       <xi:include href="./sections/38-191.xml"/>
       <xi:include href="./sections/38-192.xml"/>
       <xi:include href="./sections/38-192.01.xml"/>
+      <xi:include href="./sections/38-192.02.xml"/>
+      <xi:include href="./sections/38-192.03.xml"/>
       <xi:include href="./sections/38-193.xml"/>
       <xi:include href="./sections/38-194.xml"/>
       <xi:include href="./sections/38-195.xml"/>
@@ -88,6 +92,13 @@
       <heading>My School DC EdFest.</heading>
       <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
       <xi:include href="./sections/38-196.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>School Connect Pilot Program.</heading>
+      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="IV|N" type="History" display="false"/>
+      <xi:include href="./sections/38-197.01.xml"/>
     </container>
     <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
   </container>
@@ -191,6 +202,12 @@
       <xi:include href="./sections/38-251.09.xml"/>
       <xi:include href="./sections/38-251.10.xml"/>
       <xi:include href="./sections/38-251.11.xml"/>
+      <annotation doc="D.C. Act 24-159" path="§7201" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7201">Section 7201 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-204" path="§12">section 12 of D.C. Law 23-204</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-204 has been implemented.
+        </annotation>
+      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7201" type="History" display="false"/>
+      <annotation doc="D.C. Law 24-45" path="§7201" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7201">Section 7201 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-204" path="§12">section 12 of D.C. Law 23-204</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-204 has been implemented.
+        </annotation>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7201" type="History" display="false"/>
     </container>
   </container>
   <container>
@@ -298,6 +315,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>3C</num>
+    <heading>Access to Advanced Placement Tests by Non-enrollees.</heading>
+    <annotation app="2023-02-23" doc="D.C. Law 24-252" eff="2023-02-23" path="" type="History" display="false"/>
+    <xi:include href="./sections/38-381.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>4</num>
     <heading>Use of School Buildings.</heading>
     <xi:include href="./sections/38-401.xml"/>
@@ -351,12 +375,22 @@
     <heading>Immunization of School Students.</heading>
     <xi:include href="./sections/38-501.xml"/>
     <xi:include href="./sections/38-502.xml"/>
+    <xi:include href="./sections/38-502.01.xml"/>
     <xi:include href="./sections/38-503.xml"/>
     <xi:include href="./sections/38-504.xml"/>
     <xi:include href="./sections/38-505.xml"/>
     <xi:include href="./sections/38-506.xml"/>
     <xi:include href="./sections/38-507.xml"/>
     <xi:include href="./sections/38-508.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5A</num>
+    <heading>Student Access to Period Products.</heading>
+    <annotation app="2022-03-15" doc="D.C. Law 24-92" eff="2022-03-15" path="" type="History" display="false"/>
+    <xi:include href="./sections/38-531.01.xml"/>
+    <xi:include href="./sections/38-531.02.xml"/>
+    <xi:include href="./sections/38-531.03.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -399,6 +433,7 @@
       <xi:include href="./sections/38-651.01.xml"/>
       <xi:include href="./sections/38-651.02.xml"/>
       <xi:include href="./sections/38-651.03.xml"/>
+      <xi:include href="./sections/38-651.03a.xml"/>
       <xi:include href="./sections/38-651.04.xml"/>
       <xi:include href="./sections/38-651.04a.xml"/>
       <xi:include href="./sections/38-651.05.xml"/>
@@ -452,11 +487,15 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Early Warning and Support System.</heading>
+      <reason>Repealed</reason>
       <xi:include href="./sections/38-751.01.xml"/>
       <xi:include href="./sections/38-751.02.xml"/>
       <xi:include href="./sections/38-751.03.xml"/>
       <xi:include href="./sections/38-751.04.xml"/>
       <xi:include href="./sections/38-751.05.xml"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4183" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 24-159" path="§4183">§ 4183 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4183" type="History" display="false"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4183" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -562,7 +601,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>Definitions; Establishment of Healthy Schools Fund.</heading>
+      <heading>Definitions; Healthy Schools Initiatives.<annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4052|(a)" type="History"/></heading>
       <xi:include href="./sections/38-821.01.xml"/>
       <xi:include href="./sections/38-821.02.xml"/>
     </container>
@@ -642,14 +681,27 @@
   <container>
     <prefix>Chapter</prefix>
     <num>8B</num>
-    <heading>Protection of Students Digital Privacy.</heading>
+    <heading>Public Schools Digital Privacy and Equity.</heading>
     <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" type="History" display="false"/>
-    <xi:include href="./sections/38-831.01.xml"/>
-    <xi:include href="./sections/38-831.02.xml"/>
-    <xi:include href="./sections/38-831.03.xml"/>
-    <xi:include href="./sections/38-831.04.xml"/>
-    <xi:include href="./sections/38-831.05.xml"/>
-    <xi:include href="./sections/38-831.06.xml"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Protection of Students Digital Privacy.</heading>
+      <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" type="History" display="false"/>
+      <xi:include href="./sections/38-831.01.xml"/>
+      <xi:include href="./sections/38-831.02.xml"/>
+      <xi:include href="./sections/38-831.03.xml"/>
+      <xi:include href="./sections/38-831.04.xml"/>
+      <xi:include href="./sections/38-831.05.xml"/>
+      <xi:include href="./sections/38-831.06.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Student Technology Equity.</heading>
+      <annotation app="2022-12-13" doc="D.C. Law 24-191" eff="2022-12-13" path="" type="History" display="false"/>
+      <xi:include href="./sections/38-831.21.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -663,6 +715,15 @@
     <xi:include href="./sections/38-841.06.xml"/>
     <xi:include href="./sections/38-841.07.xml"/>
     <xi:include href="./sections/38-841.08.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8D</num>
+    <heading>Personal Wireless Communication Devices in Primary and Secondary Schools.</heading>
+    <annotation app="2025-09-10" doc="D.C. Law 26-39" eff="2025-09-10" path="" type="History" display="false"/>
+    <xi:include href="./sections/38-851.01.xml"/>
+    <xi:include href="./sections/38-851.02.xml"/>
+    <xi:include href="./sections/38-851.03.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -724,6 +785,12 @@
     <annotation app="2019-04-11" doc="D.C. Law 22-294" eff="2019-04-11" path="" type="History" display="false"/>
     <xi:include href="./sections/38-952.01.xml"/>
     <xi:include href="./sections/38-952.02.xml"/>
+  </container>
+  <subheading>Subtitle I-B. Public Education — COVID19 Requirements.</subheading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9N</num>
+    <heading>Public Education — COVID-19 Requirements.</heading>
   </container>
   <subheading>Subtitle II. Public Education — Adult and Community.</subheading>
   <container>
@@ -874,6 +941,15 @@
       <xi:include href="./sections/38-1208.05.xml"/>
       <xi:include href="./sections/38-1208.06.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IX</num>
+      <heading>Pathways to Behavioral Health Degrees.</heading>
+      <annotation app="2024-01-23" doc="D.C. Law 25-104" eff="2024-01-23" path="" type="History" display="false"/>
+      <xi:include href="./sections/38-1209.01.xml"/>
+      <xi:include href="./sections/38-1209.02.xml"/>
+      <xi:include href="./sections/38-1209.03.xml"/>
+    </container>
     <subheading>Unit B. Audits.</subheading>
     <xi:include href="./sections/38-1231.01.xml"/>
     <subheading>Unit C. UDC Capital Budget Authority and Funding Transfer.</subheading>
@@ -940,7 +1016,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>15</num>
-    <heading>Nurses Training Corps.</heading>
+    <heading>Nurses Training Corps. [Repealed].<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4121" type="History"/></heading>
     <xi:include href="./sections/38-1501.xml"/>
     <xi:include href="./sections/38-1502.xml"/>
     <xi:include href="./sections/38-1503.xml"/>
@@ -955,6 +1031,23 @@
     <xi:include href="./sections/38-1604.xml"/>
     <xi:include href="./sections/38-1605.xml"/>
     <xi:include href="./sections/38-1606.xml"/>
+  </container>
+  <subheading>Subtitle III-A. College Athlete Compensation.</subheading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16A</num>
+    <heading>Uniform College Athlete Name, Image, or Likeness Act.</heading>
+    <xi:include href="./sections/38-1631.01.xml"/>
+    <xi:include href="./sections/38-1631.02.xml"/>
+    <xi:include href="./sections/38-1631.03.xml"/>
+    <xi:include href="./sections/38-1631.04.xml"/>
+    <xi:include href="./sections/38-1631.05.xml"/>
+    <xi:include href="./sections/38-1631.06.xml"/>
+    <xi:include href="./sections/38-1631.07.xml"/>
+    <xi:include href="./sections/38-1631.08.xml"/>
+    <xi:include href="./sections/38-1631.09.xml"/>
+    <xi:include href="./sections/38-1631.10.xml"/>
+    <xi:include href="./sections/38-1631.11.xml"/>
   </container>
   <subheading>Subtitle IV. Public Education — Charter Schools.</subheading>
   <container>
@@ -1146,6 +1239,14 @@
       <heading>Public Charter School Financing and Support.</heading>
       <xi:include href="./sections/38-1833.01.xml"/>
       <xi:include href="./sections/38-1833.02.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II-A</num>
+      <heading>Public Charter School Teacher Compensation.</heading>
+      <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="IV" type="History" display="false"/>
+      <xi:include href="./sections/38-1834.01.xml"/>
+      <xi:include href="./sections/38-1834.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1403,8 +1504,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>22A</num>
-    <reason>Repealed</reason>
     <heading>Housing Support for Teachers Program. [Repealed]<annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" type="History"/></heading>
+    <reason>Repealed</reason>
     <xi:include href="./sections/38-2231.xml"/>
     <xi:include href="./sections/38-2232.xml"/>
     <xi:include href="./sections/38-2233.xml"/>
@@ -1419,6 +1520,38 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7042" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-167" path="§7042">§ 7042 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7042" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22B</num>
+    <heading>Early Childhood Educator Equitable Compensation Task Force.</heading>
+    <reason>Repealed</reason>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="I|J" type="History" display="false"/>
+    <xi:include href="./sections/38-2241.xml"/>
+    <xi:include href="./sections/38-2242.xml"/>
+    <annotation app="2025-11-10" doc="D.C. Act 26-196" eff="2025-11-10" path="§4" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22C</num>
+    <heading>"Grow Your Own" Teacher Preparation Support Program.</heading>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="IV|R" type="History" display="false"/>
+    <xi:include href="./sections/38-2251.xml"/>
+    <xi:include href="./sections/38-2252.xml"/>
+    <xi:include href="./sections/38-2253.xml"/>
+    <xi:include href="./sections/38-2254.xml"/>
+    <xi:include href="./sections/38-2255.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>22D</num>
+    <heading>Structured Literacy Action Plan.</heading>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" type="History" display="false"/>
+    <xi:include href="./sections/38-2261.xml"/>
+    <xi:include href="./sections/38-2262.xml"/>
+    <xi:include href="./sections/38-2263.xml"/>
+    <xi:include href="./sections/38-2264.xml"/>
+    <xi:include href="./sections/38-2265.xml"/>
   </container>
   <subheading>Subtitle VI. EDUCATION FOR HEARING IMPAIRED PERSONS.</subheading>
   <container>
@@ -1597,10 +1730,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>25D</num>
-    <reason>Not Funded</reason>
     <heading>Prevention of Reading Difficulties.</heading>
-    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
     <xi:include href="./sections/38-2581.01.xml"/>
     <xi:include href="./sections/38-2581.02.xml"/>
     <xi:include href="./sections/38-2581.03.xml"/>
@@ -1608,6 +1739,12 @@
     <xi:include href="./sections/38-2581.05.xml"/>
     <xi:include href="./sections/38-2581.06.xml"/>
     <xi:include href="./sections/38-2581.07.xml"/>
+    <annotation doc="D.C. Act 24-159" path="§7195" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7195">Section 7195 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-191" path="§301">section 301 of D.C. Law 23-191</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-191 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7195" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-45" path="§7195" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7195">Section 7195 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-191" path="§301">section 301 of D.C. Law 23-191</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-191 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7195" type="History" display="false"/>
   </container>
   <subheading>Subtitle VIII. State Level Agencies and Activities.</subheading>
   <container>
@@ -1630,10 +1767,13 @@
     <xi:include href="./sections/38-2610.xml"/>
     <xi:include href="./sections/38-2611.xml"/>
     <xi:include href="./sections/38-2612.xml"/>
+    <xi:include href="./sections/38-2612.01.xml"/>
     <xi:include href="./sections/38-2613.xml"/>
     <xi:include href="./sections/38-2614.xml"/>
     <xi:include href="./sections/38-2615.xml"/>
     <xi:include href="./sections/38-2616.xml"/>
+    <xi:include href="./sections/38-2617.xml"/>
+    <xi:include href="./sections/38-2618.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1722,8 +1862,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27B</num>
-    <reason>Repealed</reason>
     <heading>DC Promise Program. [Repealed]</heading>
+    <reason>Repealed</reason>
     <xi:include href="./sections/38-2751.xml"/>
     <xi:include href="./sections/38-2752.xml"/>
     <xi:include href="./sections/38-2753.xml"/>
@@ -1767,6 +1907,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>28A</num>
+    <heading>Additional Requirements for the Submission of the Annual Budget for the District of Columbia Public Schools.</heading>
+    <annotation app="2023-03-10" doc="D.C. Law 24-300" eff="2023-03-10" path="" type="History" display="false"/>
+    <xi:include href="./sections/38-2851.01.xml"/>
+    <xi:include href="./sections/38-2851.02.xml"/>
+    <xi:include href="./sections/38-2851.03.xml"/>
+    <xi:include href="./sections/38-2851.04.xml"/>
+    <xi:include href="./sections/38-2851.05.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>29</num>
     <heading>Uniform Per Student Funding Formula.</heading>
     <container>
@@ -1779,9 +1930,11 @@
       <xi:include href="./sections/38-2904.xml"/>
       <xi:include href="./sections/38-2905.xml"/>
       <xi:include href="./sections/38-2905.01.xml"/>
+      <xi:include href="./sections/38-2905.02.xml"/>
       <xi:include href="./sections/38-2906.xml"/>
       <xi:include href="./sections/38-2906.01.xml"/>
       <xi:include href="./sections/38-2906.02.xml"/>
+      <xi:include href="./sections/38-2906.03.xml"/>
       <xi:include href="./sections/38-2907.xml"/>
       <xi:include href="./sections/38-2907.01.xml"/>
       <xi:include href="./sections/38-2908.xml"/>
@@ -1817,7 +1970,7 @@
     <prefix>Chapter</prefix>
     <num>29A-ii</num>
     <heading>Student Activity Funds for theatrical and music performances.</heading>
-    <annotation app="2021-07-29" doc="D.C. Act 24-131" eff="2021-07-29" path="" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4071" type="History" display="false"/>
     <xi:include href="./sections/38-2961.xml"/>
   </container>
   <container>
@@ -1856,6 +2009,14 @@
     <heading>Turkey Bowl Funding.</heading>
     <xi:include href="./sections/38-2981.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29D</num>
+    <heading>Duke Ellington School of the Arts New Funding and Organization Model.</heading>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4251" type="History" display="false"/>
+    <xi:include href="./sections/38-2991.xml"/>
+    <xi:include href="./sections/38-2992.xml"/>
+  </container>
   <subheading>Subtitle XI. Miscellaneous Education Provisions.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1871,6 +2032,17 @@
     <num>31</num>
     <heading>Traffic Control in School Zones.</heading>
     <xi:include href="./sections/38-3101.xml"/>
+    <xi:include href="./sections/38-3102.xml"/>
+    <xi:include href="./sections/38-3103.xml"/>
+    <xi:include href="./sections/38-3104.xml"/>
+    <xi:include href="./sections/38-3105.xml"/>
+    <xi:include href="./sections/38-3106.xml"/>
+    <xi:include href="./sections/38-3107.xml"/>
+    <xi:include href="./sections/38-3108.xml"/>
+    <xi:include href="./sections/38-3109.xml"/>
+    <xi:include href="./sections/38-3110.xml"/>
+    <xi:include href="./sections/38-3111.xml"/>
+    <xi:include href="./sections/38-3112.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

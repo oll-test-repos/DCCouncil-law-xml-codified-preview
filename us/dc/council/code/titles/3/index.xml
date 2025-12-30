@@ -6,13 +6,6 @@
   <subheading>Subtitle I. General.</subheading>
   <container>
     <prefix>Chapter</prefix>
-    <num>0</num>
-    <heading>Mayoral Authority During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="VIII" type="History" display="false"/>
-    <xi:include href="./sections/3-001.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Advisory Commission on Sentencing.</heading>
     <xi:include href="./sections/3-101.xml"/>
@@ -74,6 +67,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Robert F. Kennedy Memorial Stadium.</heading>
+      <reason>Repealed</reason>
       <xi:include href="./sections/3-321.xml"/>
       <xi:include href="./sections/3-322.xml"/>
       <xi:include href="./sections/3-323.xml"/>
@@ -84,6 +78,7 @@
       <xi:include href="./sections/3-328.xml"/>
       <xi:include href="./sections/3-329.xml"/>
       <xi:include href="./sections/3-330.xml"/>
+      <annotation app="2025-01-06" doc="D.C. Law 25-246" eff="2025-01-06" path="§2|(l)|(1)" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -105,7 +100,6 @@
     <xi:include href="./sections/3-401.xml"/>
     <xi:include href="./sections/3-402.xml"/>
     <xi:include href="./sections/3-403.xml"/>
-    <xi:include href="./sections/3-403.01.xml"/>
     <xi:include href="./sections/3-404.xml"/>
     <xi:include href="./sections/3-405.xml"/>
     <xi:include href="./sections/3-406.xml"/>
@@ -191,7 +185,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A</num>
-    <heading>Commission on Poverty.<annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/><annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History"/></heading>
+    <heading>Commission on Poverty. [Expired]<annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History"/></heading>
     <xi:include href="./sections/3-631.xml"/>
     <xi:include href="./sections/3-632.xml"/>
     <xi:include href="./sections/3-633.xml"/>
@@ -201,16 +195,20 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A-i</num>
-    <reason>Not Funded</reason>
     <heading>Commission of Poverty.</heading>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
     <xi:include href="./sections/3-641.01.xml"/>
     <xi:include href="./sections/3-641.02.xml"/>
     <xi:include href="./sections/3-641.03.xml"/>
     <xi:include href="./sections/3-641.04.xml"/>
     <xi:include href="./sections/3-641.05.xml"/>
     <xi:include href="./sections/3-641.06.xml"/>
+    <annotation doc="D.C. Act 24-159" path="§7192" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7192">Section 7192 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-184 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7192" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-45" path="§7192" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7192">Section 7192 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-184 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7192" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -236,6 +234,7 @@
     <num>7</num>
     <heading>Commission for Women.</heading>
     <xi:include href="./sections/3-701.xml"/>
+    <xi:include href="./sections/3-701.01.xml"/>
     <xi:include href="./sections/3-702.xml"/>
     <xi:include href="./sections/3-703.xml"/>
     <xi:include href="./sections/3-704.xml"/>
@@ -244,9 +243,11 @@
     <prefix>Chapter</prefix>
     <num>7A</num>
     <heading>Commission on Fathers, Men and Boys.</heading>
+    <reason>Repealed</reason>
     <xi:include href="./sections/3-731.xml"/>
     <xi:include href="./sections/3-732.xml"/>
     <xi:include href="./sections/3-733.xml"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§1014" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -301,6 +302,7 @@
       <xi:include href="./sections/3-1201.02.xml"/>
       <xi:include href="./sections/3-1201.03.xml"/>
       <xi:include href="./sections/3-1201.04.xml"/>
+      <xi:include href="./sections/3-1201.05.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -328,6 +330,8 @@
       <xi:include href="./sections/3-1202.20.xml"/>
       <xi:include href="./sections/3-1202.21.xml"/>
       <xi:include href="./sections/3-1202.22.xml"/>
+      <xi:include href="./sections/3-1202.23.xml"/>
+      <xi:include href="./sections/3-1202.24.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -352,12 +356,14 @@
       <xi:include href="./sections/3-1204.10.xml"/>
       <xi:include href="./sections/3-1204.11.xml"/>
       <xi:include href="./sections/3-1204.12.xml"/>
+      <xi:include href="./sections/3-1204.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <heading>Licensing, Registration, or Certification of Health Professionals.</heading>
+      <heading>Licensing, Registration, Certification or Approval Required.</heading>
       <xi:include href="./sections/3-1205.01.xml"/>
+      <xi:include href="./sections/3-1205.01a.xml"/>
       <xi:include href="./sections/3-1205.02.xml"/>
       <xi:include href="./sections/3-1205.03.xml"/>
       <xi:include href="./sections/3-1205.04.xml"/>
@@ -371,10 +377,13 @@
       <xi:include href="./sections/3-1205.09a.xml"/>
       <xi:include href="./sections/3-1205.10.xml"/>
       <xi:include href="./sections/3-1205.11.xml"/>
+      <xi:include href="./sections/3-1205.11a.xml"/>
       <xi:include href="./sections/3-1205.12.xml"/>
       <xi:include href="./sections/3-1205.13.xml"/>
       <xi:include href="./sections/3-1205.13a.xml"/>
       <xi:include href="./sections/3-1205.14.xml"/>
+      <xi:include href="./sections/3-1205.14a.xml"/>
+      <xi:include href="./sections/3-1205.14b.xml"/>
       <xi:include href="./sections/3-1205.15.xml"/>
       <xi:include href="./sections/3-1205.16.xml"/>
       <xi:include href="./sections/3-1205.17.xml"/>
@@ -385,6 +394,8 @@
       <xi:include href="./sections/3-1205.22.xml"/>
       <xi:include href="./sections/3-1205.23.xml"/>
       <xi:include href="./sections/3-1205.24.xml"/>
+      <xi:include href="./sections/3-1205.25.xml"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(aa)" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -395,9 +406,14 @@
       <xi:include href="./sections/3-1206.03.xml"/>
       <xi:include href="./sections/3-1206.04.xml"/>
       <xi:include href="./sections/3-1206.05.xml"/>
+      <xi:include href="./sections/3-1206.05a.xml"/>
       <xi:include href="./sections/3-1206.06.xml"/>
+      <xi:include href="./sections/3-1206.06a.xml"/>
       <xi:include href="./sections/3-1206.07.xml"/>
+      <xi:include href="./sections/3-1206.07a.xml"/>
+      <xi:include href="./sections/3-1206.07b.xml"/>
       <xi:include href="./sections/3-1206.08.xml"/>
+      <xi:include href="./sections/3-1206.09.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -447,12 +463,13 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VI-F</num>
-      <heading>Medicaid Reimbursement for Certified Professional MIdwives.</heading>
+      <heading>Medicaid Reimbursement for Certified Professional Midwives and Doulas.<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5042|(e)" type="History"/></heading>
       <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
       <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
       <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
       <xi:include href="./sections/3-1206.71.xml"/>
+      <xi:include href="./sections/3-1206.72.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -511,11 +528,19 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII-F</num>
-      <heading>Qualifications for Licensure to Practice as a Clinical Laboratory Practitioner.</heading>
+      <heading>Qualifications for Licensure to Practice as a Clinical Laboratory Practitioner [Repealed].</heading>
       <xi:include href="./sections/3-1207.61.xml"/>
       <xi:include href="./sections/3-1207.62.xml"/>
       <xi:include href="./sections/3-1207.63.xml"/>
       <xi:include href="./sections/3-1207.64.xml"/>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ggg)" type="History"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VII-G</num>
+      <heading>Qualifications for Licensure to Practice as a Behavior Analyst.</heading>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(hhh)" type="History" display="false"/>
+      <xi:include href="./sections/3-1207.71.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -525,6 +550,7 @@
       <xi:include href="./sections/3-1208.02.xml"/>
       <xi:include href="./sections/3-1208.03.xml"/>
       <xi:include href="./sections/3-1208.04.xml"/>
+      <xi:include href="./sections/3-1208.04a.xml"/>
       <xi:include href="./sections/3-1208.05.xml"/>
       <xi:include href="./sections/3-1208.06.xml"/>
     </container>
@@ -573,6 +599,24 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>VIII-F</num>
+      <heading>Categories and Qualifications Required for the Practice of Psychology.</heading>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" type="History" display="false"/>
+      <xi:include href="./sections/3-1208.81.xml"/>
+      <xi:include href="./sections/3-1208.82.xml"/>
+      <xi:include href="./sections/3-1208.83.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VIII-G</num>
+      <heading>Categories and Qualifications Required for the Practice of Medical Radiation Technology.</heading>
+      <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" type="History" display="false"/>
+      <xi:include href="./sections/3-1208.91.xml"/>
+      <xi:include href="./sections/3-1208.92.xml"/>
+      <xi:include href="./sections/3-1208.93.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Related Occupations; Registration Requirements; Prohibited Actions.</heading>
       <xi:include href="./sections/3-1209.01.xml"/>
@@ -587,6 +631,7 @@
       <xi:include href="./sections/3-1209.10.xml"/>
       <xi:include href="./sections/3-1209.11.xml"/>
       <xi:include href="./sections/3-1209.12.xml"/>
+      <xi:include href="./sections/3-1209.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -604,6 +649,7 @@
       <xi:include href="./sections/3-1210.09.xml"/>
       <xi:include href="./sections/3-1210.10.xml"/>
       <xi:include href="./sections/3-1210.11.xml"/>
+      <xi:include href="./sections/[3-1210.12].xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -694,8 +740,29 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>12C</num>
+    <heading>Counseling Compact Commission.</heading>
+    <annotation app="2024-12-17" doc="D.C. Law 25-238" eff="2024-12-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/3-1281.01.xml"/>
+    <xi:include href="./sections/3-1281.02.xml"/>
+    <xi:include href="./sections/3-1281.03.xml"/>
+    <xi:include href="./sections/3-1281.04.xml"/>
+    <xi:include href="./sections/3-1281.05.xml"/>
+    <xi:include href="./sections/3-1281.06.xml"/>
+    <xi:include href="./sections/3-1281.07.xml"/>
+    <xi:include href="./sections/3-1281.08.xml"/>
+    <xi:include href="./sections/3-1281.09.xml"/>
+    <xi:include href="./sections/3-1281.10.xml"/>
+    <xi:include href="./sections/3-1281.11.xml"/>
+    <xi:include href="./sections/3-1281.12.xml"/>
+    <xi:include href="./sections/3-1281.13.xml"/>
+    <xi:include href="./sections/3-1281.14.xml"/>
+    <xi:include href="./sections/3-1281.15.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>13</num>
-    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation><annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/><annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation><annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/><annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/></heading>
+    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/></heading>
     <xi:include href="./sections/3-1301.xml"/>
     <xi:include href="./sections/3-1302.xml"/>
     <xi:include href="./sections/3-1303.xml"/>
@@ -795,6 +862,39 @@
     <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
     <xi:include href="./sections/3-1451.xml"/>
     <xi:include href="./sections/3-1452.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14D</num>
+    <heading>Commission on Reparations.</heading>
+    <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Commission on Reparations.</heading>
+      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+      <xi:include href="./sections/3-1461.xml"/>
+      <xi:include href="./sections/3-1462.xml"/>
+      <xi:include href="./sections/3-1463.xml"/>
+      <xi:include href="./sections/3-1464.xml"/>
+      <xi:include href="./sections/3-1465.xml"/>
+      <xi:include href="./sections/3-1466.xml"/>
+      <xi:include href="./sections/3-1467.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Reparations Fund.</heading>
+      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+      <xi:include href="./sections/3-1471.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Slavery Era Database Established.</heading>
+      <annotation app="2025-03-07" doc="D.C. Law 25-264" eff="2025-03-07" path="" type="History" display="false"/>
+      <xi:include href="./sections/3-1481.xml"/>
+    </container>
   </container>
   <subheading>Subtitle II. Repealed and Expired Provisions.</subheading>
   <container>

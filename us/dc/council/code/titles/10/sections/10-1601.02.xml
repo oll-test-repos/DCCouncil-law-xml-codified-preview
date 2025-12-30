@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>10-1601.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-1601.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Creation of Ballpark Revenue Fund.</heading>
   <para>
     <num>(a)</num>
@@ -41,6 +44,10 @@
       <num>(7)</num>
       <text>To directly pay or finance all or any of the costs of any future renovations, improvements, maintenance, or upgrades to Robert F. Kennedy Stadium or the new ballpark after its construction has been completed;</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(7A)</num>
+      <text>Not Applicable.</text>
+    </para>
     <para>
       <num>(8)</num>
       <text>To directly pay or finance all or any other costs of the District or any District government agency associated with the financing, development, construction, or renovation of the ballpark;</text>
@@ -54,9 +61,17 @@
       <text>Subject to the provisions of the financing documents, for such purposes as may otherwise be authorized by law.</text>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(c-1)</num>
+    <text>Not Applicable.</text>
+  </para>
   <para>
     <num>(d)</num>
-    <text>To the extent that it does not violate the terms of any financing documents, closing documents, lien, pledge, security interest, or other covenants (collectively, “financing documents”) under which the bonds or other evidence of indebtedness described in this section (“bonds”) were issued, and, after accounting for transfers authorized to the General Fund of the District of Columbia under current law, if, at the end of a fiscal year the balance of cash and investments in the Ballpark Revenue Fund exceeds the balance of current liabilities, including debt service, required reserves, fund transfers previously authorized to balance the Fiscal Year 2011 budget and Fiscal Years 2012 through 2014 financial plan, and required sinking fund deposits under the bonds or financing documents required to be paid from the funds in the Ballpark Revenue Fund, the excess shall be used to pay in advance of scheduled maturity any principal amount and accrued interest thereon due on the bonds; provided, that any excess that accrues during Fiscal Year 2020, Fiscal Year 2021, or Fiscal Year 2022 shall be deposited in the unrestricted fund balance of the General Fund during the fiscal year in which it accrues.</text>
+    <text>To the extent that it does not violate the terms of any financing documents, closing documents, lien, pledge, security interest, or other covenants (collectively, “financing documents”) under which the bonds or other evidence of indebtedness described in this section (“bonds”) were issued, and, after accounting for transfers authorized to the General Fund of the District of Columbia under current law, if, at the end of a fiscal year the balance of cash and investments in the Ballpark Revenue Fund exceeds the balance of current liabilities, including debt service, required reserves, fund transfers previously authorized to balance the Fiscal Year 2011 budget and Fiscal Years 2012 through 2014 financial plan, and required sinking fund deposits under the bonds or financing documents required to be paid from the funds in the Ballpark Revenue Fund, the excess shall be used to pay in advance of scheduled maturity any principal amount and accrued interest thereon due on the bonds; provided, that any excess that accrues during Fiscal Year 2020, Fiscal Year 2021, or Fiscal Year 2022 shall be deposited in the unrestricted fund balance of the General Fund during the fiscal year in which it accrues; provided further, that the first $20 million of any excess that accrues during Fiscal Year 2023, the first $32.37 million of any excess that accrues during Fiscal Year 2024, the first $31.47 million of any excess that accrues during Fiscal Year 2025, and the first $32.92 million of any excess that accrues during Fiscal Year 2026 shall be deposited in the unrestricted fund balance of the General Fund during the fiscal year in which it accrues.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(e)</num>
+    <text>Not Applicable.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 15-320" type="History" path="§102">Apr. 8, 2005, D.C. Law 15-320, § 102, 52 DCR 1757</annotation>
@@ -69,5 +84,40 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subsec. (c)(8), deleted “and” at the end; in subsec. (c)(9) substituted “this subchapter, which debt service includes funding any required reserves on, and making any other payments related to, the bonds; and” for “this subchapter.”; and added subsec. (c)(10).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§10-1601.03">§ 10-1601.03</cite>, <cite path="§10-1601.08">§ 10-1601.08</cite>, <cite path="§47-2002.05">§ 47-2002.05</cite>, <cite path="§47-2501">§ 47-2501</cite>, <cite path="§47-2761">§ 47-2761</cite>, and <cite path="§47-3902">§ 47-3902</cite>.</annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7022" type="History"/>
+    <annotation doc="D.C. Act 25-172" path="§7012" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
+          Section 7013 of D.C. Act 25-172 provided that the amendments to this section by § 7012 of D.C. Act 25-172 shall apply as of September 1, 2023.
+        </annotation>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§7012" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§7012" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§7012">§ 7012 of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 9933)</cite>.</annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7012" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7012" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06">
+          Section 7013 of D.C. Law 25-50 provided that the amendments to this section by § 7012 of D.C. Law 25-50 shall apply as of September 1, 2023.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7012" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§13" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§13">§ 13 of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§13" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7102" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7102">§ 7102 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7102" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§13" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§13">§ 13 of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§13" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7102" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§4" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(2)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(2)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(3)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(3)|(B)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§4" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)|(5)" type="History"/>
+    <annotation doc="D.C. Law 25-276" path="§2|(a)" type="Applicability" app="2025-03-07" eff="2025-03-07"><cite doc="D.C. Law 25-276" path="§4">Section 4 of D.C. Law 25-276</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-276" path="§2|(a)">Section 2(a) of D.C. Law 25-276</cite> shall become applicable upon the execution and Council approval of a lease amendment agreement between the District and the Washington Nationals Stadium, LLC that extends the current lease agreement through February 28, 2054. Therefore those amendments have not been implemented.
+      </annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7043" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7043">§ 7043 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7043" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7043" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7043" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7043" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7043">§ 7043 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

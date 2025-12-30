@@ -10,6 +10,10 @@
     <num>(b)</num>
     <text>Repealed.</text>
   </para>
+  <para>
+    <num>(c)</num>
+    <text>Notwithstanding subsection (a) of this section, a person seeking a registration certificate for a firearm that the person has self-manufactured shall file a registration application within 5 business days after completing manufacture of the firearm.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 1-85" type="History" path="§206">Sept. 24, 1976, D.C. Law 1-85, title II, § 206, 23 DCR 2464</annotation>
     <annotation doc="D.C. Law 2-62" type="History">Mar. 16, 1978, D.C. Law 2-62, § 2, 24 DCR 5780</annotation>
@@ -20,5 +24,14 @@
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-170">D.C. Law 19-170</cite> repealed (b), which formerly read: “Any firearm validly registered under prior regulations must be registered pursuant to this unit in accordance with procedures to be promulgated by the Chief. An application to register such firearm shall be filed pursuant to this unit within 60 days of September 24, 1976.”</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-1816.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2316.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-237" path="§2|(d)" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-237" path="§2|(d)">§ 2(d) of Ghost Gun Clarification Emergency Amendment Act of 2021 (D.C. Act 24-237, Dec. 13, 2021, 68 DCR 013482)</cite>.</annotation>
+    <annotation app="2021-12-13" doc="D.C. Act 24-237" eff="2021-12-13" path="§2|(d)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-87" path="§2|(d)" codified:display="Note" app="2022-03-02" eff="2022-03-02">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-87" path="§2|(d)">§ 2(d) of Ghost Gun Clarification Temporary Amendment Act of 2021 (D.C. Law 24-87, Mar. 2, 2022, 69 DCR 000450)</cite>.</annotation>
+    <annotation app="2022-03-02" doc="D.C. Law 24-87" eff="2022-03-02" path="§2|(d)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-583" path="§2|(d)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-583" path="§2|(d)">§ 2(d) of Ghost Gun Clarification Emergency Amendment Act of 2022 (D.C. Act 24-583, Oct. 17, 2022, 69 DCR 012714)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-583" eff="2022-10-17" path="§2|(d)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-221" path="§2|(d)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-221" path="§2|(d)">§ 2(d) of Ghost Gun Clarification Temporary Amendment Act of 2022 (D.C. Law 24-221, Dec. 21, 2022, 69 DCR 13966)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-221" eff="2022-12-21" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-347" eff="2023-04-21" path="§2|(e)" type="History"/>
   </annotations>
 </section>

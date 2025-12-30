@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-362</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-362(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Policies enumerated.</heading>
   <para>
     <num>(a)</num>
@@ -8,15 +11,23 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Reprogrammings shall not be used to establish new programs or to change allocations specifically denied, limited, or increased by the Council in the budget act, or the accompanying budget report or mark-up sheets.</text>
+    <text>A reprogramming of any amount shall not be used to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Establish new programs or to make or change budget allocations originally proposed by the Mayor, which the Council specifically denied, limited, or increased in a budget act, or the accompanying spreadsheets or final data file, or in an act passed pursuant to §§ <cite path="§">47-369.01</cite> or <cite path="§47-369.02">47-369.02</cite>; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Eliminate new programs or allocations specifically provided by the Council in a budget act, or the accompanying spreadsheets or final data file, or in an act passed pursuant to §§ <cite path="§">47-369.01</cite> or <cite path="§47-369.02">47-369.02</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>Any program or project deferred through reprogramming shall not be later accomplished by means of further reprogramming. Funding for such section shall await the regular budget request.</text>
+    <text>Any program or project deferred through reprogramming shall not be later accomplished by means of further reprogramming. Funding for such program or project shall await the regular budget request.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>Should unusual circumstances require changes to the policies included in subsections (a) through (c) of this section, proposals shall be submitted to the Council for approval regardless of the dollar amount involved.</text>
+    <text>Should unusual circumstances require an exception to subsections (a) through (c) of this section, a reprogramming request shall be submitted to the Council for approval regardless of the dollar amount involved, accompanied by a narrative explanation of the unusual circumstances and the need for an exception.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -24,22 +35,7 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>Notwithstanding <cite path="§47-363">§ 47-363</cite>, any funds appropriated for Debt Service, as defined in <cite path="§47-334|(1)">§ 47-334(1)</cite>, in excess of Debt Service requirements:</text>
-    <para>
-      <num>(1)</num>
-      <text>May not be reprogrammed, unless the Council approves the reprogramming request by resolution; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>At the end of a fiscal year, any excess shall be transferred equally among the Local Streets Ward-Based Capital Projects.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For the purposes of this paragraph, the term “Local Streets Ward Based Capital Projects” means the District Department of Transportation’s 8 local streets ward-based capital projects (Project No. SR301-SR308), which endeavor to preserve, maintain, repair, or replace the District’s sidewalks, curbs, and local roads.</text>
-      </para>
-    </para>
+    <text>Notwithstanding <cite path="§47-363">§ 47-363</cite>, any funds appropriated for Debt Service, as defined in <cite path="§47-334|(1)">§ 47-334(1)</cite>, in excess of Debt Service requirements may not be reprogrammed, unless the Council approves the reprogramming request by resolution.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -55,6 +51,10 @@
   <para>
     <num>(h)</num>
     <text>Notwithstanding <cite path="§47-363">§ 47-363</cite>, local funds appropriated for the Department of Health Care Finance and the Medicaid Reserve in Fiscal Year 2021 shall not be reprogrammed to other agencies unless the Council approves the reprogramming by resolution.</text>
+  </para>
+  <para placeholder="Repealed">
+    <num>(i)</num>
+    <text>[Repealed].</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 3-100" type="History">Sept. 16, 1980, D.C. Law 3-100, § 3, 27 DCR 3617</annotation>
@@ -97,5 +97,35 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-6" path="§4" codified:display="Note" app="2021-03-16" eff="2021-01-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-6" path="§4">§ 4 of Department of Health Care Finance Alliance Reform and Budget Transparency Emergency Amendment Act of 2021 (D.C. Act 24-6, Jan. 29, 2021, 68 DCR 001539)</cite>.</annotation>
     <annotation app="2021-03-16" doc="D.C. Act 24-6" eff="2021-01-29" path="§4" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§203" type="History"/>
+    <annotation doc="D.C. Act 25-172" path="§6043" type="Applicability" history="false" app="2023-07-14" eff="2023-07-14">
+          Section 6044 of D.C. Act 25-172 provided that the amendments to this section by § 6043 of D.C. Act 25-172 shall apply as of July 14, 2023.
+        </annotation>
+    <annotation app="2023-07-14" doc="D.C. Act 25-172" eff="2023-07-14" path="§6043" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-172" path="§6043" codified:display="Note" app="2023-07-14" eff="2023-07-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-172" path="§6043">§ 6043 of Fiscal Year 2024 Budget Support Emergency Act of 2023 (D.C. Act 25-172, July 14, 2023, 70 DCR 9933)</cite>.</annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7027|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6043" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§6043" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06">
+          Section 6044 of D.C. Law 25-50 provided that the amendments to this section by § 6043 of D.C. Law 25-50 shall apply as of July 14, 2023.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6043" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6052" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6052">§ 6052 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6052" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7062" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7062">§ 7062 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7062" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7062" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6052" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-621" path="§2" codified:display="Note" app="2024-10-29" eff="2024-10-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-621" path="§2">§ 2 of DC Circulator Transition Emergency Amendment Act of 2024 (D.C. Act 25-621, Oct. 29, 2024, 71 DCR 13555)</cite>.</annotation>
+    <annotation app="2024-10-29" doc="D.C. Act 25-621" eff="2024-10-29" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-679" path="§2" codified:display="Note" app="2025-01-03" eff="2025-01-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-679" path="§2">§ 2 of DC Circulator Transition Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-679, Jan. 3, 2025, 72 DCR 25)</cite>.</annotation>
+    <annotation app="2025-01-03" doc="D.C. Act 25-679" eff="2025-01-03" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-284" path="§2" codified:display="Note" app="2025-03-07" eff="2025-03-07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-284" path="§2">§ 2 of DC Circulator Transition Temporary Amendment Act of 2024 (D.C. Law 25-284, Mar. 7, 2025, 71 DCR 14126)</cite>.</annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-284" eff="2025-03-07" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7242|(a)|(3)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7242|(a)|(3)">§ 7242(a)(3) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(3)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(3)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(3)|(A)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(3)|(B)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(3)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7242|(a)|(3)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7242|(a)|(3)">§ 7242(a)(3) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

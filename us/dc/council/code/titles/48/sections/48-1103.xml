@@ -28,6 +28,10 @@
       <text>Notwithstanding paragraph (1) of this subsection, it shall not be unlawful for a community-based organization, as that term is defined in <cite path="§7-404|(a)|(1)">§ 7-404(a)(1)</cite>, to deliver or sell, or possess with intent to deliver or sell, drug paraphernalia for the personal use of a controlled substance.</text>
     </para>
     <para>
+      <num>(1B)</num>
+      <text>Notwithstanding paragraph (1) of this subsection, it shall not be unlawful for District government employees, contractors, and grantees, acting within the scope of their employment, contract, or grant, to deliver, or possess with intent to deliver, drug paraphernalia for the personal use of a controlled substance.</text>
+    </para>
+    <para>
       <num>(2)</num>
       <text>Whoever violates this subsection shall be imprisoned for not more than 6 months or fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or both, unless the violation occurs after the person has been convicted in the District of Columbia of a violation of this subchapter, in which case the person shall be imprisoned for not more than 2 years, or fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or both.</text>
     </para>
@@ -133,5 +137,12 @@
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7168" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-182" eff="2021-03-16" path="§5|(b)|(1)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-182" eff="2021-03-16" path="§5|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-444" path="§2" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-444" path="§2">§ 2 of Opioid Overdose Prevention Emergency Amendment Act of 2022 (D.C. Act 24-444, June 28, 2022, 69 DCR 007737)</cite>.</annotation>
+    <annotation app="2022-06-28" doc="D.C. Act 24-444" eff="2022-06-28" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-180" path="§2" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-180" path="§2">§ 2 of Opioid Overdose Prevention Temporary Amendment Act of 2022 (D.C. Law 24-180, Sept. 21, 2022, 69 DCR 009334)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-180" eff="2022-09-21" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§121" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§121">§ 121 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§121" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§131" type="History"/>
   </annotations>
 </section>

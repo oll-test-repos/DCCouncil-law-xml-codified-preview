@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-307.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-307.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Medical assistance expansion program establishment.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor shall establish a program to expand medical assistance to adult District residents with an annual family income up to 200% of the federal poverty level.</text>
+    <text>The Mayor may establish a program to expand medical assistance to adult District residents with an annual household income up to 200% of the federal poverty level.</text>
     <para>
       <num>(1)</num>
       <text>The Mayor may provide medical assistance to eligible residents by making arrangements with managed care providers either on a fee-for-service or capitated basis.</text>
@@ -30,7 +33,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>To implement any expansion for adult District residents with an annual family income up to 200% of the federal poverty level the Mayor shall:</text>
+      <text>To implement any expansion for adult District residents with an annual household income up to 200% of the federal poverty level the Mayor may:</text>
       <para>
         <num>(A)</num>
         <text>Seek and obtain all necessary waivers of federal Medicaid statutes, rules, and regulations; and</text>
@@ -41,29 +44,13 @@
       </para>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>The Mayor shall establish a program to provide medical assistance to undocumented children not eligible for coverage under Medicaid who reside in the District and have an annual family income up to 200% of the federal poverty level.</text>
-    <para>
-      <num>(1)</num>
-      <text>The Mayor may provide medical assistance to eligible residents by making arrangements with managed care providers either on a fee-for-service or capitated basis.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Enrollees of the program shall select a health maintenance organization with a current contract with the District to provide managed care services.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The Mayor shall assign any enrollee who does not choose a provider within a reasonable period of time to the District of Columbia Health and Hospitals Public Benefit Corporation.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>In fiscal year 2000, the Mayor shall establish a pilot program to provide medical assistance to not more than 500 immigrant children not eligible to be covered under Medicaid.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>Beginning with fiscal year 2001, the Mayor may increase enrollment contingent upon the certification by the Chief Financial Officer of the availability of funding and subject to the District’s financial plan and budget.</text>
+    <text>Beginning on October 1, 2021, the Mayor may modify the standards for eligibility to enroll in a program established by subsection (a) of this section to increase the number of District residents who would be eligible to enroll in the program to the extent such expansion is consistent with the District's budget and financial plan.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -92,5 +79,20 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>, in subsec. (b)(4), substituted “immigrant” for “undocumented”.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-360.1.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-307.06">§ 1-307.06</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§5012" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§5012">§ 5012 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5012" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5012|(a)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5012|(a)|(2)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5012|(b)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5012|(b)|(2)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5012|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5042" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5042">§ 5042 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5042" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5042" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5042|(a)|(2)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5042|(a)|(1)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5042|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5042|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5042" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5042">§ 5042 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

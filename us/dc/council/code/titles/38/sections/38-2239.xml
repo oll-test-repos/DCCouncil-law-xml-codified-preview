@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
-  <reason>Repealed</reason>
   <num>38-2239</num>
+  <reason>Repealed</reason>
   <heading>Availability of funds</heading>
   <text>Repealed.</text>
   <annotations>
@@ -11,5 +11,12 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7042" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-167" path="§7042">§ 7042 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7042" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1102" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1103" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4192" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4193" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4194" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4195" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4196" type="History" display="false"/>
   </annotations>
 </section>

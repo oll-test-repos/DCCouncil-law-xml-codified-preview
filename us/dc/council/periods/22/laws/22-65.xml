@@ -1741,7 +1741,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>Written notice issued pursuant to this subsection shall conform to the requirements of notice issued pursuant to <code-cite doc="D.C. Code" path="§4-754.33|(d)">section 19(d)</code-cite>.".</text>
+              <text>Written notice issued pursuant to this subsection shall conform to the requirements of notice issued pursuant to <code-cite doc="D.C. Code" path="§4-754.33|(d)">section 19(d)</code-cite>.<span codify:value="">".</span></text>
             </para>
           </para>
           <para>
@@ -1821,7 +1821,7 @@
       <text>Section 26 (D.C. Official Code § 4-754.41) is amended as follows:</text>
       <para>
         <num>(1)</num>
-        <text>Subsection (a) is amended by striking the phrase "adverse action" and inserting the phrase "adverse action; provided, that, when written notice is given pursuant to<code-cite doc="D.C. Code" path="§4-754.33|(c-1)"> section 19(c-1)</code-cite> because the client was absent from the temporary shelter or transitional housing provider's premises for more than 4 consecutive days due to inpatient psychological or psychiatric treatment or hospitalization for medical treatment, the 90-day period to request a hearing shall begin the day that the client is released from the facility at which the client was treated" in its place.</text>
+        <text>Subsection (a) is amended by striking the phrase "adverse action" and inserting the phrase "adverse action; provided, that, when written notice is given pursuant to <code-cite doc="D.C. Code" path="§4-754.33|(c-1)"> section 19(c-1)</code-cite> because the client was absent from the temporary shelter or transitional housing provider's premises for more than 4 consecutive days due to inpatient psychological or psychiatric treatment or hospitalization for medical treatment, the 90-day period to request a hearing shall begin the day that the client is released from the facility at which the client was treated" in its place.</text>
         <codify:find-replace path="(a)" count="1" codified:doc="D.C. Code" codified:path="§4-754.41|(a)">
           <find>adverse action</find>
           <replace>adverse action; provided, that, when written notice is given pursuant to<code-cite doc="D.C. Code" path="§4-754.33|(c-1)"> section 19(c-1)</code-cite> because the client was absent from the temporary shelter or transitional housing provider's premises for more than 4 consecutive days due to inpatient psychological or psychiatric treatment or hospitalization for medical treatment, the 90-day period to request a hearing shall begin the day that the client is released from the facility at which the client was treated</replace>
@@ -2297,7 +2297,7 @@
       <text>Section 30(c) (D.C. Official Code § 4-756.01(c)) is repealed.</text>
       <codify:repeal path="§4-756.01|(c)" codified:doc="D.C. Code" codified:path="§4-756.01|(c)"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(nn)</num>
       <text>A new section 31d is added to read as follows:</text>
       <include>
@@ -2399,7 +2399,7 @@
       <annotation doc="D.C. Law 16-35" type="History" path="§31d">Oct. 22, 2005, D.C. Law 16-35, §  31d</annotation>
       <codify:not-funded-anno doc="D.C. Law 22-65" path="§2|(nn)" applicability-path="§5" action="creation of" codified:doc="D.C. Code" codified:path="§4-756.06" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(oo)</num>
       <text>A new section 31e is added to read as follows:</text>
       <include>

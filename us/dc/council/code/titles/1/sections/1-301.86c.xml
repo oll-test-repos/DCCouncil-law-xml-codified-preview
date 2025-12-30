@@ -8,14 +8,18 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Revenue from the following awards shall be deposited into the Fund:</text>
+    <text>Revenue from the following shall be deposited into the Fund:</text>
     <para>
       <num>(1)</num>
-      <text>Awards of restitution for property lost or damages suffered by consumers made under a court order, judgment, or settlement in any action or investigation under <cite path="§28-3909|(a)">§ 28-3909(a)</cite>; and</text>
+      <text>Awards of restitution for property lost or damages suffered by consumers for which the District is responsible for distribution made under court orders, judgments, or settlements in actions or investigations under <cite path="§28-3909|(a)">§ 28-3909(a)</cite>;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Awards on behalf of an aggrieved employee made under a court order, judgment, or settlement in any action or investigation under <cite path="§32-1306|(a)|(2)|(A)|(iii)">§ 32-1306(a)(2)(A)(iii)</cite>.</text>
+      <text>Awards on behalf of aggrieved employees for which the District is responsible for distribution made under court orders, judgments, or settlements in actions or investigations under <cite path="§32-1306|(a)|(2)|(A)|(iii)">§ 32-1306(a)(2)(A)(iii)</cite> and;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Funds collected pursuant to <cite path="§1-350.02|(a-4)|(2)">§ 1-350.02(a-4)(2)</cite>.</text>
     </para>
   </para>
   <para>
@@ -23,11 +27,15 @@
     <text>Money in the Fund shall be used for the following purposes:</text>
     <para>
       <num>(1)</num>
-      <text>The payment of awards as required by a court order, judgment, or settlement in an action or investigation OAG conducts under <cite path="§28-3909|(a)">§ 28-3909(a)</cite> or <cite path="§32-1306|(a)|(2)|(A)|(iii)">§ 32-1306(a)(2)(A)(iii)</cite>; and</text>
+      <text>The payment of awards as required by a court orders, judgments, or settlements in actions or investigations" OAG conducts under <cite path="§28-3909|(a)">§ 28-3909(a)</cite> or <cite path="§32-1306|(a)|(2)|(A)|(iii)">§ 32-1306(a)(2)(A)(iii)</cite>;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The payment of costs and expenses related to maintaining the Fund, including costs associated with the claims process described in subsection (e) of this section.</text>
+      <text>The payment of costs and expenses related to maintaining the Fund, including costs associated with the claims process described in subsection (e) of this section; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Supplying initial funding for, and from time-to-time replenishing, the Tenant Receivership Abatement Fund pursuant to <cite path="§1-301.86e|(b)|(1)|(A)">§ 1-301.86e(b)(1)(A)</cite>.</text>
     </para>
   </para>
   <para>
@@ -54,7 +62,15 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>After paragraphs (1) and (2) of this subsection have been completed, any excess funds remaining from the award shall be treated as unclaimed property pursuant to <cite path="41|1">Chapter 1 of Title 41</cite>.</text>
+      <text>After paragraphs (1) and (2) of this subsection have been completed, any excess funds shall be treated as follows:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any excess funds remaining from an award that are designated to named individuals shall be treated as unclaimed property pursuant to <cite path="41|1A">Chapter 1A of Title 41</cite>; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any other excess funds remaining from an award shall remain in the Fund and may be used, in an amount not to exceed $500,000 each fiscal year, for any purpose provided for in subsection (c) of this section.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -70,11 +86,11 @@
   </para>
   <para>
     <num>(g)</num>
-    <text>The Attorney General, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>), may issue rules to implement the provisions of this section.</text>
+    <text>The Attorney General, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement the provisions of this section.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(h)</num>
-    <text>On an annual basis, the Office of the Inspector General shall conduct an audit of the income and expenditures of the Fund and shall submit the audit to the Attorney General, the Mayor, and the Council.</text>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-160" type="History" path="§106c">May 27, 2010, D.C. Law 18-160, § 106c</annotation>
@@ -86,5 +102,21 @@
     <annotation doc="D.C. Law 22-33" path="§3072|(b)" type="Emergency Legislation" history="false" app="2017-12-13" eff="2017-12-13">
           For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-167" path="§3072|(b)">§ 3072(b) of the Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017, effective October 24, 2017 (D.C. Act 22-167; 64 DCR 10802)</cite>.
         </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1032|(b)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§1032|(b)">§ 1032(b) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1032|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1093|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§1093|(a)">§ 1093(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1093|(a)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1032|(b)|(1)|(B)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1032|(b)|(1)|(C)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1032|(b)|(1)|(A)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1032|(b)|(1)|(D)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1093|(a)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1093|(a)|(2)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1093|(a)|(3)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§1032|(b)|(2)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1002|(b)|(1)|(A)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1002|(b)|(1)|(B)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1002|(b)|(2)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§1002|(b)|(3)" type="History"/>
   </annotations>
 </section>

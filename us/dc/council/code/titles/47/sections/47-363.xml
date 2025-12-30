@@ -2,7 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-363</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on November 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-363(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-363(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-363(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Council approval of reprogrammings.</heading>
   <para>
@@ -21,14 +24,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <para>
-        <num>(A)</num>
-        <text>The Council shall consider the request according to its rules. No request may be submitted to the Chairman of the Council under this subsection during such time as the Council is on recess, according to its rules, nor shall any time period provided in this subsection or in the Council’s rules with respect to the requests continue to run during such time as the Council is on recess.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Notwithstanding subparagraph (A) of this paragraph, a reprogramming request for Fiscal Year 2021 funds may be submitted, and the time period for the consideration of the requests shall continue to run, from July 15, 2021, through August 2, 2021, and from September 7, 2021, through September 30, 2021.</text>
-      </para>
+      <text>The Council shall consider the request according to its rules. No request may be submitted to the Chairman of the Council under this subsection during such time as the Council is on recess, according to its rules, nor shall any time period provided in this subsection or in the Council’s rules with respect to the requests continue to run during such time as the Council is on recess. If the Mayor submits an annual budget later than the date established by the Council pursuant to <cite path="§1-204.42|(a)">§ 1-204.42(a)</cite>, no request may be submitted to the Chairman of the Council under this subsection until after the date on which the Mayor submits the annual budget to the Council.</text>
     </para>
   </para>
   <para>
@@ -64,12 +60,20 @@
         <text>Activity;</text>
       </para>
       <para>
+        <num>(C-i)</num>
+        <text>Cost Center;</text>
+      </para>
+      <para>
         <num>(D)</num>
-        <text>Object class; and</text>
+        <text>Object class;</text>
       </para>
       <para>
         <num>(E)</num>
-        <text>Funding sources.</text>
+        <text>Agency funding sources; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Project, including interagency projects, as applicable.</text>
       </para>
     </para>
     <para>
@@ -103,6 +107,21 @@
   <para>
     <num>(g)</num>
     <text>A reprogramming from the Transportation Infrastructure Project Review Fund established by <cite path="§50-921.17">[§ 50-921.17]</cite> to a capital project shall not require Council approval; provided, that the reprogramming shall not modify the purposes for which the reprogrammed funds may be expended.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <para>
+      <num>(1)</num>
+      <text><cite path="47|3|IV">This subchapter</cite> shall not apply to a reprogramming from a master capital project in the Highway Trust Fund portion of the District's capital improvements plan to another master capital project in the Highway Trust Fund portion of the District's capital improvements plan, other than as provided in this subsection.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>At the request of the Mayor, the Chief Financial Officer of the District of Columbia ("CFO") shall reprogram funds between master capital projects in the Highway Trust Fund portion of the District's capital improvements plan; provided, that the reprogramming of funds is consistent with the State Transportation Improvement Plan included in the Transportation Improvement Plan prepared and approved by the Metropolitan Washington Council of Governments National Capital Region Transportation Planning Board; provided further, that the CFO determines that the funds are available for reprogramming.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>After funds are reprogrammed pursuant to paragraph (2) of this subsection, the director of the implementing agency for the project may obligate and expend the reprogrammed funds.</text>
+    </para>
   </para>
   <annotations>
     <text type="Editor's Notes">Approval of Reprogramming from Governmental Direction and Support Agencies to the Department of Administrative Services Emergency Resolution of 1995: Pursuant to Resolution 11-82, effective June 6, 1995, the Council approved, on an emergency basis, the reprogramming, within the Congressionally-approved Fiscal Year 1995 appropriation for Governmental Direction and Support, of $2.9 million from the Offices of the City Administrator, Secretary, Communications, Intergovernmental Relations, Deputy Mayor for Finance and Budget, the Department of Finance and Revenue, within the Department of Administrative Services, and the Board of Elections and Ethics, to the Department of Administrative Services.</text>
@@ -201,9 +220,25 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§8022" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§8022">§ 8022 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§8022" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§8022" type="History"/>
-    <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§2" type="History" display="false"/>
-    <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§2|(a)" type="History"/>
-    <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§2|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-158" path="§2" codified:display="Note" app="2021-08-05" eff="2021-08-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-158" path="§2">§ 2 of Recess Reprogramming Emergency Amendment Act of 2021 (D.C. Act 24-158, Aug. 5, 2021, 68 DCR 008014)</cite>.</annotation>
+    <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6002" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6002">§ 6002 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6002" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-42" path="§2" codified:display="Note" app="2021-10-27" eff="2021-10-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-42" path="§2">§ 2 of Recess Reprogramming Temporary Amendment Act of 2021 (D.C. Law 24-42, Oct. 27, 2021, 68 DCR 009521)</cite>.</annotation>
+    <annotation app="2021-10-27" doc="D.C. Law 24-42" eff="2021-10-27" path="§2" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6002" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§1073" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§1073">§ 1073 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§1073" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7242|(a)|(4)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7242|(a)|(4)">§ 7242(a)(4) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7242|(a)|(4)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§1073" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(4)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§1073" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(4)|(A)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(4)|(B)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(4)|(C)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7242|(a)|(4)|(D)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§1073" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§1073">§ 1073 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7242|(a)|(4)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7242|(a)|(4)">§ 7242(a)(4) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

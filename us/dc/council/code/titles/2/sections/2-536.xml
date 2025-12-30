@@ -7,7 +7,7 @@
     <text>Without limiting the meaning of other sections of this subchapter, the following categories of information are specifically made public information, and do not require a written request for information:</text>
     <para>
       <num>(1)</num>
-      <text>The names, salaries, title, and dates of employment of all employees and officers of a public body;</text>
+      <text>The names, salaries, title, and dates of employment of all employees and officers of a public body, except for any employee or officer of a public body who is a participant, as that term is defined in <cite path="§4-555.01|(12)">§ 4-555.01(12)</cite>, in the Address Confidentiality Program established by <cite path="§4-555.02">§ 4-555.02</cite>, and submits a request to the Department of Human Resources ("Department"), through a process to be established by the Department, that their information not be made public.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -62,6 +62,17 @@
     <num>(c)</num>
     <text>For the purposes of this section “absentee real property owners” means owners of real property located in the District that do not reside at the real property.</text>
   </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>Notwithstanding any other provision of law, no document or information described in subsection (a)(6A) of this section that was created on or after December 7, 2004, shall be exempt from disclosure pursuant to section 204(a)(4) and (e).</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>In addition to making such document or information public information pursuant to subsection (a) of this section, a public body shall provide any document or information described in subsection (a)(6A) of this section that was created on or after December 7, 2004, to a person who has requested to inspect or copy it pursuant to section 202, regardless of the date on which such request may have been made.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="Pub. L. 90-614" type="History" path="§206">Oct. 21, 1968, Pub. L. 90-614, title II, § 206</annotation>
     <annotation doc="D.C. Law 1-96" type="History">as added Mar. 29, 1977, D.C. Law 1-96, § 2, 23 DCR 3744</annotation>
@@ -90,5 +101,9 @@
     <annotation type="Prior Codifications">1973 Ed., § 1-1526.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1526.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-610.64">§ 1-610.64</cite> and <cite path="§8-151.08">§ 8-151.08</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1042|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§1042|(b)">§ 1042(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1042|(b)" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§1042|(b)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§101" type="History"/>
   </annotations>
 </section>

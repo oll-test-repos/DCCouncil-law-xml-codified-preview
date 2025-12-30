@@ -569,7 +569,7 @@
     </include>
     <aftertext>.</aftertext>
   </section>
-  <section codify:doc="D.C. Code">
+  <section codify:doc="D.C. Code" codify:applicability="notfunded">
     <num>4</num>
     <text>An Act To create a Department of Corrections in the District of Columbia, approved June 27, 1946 (60 Stat. 320; D.C. Official Code § 24-211.01 <em>et seq</em>.), is amended as follows:</text>
     <para codify:path="§24-211.02|(b)">
@@ -578,17 +578,17 @@
       <para codify:path="(5)">
         <num>(1)</num>
         <text>Paragraph (5) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|(5)">
-          <find>; and</find>
-          <replace>;</replace>
-        </codify:find-replace>
       </para>
-      <para codify:path="(9)">
+      <para>
         <num>(2)</num>
         <text>Paragraph (9) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|(9)">
+        <codify:find-replace path="(9)" position="last" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|(9)">
+          <find>in <code-cite doc="D.C. Code" path="§22-4234|(b-3)">section 1505(b-3) of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234(b-3))</code-cite>; and</find>
+          <replace>in <code-cite doc="D.C. Code" path="§22-4234|(b-3)">section 1505(b-3) of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234(b-3))</code-cite>;</replace>
+        </codify:find-replace>
+        <codify:find-replace path="(10)" count="1" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|(10)">
           <find>.</find>
-          <replace>; and</replace>
+          <replace>[; and]</replace>
         </codify:find-replace>
       </para>
       <para>
@@ -596,7 +596,7 @@
         <text>A new paragraph (10) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert num-value="[(11)]" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|[(11)]"/>
+            <codify:insert num-value="[(11)]" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|(11)"/>
             <num>(10)</num>
             <text>Employ personnel whose sole responsibility shall be the civic engagement and enfranchisement of eligible individuals incarcerated in the Department of Corrections' care or custody, including those responsibilities in <code-cite doc="D.C. Code" path="§24-211.08">section 8</code-cite> and designing and implementing a plan to facilitate voting for each election in the Central Detention Facility and Correctional Treatment Facility.</text>
           </para>
@@ -723,7 +723,7 @@
     <para>
       <num>(a)</num>
       <text>Section 4 of this act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-277" path="§4" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|(5)"/>
+      <codify:applicability doc="D.C. Law 23-277" path="§4" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

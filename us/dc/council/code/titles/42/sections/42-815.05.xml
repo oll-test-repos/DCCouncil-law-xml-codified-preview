@@ -1,35 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-815.05</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
-      </text>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§406">Temporary Version</cite>.*
-      </text>
-  <heading>Foreclosure moratorium during a public health emergency.</heading>
+  <heading>Requirement for deed before action against current occupant of foreclosed property.</heading>
   <para>
     <num>(a)</num>
-    <text>Notwithstanding any provision of District law, during the period of time from March 11, 2020, until November 5, 2021, no residential foreclosure:</text>
-    <para>
-      <num>(1)</num>
-      <text>May be initiated or conducted under <cite path="§42-815">§ 42-815</cite> or <cite path="§42-816">§ 42-816</cite>; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Sale may be conducted under <cite path="§42-1903.13|(c)">§ 42-1903.13(c)</cite>.</text>
-    </para>
+    <text>No purchaser from a foreclosure auction or other auction shall issue a notice to quit or otherwise initiate an action for possession, ejectment, or their equivalents, or charge rent, fair use and occupancy, or their equivalents, against a current occupant unless a deed transfers the property to the purchaser and the deed is recorded at the Recorder of Deeds.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>This subsection shall not apply to a residential property at which neither a record owner nor a person with an interest in the property as heir or beneficiary of a record owner, if deceased, has resided for at least 275 total days during the previous 12 months, as of the first day of the public health emergency.</text>
+    <text>This section does not alter the rights of tenants whose tenancies survive foreclosure.</text>
   </para>
   <annotations>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§408|(a)" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§408|(a)" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§408|(a)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§408|(a)">§ 408(a) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(w)" type="History" display="false"/>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(w)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(w)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(w)">§ 3(w) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
+    <annotation type="History" doc="Stat. 56-2-ch854" path="§539e">Mar. 3, 1901, 31 Stat. 1274, ch. 854, § 539e</annotation>
+    <annotation app="2022-05-18" doc="D.C. Law 24-115" eff="2022-05-18" path="§5" prefix="as added" type="History"/>
   </annotations>
 </section>

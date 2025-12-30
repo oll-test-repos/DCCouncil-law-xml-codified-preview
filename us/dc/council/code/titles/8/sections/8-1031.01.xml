@@ -5,15 +5,15 @@
   <text>For the purposes of <cite path="8|10A">this chapter</cite>, the term:</text>
   <para>
     <num>(1)</num>
+    <text>"Back-of-house commercial food waste" means commercial food waste separated at the point of discard by employees of a commercial establishment. The term "back-of-house commercial food waste" does not include food waste discarded directly by customers of the establishment, but does include food waste discarded of on behalf of customers by employees.</text>
+  </para>
+  <para>
+    <num>(1A)</num>
     <text>"Collector" means a person engaged in the collection or transportation of solid waste in the District.</text>
   </para>
-  <para placeholder="Not Funded">
-    <num>(1A)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(1B)</num>
-    <text>Not Funded.</text>
+    <text>"Commercial food waste" means food waste produced by the production, consumption, and preparation of food at a commercial establishment.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -32,8 +32,24 @@
     <text>"Compost collection program" means a waste collection program, implemented either directly or through contract, which provides regular collection of separated compostable materials for public collection properties.</text>
   </para>
   <para>
+    <num>(5A)</num>
+    <text>"Covered retail establishment" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>Grocery stores; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Large format retail.</text>
+    </para>
+  </para>
+  <para>
     <num>(6)</num>
     <text>"DOEE" means the Department of Energy and Environment.</text>
+  </para>
+  <para>
+    <num>(6A)</num>
+    <text>"Disposable plastic bags" means grocery and retail bags, newspaper bags, bread bags, dry cleaning bags, food storage bags, and produce bags made of plastic, and all plastic bags labeled #2 or #4. The term "disposable plastic bags" does not include degradable or compostable bags.</text>
   </para>
   <para>
     <num>(7)</num>
@@ -45,15 +61,19 @@
   </para>
   <para>
     <num>(8A)</num>
-    <text>"Home composting system" means containers, bins, tumblers, and other equipment, approved by the Department of Public Works, used to facilitate composting or vermicomposting on residential property in the District.</text>
+    <text>"Food service entity" means full-service restaurants, limited-service restaurants, fast food restaurants, cafes, delicatessens, coffee shops, vending trucks or carts, food trucks, food halls and cafeterias, including those operated by or on behalf of District departments and agencies, caterers, and other entities selling or providing food within the District for consumption on or off the premises. The term "food service entity" does not include retail food stores, convenience stores, or pharmacies.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(8B)</num>
-    <text>Not Funded.</text>
+    <text>"Food waste" means material produced from the production, preparation, and consumption of food.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(8C)</num>
-    <text>Not Funded.</text>
+    <text>"Grocery store" means a retail establishment with a primary business of selling grocery products and that has a selling area that is used for a general line of food, including perishable food, and may also include household supplies or prescription pharmacy merchandise.</text>
+  </para>
+  <para>
+    <num>(8D)</num>
+    <text>"Home composting system" means containers, bins, tumblers, and other equipment, approved by the Department of Public Works, used to facilitate composting or vermicomposting on residential property in the District.</text>
   </para>
   <para>
     <num>(9)</num>
@@ -63,17 +83,29 @@
     <num>(10)</num>
     <text>"Intermediate processing facility" means a facility where solid waste can be separated, processed, stored, assembled, and prepared for sale or other disposition, except incineration or burial.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(10A)</num>
-    <text>Not Funded.</text>
+    <text>"In-vessel composting" means a process in which organic waste is enclosed in a drum, silo, bin, tunnel, reactor, or other container and maintained under controlled conditions of temperature and moisture for the purpose of producing compost.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(10B)</num>
-    <text>Not Funded.</text>
+    <text>"Large format retail" shall have the same meaning as provided in 11-B DCMR § 100.2.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(10C)</num>
-    <text>Not Funded.</text>
+    <text>"Organic waste processing facility" means a facility that processes compostable materials through composting, aerobic digestion, or anaerobic digestion.</text>
+  </para>
+  <para>
+    <num>(10D)</num>
+    <text>"Organic waste processing system" means a system that processes compostable materials, such as an in-vessel composter or an anaerobic digester.</text>
+  </para>
+  <para>
+    <num>(10E)</num>
+    <text>"Plastic film" means plastic wraps or films, including wrappings for furniture, electronics, and bulk products that are made of plastic, and all plastic film products labeled #2 or #4. The term "plastic film" does not include degradable or compostable wrap or cling wrap products.</text>
+  </para>
+  <para>
+    <num>(10F)</num>
+    <text>"Plastic shipping products" means bubble wrap, air pillows, and plastic shipping envelopes.</text>
   </para>
   <para>
     <num>(11)</num>
@@ -83,9 +115,9 @@
     <num>(12)</num>
     <text>"Public collection property" means a property that receives solid waste collection from the District either directly or through contract.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(12A)</num>
-    <text>Not Funded.</text>
+    <text>"Public litter container" means a trash receptacle installed by a government agency or private entity, including a Business Improvement District established pursuant to <cite path="2|12|VIII">subchapter VIII of Chapter 12 of Title 2</cite>, on a public sidewalk, in a park, or other public space.</text>
   </para>
   <para>
     <num>(13)</num>
@@ -95,9 +127,9 @@
     <num>(14)</num>
     <text>"Recycle" or "Recycled" or "Recycling" means the series of activities, including separation, collection, and processing, through which materials are recovered or otherwise diverted from the solid waste stream for use as raw materials or in the manufacture of products other than fuel.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(14A)</num>
-    <text>Not Funded.</text>
+    <text>"Retail food store" means any establishment where food and food products offered to the consumer are intended for off-premises consumption, including grocery stores and supermarkets. The term "retail food store" does not include convenience stores, pharmacies, farmers markets, and food service entities.</text>
   </para>
   <para>
     <num>(15)</num>
@@ -137,11 +169,11 @@
   </para>
   <para>
     <num>(20A)</num>
-    <text>"Vermicomposting" means the process of using earthworms and microorganisms to convert organic materials into vermicompost.</text>
+    <text>"Variable rate pricing model" means a model wherein the Mayor would impose fees for waste collection on public collection property owners proportional to the amount of trash generated at the property.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(20B)</num>
-    <text>Not Funded.</text>
+    <text>"Vermicomposting" means the process of using earthworms and microorganisms to convert organic materials into vermicompost.</text>
   </para>
   <para>
     <num>(21)</num>
@@ -164,15 +196,30 @@
     <annotation doc="D.C. Law 22-168" path="§7036" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7036">Section 7036 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-146" path="§4">§ 4 of D.C. Law 22-146</cite> removing the applicability restriction impacting this section. Therefore the amendments made to this section by <cite doc="D.C. Law 22-146">D.C. Law 22-146</cite> have been given effect.
           </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7036" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(5)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(6)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(7)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(8)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(10)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(5)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(6)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(7)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(8)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(10)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(9)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(a)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the change made to this section by <cite doc="D.C. Law 23-211" path="§2|(a)">§ 2(a) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)" type="History"/>
+    <annotation doc="D.C. Act 24-159" path="§7203" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore the amendment of this section by §2(a) of Law 23-211 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7203" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-45" path="§7203" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7203">Section 7203 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore the amendment of this section by §2(a) of Law 23-211 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7203" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-253" eff="2023-02-23" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-253" eff="2023-02-23" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-253" eff="2023-02-23" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-253" eff="2023-02-23" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-253" eff="2023-02-23" path="§2|(a)|(6)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-253" eff="2023-02-23" path="§2|(a)|(7)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-253" eff="2023-02-23" path="§2|(a)|(5)" type="History"/>
   </annotations>
 </section>

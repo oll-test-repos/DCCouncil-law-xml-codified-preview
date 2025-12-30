@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>34-1432</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§34-1432(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Renewable energy portfolio standard.</heading>
   <para>
     <num>(a)</num>
@@ -23,7 +26,18 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>If the standard becomes applicable to electricity sold to a customer after the start of a calendar year, the standard shall not apply to electricity sold to the customer during that portion of the year before the standard became applicable.</text>
+    <para>
+      <num>(1)</num>
+      <text>If the standard becomes applicable to electricity sold to a customer after the start of a calendar year, the standard shall not apply to electricity sold to the customer during that portion of the year before the standard became applicable.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The standard shall not apply to electricity sold to the District of Columbia government, not including independent agencies, authorities, or instrumentalities, beginning January 1, 2024, and ending September 30, 2029.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The District of Columbia government shall not purchase renewable energy credits that do not meet the requirements of the standard until the electricity sold to the District of Columbia government is in compliance with the standard.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -78,79 +92,79 @@
     </para>
     <para>
       <num>(13)</num>
-      <text>In 2023, not less than 38.75% from tier one renewable sources, 0% from tier two renewable sources, and not less than 2.85% from solar energy;</text>
+      <text>In 2023, not less than 38.75% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.0% from solar energy;</text>
     </para>
     <para>
       <num>(14)</num>
-      <text>In 2024, not less than 45.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.15% from solar energy;</text>
+      <text>In 2024, not less than 45.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.65% from solar energy;</text>
     </para>
     <para>
       <num>(15)</num>
-      <text>In 2025, not less than 52.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.45% from solar energy;</text>
+      <text>In 2025, not less than 52.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.3% from solar energy;</text>
     </para>
     <para>
       <num>(16)</num>
-      <text>In 2026, not less than 59.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.75% from solar energy;</text>
+      <text>In 2026, not less than 59.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 5.0% from solar energy;</text>
     </para>
     <para>
       <num>(17)</num>
-      <text>In 2027, not less than 66.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.1% from solar energy;</text>
+      <text>In 2027, not less than 66.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 5.65% from solar energy;</text>
     </para>
     <para>
       <num>(18)</num>
-      <text>In 2028, not less than 73.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.5% from solar energy;</text>
+      <text>In 2028, not less than 73.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 6.3% from solar energy;</text>
     </para>
     <para>
       <num>(19)</num>
-      <text>In 2029, not less than 80.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.75% from solar energy;</text>
+      <text>In 2029, not less than 80.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 7.0% from solar energy;</text>
     </para>
     <para>
       <num>(20)</num>
-      <text>In 2030, not less than 87.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 5.0% from solar energy;</text>
+      <text>In 2030, not less than 87.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 7.65% from solar energy;</text>
     </para>
     <para>
       <num>(21)</num>
-      <text>In 2031, not less than 94.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 5.25% from solar energy;</text>
+      <text>In 2031, not less than 94.0% from tier one renewable sources, 0% from tier two renewable sources, and not less than 8.3% from solar energy;</text>
     </para>
     <para>
       <num>(22)</num>
-      <text>In 2032, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 5.5% from solar energy;</text>
+      <text>In 2032, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 9.0% from solar energy;</text>
     </para>
     <para>
       <num>(23)</num>
-      <text>In 2033, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 6.0% from solar energy;</text>
+      <text>In 2033, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 9.65% from solar energy;</text>
     </para>
     <para>
       <num>(24)</num>
-      <text>In 2034, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 6.5% from solar energy;</text>
+      <text>In 2034, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 10.3% from solar energy;</text>
     </para>
     <para>
       <num>(25)</num>
-      <text>In 2035, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 7.0% from solar energy;</text>
+      <text>In 2035, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 11.0% from solar energy;</text>
     </para>
     <para>
       <num>(26)</num>
-      <text>In 2036, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 7.5% from solar energy;</text>
+      <text>In 2036, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 11.65% from solar energy;</text>
     </para>
     <para>
       <num>(27)</num>
-      <text>In 2037, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 8.0% from solar energy;</text>
+      <text>In 2037, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 12.3% from solar energy;</text>
     </para>
     <para>
       <num>(28)</num>
-      <text>In 2038, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 8.5% from solar energy;</text>
+      <text>In 2038, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 13.0% from solar energy;</text>
     </para>
     <para>
       <num>(29)</num>
-      <text>In 2039, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 9.0% from solar energy;</text>
+      <text>In 2039, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 13.65% from solar energy;</text>
     </para>
     <para>
       <num>(30)</num>
-      <text>In 2040, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 9.5% from solar energy; and</text>
+      <text>In 2040, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 14.3% from solar energy; and</text>
     </para>
     <para>
       <num>(31)</num>
-      <text>In 2041 and thereafter, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 10% from solar energy.</text>
+      <text>In 2041 and thereafter, not less than 100% from tier one renewable sources, 0% from tier two renewable sources, and not less than 15.0% from solar energy.</text>
     </para>
   </para>
   <para>
@@ -166,6 +180,10 @@
     <para>
       <num>(2)</num>
       <text>As of January 1, 2015, notwithstanding paragraph (1) of this subsection, an electricity supplier may meet the remaining non-solar tier one renewable source requirement of the renewable energy portfolio standard by obtaining the equivalent amount of renewable energy credits from solar energy systems that do not satisfy the requirements under paragraph (1) of this subsection.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Any solar energy system that is not located within the District or in a location served by a distribution feeder serving the District and that was certified as eligible to produce renewable energy credits meeting the solar requirement of the renewable energy portfolio standard by the Commission prior to February 1, 2011, shall be decertified by the Commission effective January 1, 2025.</text>
     </para>
   </para>
   <para>
@@ -218,5 +236,48 @@
     <annotation doc="D.C. Law 22-257" path="§101|(b)|(2)" type="Applicability" history="false" display-template="" app="2019-03-22" eff="2019-03-22"><cite doc="D.C. Law 22-257" path="§101|(b)|(2)">Section 101(b)(2) of D.C. Law 22-257</cite> provided that changes made to subsection (c) of this section by D.C. Law 22-257 shall not apply to any contract entered into before March 22, 2019; provided, that this subsection shall apply to an extension or renewal of such a contract.
           </annotation>
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(b)|(2)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(5)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(6)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(7)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(8)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(9)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(10)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(11)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(12)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(13)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(14)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(15)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(16)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(17)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(18)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(a)|(19)" type="History"/>
+    <annotation doc="D.C. Law 24-314" path="§3" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-314" path="§3">Section 3 of D.C. Law 24-314</cite> provided that for 3 years after the date described in section 4, section 2(a) shall not apply to any contract entered into before the date described in subsection (a) of this section; except, that section 2(a) shall apply to an extension or renewal of such a contract.
+    </annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§3" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-314" path="§4" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-314" path="§4">Section 4 of D.C. Law 24-314</cite> provided that this act shall apply as of March 1, 2023, or as of the effective date of this act, whichever occurs later.
+    </annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§4" type="History" display="false"/>
+    <annotation path="§8002|(f)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06" doc="D.C. Law 25-50">
+          For a technical correction to section 3 of D.C. Law 24-314, see <cite doc="D.C. Law 25-50" path="§8002|(f)">section 8002(f) of D.C. Law 25-50</cite>.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§8002|(f)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§8|(a)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§8|(a)">§ 8(a) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§8|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6012" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6012">§ 6012 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6012" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§8|(a)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§8|(a)">§ 8(a) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§8|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6012|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6012|(a)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6012|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6032" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6032">§ 6032 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6032" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6032" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6032" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6032" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§6032">§ 6032 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

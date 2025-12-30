@@ -105,7 +105,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text><strong>(3)</strong>Each covered employer shall, at the time of hiring and annually thereafter, and at the time the covered employer is aware that the leave is needed, provide this notice to each covered employee.  Each covered employer shall also post and maintain the notice in a conspicuous place in English and in all languages in which the Mayor has published the notice.</text>
+      <text>Each covered employer shall, at the time of hiring and annually thereafter, and at the time the covered employer is aware that the leave is needed, provide this notice to each covered employee.  Each covered employer shall also post and maintain the notice in a conspicuous place in English and in all languages in which the Mayor has published the notice.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -116,7 +116,7 @@
     <num>(j)</num>
     <para>
       <num>(1)</num>
-      <text>The Mayor shall conduct a public-education campaign, which shall be paid for out of the Universal Paid Leave Administration Fund, pursuant to <cite path="§32-551.02|(c)|(1)">§ 32-551.02(c)(1)</cite>, to inform individuals of the benefits provided for in this act. The Workplace Leave Navigators Program, established pursuant to <cite path="§32-561.02">§ 32-561.02</cite>, shall be a component of the Mayor's public-education campaign.</text>
+      <text>The Mayor shall conduct a public-education campaign, which shall be paid for out of the Universal Paid Leave Administration Fund, pursuant to <cite path="§32-551.02|(c)|(1)">§ 32-551.02(c)(1)</cite>, to inform individuals of the benefits provided for in <cite path="32|5|IV">this subchapter</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -142,5 +142,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7034" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 301 of D.C. Law 21-264, see <cite doc="D.C. Act 22-167" path="§7034">§ 7034 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7034" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2143|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4062|(f)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4062|(f)">§ 4062(f) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(f)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(f)" type="History"/>
   </annotations>
 </section>

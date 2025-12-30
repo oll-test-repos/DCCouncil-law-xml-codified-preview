@@ -4,7 +4,14 @@
   <heading>Executive Director.</heading>
   <para>
     <num>(a)</num>
-    <text>An Executive Director shall be appointed, and may be removed, by the Board. The Executive Director shall be an employee of the Authority, but shall not be a member of the Board. The Executive Director shall receive compensation and other terms and conditions of employment as shall be fixed by the Board. The Executive Director shall be a District resident and shall remain a District residency throughout his or her term and failure to maintain District residency shall result in a forfeiture of the position.</text>
+    <para>
+      <num>(1)</num>
+      <text>An Executive Director shall be appointed, and may be removed, by the Board. The Executive Director shall be an employee of the Authority but shall not be a member of the Board. The Executive Director shall be a District resident and shall remain a District resident throughout the Executive Director's term, and failure to maintain District residency shall result in a forfeiture of the position.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Executive Director shall receive compensation and other terms and conditions of employment as shall be fixed by the Board. Any Executive Director compensation agreement or arrangement adopted after July 1, 2023, shall conform to <cite path="§1-551.03">§ 1-551.03</cite>, regardless of the source of funds used.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -30,10 +37,97 @@
       <text>Perform such other duties as shall be assigned by the Board.</text>
     </para>
   </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>Within 30 days of the Executive Director's appointment and on an annual basis thereafter, the Executive Director shall complete training offered by or in connection with HUD covering the following topics:</text>
+      <para>
+        <num>(A)</num>
+        <text>Background on major housing authority programs, including but not limited to public housing, the Housing Choice Voucher Program, and the rental assistance demonstration;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Ethics for public housing agencies;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Fair housing and reasonable accommodations;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Housing authority budgets and financial reporting;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Federal procurement requirements;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Housing authority performance monitoring and risk management;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>HUD reporting requirements;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Public housing asset management, development, redevelopment, disposition, and repositioning;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Objectives and requirements of HUD's Moving to Work program; and</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Resident opportunity, including HUD's Section 3 requirements for economic and employment opportunities.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>In addition to the training required in paragraph (1) of this subsection, the Executive Director shall complete other trainings that the Board requires, such as trainings on labor and personnel management, language access, public housing law and regulations, real estate and construction, or other subjects related to public housing development, operation, and management.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 13-105" type="History" path="§14">May 9, 2000, D.C. Law 13-105, § 14, 47 DCR 1325</annotation>
     <annotation doc="D.C. Law 17-108" type="History">Feb. 6, 2008, D.C. Law 17-108, § 208(a), 54 DCR 10993</annotation>
     <annotation type="Emergency Legislation">For temporary (90-day) addition of section, see notes following <cite path="§6-201">§ 6-201</cite>.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-108">D.C. Law 17-108</cite>, in subsec. (a), inserted “The Executive Director shall be a District resident and shall remain a District residency throughout his or her term and failure to maintain District residency shall result in a forfeiture of the position.”</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-12" path="§2|(c)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-12" path="§2|(c)">§ 2(c) of Housing Authority Accountability Congressional Review Emergency Amendment Act of 2023 (D.C. Act 24-12, Feb. 26, 2021, 68 DCR 2551)</cite>.</annotation>
+    <annotation app="2021-02-26" doc="D.C. Act 24-12" eff="2021-02-26" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-629" path="§2|(c)" codified:display="Note" app="2022-11-03" eff="2022-11-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-629" path="§2|(c)">§ 2(c) of Housing Authority Accountability Emergency Amendment Act of 2022 (D.C. Act 24-629, Nov. 3, 2022, 69 DCR 014026)</cite>.</annotation>
+    <annotation app="2022-11-03" doc="D.C. Act 24-629" eff="2022-11-03" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-702" path="§2|(e)" codified:display="Note" app="2022-12-22" eff="2022-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-702" path="§2|(e)">§ 2(e) of District of Columba Housing Authority Stabilization and Reform Emergency Amendment Act of 2022 (D.C. Act 24-702, Dec. 22, 2022, 70 DCR 164)</cite>.</annotation>
+    <annotation app="2022-12-22" doc="D.C. Act 24-702" eff="2022-12-22" path="§2|(e)" type="History" display="false"/>
+    <annotation doc="D.C. Act 24-702" path="§4" type="Applicability" history="false" app="2022-12-22" eff="2022-12-22"><cite doc="D.C. Act 24-702" path="§4">Section 4 of D.C. Act 24-702</cite> provided that the amendments made to this section by D.C. Law 24-702 shall apply on the date that the Stabilization and Reform Board assumes authority for the governance of the Authority, as provided in <cite path="§6-210.01|(i)">§ 6-210.01|(i)</cite>.
+    </annotation>
+    <annotation app="2022-12-22" doc="D.C. Act 24-702" eff="2022-12-22" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-273" path="§2|(c)" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-273" path="§2|(c)">§ 2(c) of Housing Authority Accountability Temporary Amendment Act of 2022 (D.C. Law 24-273, Feb. 23, 2023, 69 DCR 14762)</cite>.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-273" eff="2023-02-23" path="§2|(c)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-329" path="§2|(e)" codified:display="Note" app="2023-03-10" eff="2023-03-10">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-329" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2022 (D.C. Law 24-329, Mar. 10, 2023, 70 DCR 1029)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-329" eff="2023-03-10" path="§2|(e)" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-329" path="§4" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-329" path="§4">Section 4 of D.C. Law 24-329</cite> provided that the amendments made to this section by D.C. Law 24-329 shall apply on the date that the Stabilization and Reform Board assumes authority for the governance of the Authority, as provided in <cite path="§6-210.01|(i)">§ 6-210.01(i)</cite>.
+    </annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-329" eff="2023-03-10" path="§4" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2132|(c)|(1)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2132|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-232" path="§2|(e)" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-232" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2023 (D.C. Act 25-232, Oct. 11, 2023, 70 DCR 13776)</cite>.</annotation>
+    <annotation app="2023-10-11" doc="D.C. Act 25-232" eff="2023-10-11" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-92" path="§2|(e)" codified:display="Note" app="2023-12-19" eff="2023-12-19">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-92" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2023 (D.C. Law 25-92, Dec. 19, 2023, 70 DCR 14439)</cite>.</annotation>
+    <annotation app="2023-12-19" doc="D.C. Law 25-92" eff="2023-12-19" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-345" path="§2|(e)" codified:display="Note" app="2024-01-04" eff="2024-01-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-345" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-345, Jan. 4, 2024, 71 DCR 650)</cite>.</annotation>
+    <annotation app="2024-01-04" doc="D.C. Act 25-345" eff="2024-01-04" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-545" path="§2|(e)" codified:display="Note" app="2024-07-26" eff="2024-07-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-545" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2024 (D.C. Act 25-545, July 26, 2024, 71 DCR 9975)</cite>.</annotation>
+    <annotation app="2024-07-26" doc="D.C. Act 25-545" eff="2024-07-26" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-584" path="§2|(e)" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-584" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-584, Oct. 18, 2024, 71 DCR 12843)</cite>.</annotation>
+    <annotation app="2024-10-18" doc="D.C. Act 25-584" eff="2024-10-18" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-229" path="§2|(e)|(2)" codified:display="Note" app="2024-11-27" eff="2024-11-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-229" path="§2|(e)|(2)">§ 2(e)(2) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2024 (D.C. Law 25-229, Nov. 27, 2024, 71 DCR 12358)</cite>.</annotation>
+    <annotation app="2024-11-27" doc="D.C. Law 25-229" eff="2024-11-27" path="§2|(e)|(2)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-89" path="§2|(e)" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-89" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2025 (D.C. Act 26-89, June 25, 2025, 72 DCR 7544)</cite>.</annotation>
+    <annotation app="2025-06-25" doc="D.C. Act 26-89" eff="2025-06-25" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-32" path="§2|(e)" codified:display="Note" app="2025-08-23" eff="2025-08-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-32" path="§2|(e)">§ 2(e) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2025 (D.C. Law 26-32, Aug. 23, 2025, 72 DCR 7676)</cite>.</annotation>
+    <annotation app="2025-08-23" doc="D.C. Law 26-32" eff="2025-08-23" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-145" path="§2|(g)" codified:display="Note" app="2025-09-04" eff="2025-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-145" path="§2|(g)">§ 2(g) of Housing Authority Resident Empowerment Emergency Amendment Act of 2025 (D.C. Act 26-145, Sept. 4, 2025, 72 DCR 9614)</cite>.</annotation>
+    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(g)" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
+  <num>16-2399.08</num>
+  <heading proof="needed">Effect of guardianship order.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Unless the court specifies other rights and responsibilities, the guardian shall have the following rights and responsibilities concerning the vulnerable youth:</text>
+    <para>
+      <num>(1)</num>
+      <text>The guardian shall ensure that the legal rights of the vulnerable youth are not violated;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The guardian shall provide care and support to the vulnerable youth to promote the youth's stability and wellness; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The guardianship will promote the physical, mental, and emotional health of the vulnerable youth.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The guardian shall not be liable to third persons by reason of the relationship for acts of the vulnerable youth.</text>
+  </para>
+  <annotations>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-203" path="§3|(b)" codified:display="Note" app="2024-07-19" eff="2023-08-01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-203" path="§3|(b)|includes|VI|16-2399.08">§ 16-2399.08 of Vulnerable Youth Guardianship Protection Emergency Amendment Act of 2023 (D.C. Act 25-203, Aug. 1, 2023, 70 DCR 10758)</cite>.</annotation>
+    <annotation app="2024-07-19" doc="D.C. Act 25-203" eff="2023-08-01" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-260" path="§3|(b)" codified:display="Note" app="2024-07-19" eff="2023-10-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-260" path="§3|(b)|includes|VI|16-2399.08">§ 16-2399.08 of Vulnerable Youth Guardianship Protection Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-260, Oct. 25, 2023, 70 DCR 14434)</cite>.</annotation>
+    <annotation app="2024-07-19" doc="D.C. Act 25-260" eff="2023-10-25" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-81" path="§3|(b)" codified:display="Note" app="2024-07-19" eff="2023-11-28">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 25-81" path="§3|(b)|includes|VI|16-2399.08">§ 16-2399.08 of Vulnerable Youth Guardianship Protection Temporary Amendment Act of 2023 (D.C. Law 25-81, Nov. 28, 2023, 70 DCR 13754)</cite>.</annotation>
+    <annotation app="2024-07-19" doc="D.C. Law 25-81" eff="2023-11-28" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-492" path="§3|(b)" codified:display="Note" app="2024-07-19" eff="2024-06-26">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-492" path="§3|(b)|includes|VI|16-2399.08">§ 16-2399.08 of Vulnerable Youth Guardianship Protection Emergency Amendment Act of 2024. (D.C. Act 25-492, June 26, 2024, 71 DCR 7595)</cite>.</annotation>
+    <annotation app="2024-07-19" doc="D.C. Act 25-492" eff="2024-06-26" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-188" eff="2024-07-19" path="" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-188" eff="2024-07-19" path="§3|(b)" type="History"/>
+  </annotations>
+</section>

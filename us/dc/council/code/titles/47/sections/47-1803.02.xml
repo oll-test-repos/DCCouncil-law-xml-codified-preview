@@ -2,10 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1803.02</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on February 4, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-1803.02(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-1803.02(Perm)">Permanent Version</cite>.*
       </text>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on November 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-1803.02(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 3, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-1803.02(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Gross income — Items included and excluded; “adjusted gross income” defined.</heading>
   <para>
@@ -20,7 +20,22 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Individuals, estates, and trusts shall not, and shall not have been required to, include interest on the obligations of the District of Columbia, a state, a territory of the United States, or any political subdivision thereof, in the computation of District gross income.</text>
+        <para>
+          <num>(i)</num>
+          <text>For tax years ending before January 1, 2025, individuals, estates, and trusts shall not, and shall not have been required to, include interest on the obligations of the District of Columbia, a state, a territory of the United States, or any political subdivision thereof, in the computation of District gross income.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For tax years beginning after December 31, 2024, individuals, estates, and trusts:</text>
+          <para>
+            <num>(I)</num>
+            <text>Shall not, and shall not have been required to, include interest on the obligations of the District of Columbia or bonds issued by DC Water, the Washington Metropolitan Area Transit Authority, and the District of Columbia Housing Finance Agency in the computation of District gross income.</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Shall include interest upon the obligations of a state or any political subdivision thereof, but not including obligations of the District of Columbia or bonds issued by DC Water, the Washington Metropolitan Area Transit Authority, and the District of Columbia Housing Finance Agency, in the computation of District gross income.</text>
+          </para>
+        </para>
       </para>
       <para>
         <num>(C)</num>
@@ -30,6 +45,14 @@
     <para>
       <num>(1A)</num>
       <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>For taxable years beginning after December 31, 2024, individuals, estates, and trusts who did not elect to itemize shall include any income deducted or otherwise excluded pursuant to § 170(p) of the Internal Revenue Code of 1986 for that taxable year.</text>
+    </para>
+    <para>
+      <num>(1C)</num>
+      <text>For taxable years beginning after December 31, 2024, individuals, estates, and trusts shall include any income or gain excluded from their federal gross income pursuant to § 1202(a) of the Internal Revenue Code of 1986 for that taxable year.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -185,9 +208,9 @@
         <num>(DD)</num>
         <text>The amount received by a taxpayer from the Home Composting Incentive Program pursuant to <cite path="§8-1031.12a">[§ 8-1031.12a]</cite>.</text>
       </para>
-      <para placeholder="Not Funded">
+      <para placeholder="Repealed">
         <num>(EE)</num>
-        <text>Not Funded.</text>
+        <text>[Repealed].</text>
       </para>
       <para>
         <num>(FF)</num>
@@ -195,23 +218,143 @@
       </para>
       <para>
         <num>(GG)</num>
-        <text>Small business loans awarded and subsequently forgiven under 15 U.S.C. § 9005.</text>
+        <text>Small business loans awarded and subsequently forgiven under section 7A of the Small Business Act, approved March 27, 2020 (134 Stat. 297; 15 U.S.C. § 636m).</text>
       </para>
       <para>
         <num>(HH)</num>
-        <text>Public health emergency small business grants awarded pursuant to <cite path="§2-218.16">[§ 2-218.16]</cite>.</text>
+        <text>Public health emergency small business grants awarded pursuant to section 2316 of the Small and Certified Business Enterprise Development and Assistance Act of 2005, effective June 24, 2021 (D.C. Law 24-9; 68 DCR 6913) [Expired].</text>
       </para>
       <para>
         <num>(II)</num>
-        <text>Public health emergency grants authorized pursuant <cite path="§1-309.13|(m)|(1)">§ 1-309.13(m)(1)</cite>.</text>
+        <text>Public health emergency grants authorized pursuant to <cite path="§1-309.13|(m)|(1)">[§ 1-309.13(m)(1)]</cite>.</text>
       </para>
       <para>
         <num>(JJ)</num>
-        <text>Cash assistance for excluded workers given pursuant to grants awarded by the Washington Convention and Sports Authority in 2020.</text>
+        <text>Cash assistance for excluded workers given pursuant to grants awarded by the Washington Convention and Sports Authority after taxable year ending December 31, 2019, and ending before January 1, 2024.</text>
       </para>
       <para>
         <num>(KK)</num>
-        <text>For tax years beginning after December 31, 2020, public health emergency response grants issued pursuant to <cite path="§7-2304.02">[§ 7-2304.02]</cite>, or successor law.</text>
+        <text>For tax years beginning after December 31, 2020, public health emergency response grants issued pursuant to section 5b of the District of Columbia Public Act of 1980, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 7-2304.02) [Expired], or successor law.</text>
+      </para>
+      <para>
+        <num>(LL)</num>
+        <text>For taxable years beginning after December 31, 2020, unemployment insurance benefits provided by the District or any other state, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>District-funded benefits paid pursuant to <cite path="51|1|I">[subchapter I of Chapter 1 of Title 51]</cite> or a similar program in another state, including any extension of such benefits;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Fully or partially federally funded benefits paid pursuant to temporary or permanent unemployment benefits programs, including Federal Pandemic Unemployment Compensation provided for by section 2104 of Division A of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 318; 15 U.S.C. § 9023); and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Benefits paid pursuant to special programs, including Disaster Unemployment Assistance provided for by section 410 of the Disaster Relief Act of 1974, approved May 22, 1974 (88 Stat. 156; 42 U.S.C. § 5177), or Pandemic Unemployment Assistance provided for by section 2102 of Division A of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 313; 15 U.S.C. § 9021), to individuals who do not qualify for regular unemployment insurance benefits.</text>
+        </para>
+      </para>
+      <para>
+        <num>(MM)</num>
+        <text>Grants issued pursuant to <cite path="§1-328.04|(h)|(1)|(A)">[§ 1-328.04(h)(1)(A)]</cite>.</text>
+      </para>
+      <para>
+        <num>(NN)</num>
+        <text>The following grants made by the Deputy Mayor for Planning and Economic Development, as authorized by <cite path="§1-328.04">[§ 1-328.04]</cite>:</text>
+        <para>
+          <num>(i)</num>
+          <text>Small business rent relief grants awarded pursuant to <cite path="§1-328.04|(l)">[§ 1-328.04(l)]</cite>;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Grants awarded to the DC Center for the LQBT Community pursuant to <cite path="§1-328.04|(m)">[§ 1-328.04(m)]</cite>;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Large company grants awarded pursuant to <cite path="§1-328.04|(n)">[§ 1-328.04(n)]</cite>;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Local food access grants awarded pursuant to <cite path="§1-328.04|(o)">[§ 1-328.04(o)]</cite>;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Guaranteed income pilot program grants awarded pursuant to <cite path="§1-328.04|(p)">[§ 1-328.04(p)]</cite>;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Grants awarded to Community Development Financial Institutions or Minority Depository Institutions pursuant to <cite path="§1-328.04|(q)">[§ 1-328.04(q)]</cite>;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Equity growth impact grants awarded pursuant to <cite path="§1-328.04|(r)">[§ 1-328.04(r)]</cite>;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Great Streets program grants awarded pursuant to <cite path="§1-328.04|(s)">[§ 1-328.04(s)]</cite>;</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>Bridge Fund recovery and special events support grants awarded pursuant to <cite path="§1-328.04|(t)">[§ 1-328.04(t)]</cite>;</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>Small and medium business recover and growth program grants awarded pursuant to <cite path="§1-328.04|(u)">[§ 1-328.04(u)]</cite>; and</text>
+        </para>
+        <para>
+          <num>(xi)</num>
+          <text>Equity impact enterprise commercial property acquisition grants awarded pursuant to <cite path="§1-328.04|(v)">[§ 1-328.04(v)]</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(OO)</num>
+        <text>COVID-19 hotel recovery grants awarded pursuant to <cite path="§30-301">[§ 30-301]</cite>.</text>
+      </para>
+      <para>
+        <num>(PP)</num>
+        <text>Delayed unemployment compensation payments made pursuant to <cite path="§51-107.01">[§ 51-107.01]</cite>.</text>
+      </para>
+      <para placeholder="Repealed">
+        <num>(QQ)</num>
+        <text>[Repealed].</text>
+      </para>
+      <para>
+        <num>(RR)</num>
+        <text>Grants awarded pursuant to <cite path="§1-328.04|(w)">§ 1-328.04(w)</cite>.</text>
+      </para>
+      <para>
+        <num>(SS)</num>
+        <text>Grants awarded pursuant to <cite path="§1-328.04|(x)">§ 1-328.04(x)</cite>.</text>
+      </para>
+      <para>
+        <num>(TT)</num>
+        <text>Funding received by a taxpayer from the District Department of the Environment or the District of Columbia Sustainable Energy Utility to incentivize solar installations benefiting low-income residents pursuant to the Solar for All Program, established by <cite path="§8-1774.16">§ 8-1774.16</cite>.</text>
+      </para>
+      <para>
+        <num>(UU)</num>
+        <text>Grants issued pursuant to <cite path="§8-1774.10|(c)|(22)">§ 8-1774.10(c)(22)</cite>.</text>
+      </para>
+      <para>
+        <num>(VV)</num>
+        <text>Rebates issued pursuant to <cite path="§7-2371.04a">[§ 7-2371.04a]</cite>.</text>
+      </para>
+      <para>
+        <num>(WW)</num>
+        <text>Lump-sum payments an individual receives from the early educator pay parity program created and implemented pursuant to <cite path="§1-325.431|(c)|(1A)">§ 1-325.431(c)(1A)</cite>.</text>
+      </para>
+      <para>
+        <num>(XX)</num>
+        <text>The amount received by an individual or a school or program on behalf of an individual to cover the individual's tuition, fees, or other expenses pursuant to <cite path="7|7F">[Chapter 7F of Title 7]</cite>.</text>
+      </para>
+      <para placeholder="Not Funded">
+        <num>(YY)</num>
+        <text>Not Funded.</text>
+      </para>
+      <para>
+        <num>(ZZ)</num>
+        <text>Rebates issued pursuant to <cite path="§50-921.27">[§ 50-921.27]</cite>.</text>
+      </para>
+      <para>
+        <num>(AAA)</num>
+        <text>Benefits provided through the Breathe Easy Program, established by <cite path="§8-1774.17">[§ 8-1774.17]</cite>.</text>
       </para>
     </para>
     <para>
@@ -413,11 +556,58 @@
     <annotation app="2021-05-25" doc="D.C. Act 24-83" eff="2021-05-25" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§207|(a)" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-96" path="§207|(a)">§ 207(a) of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§207|(a)" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§207|(a)" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§207|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§207|(a)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§207|(a)">§ 207(a) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
-    <annotation app="2021-08-05" doc="D.C. Act 24-155" eff="2021-08-05" path="§2" type="History" display="false"/>
-    <annotation app="2021-08-05" doc="D.C. Act 24-155" eff="2021-08-05" path="§2" type="History"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§207|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-155" path="§2" codified:display="Note" app="2021-08-05" eff="2021-08-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-155" path="§2">§ 2 of Coronavirus Business Assistance Income Tax Relief Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-155, Aug. 5, 2021, 68 DCR 008006)</cite>.</annotation>
+    <annotation app="2021-08-05" doc="D.C. Act 24-155" eff="2021-08-05" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-21" path="§2" codified:display="Note" app="2021-08-21" eff="2021-08-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-21" path="§2">§ 2 of Coronavirus Business Assistance Income Tax Relief Temporary Amendment Act of 2021 (D.C. Law 24-21, Aug. 21, 2021, 68 DCR 006444)</cite>.</annotation>
+    <annotation app="2021-08-21" doc="D.C. Law 24-21" eff="2021-08-21" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§7112" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§7112">§ 7112 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7112" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-196" path="§10|(a)" codified:display="Note" app="2021-10-01" eff="2021-10-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-196" path="§10|(a)">§ 10(a) of Child Wealth Building Emergency Act of 2021 (D.C. Act 24-196, Oct. 1, 2021, 68 DCR 011607)</cite>.</annotation>
+    <annotation app="2021-10-01" doc="D.C. Act 24-196" eff="2021-10-01" path="§10|(a)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7165" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7112|(a)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7112|(b)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7112|(c)" type="History"/>
+    <annotation doc="D.C. Law 24-45" path="§7113" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13">
+          Section 7113 of D.C. Act 24-176 required that the amendatory section 47-1803.02(a)(2)(MM) of the District of Columbia Official Code in section 7112(c) of D.C. Act 24-176 apply as of January 1, 2020.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7113" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-239" path="§10|(a)" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-239" path="§10|(a)">§ 10(a) of Child Wealth Building Congressional Review Emergency Act of 2021 (D.C. Act 24-239, Dec. 13, 2021, 68 DCR 013489)</cite>.</annotation>
+    <annotation app="2021-12-13" doc="D.C. Act 24-239" eff="2021-12-13" path="§10|(a)" type="History" display="false"/>
+    <annotation app="2022-02-18" doc="D.C. Law 24-53" eff="2022-02-18" path="§10|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-437" path="§3|(b)" codified:display="Note" app="2022-06-13" eff="2022-06-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-437" path="§3|(b)">§ 3(b) of Fiscal Year 2022 Second Revised Local Budget Adjustment Emergency Act of 2022 (D.C. Act 24-437, June 13, 2022, 69 DCR 7034)</cite>.</annotation>
+    <annotation app="2022-06-13" doc="D.C. Act 24-437" eff="2022-06-13" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-468" path="§201" codified:display="Note" app="2022-07-06" eff="2022-07-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-468" path="§201">§ 201 of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Emergency Amendment Act of 2022 (D.C. Act 24-468, July 6, 2022, 69 DCR 008390)</cite>.</annotation>
+    <annotation app="2022-07-06" doc="D.C. Act 24-468" eff="2022-07-06" path="§201" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§7042" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§7042">§ 7042 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7042" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-541" path="§3|(b)" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-541" path="§3|(b)">§ 3(b) of Fiscal Year 2022 Second Revised Local Budget Adjustment Congressional Review Emergency Act of 2022 (D.C. Act 24-541, July 27, 2022, 69 DCR 009963)</cite>.</annotation>
+    <annotation app="2022-07-27" doc="D.C. Act 24-541" eff="2022-07-27" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-162" path="§3|(b)" codified:display="Note" app="2022-09-09" eff="2022-09-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-162" path="§3|(b)">§ 3(b) of Fiscal Year 2022 Second Revised Local Budget Adjustment Temporary Act of 2022 (D.C. Law 24-162, Sept. 9, 2022, 69 DCR 008833)</cite>.</annotation>
+    <annotation app="2022-09-09" doc="D.C. Law 24-162" eff="2022-09-09" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7042|(a)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7042|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-184" path="§201" codified:display="Note" app="2022-09-21" eff="2022-09-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-184" path="§201">§ 201 of High Need Healthcare Career Scholarship and Health Professional Loan Repayment Program Temporary Amendment Act of 2022 (D.C. Law 24-184, Sept. 21, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-184" eff="2022-09-21" path="§201" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-313" eff="2023-03-10" path="§201" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-335" eff="2023-03-22" path="§3" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-335" path="§3" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-335" path="">D.C. Law 24-335</cite>: <cite doc="D.C. Law 24-335" path="§4">§ 4 of D.C. Law 24-335</cite> provided that the change made to this section by <cite doc="D.C. Law 24-335" path="§3">§ 3 of D.C. Law 24-335</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§3" type="History"/>
+    <annotation app="2023-11-28" doc="D.C. Law 25-66" eff="2023-11-28" path="§3" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7212|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7212|(b)">§ 7212(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7212|(b)" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-189" eff="2024-07-19" path="§5" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7212|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7014" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7014">§ 7014 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7014" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7014" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7014" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7014" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7014">§ 7014 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2025-12-03" doc="D.C. Act 26-214" eff="2025-12-03" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-214" path="§2|(c)" codified:display="Note" app="2025-12-03" eff="2025-12-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-214" path="§2|(c)">§ 2(c) of D.C. Income and Franchise Tax Conformity and Revision Emergency Amendment Act of 2025 (D.C. Act 26-214, Dec. 3, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

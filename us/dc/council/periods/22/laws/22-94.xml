@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-94">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-94" codify:applicability="notfunded">
   <num type="law">22-94</num>
   <num type="bill">22-192</num>
   <num type="act">22-278</num>
@@ -34,7 +34,7 @@
       <para codify:path="(3A)|num">
         <num>(1)</num>
         <text>Paragraph (3A) is redesignated as paragraph (3B).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|[(3C)]">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(3C)">
           <find>(3A)</find>
           <replace>(3B)</replace>
         </codify:find-replace>

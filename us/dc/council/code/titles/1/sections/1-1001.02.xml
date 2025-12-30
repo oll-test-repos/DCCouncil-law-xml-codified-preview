@@ -16,11 +16,11 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Is a citizen of the United States;</text>
+      <text>Is a citizen of the United States; except, that this subparagraph shall not apply in a local election;</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Has maintained a residence in the District for at least 30 days preceding the next election and does not claim voting residence or right to vote in any state or territory; and</text>
+      <text>Has maintained a residence in the District for at least 30 days preceding the next election and does not claim voting residence or right to vote in any state, territory, or country; and</text>
     </para>
     <para placeholder="Repealed">
       <num>(D)</num>
@@ -220,11 +220,11 @@
   </para>
   <para>
     <num>(25)</num>
-    <text>“Election observers” means persons who witness the administration of elections, including individuals representing nonpartisan domestic and international organizations, including voting rights organizations, civil rights organizations, and civic organizations.</text>
+    <text>The term "election observers” means persons who witness the administration of elections, including individuals representing nonpartisan domestic and international organizations, including voting rights organizations, civil rights organizations, and civic organizations.</text>
   </para>
   <para>
     <num>(26)</num>
-    <text>“Qualified petition circulator” means an individual who is 18 years of age or older and either:</text>
+    <text>The term "qualified petition circulator" means a person who is at least 17 years of age and who will be 18 years of age on or before the next general election and either:</text>
     <para>
       <num>(A)</num>
       <text>A District resident; or</text>
@@ -247,7 +247,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>Request an absentee ballot.</text>
+      <text>Request a mail-in ballot.</text>
     </para>
   </para>
   <para>
@@ -256,15 +256,15 @@
   </para>
   <para>
     <num>(29)</num>
-    <text>"Mobile application" means specialized software, designed for a mobile device, in which electronic signatures are collected on an electronic petition.</text>
+    <text>The term "mobile application" means specialized software, designed for a mobile device, in which electronic signatures are collected on an electronic petition.</text>
   </para>
   <para>
     <num>(30)</num>
-    <text>"Mobile device" means a handheld, portable, wireless computing device, including a tablet computer or mobile phone.</text>
+    <text>The term "mobile device" means a handheld, portable, wireless computing device, including a tablet computer or mobile phone.</text>
   </para>
   <para>
     <num>(31)</num>
-    <text>"Polling place" includes Vote Centers operated by the Board throughout the District.</text>
+    <text>The term "polling place" shall have the same meaning as the term "Vote Center".</text>
   </para>
   <para>
     <num>(32)</num>
@@ -273,6 +273,102 @@
   <para>
     <num>(33)</num>
     <text>The term "automatic voter registration agency" means an agency designated under <cite path="§1-1001.07|(c)|(1)">§ 1-1001.07(c)(1)</cite> to automatically register qualified electors to vote.</text>
+  </para>
+  <para>
+    <num>(34)</num>
+    <text>The term "local election" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>An election for:</text>
+      <para>
+        <num>(i)</num>
+        <text>Mayor;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>Chairman or member of the Council;</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>Attorney General;</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>Member of the State Board of Education; or</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>Advisory Neighborhood Commissioner; or</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>An initiative, referendum, recall, or charter amendment measure on a District ballot.</text>
+    </para>
+  </para>
+  <para>
+    <num>(35)</num>
+    <text>The term "ballot drop box" means a secured container in which a registered qualified elector may deposit a completed ballot.</text>
+  </para>
+  <para>
+    <num>(36)</num>
+    <text>The term "mail-in ballot" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>A physical ballot received by a registered qualified elector via mail; or</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>An alternate format ballot, such as a web-based ballot, that is accessible to registered qualified electors with disabilities and absent uniformed services and overseas voters.</text>
+    </para>
+  </para>
+  <para>
+    <num>(37)</num>
+    <text>The term "Vote Center" means a centralized polling place at which registered qualified electors may vote, regardless of their address within the District; except, that only registered qualified electors in the care and custody of the Department of Corrections may vote at Vote Centers located in Department of Corrections facilities.</text>
+  </para>
+  <para>
+    <num>(38)</num>
+    <text>"Active candidate" means a candidate who has not been defeated or elected and has not withdrawn their candidacy prior to election day pursuant to applicable law.</text>
+  </para>
+  <para>
+    <num>(39)</num>
+    <text>"Highest-ranked active candidate" means the active candidate assigned a higher ranking than any other active candidates.</text>
+  </para>
+  <para>
+    <num>(40)</num>
+    <text>"Inactive ballot" means a ballot on which no active candidate is ranked, contains an overvote at the highest ranking of active candidates, or contains 2 or more sequential skipped rankings before its highest-ranked active candidate.</text>
+  </para>
+  <para>
+    <num>(41)</num>
+    <text>"Overvote" means an instance in which a voter has ranked more than one candidate at the same ranking.</text>
+  </para>
+  <para>
+    <num>(42)</num>
+    <text>"Ranked choice voting" means a method of casting and tabulating votes whereby the voters rank candidates according to the order of their choice, and vote counting proceeds in rounds in which candidates are eliminated or elected.</text>
+  </para>
+  <para>
+    <num>(43)</num>
+    <text>"Rank" means to assign a number to each candidate for an office corresponding to the voter's preference for that candidate relative to the other active candidates for that office, with the number "1" denoting the highest preference, followed by "2" and then "3" and then "4" and then "5."</text>
+  </para>
+  <para>
+    <num>(44)</num>
+    <text>"Ranking" means the number assigned by a voter to a candidate to express the voter's choice for that candidate, with the number "1" denoting the highest ranking, followed by "2" and then "3" and then "4" and then "5".</text>
+  </para>
+  <para>
+    <num>(45)</num>
+    <text>"Round" means an instance of the sequence of voting tabulation beginning with <cite path="§1-1001.08a|(d)">§ 1-1001.08a(d)</cite> for any single-winner contest, <cite path="§1-1001.08a|(e)">§ 1-1001.08a(e)</cite> for any general election for members of the Council at-large, and <cite path="§1-1001.08a|(f)">§ 1-1001.08a(f)</cite> for any applicable presidential preference primary election.</text>
+  </para>
+  <para>
+    <num>(46)</num>
+    <text>"Skipped ranking" means an instance of a voter leaving a ranking unassigned and ranking a candidate at a subsequent ranking.</text>
+  </para>
+  <para>
+    <num>(47)</num>
+    <text>"Threshold for receiving delegates" means the percentage of votes necessary for a candidate to receive delegates in a presidential preference primary election conducted under <cite path="§1-1001.08a|(f)">§ 1-1001.08a(f)</cite>.</text>
+  </para>
+  <para>
+    <num>(48)</num>
+    <text>"Undervote" means a ballot that does not contain any candidates at any ranking in a particular contest.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 84-1-ch862" path="§2">Aug. 12, 1955, 69 Stat. 699, ch. 862, § 2</annotation>
@@ -326,7 +422,7 @@
     <annotation doc="D.C. Law 20-167" type="History" eff="2015-03-03">Mar. 3, 2015, D.C. Law 20-167, § 2(b), 61 DCR 10738</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7010" type="History" display="false"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1072|(a)" type="History"/>
-    <annotation doc="D.C. Law 21-160" path="§7010" type="Editor's Notes" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7010">Section 7010 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-158" path="§3">§ 3 of D.C. Law 20-158</cite>. Therefore the changes made to this section by D.C. Law 20-158 have been given effect.
+    <annotation doc="D.C. Law 21-160" path="§7010" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7010">Section 7010 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-158" path="§3">§ 3 of D.C. Law 20-158</cite>. Therefore the changes made to this section by D.C. Law 20-158 have been given effect.
         </annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§804|(a)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§804|(a)">§ 804(a) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
     <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§804|(a)" type="History" display="false"/>
@@ -361,5 +457,22 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-277" eff="2021-04-27" path="§2|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§201|(a)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-76" path="§201|(a)">§ 201(a) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
     <annotation app="2021-05-03" doc="D.C. Act 24-76" eff="2021-05-03" path="§201|(a)" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-242" path="§2|(a)" codified:display="Note" app="2023-02-23" eff="2023-02-23">Applicability of <cite doc="D.C. Law 24-242" path="">D.C. Law 24-242</cite>: <cite doc="D.C. Law 24-242" path="§3">§ 3 of D.C. Law 24-242</cite> provided that the change made to this section by <cite doc="D.C. Law 24-242" path="§2|(a)">§ 2(a) of D.C. Law 24-242</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-02-23" doc="D.C. Law 24-242" eff="2023-02-23" path="§2|(a)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(2)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(3)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(4)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(5)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(6)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(b)|(7)" type="History"/>
+    <annotation doc="D.C. Law 25-50" path="§7084" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7084">Section 7084 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 24-242" path="§3">section 3 of D.C. Law 24-242</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2(a) of Law 24-242 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7084" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 25-295" path="§2|(a)" codified:display="Note" app="2025-03-07" eff="2025-03-07">Applicability of <cite doc="D.C. Law 25-295" path="">D.C. Law 25-295</cite>: <cite doc="D.C. Law 25-295" path="§3">§ 3 of D.C. Law 25-295</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-295" path="§2|(a)">§ 2(a) of D.C. Law 25-295</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-295" eff="2025-03-07" path="§2|(a)" type="History"/>
   </annotations>
 </section>

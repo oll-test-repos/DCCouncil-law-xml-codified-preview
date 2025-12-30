@@ -204,6 +204,7 @@
       <xi:include href="./sections/23-1327.xml"/>
       <xi:include href="./sections/23-1328.xml"/>
       <xi:include href="./sections/23-1329.xml"/>
+      <xi:include href="./sections/23-1329a.xml"/>
       <xi:include href="./sections/23-1330.xml"/>
       <xi:include href="./sections/23-1331.xml"/>
       <xi:include href="./sections/23-1332.xml"/>
@@ -241,18 +242,22 @@
       <xi:include href="./sections/23-1902.xml"/>
       <xi:include href="./sections/23-1903.xml"/>
       <xi:include href="./sections/23-1904.xml"/>
+      <xi:include href="./sections/23-1904a.xml"/>
+      <xi:include href="./sections/23-1904b.xml"/>
+      <xi:include href="./sections/23-1904c.xml"/>
       <xi:include href="./sections/23-1905.xml"/>
       <xi:include href="./sections/23-1906.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Sexual Assault Victims’ Rights.</heading>
+      <heading>Sexual assault victim advocates and sexual assault youth victim advocates; sexual assault victim advocate dispatch system.<annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§116" type="History"/></heading>
       <xi:include href="./sections/23-1907.xml"/>
       <xi:include href="./sections/23-1908.xml"/>
       <xi:include href="./sections/23-1909.xml"/>
       <xi:include href="./sections/23-1910.xml"/>
       <xi:include href="./sections/23-1911.xml"/>
+      <xi:include href="./sections/23-1912.xml"/>
     </container>
   </container>
 </container>

@@ -190,6 +190,14 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>XII-A</num>
+      <heading>Preventing White Supremacy in Policing.</heading>
+      <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
+      <xi:include href="./sections/5-123.31.xml"/>
+      <xi:include href="./sections/5-123.32.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>XIII</num>
       <heading>Limitation on Chokehold.</heading>
       <xi:include href="./sections/5-125.01.xml"/>
@@ -404,15 +412,37 @@
     <prefix>Chapter</prefix>
     <num>3B</num>
     <heading>Use of Deadly Force.</heading>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="I" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
     <xi:include href="./sections/5-351.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3C</num>
-    <heading>Limitation on military weaponry.</heading>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="I" type="History" display="false"/>
+    <heading>Limitation on Military Weaponry.</heading>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
     <xi:include href="./sections/5-361.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3D</num>
+    <heading>Use of Less-lethal Weapons.</heading>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I|P" type="History" display="false"/>
+    <xi:include href="./sections/5-363.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3E</num>
+    <heading>Use of Vehicular Pursuits.</heading>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
+    <xi:include href="./sections/5-365.01.xml"/>
+    <xi:include href="./sections/5-365.02.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3B-i</num>
+    <heading>Use of Force Review Board.</heading>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="I" type="History" display="false"/>
+    <xi:include href="./sections/5-353.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -571,6 +601,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>5A</num>
+    <heading>MPD Overtime Reimbursement Fund.</heading>
+    <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§8" type="History" display="false"/>
+    <xi:include href="./sections/5-581.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Police and Firefighters Medical Care Recovery.</heading>
     <xi:include href="./sections/5-601.xml"/>
@@ -677,6 +714,7 @@
       <num>IV</num>
       <heading>Officer Redeployment.</heading>
       <xi:include href="./sections/5-761.xml"/>
+      <xi:include href="./sections/5-761.01.xml"/>
       <xi:include href="./sections/5-762.xml"/>
     </container>
   </container>
@@ -773,6 +811,8 @@
       <xi:include href="./sections/5-1113.xml"/>
       <xi:include href="./sections/5-1114.xml"/>
       <xi:include href="./sections/5-1115.xml"/>
+      <xi:include href="./sections/5-1116.xml"/>
+      <xi:include href="./sections/5-1117.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -789,13 +829,6 @@
       <xi:include href="./sections/5-1139.xml"/>
       <xi:include href="./sections/5-1140.xml"/>
     </container>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>11A</num>
-    <heading>Use of Force Review Board.</heading>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="I" type="History" display="false"/>
-    <xi:include href="./sections/5-1151.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -855,6 +888,7 @@
     <xi:include href="./sections/5-1417.xml"/>
     <xi:include href="./sections/5-1418.xml"/>
     <xi:include href="./sections/5-1419.xml"/>
+    <xi:include href="./sections/5-1420.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -877,8 +911,11 @@
     <xi:include href="./sections/5-1501.01.xml"/>
     <xi:include href="./sections/5-1501.02.xml"/>
     <xi:include href="./sections/5-1501.03.xml"/>
+    <xi:include href="./sections/5-1501.03a.xml"/>
     <xi:include href="./sections/5-1501.04.xml"/>
+    <xi:include href="./sections/5-1501.04a.xml"/>
     <xi:include href="./sections/5-1501.05.xml"/>
+    <xi:include href="./sections/5-1501.05a.xml"/>
     <xi:include href="./sections/5-1501.06.xml"/>
     <xi:include href="./sections/5-1501.06a.xml"/>
     <xi:include href="./sections/5-1501.07.xml"/>
@@ -887,6 +924,7 @@
     <xi:include href="./sections/5-1501.10.xml"/>
     <xi:include href="./sections/5-1501.11.xml"/>
     <xi:include href="./sections/5-1501.12.xml"/>
+    <xi:include href="./sections/5-1501.12a.xml"/>
     <xi:include href="./sections/5-1501.13.xml"/>
     <xi:include href="./sections/5-1501.14.xml"/>
     <xi:include href="./sections/5-1501.15.xml"/>

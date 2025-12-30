@@ -128,6 +128,9 @@
         <xi:include href="./sections/24-211.06.xml"/>
         <xi:include href="./sections/24-211.07.xml"/>
         <xi:include href="./sections/24-211.08.xml"/>
+        <xi:include href="./sections/24-211.09.xml"/>
+        <xi:include href="./sections/24-211.10.xml"/>
+        <xi:include href="./sections/24-211.11.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -176,6 +179,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Prison Industries.</heading>
+      <reason>Repealed</reason>
       <xi:include href="./sections/24-231.01.xml"/>
       <xi:include href="./sections/24-231.02.xml"/>
       <xi:include href="./sections/24-231.03.xml"/>
@@ -191,6 +195,7 @@
       <xi:include href="./sections/24-231.13.xml"/>
       <xi:include href="./sections/24-231.14.xml"/>
       <xi:include href="./sections/24-231.15.xml"/>
+      <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§15" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -254,11 +259,13 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII-A</num>
-      <heading>Limitations on the Use of Restraints on Certain Confined Women.</heading>
+      <heading>Limitations on the Use of Restraints on Certain Confined Women [Persons].</heading>
       <xi:include href="./sections/24-276.01.xml"/>
       <xi:include href="./sections/24-276.02.xml"/>
       <xi:include href="./sections/24-276.03.xml"/>
       <xi:include href="./sections/24-276.04.xml"/>
+      <xi:include href="./sections/24-276.05.xml"/>
+      <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§20|(b)|(1)" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -300,6 +307,7 @@
       <xi:include href="./sections/24-403.xml"/>
       <xi:include href="./sections/24-403.01.xml"/>
       <xi:include href="./sections/24-403.01a.xml"/>
+      <xi:include href="./sections/24-403.01b.xml"/>
       <xi:include href="./sections/24-403.02.xml"/>
       <xi:include href="./sections/24-403.03.xml"/>
       <xi:include href="./sections/24-403.04.xml"/>
@@ -484,6 +492,7 @@
       <xi:include href="./sections/24-906.xml"/>
       <xi:include href="./sections/24-906.01.xml"/>
       <xi:include href="./sections/24-906.02.xml"/>
+      <xi:include href="./sections/24-906.03.xml"/>
       <xi:include href="./sections/24-907.xml"/>
     </container>
     <container>

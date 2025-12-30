@@ -24,8 +24,7 @@
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "District Government Employee Residency Amendment Act of 2018."</text>
   <section>
     <num>2</num>
-    <heading>Title I of the Jobs for D.</heading>
-    <text>C. Residents Amendment Act of 2007, effective February 6, 2008 (D.C. Law 17-108; D.C. Official Code § 1-515.01), is amended to read as follows:</text>
+    <text>Title I of the Jobs for D.C. Residents Amendment Act of 2007, effective February 6, 2008 (D.C. Law 17-108; D.C. Official Code § 1-515.01), is amended to read as follows:</text>
     <include>
       <container>
         <prefix>TITLE</prefix>
@@ -74,7 +73,7 @@
           <annotation doc="D.C. Law 17-108" type="History" path="§101">Feb. 6, 2008, D.C. Law 17-108, § 101</annotation>
         </section>
         <section>
-          <codify:replace doc="D.C. Code" path="§1-515.02" history-prefix="renumbered as § 102" codified:doc="D.C. Code" codified:path="§1-515.02"/>
+          <codify:replace doc="D.C. Code" path="§1-515.02" history-prefix="renumbered as § 102," codified:doc="D.C. Code" codified:path="§1-515.02"/>
           <num codify:value="1-515.02">102</num>
           <heading>District residency preference for applicants.</heading>
           <para>
@@ -426,6 +425,7 @@
             </para>
           </para>
           <annotation doc="D.C. Law 17-108" type="History" path="§101">Feb. 6, 2008, D.C. Law 17-108, § 106</annotation>
+          <annotation doc="D.C. Law 22-315" type="History" path="§2">as added May 23, 2019, D.C. Law 22-315, § 2, 66 DCR 1983</annotation>
         </section>
         <section>
           <codify:insert doc="D.C. Code" path="1|5|I-A" num-value="1-515.07" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-515.07"/>
@@ -443,11 +443,11 @@
             <num undesignated="true">(a)</num>
             <para>
               <num>(1)</num>
-              <text>The Mayor shall, pursuant to <code-cite doc="D.C. Code" path="2|5|I">title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, issue final rules to implement <span codify:value="["/><code-cite doc="D.C. Code" path="1|5|I-A">this act</code-cite><span codify:value="]"/>.</text>
+              <text>The Mayor shall, pursuant to <code-cite doc="D.C. Code" path="2|5|I">title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, issue final rules to implement <code-cite doc="D.C. Code" path="1|5|I-A">this act</code-cite>.</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>Each independent agency shall, pursuant to <code-cite doc="D.C. Code" path="2|5|I">title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, issue final rules to implement the provisions of <span codify:value="["/><code-cite doc="D.C. Code" path="1|5|I-A">this act</code-cite><span codify:value="]"/>; and</text>
+              <text>Each independent agency shall, pursuant to <code-cite doc="D.C. Code" path="2|5|I">title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, issue final rules to implement the provisions of <code-cite doc="D.C. Code" path="1|5|I-A">this act</code-cite>; and</text>
             </para>
             <para>
               <num>(3)</num>

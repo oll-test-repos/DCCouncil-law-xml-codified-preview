@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>14-311</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§14-311(Perm)">Past Permanent Version</cite>.*
+      </text>
   <heading>Human trafficking counselors.</heading>
   <para>
     <num>(a)</num>
@@ -87,12 +90,28 @@
       <num>(3)</num>
       <text>Confidential communications are not waived by the presence of a sign language or foreign language interpreter. Such an interpreter is subject to the same disclosure limitations set forth in paragraph (1) of this subsection and the same privilege set forth in subsection (c) of this section.</text>
     </para>
+    <para>
+      <num>(4)</num>
+      <text>Notwithstanding any other law, human trafficking counselors shall report to the Metropolitan Police Department or the Child and Family Services Agency any crime disclosed in a confidential communication if the human trafficking counselor has actual knowledge that the crime disclosed to the human trafficking counselor involves:</text>
+      <para>
+        <num>(A)</num>
+        <text>A victim under the age of 13;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A perpetrator or alleged perpetrator with whom a victim under 18 years of age has a significant relationship, as that term is defined in <cite path="§22-3001|(10)">§ 22-3001(10)</cite>; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A perpetrator or alleged perpetrator who is more than 4 years older than a victim who is under 18 years of age.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (2) of this subsection, when a victim is under 12 years of age, has been adjudicated incompetent by a court of competent jurisdiction for the purpose of asserting or waiving the privilege established by this section, or is deceased, the victim’s parent, guardian, or personal representative may assert or waive the privilege.</text>
+      <text>Except as provided in paragraph (2) of this subsection, when a victim is under 13 years of age, has been adjudicated incompetent by a court of competent jurisdiction for the purpose of asserting or waiving the privilege established by this section, or is deceased, the victim’s parent, guardian, or personal representative may assert or waive the privilege.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -106,5 +125,23 @@
   <annotations>
     <annotation doc="D.C. Law 18-239" type="History">Oct. 23, 2010, D.C. Law 18-239, § 203(c), 57 DCR 5405</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-1321.02">§ 4-1321.02</cite> and <cite path="§14-307">§ 14-307</cite>.</annotation>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(c)|(1)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-115" path="§4|(b)" codified:display="Note" app="2023-05-24" eff="2023-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-115" path="§4|(b)">§ 4(b) of Comprehensive Policing and Justice Reform Technical Emergency Amendment Act of 2023 (D.C. Act 25-115, May 24, 2023, 70 DCR 7944)</cite>.</annotation>
+    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§4|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-197" path="§4|(b)" codified:display="Note" app="2023-07-27" eff="2023-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-197" path="§4|(b)">§ 4(b) of Comprehensive Policing and Justice Reform Technical Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-197, July 27, 2023, 70 DCR 10742)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Act 25-197" eff="2023-07-27" path="§4|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-426" path="§3|(b)" codified:display="Note" app="2024-03-25" eff="2024-03-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-426" path="§3|(b)">§ 3(b) of Comprehensive Policing and Justice Reform Technical Emergency Amendment Act of 2024 (D.C. Act 25-426, Mar. 25, 2024, 71 DCR 3522)</cite>.</annotation>
+    <annotation app="2024-03-25" doc="D.C. Act 25-426" eff="2024-03-25" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-173" path="§3|(b)" codified:display="Note" app="2024-06-01" eff="2024-06-01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-173" path="§3|(b)">§ 3(b) of Comprehensive Policing and Justice Reform Technical Temporary Amendment Act of 2024 (D.C. Law 25-173, June 1, 2024, 71 DCR 4658)</cite>.</annotation>
+    <annotation app="2024-06-01" doc="D.C. Law 25-173" eff="2024-06-01" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-680" path="§3|(b)" codified:display="Note" app="2025-01-03" eff="2025-01-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-680" path="§3|(b)">§ 3(b) of Comprehensive Policing and Justice Reform Technical Second Emergency Amendment Act of 2024 (D.C. Act 25-680, Jan. 3, 2025, 72 DCR 28)</cite>.</annotation>
+    <annotation app="2025-01-03" doc="D.C. Act 25-680" eff="2025-01-03" path="§3|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-317" path="§3|(b)" codified:display="Note" app="2025-03-21" eff="2025-03-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-317" path="§3|(b)">§ 3(b) of Comprehensive Policing and Justice Reform Technical Second Temporary Amendment Act of 2024 (D.C. Law 25-317, Mar. 21, 2025, 72 DCR 1284)</cite>.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-317" eff="2025-03-21" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2025-10-30" doc="D.C. Act 26-177" eff="2025-10-30" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2025-10-30" doc="D.C. Act 26-177" eff="2025-10-30" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2025-10-30" doc="D.C. Act 26-177" eff="2025-10-30" path="§3|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-177" path="§3|(b)" codified:display="Note" app="2025-10-30" eff="2025-10-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-177" path="§3|(b)">§ 3(b) of Comprehensive Policing and Justice Reform Technical Emergency Amendment Act of 2025 (D.C. Act 26-177, Oct. 30, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

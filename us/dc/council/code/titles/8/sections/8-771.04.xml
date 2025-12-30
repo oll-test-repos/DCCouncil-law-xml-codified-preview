@@ -1,15 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-771.04</num>
   <heading>Battery stewardship organization.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A battery stewardship organization shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Develop and submit a battery stewardship plan that meets the requirements of <cite path="§8-771.03">§ 8-771.03</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Maintain a public, regularly-updated website that lists all producers and producers' brands covered by the battery stewardship organization's approved battery stewardship plan;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Provide sellers, government agencies, nonprofit organizations, and all collection sites with educational materials describing collection opportunities for batteries under the battery stewardship plan, including any signage required by <cite path="§8-771.03|(d)|(2)">§ 8-771.03(d)(2)</cite>; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Cover all costs for battery collection, transportation, processing, education, administration, recycling, and end-of-life handling, with such handling being in accordance with practices approved by DOEE.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Beginning January 1, 2022, and annually thereafter, a battery stewardship organization shall file a registration form with DOEE. The registration form shall require the following information:</text>
+    <para>
+      <num>(1)</num>
+      <text>A list of the producers participating in the battery stewardship organization;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For each participating producer, the name, address, and contact information of a person responsible for ensuring the participating producer's compliance with <cite path="8|7E">this chapter</cite>;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A description of how the battery stewardship organization proposes to meet the requirements of subsection (a) of this section, including any reasonable requirements for participation in the battery stewardship organization; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The name, address, and contact information of a person for a nonmember producer to contact on how to become a member of the battery stewardship organization.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-771.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-771.04">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <para>
+    <num>(c)</num>
+    <text>DOEE may revoke the registration of a battery stewardship organization that fails to implement a material provision of an approved battery stewardship plan. If a registration is revoked by DOEE, a battery stewardship organization may appeal the revocation to the Office of Administrative Hearings, pursuant to <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 20-154" type="History" path="§131">Feb. 26, 2015, D.C. Law 20-154, § 131</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(q)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History"/>
+    <annotation doc="D.C. Act 24-159" path="§7203" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7203">Section 7203 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7203" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-45" path="§7203" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7203">Section 7203 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-211" path="§4">section 4 of D.C. Law 23-211</cite> that impacted this section.  Therefore the creation of this section by §2(q) of Law 23-211 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7203" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-559" path="§2|(d)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-559" path="§2|(d)">§ 2(d) of Battery and Electronic Stewardship Emergency Amendment Act of 2022 (D.C. Act 24-559, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-559" eff="2022-10-17" path="§2|(d)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-223" path="§2|(d)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-223" path="§2|(d)">§ 2(d) of Battery and Electronic Stewardship Temporary Amendment Act of 2022 (D.C. Law 24-223, Dec. 21, 2022, 69 DCR 13973)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-223" eff="2022-12-21" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-320" eff="2023-03-10" path="§2|(d)|(2)" type="History"/>
   </annotations>
 </section>

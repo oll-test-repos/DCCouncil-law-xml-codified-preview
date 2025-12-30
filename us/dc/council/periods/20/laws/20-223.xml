@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 20-223">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 20-223" codify:applicability="notfunded">
   <num type="law">20-223</num>
   <num type="bill">20-81</num>
   <num type="act">20-538</num>
@@ -8,10 +8,10 @@
   <meta>
     <effective>2015-03-11</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/29237/B20-0081-SignedAct.pdf">D.C. Law 20-223</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/29237/Signed_Act/B20-0081-SignedAct.pdf?Id=103428">D.C. Law 20-223</citation>
       <citation type="register">62 DCR 227</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B20-0081">
       <vote date="2014-11-18" reading="First"/>
       <vote date="2014-11-18" reading="First"/>
       <vote date="2014-11-18" reading="Second"/>
@@ -177,7 +177,7 @@
         <para>
           <num>(1)</num>
           <text>Title I of this act shall apply for the tax year in which its fiscal effect has been included in an approved budget and financial plan.</text>
-          <codify:applicability doc="D.C. Law 20-223" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="8|7C"/>
+          <codify:applicability doc="D.C. Law 20-223" date="notfunded" history="false"/>
         </para>
         <para>
           <num>(2)</num>

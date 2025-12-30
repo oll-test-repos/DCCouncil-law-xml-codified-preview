@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-1501.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1501.03(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1501.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Fees classified and use of proceeds designated.</heading>
   <para>
     <num>(a)</num>
@@ -66,59 +72,157 @@
         <num>(O)</num>
         <text>Any person ordering an End Gun Violence identification tag shall pay the fees set forth in <cite path="§50-1501.02k|(b)|(1)">§ 50-1501.02k(b)(1)</cite>.</text>
       </para>
+      <para>
+        <num>(P)</num>
+        <text>Any person ordering a Protect Local Wildlife identification tag shall pay the fees set forth in <cite path="§50-1501.02l|(b)|(1)">§ 50-1501.02l(b)(1)</cite>.</text>
+      </para>
+      <para>
+        <num>(Q)</num>
+        <text>Any person ordering a Washington Wizards identification tag shall pay the fees set forth in <cite path="§50-1501.02m|(b)|(1)">§ 50-1501.02m(b)(1)</cite>.</text>
+      </para>
+      <para>
+        <num>(R)</num>
+        <text>Any person ordering a LGBTQ Pride motor vehicle identification tag shall pay the fees set forth in <cite path="§50-1501.02n|(b)|(1)">§ 50-1501.02n(b)(1)</cite>.</text>
+      </para>
     </para>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <heading>Class A. —</heading>
-      <text>For each passenger vehicle, including a motor vehicle classified by the Mayor or his or her designated agent as a class F(I) historic motor vehicle which meets the criteria established under <cite path="§50-1501.01|(10A)">§ 50-1501.01(10A)</cite>, except for passenger vehicles licensed under <cite path="§47-2829">§ 47-2829</cite>, based upon the manufacturer’s shipping weight, as follows:</text>
-      <text>Weight Class  Registration Fee</text>
-      <text>Class I (3,499 pounds or less)  $ 72</text>
-      <text>Class II (3,500 — 4,999 pounds)  $115</text>
-      <text>Class III (5,000 pounds or greater)  $155</text>
-      <text>Class IV A new motor vehicle, other than a</text>
-      <text>motorcycle and motorized bicycle, with an estimated</text>
-      <text>average miles per gallon (“MPG”) for city driving</text>
-      <text>at or above 40 MPG, as determined in accordance</text>
-      <text>with  et seq., and published</text>
-      <text>in the Fuel Economy Guide by the</text>
-      <text>United States Environmental Protection Agency and</text>
-      <text>the United States Department of Energy). This provision</text>
-      <text>shall only apply to the first 2 years of the vehicle’s</text>
-      <text>registration, after which the vehicle shall be treated</text>
-      <text>as a Class I, Class II, or Class III, whichever is</text>
-      <text>applicable.)  $ 36</text>
+      <para>
+        <num>(A)</num>
+        <heading>Class A. —</heading>
+        <text>For each passenger vehicle, including a motor vehicle classified by the Mayor or his or her designated agent as a class F(I) historic motor vehicle that meets the criteria established under <cite path="§50-1501.01|(10A)">§ 50-1501.01(10A)</cite>, except for passenger vehicles licensed under <cite path="§47-2829">§ 47-2829</cite>, based upon the manufacturer's shipping weight, as follows:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td colspan="2">Weight Class Registration Fee</td>
+              </tr>
+              <tr>
+                <td>Class I (3,499 pounds or less)</td>
+                <td>$70</td>
+              </tr>
+              <tr>
+                <td>Class II (3,500 — 4,999 pounds)</td>
+                <td>$175</td>
+              </tr>
+              <tr>
+                <td>Class III (5,000 — 5,999 pounds)</td>
+                <td>$300</td>
+              </tr>
+              <tr>
+                <td>Class IV (6,000 pounds or greater)</td>
+                <td>$550 (plus $75 per each additional 1,000 pounds over 10,000 pounds)</td>
+              </tr>
+              <tr>
+                <td>Class V  (A new electric vehicle, other than a motorcycle and motorized bicycle, less than 5,000 pounds.) (This provision shall only apply to the first 2 years of the vehicle's registration, after which the vehicle shall be treated as Class I or Class II, whichever is applicable.)</td>
+                <td>$40</td>
+              </tr>
+              <tr>
+                <td>Class VI (vehicles 3,500 pounds or greater that have been issued a disability license tag by the Department of Motor Vehicles pursuant to 18 DCMR § 2704, if the vehicle weight above 3,499 pounds is due to the accommodation of a disability)</td>
+                <td>$70</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>As of October 1, 2023, an electric vehicle with a manufacturer's shipping weight less than 5,000 pounds may subtract 1,000 pounds from its manufacturer's shipping weight for the purposes of this paragraph.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Class IV shall only apply after September 30, 2023.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Class VI shall only apply after September 30, 2023.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <heading>Class B. —</heading>
-      <text>For each commercial vehicle, tractor, and passenger carrying vehicle for hire, including vehicles licensed under <cite path="§47-2829">§ 47-2829</cite>, based upon the manufacturer’s shipping weight, as follows:</text>
-      <text>Weight Class  Registration Fee</text>
-      <text>Class I (3,499 pounds or less)  $125</text>
-      <text>Class II (3,500 — 4,999 pounds)  $160</text>
-      <text>Class III (5,000 — 6,999 pounds)  $220</text>
-      <text>Class IV (7,000 — 9,999 pounds)  $300</text>
-      <text>Class V (10,000 or greater)  $575 plus $25</text>
-      <text>per each additional</text>
-      <text>1,000 pounds over</text>
-      <text>10,000 pound[s]</text>
+      <para>
+        <num>(A)</num>
+        <heading>Class B. —</heading>
+        <text>For each commercial vehicle, tractor, and passenger carrying vehicle for hire, including vehicles licensed under <cite path="§47-2829">§ 47-2829</cite>, based upon the manufacturer's shipping weight, as follows:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td colspan="2">Weight Class Registration Fee</td>
+              </tr>
+              <tr>
+                <td>Class I (3,499 pounds or less)</td>
+                <td>$115</td>
+              </tr>
+              <tr>
+                <td>Class II (3,500 — 4,999 pounds)</td>
+                <td>$225</td>
+              </tr>
+              <tr>
+                <td>Class III (5,000 — 5,999 pounds)</td>
+                <td>$325</td>
+              </tr>
+              <tr>
+                <td>Class IV (6,000 — 6,999 pounds)</td>
+                <td>$450</td>
+              </tr>
+              <tr>
+                <td>Class V (7,000 — 7,999 pounds)</td>
+                <td>$700</td>
+              </tr>
+              <tr>
+                <td>Class VI (8,000 pounds or greater)</td>
+                <td>$800 (plus $100 per each additional 1,000 pounds over 8,000 pounds)</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>As of October 1, 2023, an electric vehicle may subtract 1,000 pounds from its actual weight for the purposes of this paragraph.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
       <heading>Class C. —</heading>
-      <text>For each trailer, based upon the manufacturer’s shipping weight, as follows:</text>
-      <text>Weight Class  Registration Fee</text>
-      <text>Class I (1,499 pounds or less)  $50</text>
-      <text>Class II (1,500 — 3,499 pounds)  $125</text>
-      <text>Class III (3,500 — 4,999 pounds)  $250</text>
-      <text>Class IV (5,000 — 6,999 pounds)  $400</text>
-      <text>Class V (7,000 — 9,999 pounds)  $500</text>
-      <text>Class VI (10,000 pounds or greater)  $500 plus $50</text>
-      <text>per each additional</text>
-      <text>1,000 pounds over</text>
-      <text>10,000 pounds.</text>
+      <text>For each trailer, based upon the manufacturer's shipping weight, as follows:</text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="2">Weight Class Registration Fee</td>
+            </tr>
+            <tr>
+              <td>Class I (3,499 pounds or less)</td>
+              <td>$85</td>
+            </tr>
+            <tr>
+              <td>Class II (3,500 — 4,999 pounds)</td>
+              <td>$175</td>
+            </tr>
+            <tr>
+              <td>Class III (5,000 — 5,999 pounds)</td>
+              <td>$275</td>
+            </tr>
+            <tr>
+              <td>Class IV (6,000 — 6,999 pounds)</td>
+              <td>$400</td>
+            </tr>
+            <tr>
+              <td>Class V (7,000 — 7,999 pounds)</td>
+              <td>$650</td>
+            </tr>
+            <tr>
+              <td>Class VI (8,000 pounds or greater)</td>
+              <td>$750 (plus $75 per each additional 1,000 pounds over 8,000 pounds)</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
     </para>
     <para>
       <num>(4)</num>
@@ -192,7 +296,7 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>The fees collected for parks and recreation identification tags under <cite path="§50-1501.02g">§ 50-1501.02g</cite> shall be deposited into the Recreation Enterprise Fund, established by <cite path="§10-303">§ 10-303</cite>;</text>
+      <text>The fees collected for parks and recreation identification tags under <cite path="§50-1501.02g">§ 50-1501.02g</cite> shall be deposited into the Parks and Recreation Fund, established by <cite path="§10-303">§ 10-303</cite>;</text>
     </para>
     <para>
       <num>(10)</num>
@@ -204,11 +308,23 @@
     </para>
     <para>
       <num>(12)</num>
-      <text>The fees collected for the Washington Nationals identification tags under <cite path="§50-1501.02j">§ 50-1501.02j</cite> shall be deposited into the General Fund of the District of Columbia; and</text>
+      <text>The fees collected for the Washington Nationals identification tags under <cite path="§50-1501.02j">§ 50-1501.02j</cite> shall be deposited into the General Fund of the District of Columbia;</text>
     </para>
     <para>
       <num>(13)</num>
-      <text>The fees collected for the End Gun Violence identification tags under <cite path="§50-1501.02k">§ 50-1501.02k</cite> shall be deposited in the Neighborhood Safety and Engagement Fund, established by <cite path="§7-2413">§ 7-2413</cite>.</text>
+      <text>The fees collected for the End Gun Violence identification tags under <cite path="§50-1501.02k">§ 50-1501.02k</cite> shall be deposited in the Neighborhood Safety and Engagement Fund, established by <cite path="§7-2413">§ 7-2413</cite>;</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>The fees collected for the Protect Local Wildlife identification tags under <cite path="§8-102.05">§ 8-102.05</cite>;</text>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>The fees collected for the Washington Wizard identification tags under <cite path="§50-1501.02m">§ 50-1501.02m</cite> shall be deposited into the General Fund of the District of Columbia; and</text>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>The fees collected for the LGBTQ Pride motor vehicle identification tag under <cite path="§50-1501.02n">§ 50-1501.02n</cite> shall be deposited into the Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs Fund, established by <cite path="§2-1385">§ 2-1385</cite>.</text>
     </para>
   </para>
   <para>
@@ -333,5 +449,39 @@
         According to the Office of the Budget Director, <cite doc="D.C. Law 23-234">D.C. Law 23-234</cite> is currently funded. Therefore, this section has been implemented.
       </annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-234" eff="2021-03-16" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6152|(b)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6152|(b)">§ 6152(b) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6152|(b)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6152|(b)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6152|(b)|(2)|(A)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6152|(b)|(2)|(B)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6152|(b)|(2)|(C)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§6062" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§6062">§ 6062 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§6062" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6062|(a)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6062|(b)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6062|(c)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-44" eff="2023-08-24" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-44" eff="2023-08-24" path="§2|(b)|(2)|(A)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-44" eff="2023-08-24" path="§2|(b)|(2)|(B)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-44" eff="2023-08-24" path="§2|(b)|(2)|(C)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-45" eff="2023-08-24" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-45" eff="2023-08-24" path="§3|(b)|(2)|(A)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-45" eff="2023-08-24" path="§3|(b)|(2)|(B)" type="History"/>
+    <annotation app="2023-08-24" doc="D.C. Law 25-45" eff="2023-08-24" path="§3|(b)|(2)|(C)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6032|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6014|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6014|(b)">§ 6014(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6014|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7115|(b)|(2)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7115|(b)|(2)">§ 7115(b)(2) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7115|(b)|(2)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6014|(b)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7115|(b)|(2)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6014|(b)|(1)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6014|(b)|(2)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6014|(b)|(3)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7115|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6014|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§6014|(b)">§ 6014(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7115|(b)|(2)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7115|(b)|(2)">§ 7115(b)(2) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

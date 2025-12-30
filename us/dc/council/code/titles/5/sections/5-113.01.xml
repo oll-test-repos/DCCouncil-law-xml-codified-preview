@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-113.01</num>
-  <heading>Records — Required.</heading>
+  <heading>Records required to be maintained; budget and staffing transparency.</heading>
   <para>
     <num>(a)</num>
     <text>The Mayor of the District of Columbia shall cause the Metropolitan Police force to keep the following records:</text>
@@ -57,6 +57,10 @@
         <text>The date, location, and time of the stop;</text>
       </para>
       <para>
+        <num>(A-i)</num>
+        <text>The bureau, division, unit, and if applicable, police service area, of the officer who conducted the stop, at the time it was conducted;</text>
+      </para>
+      <para>
         <num>(B)</num>
         <text>The approximate duration of the stop;</text>
       </para>
@@ -102,15 +106,15 @@
       </para>
       <para>
         <num>(I)</num>
-        <text>The gender of the person stopped;</text>
+        <text>The perceived gender of the person stopped;</text>
       </para>
       <para>
         <num>(J)</num>
-        <text>The race or ethnicity of the person stopped; and</text>
+        <text>The perceived race or ethnicity of the person stopped; and</text>
       </para>
       <para>
         <num>(K)</num>
-        <text>The date of birth of the person stopped.</text>
+        <text>The date of birth of the person stopped;</text>
       </para>
     </para>
     <para>
@@ -142,12 +146,48 @@
       </para>
       <para>
         <num>(G)</num>
-        <text>The gender, race, age, and ethnicity of any officer involved in a use force incident; and</text>
+        <text>The gender, race, age, and ethnicity of any officer involved in a use force incident;</text>
       </para>
     </para>
     <para>
       <num>(4D)</num>
-      <text>For the purposes of this section, the terms "contact", "frisk", and "stop" shall have the meanings ascribed in Metropolitan Police Department General Order 304.10; and</text>
+      <text>For the purposes of this section, the terms "contact", "frisk", and "stop" shall have the meanings ascribed in Metropolitan Police Department General Order 304.10;</text>
+    </para>
+    <para>
+      <num>(4E)</num>
+      <text>The following information, disaggregated by school, except in cases where disaggregation could reveal a student's identity:</text>
+      <para>
+        <num>(A)</num>
+        <text>The number of times a law enforcement officer was dispatched to, or requested by, a school;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The incident or arrest classification;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The number of school-related arrests, as that term is defined in <cite path="§38-236.01|(17)">§ 38-236.01(17)</cite>, involving an officer;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The type and count of weapons or controlled substances recovered from any school-related event, whether or not an arrest occurred; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Demographic data for any student and law enforcement officer involved in a stop or school-based arrest, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>Race and ethnicity;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Gender; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Age; and</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(5)</num>
@@ -155,8 +195,128 @@
     </para>
   </para>
   <para>
+    <num>(a-1)</num>
+    <text>The records maintained pursuant to subsection (a)(4B) and (4C) of this section shall be published on the Metropolitan Police Department's website biannually.</text>
+  </para>
+  <para>
     <num>(b)</num>
     <text>The Metropolitan Police force shall cooperate with the Criminal Justice Coordinating Council by sharing records to the extent otherwise permissible under the law for the purpose of preparing the report described in <cite path="§22-4234|(b-3)">§ 22-4234(b-3)</cite>.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Metropolitan Police Department ("MPD") shall publish the following information on its website:</text>
+    <para>
+      <num>(1)</num>
+      <text>Monthly, for the prior 5 fiscal years and the current fiscal year, to date, by month:</text>
+      <para>
+        <num>(A)</num>
+        <text>A staffing report of the number of sworn officers and civilian employees employed by MPD, by bureau, division, unit, and, if applicable, police service area and rank, with a crosswalk to compare actual staffing to funded and unfunded full-time equivalents in that bureau, division, unit, and if applicable, police service area and rank;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The number of employees that:</text>
+        <para>
+          <num>(i)</num>
+          <text>Separated from MPD, by type of separation, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Were hired by MPD, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Copies of the overtime pay spending reports submitted to the Council as described in subsection (d) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>Biannually, aggregated data collected in accordance with subsection (a)(4E) of this section;</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>Quarterly, the case closure rates for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Violent crimes, by offense, committed with or without the use of a weapon; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Non-fatal shootings.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Annually:</text>
+      <para>
+        <num>(A)</num>
+        <text>A listing of all full-time equivalents at MPD, in spreadsheet format, that includes the following fields for each full-time equivalent:</text>
+        <para>
+          <num>(i)</num>
+          <text>Position number;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Position title;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Whether the position is funded or unfunded;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Whether the position is filled or vacant;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Program;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Activity;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Salary; and</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Fringe benefits; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A report on MPD's overtime spending, which shall include the amount spent fiscal year-to-date, by month, on overtime pay and a description of the staffing plan and conditions justifying the overtime pay; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Annually, by the date the annual MPD budget is proposed by the Mayor and transmitted to the Council:</text>
+      <para>
+        <num>(A)</num>
+        <text>The approved, revised, and actual MPD budgets for the prior 5 fiscal years and the current fiscal year, the expenditures for those years, and the proposed MPD budget for the next fiscal year, in spread-sheet format, broken down, at a minimum, by program, activity, comptroller source group, fund source, and service level; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the proposed MPD budget for the next fiscal year:</text>
+        <para>
+          <num>(i)</num>
+          <text>The total proposed budget for hiring personnel;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The gross and net number of personnel MPD anticipates the proposed budget will allow it to hire, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A crosswalk identifying any proposed actual or paper changes to MPD's internal organization, including its various bureaus, and a narrative rationale for the change.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>MPD shall provide a written report every 2 pay periods on MPD's overtime pay spending to the Council that describes the amount spent year-to-date on overtime pay and the staffing plan and conditions justifying the overtime pay.</text>
   </para>
   <annotations>
     <annotation type="History" doc="R.S., D.C." path="§386">R.S., D.C., § 386</annotation>
@@ -193,5 +353,38 @@
     <annotation doc="D.C. Law 22-168" path="§7016" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction impacting this section. Therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7016" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3072" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3072">§ 3072 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3072" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3072|(a)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3072|(b)|(1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3072|(b)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3072|(b)|(3)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3072|(c)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3072|(d)" type="History"/>
+    <annotation doc="D.C. Law 24-167" path="§3073" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§3073">Section 3073 of D.C. Law 24-167</cite> provides that the amendments made to subsection (a)(4B) of this section by section 3072(b) of D.C. Law 24-167 shall apply as of April 1, 2023.
+        </annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3073" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(a)|(4)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(a)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(a)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§130|(b)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§132|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-175" path="§9" codified:display="Note" app="2023-07-20" eff="2023-07-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-175" path="§9">§ 9 of Prioritizing Public Safety Emergency Amendment Act of 2023 (D.C. Act 25-175, July 20, 2023, 70 DCR 10358)</cite>.</annotation>
+    <annotation app="2023-07-20" doc="D.C. Act 25-175" eff="2023-07-20" path="§9" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-257" path="§8" codified:display="Note" app="2023-10-16" eff="2023-10-16">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-257" path="§8">§ 8 of Prioritizing Public Safety Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-257, Oct. 16, 2023, 70 DCR 13849)</cite>.</annotation>
+    <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§8" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§9" codified:display="Note" app="2023-12-21" eff="2023-12-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-339" path="§9">§ 9 of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
+    <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§9" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§9" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§9">§ 9 of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§9" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§7" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§7">§ 7 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§7" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§7" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§7">§ 7 of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§7" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§10" type="History"/>
   </annotations>
 </section>

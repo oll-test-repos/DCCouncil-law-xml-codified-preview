@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 23-191">
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 23-191" codify:applicability="notfunded">
   <num type="law">23-191</num>
   <num type="bill">23-150</num>
   <num type="act">23-548</num>
@@ -185,9 +185,8 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The training required in paragraph (1) of this subsection shall be provided</text>
+          <text>The training required in paragraph (1) of this subsection shall be provided by OSSE, an LEA, or a third-party with an expertise in reading and reading difficulties, and shall comply with the standards set forth in <code-cite doc="D.C. Code" path="§38-2581.02|(a)|(1)">section 102(a)(1)</code-cite>.</text>
         </para>
-        <aftertext>by OSSE, an LEA, or a third-party with an expertise in reading and reading difficulties, and shall comply with the standards set forth in <code-cite doc="D.C. Code" path="§38-2581.02|(a)|(1)">section 102(a)(1)</code-cite>.</aftertext>
       </para>
       <para>
         <num>(b)</num>
@@ -293,7 +292,7 @@
       <para>
         <num>(a)</num>
         <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 23-191" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-1802.04|(c)|(14A)"/>
+        <codify:applicability doc="D.C. Law 23-191" date="notfunded" history="false" display-template=""/>
       </para>
       <para>
         <num>(b)</num>

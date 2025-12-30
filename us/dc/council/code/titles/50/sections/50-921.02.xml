@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-921.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-921.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Director.</heading>
   <para>
     <num>(a)</num>
@@ -14,7 +17,7 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>The Director may issue grants not to exceed $1 million per grant to achieve the District’s transportation goals, including safety objectives.</text>
+      <text>The Director may issue grants not to exceed $1 million per grant to achieve the District’s transportation goals, including safety objectives and to support streateries and the streatery program.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -116,7 +119,7 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>Enter into agreements with the nonprofit organizations that are selected to receive vehicles to ensure they use the vehicles as prescribed by the 5310 Program guidelines and regulations enacted pursuant to this paragraph, including the requirement that the vehicle recipient deposit matching funds into the District Department of Transportation Enterprise Fund for Transportation Initiatives; and</text>
+          <text>Enter into agreements with the nonprofit organizations that are selected to receive vehicles to ensure they use the vehicles as prescribed by the 5310 Program guidelines and regulations enacted pursuant to this paragraph, including the requirement that the vehicle recipient deposit matching funds into the Transportation Initiatives Fund; and</text>
         </para>
         <para>
           <num>(iv)</num>
@@ -178,6 +181,29 @@
     <para>
       <num>(3)</num>
       <text>DDOT may take other appropriate actions to plan, fund, design, construct, and otherwise carry out the transportation projects, including performing work, including construction work, in regional jurisdictions.</text>
+    </para>
+  </para>
+  <para>
+    <num>(h)</num>
+    <para>
+      <num>(1)</num>
+      <text>Within 60 days of March 22, 2023, the Director shall enter into a fare buydown agreement with the Washington Metropolitan Area Transit Authority to facilitate:</text>
+      <para>
+        <num>(A)</num>
+        <text>The provision of fare-free Metrobus transportation within the District; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Daily 24-hour Metrobus service on at least 12 Metrobus lines in the District, with a maximum of 20 minutes between any scheduled bus arrival at any stop.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Metrobus lines identified in subparagraph (B) of this paragraph shall be determined based on high ridership, with an emphasis on serving major transportation corridors and activity centers.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Director may amend the fare buydown agreement required by paragraph (1) of this subsection or enter in additional fare buydown agreements in order to expand the availability of Metrobus service within the District.</text>
     </para>
   </para>
   <annotations>
@@ -266,5 +292,32 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6012|(d)|(1)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6012|(d)|(2)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6012|(d)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-699" path="§2|(a)" codified:display="Note" app="2022-12-08" eff="2022-12-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-699" path="§2|(a)">§ 2(a) of Fare-Free Bus Funding Emergency Amendment Act of 2022 (D.C. Act 24-699, Dec. 8, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-12-08" doc="D.C. Act 24-699" eff="2022-12-08" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-35" path="§2|(a)" codified:display="Note" app="2023-02-27" eff="2023-02-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-35" path="§2|(a)">§ 2(a) of Fare-Free Bus Funding Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-35, Feb. 27, 2023, 70 DCR 2976)</cite>.</annotation>
+    <annotation app="2023-02-27" doc="D.C. Act 25-35" eff="2023-02-27" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-335" eff="2023-03-22" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-340" path="§2|(a)" codified:display="Note" app="2023-03-22" eff="2023-03-22">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-340" path="§2|(a)">§ 2(a) of Fare-Free Bus Funding Temporary Amendment Act of 2022 (D.C. Law 24-340, Mar. 22, 2023, 70 DCR 1578)</cite>.</annotation>
+    <annotation app="2023-03-22" doc="D.C. Law 24-340" eff="2023-03-22" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-254" path="§2" codified:display="Note" app="2023-10-12" eff="2023-10-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-254" path="§2">§ 2 of Buzzard Point Park and Trails National Park Service Grant Emergency Amendment Act of 2023 (D.C. Act 25-254, Oct. 12, 2023, 70 DCR 13843)</cite>.</annotation>
+    <annotation app="2023-10-12" doc="D.C. Act 25-254" eff="2023-10-12" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-96" path="§2" codified:display="Note" app="2023-12-20" eff="2023-12-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-96" path="§2">§ 2 of Buzzard Point Park and Trails National Park Service Grant Temporary Amendment Act of 2023 (D.C. Law 25-96, Dec. 20, 2023, 70 DCR 14452)</cite>.</annotation>
+    <annotation app="2023-12-20" doc="D.C. Law 25-96" eff="2023-12-20" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-341" path="§2" codified:display="Note" app="2023-12-21" eff="2023-12-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-341" path="§2">§ 2 of Buzzard Point Park and Trails National Park Service Grant Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-341, Dec. 21, 2023, 70 DCR 16604)</cite>.</annotation>
+    <annotation app="2023-12-21" doc="D.C. Act 25-341" eff="2023-12-21" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6053|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6053|(a)">§ 6053(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6053|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-524" path="§2" codified:display="Note" app="2024-07-23" eff="2024-07-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-524" path="§2">§ 2 of Buzzard Point Park and Trails National Park Service Grant Emergency Amendment Act of 2024 (D.C. Act 25-524, July 23, 2024, 71 DCR 9584)</cite>.</annotation>
+    <annotation app="2024-07-23" doc="D.C. Act 25-524" eff="2024-07-23" path="§2" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6053|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-579" path="§2" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-579" path="§2">§ 2 of Buzzard Point Park and Trails National Park Service Grant Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-579, Oct. 18, 2024, 71 DCR 12829)</cite>.</annotation>
+    <annotation app="2024-10-18" doc="D.C. Act 25-579" eff="2024-10-18" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-222" path="§2" codified:display="Note" app="2024-11-27" eff="2024-11-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-222" path="§2">§ 2 of Buzzard Point Park and Trails National Park Service Grant Temporary Amendment Act of 2024 (D.C. Law 25-222, Nov. 27, 2024, 71 DCR 12336)</cite>.</annotation>
+    <annotation app="2024-11-27" doc="D.C. Law 25-222" eff="2024-11-27" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7090|(a)|(1)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7090|(a)|(1)">§ 7090(a)(1) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7090|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7090|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7090|(a)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7090|(a)|(1)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7090|(a)|(1)">§ 7090(a)(1) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

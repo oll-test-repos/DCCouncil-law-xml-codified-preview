@@ -922,7 +922,7 @@
         </container>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency-new-sec doc="D.C. Code" path="36|6|III" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.01" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="36|6|III" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.01|annos" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -1176,7 +1176,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:emergency doc="D.C. Code" path="§22-1704" codified:doc="D.C. Code" codified:path="§22-1704|(a)" codified:display="Note"/>
+    <codify:emergency doc="D.C. Code" path="§22-1704" codified:doc="D.C. Code" codified:path="§22-1704" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>34-2159</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§34-2159(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Lead water service line replacement payment assistance program.</heading>
   <para>
     <num>(a)</num>
@@ -16,16 +19,16 @@
         <text>100% of the replacement costs for residential property owners:</text>
         <para>
           <num>(i)</num>
-          <text>With household incomes of 80% or less of the area median income; or</text>
+          <text>With household incomes of 100% or less of the area median income; or</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Whose tenants participate in District or federal housing programs;</text>
+          <text>Whose tenants participate in District or federal housing programs; and</text>
         </para>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(B)</num>
-        <text>80% of the first $2,000 of replacement costs, and 100% of any replacement costs beyond the first $2,000 of replacement costs for residential property owners with household incomes more than 80% but less than 100% of the area median income; and</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -141,14 +144,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <para>
-        <num>(A)</num>
-        <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Subject to authorization in an approved in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
-      </para>
+      <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
     </para>
   </para>
   <para>
@@ -222,5 +218,15 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(b)|(2)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(b)|(3)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-229" eff="2021-03-16" path="§3|(b)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6132" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6132">§ 6132 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6132" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6132|(a)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6132|(a)|(2)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6132|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7107" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7107">§ 7107 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7107" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7107" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7107" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7107" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7107">§ 7107 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

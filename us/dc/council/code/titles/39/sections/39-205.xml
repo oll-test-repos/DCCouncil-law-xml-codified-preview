@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>39-205</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§39-205(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Administration.</heading>
   <para>
     <num>(a)</num>
@@ -35,6 +32,30 @@
         <text>Report regularly on the activities and operations of the agency to the members of the Commission.</text>
       </para>
     </para>
+    <para>
+      <num>(4)</num>
+      <text>In the event of a vacancy in the position of Executive Director:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Commission may designate an individual to serve as interim or acting Executive Director; provided, that:</text>
+        <para>
+          <num>(i)</num>
+          <text>An individual designated as interim Executive Director is an employee of the Commission at the time the vacancy in the position of Executive Director occurs;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An individual designated as acting Executive Director has been nominated to serve as Executive Director pursuant to paragraph (1) of this subsection; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The total combined period of time during which the Commission relies on an interim or acting Executive Director does not exceed 180 days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An individual appointed to fill the vacancy shall serve for the remainder of the unexpired term.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -53,49 +74,44 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>The Commission shall prepare and submit to the Mayor, with a copy to the Council, an annual budget to be included in the regular budget process of the District of Columbia developed in accordance with <cite path="47|3|I">subchapter I of Chapter 3 of Title 47</cite>. In addition, each annual capital budget request submitted by the Mayor to the Council shall include as a discrete capital project a public arts fund in the amount of 1% of the total authority requested for the construction, renovation, and repair of public facilities and institutions, exclusive of land acquisition and infrastructure. Public arts fund financing shall be used by the Commission to fund the creation, installation, and maintenance of public art. The commissioning of artists and the selection, approval, placement, and maintenance of public art shall be the responsibility of the Commission in consultation with both the Department of Public Works and, if applicable, the public official or employee with chief administrative responsibility for the actual use of the public place affected.</text>
+    <text>The Commission shall prepare and submit to the Mayor, at such time as may be directed by the Mayor, a requested budget for the next fiscal year.</text>
   </para>
   <para>
     <num>(c-1)</num>
-    <text>For the fiscal year 2021 budget and every fiscal year thereafter the Commission shall allocate the annual budget as follows:</text>
+    <text>For Fiscal Year 2025 and every fiscal year thereafter the Commission shall allocate the annual budget as follows:</text>
     <para>
       <num>(1)</num>
-      <text>Not more than 23% of the annual budget shall be allocated for administrative costs.</text>
+      <text>Not more than 20% of the annual budget shall be allocated for administrative costs.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Not less than 77% of the annual budget shall be allocated for the following purposes:</text>
       <para>
         <num>(A)</num>
-        <text>17% for grants to fund capital projects in support of either the Arts and Humanities Cohort or the National Capital Arts Cohort; provided, that during Fiscal Year 2021 these grant funds may be used, if approved by the Commission, to pay:</text>
+        <text>The funds remaining after the allocation described in paragraph (1) of this subsection shall be allocated for grants for the following purposes:</text>
         <para>
           <num>(i)</num>
-          <text>Rent or mortgage expenses for the operation of a grant recipient's arts-or-humanities-related home-based office in the District; and</text>
+          <text>12.0% for grants to fund capital projects in support of eligible arts and humanities organizations;</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Rent or mortgage expenses for the operation of a grant recipient's space in the District used to produce or publicly present arts-or-humanities-related work.</text>
+          <text>50.0% for General Operating Support grants to eligible arts and humanities organizations;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>22.0% for other art grant programs established by the Commission; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>4.0% the for the Humanities Grant Program administered by HumanitiesDC.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>12.0% for a large capital grant program to be administered pursuant to <cite path="§39-205.04">§ 39-205.04</cite>.".</text>
         </para>
       </para>
       <para>
         <num>(B)</num>
-        <text>50% for grants to support the Arts and Humanities Cohort;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>28% for grants to support the National Capital Arts Cohort to be allocated as follows:</text>
-        <para>
-          <num>(i)</num>
-          <text>70% shall be distributed equally to each organization that belongs to the National Capital Arts Cohort; and</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>30% shall be distributed proportionally to each organization that belongs to the National Capital Arts Cohort, in an amount based on that organization's share of the total annual income for the prior year, not including District funds, of all organizations that belong to the National Capital Arts Cohort; and</text>
-        </para>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>5% the for the Humanities Grant Program.</text>
+        <text>Awards of General Operating Support grants pursuant to subparagraph (A)(ii) of this paragraph shall be competitive, and each application of an eligible organization shall be reviewed in cohorts of similar budget size, and with grant award amounts tiered in relation to the grantee's budget size; provided, that an award to an individual organization with an annual operating budget exceeding $115,000 may not exceed 50% of the organization's annual operating budget exclusive of funds granted by the Commission on the Arts and Humanities.</text>
       </para>
     </para>
   </para>
@@ -142,8 +158,31 @@
     <annotation app="2020-06-17" doc="D.C. Law 23-105" eff="2020-06-17" path="§3" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-417" path="§2" codified:display="Note" app="2020-10-14" eff="2020-10-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-417" path="§2">§ 2 of Arts and Humanities Capital Funding Emergency Amendment Act of 2020 (D.C. Act 23-417, Oct. 14, 2020, 67 DCR 12252)</cite>.</annotation>
     <annotation app="2020-10-14" doc="D.C. Act 23-417" eff="2020-10-14" path="§2" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-177" eff="2020-12-23" path="§2" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-177" eff="2020-12-23" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-177" path="§2" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-177" path="§2">§ 2 of Arts and Humanities Capital Funding Temporary Amendment Act of 2020 (D.C. Law 23-177, Dec. 23, 2020, 67 DCR 13240)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-177" eff="2020-12-23" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§2004|(d)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§2004|(d)">§ 2004(d) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2004|(d)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2004|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§2112" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§2112">§ 2112 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2112" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2112" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-49" path="§2" codified:display="Note" app="2023-03-21" eff="2023-03-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-49" path="§2">§ 2 of Commission on the Arts and Humanities Acting Executive Director Emergency Amendment Act of 2023 (D.C. Act 25-49, Mar. 21, 2023, 70 DCR 3777)</cite>.</annotation>
+    <annotation app="2023-03-21" doc="D.C. Act 25-49" eff="2023-03-21" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-17" path="§2" codified:display="Note" app="2023-06-14" eff="2023-06-14">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-17" path="§2">§ 2 of Commission on the Arts and Humanities Acting Executive Director Temporary Amendment Act of 2023 (D.C. Law 25-17, June 14, 2023, 70 DCR 6335)</cite>.</annotation>
+    <annotation app="2023-06-14" doc="D.C. Law 25-17" eff="2023-06-14" path="§2" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2162|(a)|(1)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2162|(a)|(2)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2162|(a)|(3)" type="History"/>
+    <annotation app="2023-11-28" doc="D.C. Law 25-68" eff="2023-11-28" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7072" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7072">§ 7072 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7072" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(b)|(2)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(b)|(2)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(b)|(2)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(b)|(2)|(D)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(b)|(2)|(E)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(b)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7072|(b)|(1)" type="History"/>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2602</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§38-2602(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Responsibilities.</heading>
   <para>
     <num>(a)</num>
@@ -350,35 +353,11 @@
     </para>
     <para>
       <num>(23)</num>
-      <text>Administer the Healthy Tots Fund  fulfill its other responsibilities under <cite path="38|2B">Chapter 2B of this title</cite> [<cite path="§38-281">§  38-281</cite> et seq.];</text>
+      <text>Administer Healthy Tots funding and  fulfill its other responsibilities under <cite path="38|2B">Chapter 2B of this title</cite> [<cite path="§38-281">§  38-281</cite> et seq.];</text>
     </para>
     <para>
       <num>(24)</num>
-      <text>Provide supplemental funding for early literacy programs targeting 3rd grade reading success through a competitive, multiyear grant program, subject to available funding, for eligible grantees who are early literacy providers that, at a minimum:</text>
-      <para>
-        <num>(A)</num>
-        <text>Provide a full continuum of school-based, early literacy intervention services for all grades pre-K through 3rd consisting of developmentally appropriate components for each grade;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Deliver the literacy program by professionally coached interventionists;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Provide direct services each day that school is in session;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Collect data on student progress monthly;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Use an intervention model that is comprehensive and has been proven to be effective in one or more empirical studies; and</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>Are not local education agencies;</text>
-      </para>
+      <text>Subject to available funding, implement a program to provide funding and other support to early literacy programs and providers, which may include the issuance of grants.</text>
     </para>
     <para>
       <num>(25)</num>
@@ -611,9 +590,88 @@
         <text>Programs focused on a successful transition to college and careers;</text>
       </para>
     </para>
-    <para placeholder="Repealed">
+    <para>
+      <num>(29A)</num>
+      <text>Have the authority to increase access, promote retention, and improve District resident completion of postsecondary education in the District by:</text>
+      <para>
+        <num>(A)</num>
+        <text>Awarding scholarships and financial assistance for tuition, fees, room and board, books, supplies, and other costs of postsecondary education, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>Dual enrollment programs;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Costs associated with gaining admission or increasing the chances of gaining admission to an institution of higher education in the District, including test preparation programs, standardized test fees, and application fees;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Programs designed to support students navigating the college process through completion; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Funding if the cost of education prevents a student or prospective student from starting, continuing, or completing their postsecondary education; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Paying for the financial assistance described in subparagraph (A) of this paragraph through the issuance of direct vouchers or payments to institutions of higher education in the District;</text>
+      </para>
+    </para>
+    <para>
       <num>(30)</num>
-      <text>Repealed;</text>
+      <text>Provide schools the supports set forth in <cite path="§38-236.06">§ 38-236.06</cite>;</text>
+    </para>
+    <para>
+      <num>(30A)</num>
+      <para>
+        <num>(A)</num>
+        <text>In consultation with the District of Columbia Department of Motor Vehicles, create and implement a Selective Service awareness campaign ("campaign").</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The campaign shall include the following information:</text>
+        <para>
+          <num>(i)</num>
+          <text>Who is required, under federal law, to register for Selective Service and the penalties for failing for register;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>When an individual required to register for Selective Service must do so;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Clear step-by-step guidance on how to register; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>An explanation of the programs and opportunities for which an individual will not be eligible if the individual does not register for the Selective Service.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>As part of the campaign established in subparagraph (A) of this paragraph, ensure that all individuals currently enrolled in a District of Columbia public or public charter school who are required to register for Selective Service in compliance with the requirements of section 3 of the Military Selective Service Act, approved June 24, 1948 (62 Stat. 605; 50 U.S.C. App. § 453), are notified of the registration requirement within 30 days of the individual's 18th birthday.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>By March 30th of each year, using information requested and obtained from the Selective Service, compile and transmit to the Council a report detailing:</text>
+        <para>
+          <num>(i)</num>
+          <text>The total number of District residents who registered in the previous calendar year;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The barriers to Selective Service registration;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The District's efforts to increase Selective Service registration during the preceding calendar year, and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>How the District plans to increase registration in the current year;</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(31)</num>
@@ -635,12 +693,16 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Provide schools and LEAs with their respective school-level and LEA-level aggregate data to a subset of high-priority questions from the YRBSS, as determined by OSSE in consideration of relevant stakeholder feedback; and</text>
+        <text>Provide schools and LEAs with their respective school-level and LEA-level aggregate data to a subset of high-priority questions from the YRBSS, as determined by OSSE in consideration of relevant stakeholder feedback;</text>
       </para>
     </para>
     <para>
       <num>(32)</num>
-      <text>Have the authority to issue grants, from funds under its administration, to non-profit and community-based organizations to increase access to, the affordability of, and the quality of child care in the District.</text>
+      <text>Have the authority to issue grants, from funds under its administration, to non-profit and community-based organizations to increase access to, the affordability of, and the quality of child care in the District; and</text>
+    </para>
+    <para>
+      <num>(33)</num>
+      <text>Have the authority to issue grants to non-profit and community-based organizations and other entities to reduce truancy and chronic absenteeism among students in the District, including by issuing non-competitive grants and extending grants previously issued by the Office of Victim Services and Justice Grants, notwithstanding <cite path="§1-328.13">§ 1-328.13</cite>.</text>
     </para>
   </para>
   <para>
@@ -656,6 +718,81 @@
     <para>
       <num>(3)</num>
       <text>The Fund shall be administered by the State Superintendent of Education and shall be used to support the administration of state academic credential certifications, General Educational Development, and other state-level programs.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>OSSE shall establish a School Support Office ("Office") to implement and administer a school support program ("Program") beginning in School Year 2025-2026. The Program shall provide support and resources for continuous academic improvement to DCPS schools and District public charter schools whose academic performance is, at minimum, in the lowest 5% of all public schools in the District.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(2)</num>
+      <text>Not funded.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>No later than September 30, 2024, OSSE shall submit a report to the Mayor and the Council, developed in consultation with the State Board of Education, DCPS, the District of Columbia Public Charter School Board ("PCSB"), and other stakeholders, which shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Compare and assess school improvement best practices from other jurisdictions;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Identify and explain the metrics that will be used to determine the schools whose academic performance is, at minimum, in the lowest 5% of all public schools in the District;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Propose evidence-based strategies for continuous school improvement models for the lowest performing 5% of District public schools, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>The processes and frameworks for implementing the models;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>How each strategy or model will address professional development for educators, direct coaching, and leadership focused on addressing instructional practice; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>How utilization of the models and Office funding will align with PCSB and DCPS accountability metrics and frameworks;</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Provide recommendations for how the Office will work collaboratively with qualifying schools and school stakeholders to select and implement evidence-based strategies to significantly increase proficiency and growth in reading and math through proven methods and improve other school designation metrics;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Provide recommendations on how the Office may strengthen a designated school's finances, financial management, policies, and culture;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Describe how a participating school's improvement will be evaluated, including the criteria for exiting the Program;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Explain how the Program will adjust to address a school that has not demonstrated sufficient improvement to exit the program after 5 years;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Explain the funding and resources needed to successfully establish and operate the Office and implement the Program for participating schools;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Set forth what additional authority OSSE will need, if any, to implement the report's recommendations and establish the Office and Program; and</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Discuss any additional items relevant to the needs of the Office or Program.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>No later than September 1, 2025, and subject to appropriation, OSSE shall apply the school improvement models developed by the school support office to participating schools.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Starting September 30, 2026, and every 2 years thereafter, OSSE shall submit a report to the Mayor and the Council on the improvement of schools in the Program. The report shall address the effectiveness of the continuous school improvement models and provide recommendations, if any, for Program improvement, including a description of evidence-based strategies developed or further refined in the years since the last report.</text>
     </para>
   </para>
   <annotations>
@@ -794,7 +931,6 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(c)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(d)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4063|(e)" type="History"/>
-    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4064|(b)" type="History"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(A)" type="History"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(B)" type="History"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-291" eff="2019-04-11" path="§4|(b)|(1)|(C)" type="History"/>
@@ -805,5 +941,31 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(a)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(b)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4022|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4052" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4052">§ 4052 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4052" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4052" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-128" eff="2022-06-30" path="§2" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4154|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-372" path="§2" codified:display="Note" app="2024-01-25" eff="2024-01-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-372" path="§2">§ 2 of School Improvement Emergency Amendment Act of 2024 (D.C. Act 25-372, Jan. 25, 2024, 71 DCR 1206)</cite>.</annotation>
+    <annotation app="2024-01-25" doc="D.C. Act 25-372" eff="2024-01-25" path="§2" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§3" type="History" display="false"/>
+    <annotation app="2024-03-23" doc="D.C. Law 25-147" eff="2024-03-23" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-147" path="§2" codified:display="Note" app="2024-03-23" eff="2024-03-23">Applicability of <cite doc="D.C. Law 25-147" path="">D.C. Law 25-147</cite>: <cite doc="D.C. Law 25-147" path="§3">§ 3 of D.C. Law 25-147</cite> provided that the creation of subsection (d) paragraphs (1), (2), (4), and (5) of this section by <cite doc="D.C. Law 25-147" path="§2">§ 2 of D.C. Law 25-147</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-154" path="§2" codified:display="Note" app="2024-04-10" eff="2024-04-10">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-154" path="§2">§ 2 of School Improvement Temporary Amendment Act of 2024 (D.C. Law 25-154, Apr. 10, 2024, 71 DCR 2088)</cite>.</annotation>
+    <annotation app="2024-04-10" doc="D.C. Law 25-154" eff="2024-04-10" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4222" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4222">§ 4222 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4222" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4222|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4042" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4042">§ 4042 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4042" type="History" display="false"/>
+    <annotation doc="D.C. Act 26-146" path="§7185|(a)|(1)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7185 of <cite doc="D.C. Act 26-146" path="§7185">D.C. Act 26-146</cite> amended Section 3(a) of <cite doc="D.C. Law 25-147" path="§3|(a)">D.C. Law 25-147</cite>. Therefore the amendment made to paragraph (d)(2) of this section by <cite doc="D.C. Law 25-147" path="§2">Section 2</cite> of D.C. Law 25-147 has not been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7185|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4042" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4042" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§4042" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§4042">§ 4042 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Act 26-210" path="§7185|(a)|(1)" type="Applicability" history="false" app="2025-11-24" eff="2025-11-24">Section 7185 of <cite doc="D.C. Act 26-210" path="§7185">D.C. Act 26-210</cite> amended Section 3(a) of <cite doc="D.C. Law 25-147" path="§3|(a)">D.C. Law 25-147</cite>. Therefore the amendment made to paragraph (d)(2) of this section by <cite doc="D.C. Law 25-147" path="§2">Section 2</cite> of D.C. Law 25-147 has not been implemented.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7185|(a)|(1)" type="History" display="false"/>
   </annotations>
 </section>

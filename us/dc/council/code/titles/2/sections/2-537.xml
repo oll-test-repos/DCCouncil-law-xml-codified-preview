@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-537</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-537(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Administrative appeals.</heading>
   <para>
     <num>(a)</num>
-    <text>Except as provided in subsections (a-1) and (a-2) of this section, any person denied the right to inspect a public record of a public body may petition the Mayor to review the public record to determine whether it may be withheld from public inspection. Such determination shall be made in writing with a statement of reasons therefor in writing within 10 days (excluding Saturdays, Sundays, days of the initial COVID-19 closure, and legal holidays) of the submission of the petition.</text>
+    <text>Except as provided in subsections (a-1) and (a-2) of this section, any person denied the right to inspect a public record of a public body may petition the Mayor to review the public record to determine whether it may be withheld from public inspection. Such determination shall be made in writing with a statement of reasons therefor in writing within 10 days (excluding Saturdays, Sundays, and legal holidays) of the submission of the petition.</text>
     <para>
       <num>(1)</num>
       <text>If the Mayor denies the petition or does not make a determination within the time limits provided in this subsection, or if a person is deemed to have exhausted his or her administrative remedies pursuant to subsection (e) of <cite path="§2-532">§ 2-532</cite>, the person seeking disclosure may institute proceedings for injunctive or declaratory relief in the Superior Court for the District of Columbia.</text>
@@ -52,12 +49,13 @@
     <annotation doc="D.C. Law 21-36" type="History">Oct. 22, 2015, D.C. Law 21-36, § 1035, 62 DCR 10905</annotation>
     <annotation type="Editor's Notes">Section 3 of <cite doc="D.C. Law 15-256">D.C. Law 15-256</cite> provided: “Sec. 3. Applicability. This act shall apply with respect to any requests for records pending on the effective date of this act, whether or not the request was made prior to that date, and shall apply to any civil action pending on that date.”</annotation>
     <annotation type="Delegation of Authority">Redelegation of Authority Under <cite doc="D.C. Law 1-96">D.C. Law 1-96</cite>, the Freedom of Information Act of 1976; Rescission of Mayor’s Order 87-6: See Mayor’s Order 89-188, August 30, 1989.</annotation>
-    <annotation type="Delegation of Authority">Delegation of authority to Review and Determine Administrative Petitions or Appeals Filed Under the Freedom of Information Act, see Mayor’s Order 2007-62, March 6, 2007 ( 54 DCR 7788).</annotation>
-    <annotation type="Delegation of Authority">Delegation of Authority to Review and Determine Administrative Petitions or Appeals Filed Under the Freedom of Information Act, see Mayor’s Order 2005-190, December 2, 2005 ( 53 DCR 694).</annotation>
-    <annotation type="Delegation of Authority">Delegation of Authority to Review and Determine Administrative Petitions or Appeals Filed Under the Freedom of Information Act, see Mayor’s Order 2005-98, June 14, 2005 ( 52 DCR 8164).</annotation>
-    <annotation type="Delegation of Authority">Delegation of Authority to Review and Determine Administrative Petitions or Appeals filed under the Freedom of Information Act, see Mayor’s Order 2004-205, December 29, 2004 ( 52 DCR 87).</annotation>
-    <annotation type="Delegation of Authority">Delegation of Authority—Office of the Secretary, see Mayor’s Order 97-87, May 6, 1997 ( 44 DCR 2958).</annotation>
     <annotation type="Delegation of Authority">Delegation of Authority—Secretary of the District of Columbia, see Mayor’s Order 95-26, January 27, 1995.</annotation>
+    <annotation type="Delegation of Authority">Delegation of Authority—Office of the Secretary, see Mayor’s Order 97-87, May 6, 1997 ( 44 DCR 2958).</annotation>
+    <annotation type="Delegation of Authority">Confirmation of Delegation of Authority to Review and Determine Administrative Petitions of Appeal, see Mayor’s Order 2019-67, July 23, 2019 (eff. Jan. 2, 2015, nunc pro tunc) (66 DCR 008796).</annotation>
+    <annotation type="Delegation of Authority">Delegation of Authority to Review and Determine Administrative Petitions or Appeals filed under the Freedom of Information Act, see Mayor’s Order 2004-205, December 29, 2004 ( 52 DCR 87).</annotation>
+    <annotation type="Delegation of Authority">Delegation of Authority to Review and Determine Administrative Petitions or Appeals Filed Under the Freedom of Information Act, see Mayor’s Order 2005-98, June 14, 2005 ( 52 DCR 8164).</annotation>
+    <annotation type="Delegation of Authority">Delegation of Authority to Review and Determine Administrative Petitions or Appeals Filed Under the Freedom of Information Act, see Mayor’s Order 2005-190, December 2, 2005 ( 53 DCR 694).</annotation>
+    <annotation type="Delegation of Authority">Delegation of authority to Review and Determine Administrative Petitions or Appeals Filed Under the Freedom of Information Act, see Mayor’s Order 2007-62, March 6, 2007 ( 54 DCR 7788).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 1062 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(c) of Freedom of Information Legislative Records Clarification Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-23, February 17, 2005,  52 DCR 2975).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(c) of Freedom of Information Legislative Records Clarification Emergency Amendment Act of 2004 (D.C. Act 15-591, November 1, 2004,  51 DCR 10729).</annotation>
@@ -87,8 +85,7 @@
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§808|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-555" path="§2|(b)" codified:display="Note" app="2020-12-22" eff="2020-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-555" path="§2|(b)">§ 2(b) of FOIA Tolling Emergency Amendment Act of 2020 (D.C. Act 23-555, Dec. 22, 2020, 68 DCR 00136)</cite>.</annotation>
     <annotation app="2020-12-22" doc="D.C. Act 23-555" eff="2020-12-22" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-267" path="§2|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-267" path="§2|(b)">§ 2(b) of FOIA Tolling Temporary Amendment Act of 2020 (D.C. Law 23-267, Mar. 16, 2021, 68 DCR 001190)</cite>.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-267" eff="2021-03-16" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-267" eff="2021-03-16" path="§2|(b)" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-267" path="§2|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">For temporary (225 days) , see <cite doc="D.C. Law 23-267" path="§2|(b)">§ 2(b) of FOIA Tolling Temporary Amendment Act of 2020 (D.C. Law 23-267, Mar. 16, 2021, 68 DCR 001190)</cite>.</annotation>
   </annotations>
 </section>

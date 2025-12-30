@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-1110.02</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on November 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1110.02(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1110.02(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Targeted Homeowner Grant Program.</heading>
   <para>
@@ -11,71 +11,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>A grant under this program may be used to rehabilitate a structure that contributes to the character of one of the following historic districts or historic landmarks:</text>
-    <para>
-      <num>(1)</num>
-      <text>Anacostia Historic District;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Blagden Alley/Naylor Court Historic District;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Capitol Hill Historic District;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Greater Fourteenth Street Historic District;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Greater U Street Historic District;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>LeDroit Park Historic District;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>Mount Pleasant Historic District;</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>Mount Vernon Square Historic District;</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>Mount Vernon Triangle Historic District;</text>
-    </para>
-    <para>
-      <num>(10)</num>
-      <text>Shaw Historic District;</text>
-    </para>
-    <para>
-      <num>(11)</num>
-      <text>Strivers’ Section Historic District;</text>
-    </para>
-    <para>
-      <num>(12)</num>
-      <text>Takoma Park Historic District;</text>
-    </para>
-    <para>
-      <num>(13)</num>
-      <text>Emerald Street Historic District;</text>
-    </para>
-    <para>
-      <num>(14)</num>
-      <text>Kingman Park Historic District;</text>
-    </para>
-    <para>
-      <num>(15)</num>
-      <text>Wardman Flats Historic Landmark; or</text>
-    </para>
-    <para>
-      <num>(16)</num>
-      <text>Bloomingdale Historic District.</text>
-    </para>
+    <text>A grant under this program may be used to rehabilitate a structure that contributes to the character of any historic district or historic landmark.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -83,7 +19,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>A grant shall not exceed $25,000; except, that a grant may be a maximum of $35,000 if the structure is located in the Anacostia Historic District.</text>
+    <text>A grant shall not exceed $50,000.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -106,26 +42,11 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>A taxpayer who has a household income of more than 60% but no more than 90% of area median income shall be required to match the grant by contributing a minimum of 25% of the cost of the rehabilitation; except, that the match requirement shall be a minimum of 15% for a taxpayer in the Anacostia Historic District.</text>
+    <text>A taxpayer who has a household income of more than 60% but no more than 90% of area median income shall be required to match the grant by contributing a minimum of 25% of the cost of the rehabilitation.</text>
   </para>
   <para>
     <num>(g)</num>
-    <text>A taxpayer who has a household income of more than 90% of area median income shall be required to match the grant by contributing a minimum of 50% of the cost of the rehabilitation; except, that the match requirement shall be a minimum of 40% for a taxpayer in the Anacostia Historic District.</text>
-  </para>
-  <para>
-    <num>(g-1)</num>
-    <para>
-      <num>(1)</num>
-      <text>A grant may be made to a qualified taxpayer under subsection (e)(1) of this section who owns a unit in a multifamily common interest community, as defined in <cite path="§42-2071|(3)">§ 42-2071(3)</cite>, located in Square 2594, for the cost of rehabilitation by the common interest community attributable to the taxpayer.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Mayor shall ensure that all funds granted to a taxpayer who owns a unit in a common interest community are used to pay for the approved rehabilitation work.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>If the grant is to be used for the cost of rehabilitation to common elements, as defined in <cite path="§42-2071|(2)">§ 42-2071(2)</cite>, the preservation covenant required under subsection (i) of this section must be entered into by the unit owners' association or, if applicable, the master association.</text>
-    </para>
+    <text>A taxpayer who has a household income of more than 90% of area median income shall be required to match the grant by contributing a minimum of 50% of the cost of the rehabilitation.</text>
   </para>
   <para>
     <num>(h)</num>
@@ -147,7 +68,7 @@
     <num>(i)</num>
     <para>
       <num>(1)</num>
-      <text>The taxpayer shall enter into a preservation covenant with the State Historic Preservation Officer against the property on which the structure is located. The covenant shall run with the land and shall require that the rehabilitation improvements be maintained in good repair satisfactory to the State Historic Preservation Officer for 5 years after the date on which the grant is fully disbursed.</text>
+      <text>The taxpayer shall enter into a preservation covenant with the State Historic Preservation Officer against the property on which the structure is located. The covenant shall run with the land and shall require that the rehabilitation improvements be maintained in good repair satisfactory to the State Historic Preservation Officer for 10 years after the date on which the grant is fully disbursed.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -173,19 +94,35 @@
       <text>A lien shall be satisfied by payment of the amount of the lien to the State Historic Preservation Officer.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(k)</num>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(l)</num>
     <para>
       <num>(1)</num>
-      <text>The Mayor shall deposit in the HLP Fund established in <cite path="§6-1110.01">§ 6-1110.01</cite> any funds appropriated for the purposes of the Targeted Homeowner Grant Program.</text>
+      <text>There is established as a special fund the Targeted Homeowner Grant Fund ("Fund"), which shall be administered by the Mayor in accordance with paragraph (3) of this subsection.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor may expend up to $1.25 million of appropriated funds for this purpose each fiscal year. Any appropriated funds not expended during a fiscal year shall be used only for the same purpose in subsequent fiscal years.</text>
+      <text>There shall be deposited in the Fund any funds appropriated for the purposes of the targeted homeowner grant program ("Program") authorized to be established by subsection (a) of this section.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>In each fiscal year, the Mayor may expend up to 5% of the amount of the funds authorized in that year for reasonable administrative costs.</text>
+      <text>Money in the Fund shall be used to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Fund grants issued under the Program; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Pay the costs of administering the Program; provided, that no more than 5% of the amount of the money authorized for expenditure from the Fund in a fiscal year may be expended in that fiscal year for this purpose.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
     </para>
   </para>
   <annotations>
@@ -206,6 +143,7 @@
     <annotation type="Temporary Legislation">Section 2 of <cite doc="D.C. Law 17-277">D.C. Law 17-277</cite>, in subsec. (e), added par. (3) to read as follows:</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (k)(2), substituted “fiscal year” for “fiscal year, beginning from fiscal year 2006 through fiscal year 2010”; and, in subsec. (k)(2), deleted “applicable” following “each”.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the section designation.</annotation>
+    <annotation doc="D.C. Law 2-144" type="History" path="§11c" display="false">Mar. 3, 1979, D.C. Law 2-144, § 11c</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-427" path="§2" codified:display="Note" app="2018-07-25" eff="2018-07-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-427" path="§2">§ 2 of Targeted Historic Preservation Assistance Emergency Amendment Act of 2018 (D.C. Act 22-427, July 25, 2018, 65 DCR 7990)</cite>.</annotation>
     <annotation app="2018-07-25" doc="D.C. Act 22-427" eff="2018-07-25" path="§2" type="History" display="false"/>
     <annotation app="2018-11-27" doc="D.C. Law 22-180" eff="2018-11-27" path="§2|(a)" type="History"/>
@@ -215,8 +153,32 @@
     <annotation app="2020-12-23" doc="D.C. Law 23-162" eff="2020-12-23" path="§2|(a)" type="History"/>
     <annotation app="2020-12-23" doc="D.C. Law 23-162" eff="2020-12-23" path="§2|(b)" type="History"/>
     <annotation app="2020-12-23" doc="D.C. Law 23-162" eff="2020-12-23" path="§2|(c)" type="History"/>
-    <annotation app="2021-08-05" doc="D.C. Act 24-157" eff="2021-08-05" path="§2" type="History" display="false"/>
-    <annotation app="2021-08-05" doc="D.C. Act 24-157" eff="2021-08-05" path="§2" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-157" path="§2" codified:display="Note" app="2021-08-05" eff="2021-08-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-157" path="§2">§ 2 of Targeted Historic Preservation Assistance Emergency Amendment Act of 2021 (D.C. Act 24-157, Aug. 5, 2021, 68 DCR 008012)</cite>.</annotation>
+    <annotation app="2021-08-05" doc="D.C. Act 24-157" eff="2021-08-05" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-41" path="§2" codified:display="Note" app="2021-10-27" eff="2021-10-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-41" path="§2">§ 2 of Targeted Historic Preservation Assistance Temporary Amendment Act of 2021 (D.C. Law 24-41, Oct. 27, 2021, 68 DCR 009519)</cite>.</annotation>
+    <annotation app="2021-10-27" doc="D.C. Law 24-41" eff="2021-10-27" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-420" path="§2" codified:display="Note" app="2022-05-23" eff="2022-05-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-420" path="§2">§ 2 of Targeted Historic Preservation Assistance Emergency Amendment Act of 2022 (D.C. Act 24-420, May 23, 2022, 69 DCR 6227)</cite>.</annotation>
+    <annotation app="2022-05-23" doc="D.C. Act 24-420" eff="2022-05-23" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-519" path="§2" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-519" path="§2">§ 2 of Targeted Historic Preservation Assistance Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-519, July 27, 2022, 69 DCR 009789)</cite>.</annotation>
+    <annotation app="2022-07-27" doc="D.C. Act 24-519" eff="2022-07-27" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-163" path="§2" codified:display="Note" app="2022-09-09" eff="2022-09-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-163" path="§2">§ 2 of Targeted Historic Preservation Assistance Temporary Amendment Act of 2022 (D.C. Law 24-163, Sept. 9, 2022, 69 DCR 008845)</cite>.</annotation>
+    <annotation app="2022-09-09" doc="D.C. Law 24-163" eff="2022-09-09" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-111" path="§2" codified:display="Note" app="2023-05-24" eff="2023-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-111" path="§2">§ 2 of Targeted Historic Preservation Assistance Emergency Amendment Act of 2023 (D.C. Act 25-111, May 24, 2023, 70 DCR 7936)</cite>.</annotation>
+    <annotation app="2023-05-24" doc="D.C. Act 25-111" eff="2023-05-24" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Law 25-39" path="§2" codified:display="Note" app="2023-08-17" eff="2023-08-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Law 25-39" path="§2">§ 2 of Targeted Historic Preservation Assistance Temporary Amendment Act of 2023 (D.C. Law 25-39, Aug. 17, 2023, 70 DCR 9083)</cite>.</annotation>
+    <annotation app="2023-08-17" doc="D.C. Law 25-39" eff="2023-08-17" path="§2" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(a)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(c)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(d)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§2152|(e)" type="History"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2142" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7128" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7128">§ 7128 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7128" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7128" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7128|(a)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7128|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2142" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7128" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7128">§ 7128 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

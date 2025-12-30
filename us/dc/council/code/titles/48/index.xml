@@ -46,6 +46,7 @@
     <xi:include href="./sections/48-312.xml"/>
     <xi:include href="./sections/48-313.xml"/>
     <xi:include href="./sections/48-314.xml"/>
+    <xi:include href="./sections/48-314.01.xml"/>
     <xi:include href="./sections/48-315.xml"/>
   </container>
   <container>
@@ -111,8 +112,15 @@
     <prefix>Chapter</prefix>
     <num>6A</num>
     <heading>Third-party Food Delivery.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="II" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="" type="History" display="false"/>
     <xi:include href="./sections/48-651.xml"/>
+    <xi:include href="./sections/48-652.xml"/>
+    <xi:include href="./sections/48-653.xml"/>
+    <xi:include href="./sections/48-653.01.xml"/>
+    <xi:include href="./sections/48-654.xml"/>
+    <xi:include href="./sections/48-655.xml"/>
+    <xi:include href="./sections/48-655.01.xml"/>
+    <xi:include href="./sections/48-656.xml"/>
   </container>
   <subheading>Subtitle II. Prescription Drugs.</subheading>
   <container>
@@ -306,10 +314,9 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <reason>Not Funded</reason>
       <heading>Safe Disposal of Controlled Substances.</heading>
-      <annotation app="2019-04-11" doc="D.C. Law 22-285" eff="2019-04-11" path="§8|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 22-285" eff="2019-04-11" path="" type="History" display="false"/>
+      <reason>Repealed</reason>
+      <annotation app="2019-04-11" doc="D.C. Law 22-285" eff="2019-04-11" path="" type="History" display="false"/>
       <xi:include href="./sections/48-852.01.xml"/>
       <xi:include href="./sections/48-852.02.xml"/>
       <xi:include href="./sections/48-852.03.xml"/>
@@ -317,6 +324,7 @@
       <xi:include href="./sections/48-852.05.xml"/>
       <xi:include href="./sections/48-852.06.xml"/>
       <xi:include href="./sections/48-852.07.xml"/>
+      <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7173" type="History"/>
     </container>
   </container>
   <container>
@@ -345,6 +353,7 @@
     <xi:include href="./sections/48-855.01.xml"/>
     <xi:include href="./sections/48-855.02.xml"/>
     <xi:include href="./sections/48-855.02a.xml"/>
+    <xi:include href="./sections/48-855.02b.xml"/>
     <xi:include href="./sections/48-855.03.xml"/>
   </container>
   <subheading>Subtitle III. Illegal Drugs.</subheading>
@@ -482,6 +491,7 @@
     <xi:include href="./sections/48-1003.xml"/>
     <xi:include href="./sections/48-1004.xml"/>
     <xi:include href="./sections/48-1005.xml"/>
+    <xi:include href="./sections/48-1006.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

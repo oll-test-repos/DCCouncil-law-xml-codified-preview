@@ -1,23 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>37-131.01</num>
-  <heading>Definitions.</heading>
-  <text>For the purposes of this chapter, the term:</text>
+  <heading proof="needed">Definitions.</heading>
   <para>
-    <num>(1)</num>
-    <text>“Fund” means the Vending Regulation Fund established by <cite path="§37-131.07|(b)">§ 37-131.07(b)</cite>.</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>“Public market” means a vending operation that takes place in an area of public space set aside and permitted on a regular basis for the sale of goods, merchandise, or services provided onsite, which vending operation includes a farmers market, flea market, or antique market.</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>“Vending locations” means the specific locations designated by the Mayor on sidewalks, roadways, and other public space at which a person may vend.</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>“Vending site permit” means a permit or other authorization issued by the Mayor for a vending location.</text>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="37|1A">this chapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Farmers market" shall have the same meaning as in <cite path="§7-742.21|(2)">§ 7-742.21(2)</cite>.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>"Farm stand" shall have the same meaning as in <cite path="§7-742.21|(4)">§ 7-742.21(4)</cite>.</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>"Fund" means the Vending Regulation Fund established by <cite path="§37-131.08|(b)">§ 37-131.08(b)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Mobile market" shall have the same meaning as in <cite path="§7-742.21|(8)">§ 7-742.21(8)</cite>.</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>"Public market" means a vending operation that takes place in an area of public space set aside and permitted on a regular basis for the sale of goods, merchandise, or services provided onsite, including a flea market or antique market.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Sidewalk vending zone" means a geographically defined area with 3 or more vending locations at which a person may vend.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Sidewalk vending zone manager" means a non-profit organization headquartered in the District of Columbia that oversees sidewalk vendors operating within a sidewalk vending zone.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Sidewalk vendor" means a person who engages in business while occupying a portion of the public right-of-way other than that reserved for vehicular travel.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Vending cart" means a wheeled, non-motorized, self-contained apparatus designed to be pulled by a vehicle or pushed by hand, designed to be operated from a sidewalk vending location, and from which food, products, merchandise, or services are intended to be vended.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Vending locations" means the specific locations designated by the Mayor on sidewalks, roadways, and other public space at which a person may vend.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Vending site permit" means a permit or other authorization issued by the Mayor for a vending location.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-71" type="History" path="§2">Oct. 22, 2009, D.C. Law 18-71, § 2, 56 DCR 6619</annotation>
@@ -31,5 +62,17 @@
     <annotation type="Temporary Legislation">“(1A) ‘Healthy food vendor’ means a vendor that sells only unprocessed, unfrozen, whole, raw fruits and vegetables that have not been combined with other ingredients; provided, that the Mayor, by rule, may expand this definition to include other healthy food items.”.</annotation>
     <annotation type="Temporary Legislation">Section 2(a) of <cite doc="D.C. Law 19-144">D.C. Law 19-144</cite> added pars. (1A) and (2A) to read as follows:</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§2-1212.01">§ 2-1212.01</cite>, <cite path="§10-1141.02">§ 10-1141.02</cite>, and <cite path="§48-102">§ 48-102</cite>.</annotation>
+    <annotation app="2023-07-01" doc="D.C. Law 25-21" eff="2023-07-01" path="§3|(a)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-21" path="§3|(a)" codified:display="Note" app="2023-07-01" eff="2023-07-01">Applicability of <cite doc="D.C. Law 25-21" path="">D.C. Law 25-21</cite>: <cite doc="D.C. Law 25-21" path="§5">§ 5 of D.C. Law 25-21</cite> provided that the change made to this section by <cite doc="D.C. Law 25-21" path="§3|(a)">§ 3(a) of D.C. Law 25-21</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 25-50" path="§7098" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7098">Section 7098 of D.C. Law 25-50</cite> repealed <cite doc="D.C. Law 25-21" path="§5">section 5 of D.C. Law 25-21</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 3(a) of Law 25-21 has been implemented.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7098" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 26-27" path="§3" codified:display="Note" app="2025-08-23" eff="2025-08-23">Applicability of <cite doc="D.C. Law 26-27" path="">D.C. Law 26-27</cite>: <cite doc="D.C. Law 26-27" path="§5">§ 5 of D.C. Law 26-27</cite> provided that the amendment to this section by <cite doc="D.C. Law 26-27" path="§3">§ 3 of D.C. Law 26-27</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(a)|(2)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(a)|(1)|(1B)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(a)|(4)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(a)|(3)|(2A)" type="History"/>
+    <annotation app="2025-08-23" doc="D.C. Law 26-27" eff="2025-08-23" path="§3|(a)|(5)" type="History"/>
   </annotations>
 </section>

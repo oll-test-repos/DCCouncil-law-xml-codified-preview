@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-242</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-242(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Programs for employment and training of young District domiciliaries.</heading>
   <para>
     <num>(a)</num>
@@ -68,24 +71,20 @@
     </para>
     <para>
       <num>(2A)</num>
-      <text>School year internship pilot. —</text>
+      <heading>School year internship program. —</heading>
       <para>
         <num>(A)</num>
-        <text>In Fiscal Year 2021, a pilot program called the School Year Internship Pilot Program ("Program") for 250 District high school students to provide work-based learning opportunities during the school year.</text>
+        <text>A program called the School Year Internship Program ("Program") for a minimum of 1000 District high school students, each year, to provide work-based learning opportunities during the school year.</text>
       </para>
       <para>
         <num>(B)</num>
         <para>
           <num>(i)</num>
-          <text>High school students including students from public schools, public charter schools, private schools, and students who are homeschooled, may apply to the Department of Employment Services ("DOES") to be matched with an internship host through the Program; provided, that a student may not otherwise participate in an internship, in-school youth employment, or a work-readiness program.</text>
+          <text>High school students, including students from public schools, public charter schools, private schools, and students who are homeschooled, may apply to the Department of Employment Services ("DOES") to be matched with an internship host through the Program; provided, that a student may not otherwise participate in an internship, in-school youth employment, or a work-readiness program.</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>DOES shall give the applications of at-risk students priority over all other applications.</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>For the purposes of this subparagraph the term "at-risk" means a public school, public charter school, private school, or homeschool student who is identified as one or more of the following:</text>
+          <text>DOES shall give priority over all other applications to the applications of students who are identified as one or more of the following:</text>
           <para>
             <num>(I)</num>
             <text>Homeless;</text>
@@ -96,25 +95,33 @@
           </para>
           <para>
             <num>(III)</num>
-            <text>Qualifies for the Temporary Assistance for Needy Families program or the Supplemental Nutrition Assistance Program; or</text>
+            <text>Qualified for the Temporary Assistance for Needy Families program or the Supplemental Nutrition Assistance Program; or</text>
           </para>
           <para>
             <num>(IV)</num>
             <text>A high school student that is one year older, or more, than the expected age for the grade in which the student is enrolled.</text>
           </para>
         </para>
+        <para placeholder="Repealed">
+          <num>(iii)</num>
+          <text>Repealed.</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>DOES shall reserve at least 100 internships for District-involved youth in Fiscal Year 2023.</text>
+        </para>
       </para>
       <para>
         <num>(C)</num>
-        <text>DOES shall notify students of their placement with an internship host by January 5, 2021.</text>
+        <text>DOES shall notify students of their placement with an internship host by September 15 of each year.</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>Interns shall remain matched with their internship host between January 2021 and June 2021.</text>
+        <text>Interns shall remain matched with their internship host between the first week of October and the last day of May.</text>
       </para>
       <para>
         <num>(E)</num>
-        <text>DOES shall pay interns a training rate of $10 per hour, which it shall pay by way of a debit card provided to the intern or by direct deposit.</text>
+        <text>DOES shall pay interns a training rate of at least $10 per hour, which it shall pay by way of a debit card provided to the intern or by direct deposit.</text>
       </para>
       <para>
         <num>(F)</num>
@@ -124,7 +131,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Prospective internship hosts shall submit applications to participate in the Program no later than December 1, 2020. The application shall include a detailed job description that identifies specific tasks, projects, or duties that the intern will perform and the name and job title of the individual who will directly supervise the intern.</text>
+          <text>Prospective internship hosts shall submit applications to participate in the Program no later than July 1 of each year. The application shall include a detailed job description that identifies specific tasks, projects, or duties that the intern will perform and the name and job title of the individual who will directly supervise the intern.</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -146,6 +153,105 @@
           <text>An internship host shall provide its written assessment of an intern's work readiness to DOES within 30 days after the end of the internship.</text>
         </para>
       </para>
+      <para>
+        <num>(I)</num>
+        <text>For School Year 2022-2023, DOES may conduct a mid-year application cycle for students and internship hosts. Students placed with an internship host in the mid-year application cycle shall begin their internships no later than the second week of January 2023 and remain matched with the host through the last day of May 2023.</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <para>
+          <num>(i)</num>
+          <text>In Fiscal Year 2023, DOES shall issue grants totaling at least $225,000, to governmental or non-governmental entities to host District-involved youth. To qualify for a grant, an entity shall:</text>
+          <para>
+            <num>(I)</num>
+            <text>Submit an application, supplemental to the application required pursuant to subparagraph (F)(ii) of this paragraph, that specifies the maximum number of District-involved youth the entity is able to host:</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Be able to provide programming in the District;</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>Have experience providing workshops and programming for youth ages 14 through 21 on topics including life skills, workforce readiness, health (sexual, mental, physical), financial literacy, career exploration, or parenting; and</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>Have experience working with District-involved youth.</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>DOES shall:</text>
+          <para>
+            <num>(I)</num>
+            <text>Work closely with agencies and organizations listed in subparagraph (K)(ii) of this paragraph to recruit District-involved youth; and</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Enter into any agreements with other District agencies or grantees required by law to prevent disclosure of legally protected information related to District-involved youth.</text>
+          </para>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A grantee shall:</text>
+          <para>
+            <num>(I)</num>
+            <text>Submit monthly reports to DOES on District-involved youth interns' growth and development; and</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Conduct at least 4 hours of intern training a month on subjects that may include workforce readiness, self-advocacy and personal agency, health (physical, mental, sexual), career exploration, life skills, and financial literacy.</text>
+          </para>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Every 3 months from the date of placement of District-involved youth with a grantee, a grantee shall submit a report on the following from the previous 3 months:</text>
+          <para>
+            <num>(I)</num>
+            <text>The number of hours each District-involved youth worked and participated in training;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The number of total training hours the grantee conducted with District-involved youth, including the number of interns who participated in the training;</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>A list of the training topics that were covered during the reporting period; and</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>Intern growth and development highlights.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>For the purposes of this paragraph, the term "District-involved youth" means a youth aged 14 through 21 who receives services from the following agencies or organizations:</text>
+        <para>
+          <num>(i)</num>
+          <text>District Department of Human Services;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Department of Youth Rehabilitation Services;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Child and Family Services Agency;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Office of Neighborhood Safety and Engagement;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Organizations that receive District funding for truancy prevention or intervention services; or</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Organizations that contract with any agencies listed in sub-sub-subparagraphs (i) through (iv) of this subparagraph to provide services to youth.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -161,6 +267,74 @@
       <num>(5)</num>
       <heading>Training and retraining for employment.—</heading>
       <text>Programs for pre-employment training and retraining for persons 16 years of age and above. Priority shall be given to participants who meet the eligibility criteria and standards of the Workforce Innovation and Opportunity Act, as identified in regulations issued to implement this subchapter. Training programs established pursuant to this paragraph may be coupled with those conducted pursuant to paragraphs (3) and (4) of this subsection.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <heading>[Career Ready Early Scholars ("CRES") Summer Program. —]</heading>
+      <para>
+        <num>(A)</num>
+        <text>[ ]DOES shall create a summer program for youth between 9 and 13 years of age that provides occupational skills, academic enrichment, life skills, career exploration, work readiness, or youth development trainings.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>DOES is authorized to spend appropriated funds for the CRES summer program to provide participants with:</text>
+        <para>
+          <num>(i)</num>
+          <text>Cash equivalents, not to exceed the value of $150 per week per participant, as an incentive to participate in the program;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Meals and snacks during program hours; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Public transportation to and from the program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Following the completion of the CRES summer program each year, DOES shall administer a survey to participants and, by September 15, publish the results of the survey and transmit them, along with a blank copy of the survey, to the Office of the State Superintendent of Education ("OSSE"), the Chancellor of the District of Columbia Public Schools ("DCPS"), and the Council.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>By December 1 each year, DOES shall issue and submit to the Council, OSSE, and the Chancellor of DCPS a report detailing:</text>
+        <para>
+          <num>(i)</num>
+          <text>The total number of participants who participated in the CRES summer program;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The total number of participants who completed the CRES summer program;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Partner organizations with whom participants engaged in experiences; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Participants' demographic data, as available.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(7)</num>
+      <heading>[Career Ready Early Scholars ("CRES") Year-Round Program. —]</heading>
+      <para>
+        <num>(A)</num>
+        <text>[ ]Beginning in School Year 2024-2025, DOES may administer an after-school program for youth between 9 and 13 years of age that provides occupational skills, academic enrichment, life skills, career exploration, work readiness, or youth development trainings during the school year.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>DOES is authorized to spend appropriated funds for the program to provide participants with:</text>
+        <para>
+          <num>(i)</num>
+          <text>Cash equivalents, not to exceed $150 per week per participant, as an incentive to participate in the CRES year-round program; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Meals and snacks during program hours.</text>
+        </para>
+      </para>
     </para>
   </para>
   <para>
@@ -257,16 +431,36 @@
       <num>(4)</num>
       <text>With regard to the summer 2015 program only, the Mayor shall conduct an assessment and evaluation of employment outcomes as of December 31, 2015, for summer employment participants 22 through 24 years of age.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(5)</num>
-      <text>In Fiscal Year 2016, the District of Columbia Auditor shall conduct an evaluation of multiple years of the summer youth jobs program to assess whether the program has met and is meeting program objectives.</text>
+      <text>Repealed.</text>
     </para>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>When the purchase is reasonably necessary to assist in the effective achievement of a statutorily authorized goal, objective, or responsibility, Department of Employment Services funds may be used to purchase food and non-alcoholic beverages for:</text>
+    <para>
+      <num>(1)</num>
+      <text>Youth enrolled in the summer youth jobs program; and</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(2)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Participants, District government employees, and employees of host agencies who attend the annual summer youth employment program activities.</text>
+    </para>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>The Department of Employment Services is authorized to perform criminal background checks and traffic record checks for employees and volunteers of host employers or grantees participating in programs established pursuant to this section in accordance with <cite path="4|15">Chapter 15 of Title 4</cite>.</text>
   </para>
   <annotations>
     <text type="Short Title">Short title: Section 2061 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided that subtitle G of title II of the act may be cited as “Summer Youth Employment Compensation Amendment Act of 2011”.</text>
     <text type="Short Title">Short title: Section 2231 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle T of title II of the act may be cited as the “Youth Workforce Development Planning and Evaluation Amendment Act of 2010”.</text>
     <text type="Short Title">Short title: Section 1070 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle H of title I of the act may be cited as the “Summer Youth Employment Amendment Act of 2009”.</text>
-    <annotation doc="D.C. Law 3-46" type="History" path="§2">Jan. 5, 1980, D.C. Law 3-46, § 2 [redesignated], 26 DCR 2310</annotation>
+    <annotation doc="D.C. Law 3-46" type="History" path="§2">Jan. 5, 1980, D.C. Law 3-46, § 2 [redesignated as § 2a], 26 DCR 2310</annotation>
     <annotation doc="D.C. Law 4-124" type="History">July 2, 1982, D.C. Law 4-124, § 2, 29 DCR 2091</annotation>
     <annotation doc="D.C. Law 4-193" type="History">Mar. 10, 1983, D.C. Law 4-193, § 2, 30 DCR 43</annotation>
     <annotation doc="D.C. Law 6-211" type="History">Feb. 28, 1987, D.C. Law 6-211, § 2, 34 DCR 847</annotation>
@@ -356,5 +550,51 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2142|(a)" prefix="redesignated as § 2a," type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2102" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2082|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4132" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4132">§ 4132 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4132" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4132|(a)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4132|(b)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4132|(c)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4132|(d)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4132|(e)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4052" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§4052">§ 4052 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4052" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(a)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(b)|(1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(b)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(b)|(3)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(b)|(4)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(c)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(d)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(e)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(f)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4052|(g)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-311" eff="2023-03-10" path="§10" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-205" path="§2|(b)" codified:display="Note" app="2023-07-31" eff="2023-07-31">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-205" path="§2|(b)">§ 2(b) of Middle School Career Exploration Pilot Emergency Amendment Act of 2023. (D.C. Act 25-205, July 31, 2023, 70 DCR 10765)</cite>.</annotation>
+    <annotation app="2023-07-31" doc="D.C. Act 25-205" eff="2023-07-31" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4173|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-279" path="§2|(b)" codified:display="Note" app="2023-10-30" eff="2023-10-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-279" path="§2|(b)">§ 2(b) of Middle School Career Exploration Pilot Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-279, Oct. 30, 2023, 70 DCR 14487)</cite>.</annotation>
+    <annotation app="2023-10-30" doc="D.C. Act 25-279" eff="2023-10-30" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-84" path="§2|(b)" codified:display="Note" app="2023-11-28" eff="2023-11-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-84" path="§2|(b)">§ 2(b) of Middle School Career Exploration Pilot Temporary Amendment Act of 2023. (D.C. Law 25-84, Nov. 28, 2023, 70 DCR 13816)</cite>.</annotation>
+    <annotation app="2023-11-28" doc="D.C. Law 25-84" eff="2023-11-28" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§18|(a)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§18|(a)">§ 18(a) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§18|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4122" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4122">§ 4122 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4122" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§18|(a)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§18|(a)">§ 18(a) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§18|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4122" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-14" path="§3" codified:display="Note" app="2025-02-20" eff="2025-02-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-14" path="§3">§ 3 of Youth Workforce Development Programs Emergency Amendment Act of 2025 (D.C. Act 26-14, Feb. 20, 2025, 72 DCR 2016)</cite>.</annotation>
+    <annotation app="2025-02-20" doc="D.C. Act 26-14" eff="2025-02-20" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-3" path="§3" codified:display="Note" app="2025-05-03" eff="2025-05-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-3" path="§3">§ 3 of Youth Workforce Development Programs Temporary Amendment Act of 2025 (D.C. Law 26-3, May 3, 2025, 72 DCR 3113)</cite>.</annotation>
+    <annotation app="2025-05-03" doc="D.C. Law 26-3" eff="2025-05-03" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§4063" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§4063">§ 4063 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§4063" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4063" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4063|(a)|(1)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4063|(a)|(2)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4063|(a)|(3)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§4063|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§4063" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§4063">§ 4063 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

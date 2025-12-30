@@ -314,7 +314,7 @@
             <para>
               <num>(a)</num>
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§34-2158|(a)|(1)|(1)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§34-2158|(a)|(1)"/>
                 <num>(1)</num>
                 <text>Except as provided in paragraphs (2) and (4) of this subsection, the District of Columbia Water and Sewer Authority ("DC Water") shall not replace the portion of a water service line that is on public property unless it also replaces the portion of the lead water service line that is on private property, if any, subject to the consent of the property owner.</text>
               </para>
@@ -489,7 +489,7 @@
       <text>A new section 6019d is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="34|21" num-value="34-2161" history-prefix="as added" codified:doc="D.C. Code" codified:path="§34-2161"/>
+          <codify:insert path="34|21A" num-value="34-2161" history-prefix="as added" codified:doc="D.C. Code" codified:path="§34-2161"/>
           <num>6019d</num>
           <heading>Reporting.</heading>
           <para>
@@ -600,8 +600,8 @@
     <para>
       <num>(a)</num>
       <text>The amendatory subsection (d)(1) within section 3(a)(2) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§34-2158|(d)|(1)" display-template="" history="false" codified:doc="D.C. Code" codified:path="§34-2158|(d)|(1)"/>
-      <codify:find-replace doc="D.C. Code" path="§34-2158|(d)|(1)" count="1" display-template="" history="false" codified:doc="D.C. Code" codified:path="§34-2158|(d)|(1)">
+      <codify:repeal doc="D.C. Code" path="§34-2158|(d)|(1)" display-template="" history="false"/>
+      <codify:find-replace doc="D.C. Code" path="§34-2158|(d)|(1)" count="1" display-template="" history="false">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>

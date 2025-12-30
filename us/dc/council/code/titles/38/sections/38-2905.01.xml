@@ -8,15 +8,34 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The additional allocations required by subsection (a) of this section shall be calculated by applying a weighting factor, as determined by the Mayor, to the foundation level.</text>
+    <text>The additional allocations required by subsection (a) of this section shall be calculated by applying weighting factors, as reflected in <cite path="38|29|I">this subchapter</cite>, to the foundation level.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>The weighting for at-risk students shall be applied cumulatively in the counts of students who fall into more than one of the formula weighting categories; provided, that for students identified as both as at-risk and as participating in an alternative program or as adult learners, only the alternative program weighting shall apply.</text>
+    <text>The weighting factors for at-risk students shall be applied cumulatively in the counts of students who fall into more than one of the formula weighting categories; provided, that for students identified as both at-risk and as participating in an alternative program or as adult learners, only the alternative program weighting shall apply.</text>
+  </para>
+  <para>
+    <num>(c-1)</num>
+    <text>To ensure alignment between the alternative program and at-risk weighting factors, the alternative program weighting factor should be amended whenever the grades 9-12, at-risk, or at-risk high school over-age supplement weighting factors are amended.</text>
+  </para>
+  <para>
+    <num>(c-2)</num>
+    <para>
+      <num>(1)</num>
+      <text>Consistent with the weightings provided in <cite path="§38-2905|(c)">§ 38-2905(c)</cite>, an at-risk concentration supplement shall be provided for a DCPS school or public charter school with an at-risk student population that exceeds 40% of the school's total enrollment and an additional supplement shall be provided for a DCPS school or public charter school with an at-risk student population that exceeds 70% of the school's total enrollment, based on actual audited enrollments for public charter schools and projected enrollments for DCPS schools submitted pursuant to <cite path="38|29|I">this subchapter</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Only schools that have at-risk student populations greater than 40% of the school's total population may receive funding from the at-risk &gt; 40% concentration supplement.  The number of students for which a school may receive the per pupil allocation for the at-risk &gt; 40% concentration supplement shall be equal to the number of at-risk students enrolled in the school minus the product, rounded to the nearest whole number, of 40% times that school's total student population.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Only schools that have at-risk student populations greater than 70% of the school's total population may receive funding from the at-risk &gt; 40% concentration supplement and the at-risk &gt; 70% concentration supplement. The number of students for which a school may receive the per pupil allocation for the at-risk 70% concentration supplement shall be equal to the number of at-risk students enrolled in the school minus the product, rounded to the nearest whole number, of 70% times that school's total student population.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
-    <text>Beginning December 31, 2023, and annually thereafter, every local education agency that is allocated funds pursuant to this section shall provide the Office of the State Superintendent of Education with data related to expenditures of such funds consistent with reporting standards established by the Department of Education pursuant to s<cite path="§38-191|(b)|(10)">§ 38-191(b)(10)</cite>.</text>
+    <text>By March 31, 2024, and annually thereafter, every local education agency that is allocated funds pursuant to this section shall provide the Office of the State Superintendent of Education with data related to expenditures of such funds for the previous school year consistent with reporting standards established by the Department of Education pursuant to <cite path="§38-191|(b)|(10)">§ 38-191(b)(10)</cite>.</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Section 5 of <cite doc="D.C. Law 20-87">D.C. Law 20-87</cite> was repealed by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7006.</text>
@@ -35,5 +54,19 @@
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-87">D.C. Law 20-87</cite> added this section.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§38-2907.01">§ 38-2907.01</cite>.</annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§4055" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4002|(f)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4002|(f)">§ 4002(f) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4002|(f)" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4002|(f)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4002|(f)|(2)|(A)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4002|(f)|(2)|(B)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4002|(f)|(3)" type="History"/>
+    <annotation app="2022-03-02" doc="D.C. Law 24-86" eff="2022-03-02" path="§3|(a)" type="History"/>
+    <annotation app="2022-03-02" doc="D.C. Law 24-86" eff="2022-03-02" path="§3|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4002|(e)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§4002|(e)">§ 4002(e) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4002|(e)" type="History" display="false"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§4002|(f)" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4002|(e)|(1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4002|(e)|(2)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4002|(e)" type="History"/>
   </annotations>
 </section>

@@ -28,7 +28,7 @@
     <para codify:path="§1-603.01|(a)">
       <num>(a)</num>
       <text>Section 301 (D.C. Official Code § 1-603.01) is amended as follows:</text>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(1)</num>
         <text>A new paragraph (7A) is added to read as follows:</text>
         <include lvl="1">
@@ -56,7 +56,7 @@
           <replace>(15B)</replace>
         </codify:find-replace>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(3)</num>
         <text>A new paragraph (15A) is added to read as follows:</text>
         <include lvl="1">
@@ -70,7 +70,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§1-603.01" applicability-path="§4" action="creation of paragraphs (7A) and (15A)" display-template="" codified:doc="D.C. Code" codified:path="§1-603.01" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(b)</num>
       <text>A new section 402a is added to read as follows:</text>
       <include>
@@ -112,7 +112,7 @@
       <annotation doc="D.C. Law 2-139" type="History" path="§402a">Mar. 3, 1979, D.C. Law 2-139, § 402a</annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§1-604.02a" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§1-604.02a" codified:display="Note"/>
     </para>
-    <para codify:path="§1-608.01">
+    <para codify:path="§1-608.01" codify:applicability="notfunded">
       <num>(c)</num>
       <text>Section 801 (D.C. Official Code § 1-608.01) is amended as follows:</text>
       <para codify:path="(a)">
@@ -223,7 +223,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§1-608.01" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§1-608.01" codified:display="Note"/>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <codify:insert path="1|6" after="X-B" history="false" codified:doc="D.C. Code" codified:path="1|6|X-C">
         <container>
           <prefix>Subchapter</prefix>
@@ -293,7 +293,7 @@
                 <text>"Related technical instruction" means academic instruction, as required by approved apprenticeship standards, that supplements the concepts and processes of on-the-job learning in an apprenticeship program.</text>
               </para>
             </para>
-            <annotation doc="D.C. Law 2-139" type="History" path="§1080">Mar. 3, 1979, D.C. Law 2-139, § 1080 [1081]</annotation>
+            <annotation doc="D.C. Law 2-139" type="History" path="§1080">Mar. 3, 1979, D.C. Law 2-139, § 1080 (redesignated)</annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§1-610.81" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§1-610.81" codified:display="Note"/>
           </section>
           <section>
@@ -411,7 +411,7 @@
               <num>(f)</num>
               <text>DOES shall post all open apprenticeship positions on its DC Networks website.</text>
             </para>
-            <annotation doc="D.C. Law 2-139" type="History" path="§1081">Mar. 3, 1979, D.C. Law 2-139, § 1081 [1082]</annotation>
+            <annotation doc="D.C. Law 2-139" type="History" path="§1081">Mar. 3, 1979, D.C. Law 2-139, § 1081 (redesignated)</annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§1-610.82" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§1-610.82" codified:display="Note"/>
           </section>
           <section>
@@ -452,7 +452,7 @@
                 <text>DCHR, OAIT, or the host agency shall request the University of the District of Columbia Community College to provide apprentices with related technical instruction that is not provided directly by the host agency or apprenticeship sponsor.</text>
               </para>
             </para>
-            <annotation doc="D.C. Law 2-139" type="History" path="§1082">Mar. 3, 1979, D.C. Law 2-139, § 1082 [1083]</annotation>
+            <annotation doc="D.C. Law 2-139" type="History" path="§1082">Mar. 3, 1979, D.C. Law 2-139, § 1082 (redesignated)</annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§1-610.83" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§1-610.83" codified:display="Note"/>
           </section>
           <section>
@@ -482,7 +482,7 @@
                 <text><span codify:value="Section "/><code-cite doc="D.C. Code" path="§32-1410" codify:value="32-1410">Section 10 of An Act To provide for voluntary apprenticeship in the District of Columbia, approved May 21, 1946 (60 Stat. 206; D.C. Official Code § 32-1410)</code-cite>, shall govern the resolution of disputes arising from terms in an apprenticeship agreement not covered by <code-cite doc="D.C. Code" path="1|6">this act</code-cite> or a collective bargaining agreement.</text>
               </para>
             </para>
-            <annotation doc="D.C. Law 2-139" type="History" path="§1083">Mar. 3, 1979, D.C. Law 2-139, § 1083 [1084]</annotation>
+            <annotation doc="D.C. Law 2-139" type="History" path="§1083">Mar. 3, 1979, D.C. Law 2-139, § 1083 (redesignated)</annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§1-610.84" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§1-610.84" codified:display="Note"/>
           </section>
           <section>
@@ -549,7 +549,7 @@
               <num>(b)</num>
               <text>By October 1, 2021, DCHR shall provide to the Council a 3-year plan for the establishment of additional apprenticeship programs in apprenticeable occupations for which no apprenticeship program exists.</text>
             </para>
-            <annotation doc="D.C. Law 2-139" type="History" path="§1084">Mar. 3, 1979, D.C. Law 2-139, § 1084 [1085]</annotation>
+            <annotation doc="D.C. Law 2-139" type="History" path="§1084">Mar. 3, 1979, D.C. Law 2-139, § 1084 (redesignated)</annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§1-610.85" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§1-610.85" codified:display="Note"/>
           </section>
         </container>
@@ -557,7 +557,7 @@
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§32-1408">
+  <section codify:doc="D.C. Code" codify:path="§32-1408" codify:applicability="notfunded">
     <num>3</num>
     <text>Section 8 of An Act To provide for voluntary apprenticeship in the District of Columbia, approved May 21, 1946 (60 Stat. 206; D.C. Official Code § 32-1408), is amended as follows:</text>
     <para>

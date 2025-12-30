@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
-  <reason>Repealed</reason>
   <num>25-771</num>
   <heading>Reporting.</heading>
+  <reason>Repealed</reason>
   <text>[Repealed].</text>
   <annotations>
     <annotation type="History">Jan. 24, 1934, 48 Stat. 332, ch. 4, § 22</annotation>
@@ -18,5 +18,8 @@
     <annotation type="Prior Codifications">1973 Ed., § 25-123.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 25-771.</annotation>
     <annotation app="2017-04-07" doc="D.C. Law 21-260" eff="2017-04-07" path="§2|(f)|(5)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" type="History"/>
   </annotations>
 </section>

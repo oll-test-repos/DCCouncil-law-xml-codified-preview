@@ -1,102 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-651</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
-      </text>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation that created this section, click this link: <cite doc="D.C. Law 24-9">Temporary Version</cite>.*
-      </text>
-  <heading>Registration of third-party food delivery commissions during a public health emergency.</heading>
+  <heading>Definitions.</heading>
+  <text>For the purposes of <cite path="48|6A">this chapter</cite>, the term:</text>
   <para>
-    <num>(a)</num>
-    <text>During the period of time from March 11, 2020, until November 5, 2021, a person, corporation, partnership, or association operating a third-party food platform within the District shall register with the Department of Consumer and Regulatory Affairs.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Notwithstanding any provision of District law, it shall be unlawful for a person to cause a third-party food delivery platform to charge a restaurant:</text>
+    <num undesignated="true">(a)</num>
     <para>
       <num>(1)</num>
-      <text>A commission fee for the use of the platform's services for delivery that totals more than 15% of the purchase price per online order; or</text>
+      <text>"Agreement" means the written contract between a restaurant and a third-party meal delivery platform required by <cite path="48|6A">this chapter</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>A commission fee for use of the platform's services that totals more than 5% of the purchase price per online order where the platform does not provide delivery of an order, including orders that are picked up from the restaurant by the customer or for which the restaurant provides its own delivery service.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>It shall be unlawful for a person to cause a third-party food delivery platform to reduce the compensation rate paid to a delivery service driver or garnish gratuities in order to comply with subsection (b) of this section.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>During a public health emergency, at the time a final price is disclosed to a customer for the intended purchase and delivery of food from a restaurant through a third-party food delivery platform and before that transaction is completed by the customer, the third-party food delivery platform shall disclose to the customer, in plain language and in a conspicuous manner, any commission, fee, or any other monetary payment charged to the customer by the third-party food delivery platform.</text>
-  </para>
-  <para>
-    <num>(e)</num>
-    <para>
-      <num>(1)</num>
-      <text>A person who violates this section shall be subject to a fine of not less than $250 and not more than $1,000 for each such violation.</text>
+      <text>"Core delivery service" means a service that lists a restaurant and makes the restaurant discoverable on all modalities or platforms offered by a third-party meal delivery platform, including any website, mobile application, or other internet service where a third-party meal delivery platform lists restaurants and facilitates or performs the delivery through employees or independent contractors of the third-party meal delivery platform of food or beverages from restaurants to customers.  The term "core delivery service" does not include any other service that may be provided by a third-party meal delivery platform to a restaurant, including advertising or other promotional services, search engine optimization, business consulting, or credit card processing.</text>
     </para>
     <para>
-      <num>(2)</num>
-      <text>A violation of this section shall be a civil infraction for purposes of <cite path="2|18">Chapter 18 of Title 2</cite>.</text>
-    </para>
-  </para>
-  <para>
-    <num>(f)</num>
-    <text>For purposes of this section, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"Online order" means an order placed by a customer through a platform provided by the third-party food delivery service for delivery or pickup within the District.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Purchase price" means the menu price of an online order, excluding taxes, gratuities, or any other fees that may make up the total cost to the customer of an online order.</text>
+      <num>(2A)</num>
+      <text>"Food delivery worker" means any natural person or any organization composed of no more than one natural person, whether or not incorporated or employing a trade name, who is hired, retained, or engaged as an independent contractor by a third-party meal delivery platform.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>"Restaurant" shall have the same meaning as provided in <cite path="§25-101|(45)">§ 25-101(45)</cite>.</text>
+      <text>"Online order" means a food or beverage order placed by a customer through a third-party meal delivery platform for delivery or pickup from a restaurant in the District of Columbia.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>"Third-party food delivery platform" means any website, mobile application, or other internet service that offers or arranges for the sale of food and beverages prepared by, and the same-day delivery or same-day pickup of food and beverages from, restaurants.</text>
+      <text>"Purchase price" means the menu price of an online order, excluding taxes, gratuities, or any other fees that may make up the total cost to the customer of an online order.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Restaurant" means an establishment that is held out to and known by the public as a food-service establishment.  The term includes an establishment defined in <cite path="§25-101|(43)">§ 25-101(43)</cite> and <cite path="§25-101|(52)">(52)</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Third-party meal delivery platform" means any website, mobile application, or other internet service that offers or arranges for the sale of food and beverages prepared by, and the same-day delivery, and the same-day delivery or same-day pickup of food and beverages from, restaurants.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"URL" (Uniform Resource Locator) means a web address.</text>
     </para>
   </para>
-  <para>
-    <num>(g)</num>
-    <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement the provisions of this section.</text>
-  </para>
-  <para>
-    <num>(h)</num>
-    <text>Nothing in this section limits or otherwise impacts the requirement of a third-party food delivery platform to collect and remit sales tax imposed under <cite path="47|20">Chapter 20 of Title 47</cite>.</text>
-  </para>
-  <codify:temporary doc="D.C. Code" path="§48-651" action="creation of this section" codified:doc="D.C. Code" codified:path="§48-651" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§48-651" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-651">
-    <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§205" codified:display="Note" app="2021-06-24" eff="2020-05-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-326" path="§205">§ 205 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 23-326" eff="2020-05-27" path="§205" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§205" codified:display="Note" app="2021-06-24" eff="2020-06-08">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-328" path="§205">§ 205 of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 23-328" eff="2020-06-08" path="§205" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-332" path="§2|(a)" codified:display="Note" app="2021-06-24" eff="2020-07-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-332" path="§2|(a)">§ 2(a) of Coronavirus Support Clarification Emergency Amendment Act of 2020 (D.C. Act 23-332, July 7, 2020, 67 DCR 8609)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 23-332" eff="2020-07-07" path="§2|(a)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-20" path="§2" codified:display="Note" app="2021-06-24" eff="2021-02-26">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-20" path="§2">§ 2 of Fair Meals Delivery Emergency Act of 2021 (D.C. Act 24-20, Feb. 26, 2021, 68 DCR 002594)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 24-20" eff="2021-02-26" path="§2" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§205" codified:display="Note" app="2021-06-24" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§205">§ 205 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 24-30" eff="2021-03-17" path="§205" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§205" codified:display="Note" app="2021-06-24" eff="2021-06-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-96" path="§205">§ 205 of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 24-96" eff="2021-06-07" path="§205" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="II" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§205" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§205" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§205" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§205">§ 205 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(h)" type="History" display="false"/>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(h)|(1)" type="History"/>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(h)|(2)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(h)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(h)">§ 3(h) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-564" path="§6" codified:display="Note" app="2023-03-10" eff="2022-10-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-564" path="§6">§ 6 of Post-Public Health Emergency Protections Extension Emergency Amendment Act of 2022 (D.C. Act 24-564, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Act 24-564" eff="2022-10-17" path="§6" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-226" path="§6" codified:display="Note" app="2023-03-10" eff="2022-12-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-226" path="§6">§ 6 of Post-Public Health Emergency Protections Extension Temporary Amendment Act of 2022 (D.C. Law 24-226, Dec. 21, 2022, 69 DCR 13983)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-226" eff="2022-12-21" path="§6" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-231" path="§2" codified:display="Note" app="2023-03-10" eff="2022-12-21">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-231" path="§2">§ 2 of Fair Meals Delivery Temporary Act of 2022 (D.C. Law 24-231, Dec. 21, 2022, 69 DCR 14031)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-231" eff="2022-12-21" path="§2" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-292" eff="2023-03-10" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-108" path="§2|(b)" codified:display="Note" app="2023-05-24" eff="2023-05-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-108" path="§2|(b)">§ 2(b) of Food Delivery Fees Transparency Emergency Amendment Act of 2023 (D.C. Act 25-108, May 24, 2023, 70 DCR 7927)</cite>.</annotation>
+    <annotation app="2023-05-24" doc="D.C. Act 25-108" eff="2023-05-24" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-199" path="§2|(b)" codified:display="Note" app="2023-07-26" eff="2023-07-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-199" path="§2|(b)">§ 2(b) of Food Delivery Fees Transparency Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-199, July 26, 2023, 70 DCR 10748)</cite>.</annotation>
+    <annotation app="2023-07-26" doc="D.C. Act 25-199" eff="2023-07-26" path="§2|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-38" path="§2|(b)" codified:display="Note" app="2023-08-17" eff="2023-08-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-38" path="§2|(b)">§ 2(b) of Food Delivery Fees Transparency Temporary Amendment Act of 2023 (D.C. Law 25-38, Aug. 17, 2023, 70 DCR 9412)</cite>.</annotation>
+    <annotation app="2023-08-17" doc="D.C. Law 25-38" eff="2023-08-17" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2024-05-21" doc="D.C. Law 25-162" eff="2024-05-21" path="§301|(a)" type="History"/>
   </annotations>
 </section>

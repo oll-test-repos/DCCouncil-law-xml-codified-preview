@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>10-1605.13</num>
+  <heading proof="needed">Traffic Operations and Parking Plan requirement.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The District Department of Transportation ("DDOT"), in collaboration with Advisory Neighborhood Commissions 7F, 7D, 6A, 6B, and 5D, and the Developer, shall develop a Traffic Operations and Parking Plan ("TOPP") for the Stadium Project and surrounding neighborhood blocks.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The TOPP required by subsection (a) of this section shall provide guidance for transit riders, drivers, ride sharers, pedestrians, and cyclists to safely travel to and from the Stadium and surrounding neighborhood, with a particular focus on minimizing negative impacts on the surrounding communities.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>DDOT shall issue regulations to ensure that the District enforces parking-meter and residential-parking-permit restrictions within the Stadium Project and surrounding neighborhood, including on Sundays and holidays.</text>
+  </para>
+  <annotations>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-150" path="§14" codified:display="Note" app="2025-11-21" eff="2025-09-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-150" path="§14">§ 14 of Robert F. Kennedy Campus Redevelopment Emergency Amendment Act of 2025 (D.C. Act 26-150, Sept. 25, 2025, 72 DCR 10584)</cite>.</annotation>
+    <annotation app="2025-11-21" doc="D.C. Act 26-150" eff="2025-09-25" path="§14" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="" type="History" display="false"/>
+    <annotation app="2025-11-21" doc="D.C. Law 26-54" eff="2025-11-21" path="§14" type="History"/>
+  </annotations>
+</section>

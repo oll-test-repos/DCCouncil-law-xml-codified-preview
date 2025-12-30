@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>38-2261</num>
+  <heading>Definitions.</heading>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="38|22D">this chapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"DCPS" means the District of Columbia Public Schools.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"ELL" means English Language Learner.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"EPP" means Education Preparation Provider.</text>
+    </para>
+    <para>
+      <num>(3A)</num>
+      <text>"Kindergarten teacher" means a general education teacher assigned to teach kindergarten.</text>
+    </para>
+    <para>
+      <num>(3B)</num>
+      <text>"LEA" means local education agency, which is the District of Columbia Public School system or any individual or group of public charter schools operating under a single charter in the District.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Literacy educator" means a DCPS English Language Arts instructional coach, English Language Arts assistant principal, general instructional coach, literacy assistant principal, or reading specialist.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"OSSE" means the Office of the State Superintendent of Education.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Public charter school" shall have the same meaning as provided in <cite path="§38-1800.02|(29)">§ 38-1800.02(29)</cite>.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Structured literacy training" means professional development instruction on:</text>
+      <para>
+        <num>(A)</num>
+        <text>Effective and systematic instructional practices in reading, including phonemic awareness, phonics, fluency, vocabulary, and comprehension; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The use of empirically validated instructional methods that are appropriate for early, emergent, and struggling readers.</text>
+      </para>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Public elementary school" means a District school that is either a DCPS school or a public charter school and that serves any grades in the kindergarten through grade 5 range.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"General education teacher" means a teacher who is responsible for providing instruction in one or all of the following subjects:</text>
+      <para>
+        <num>(A)</num>
+        <text>Reading;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Social Studies;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Mathematics; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Science.</text>
+      </para>
+    </para>
+  </para>
+  <annotations>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4112" codified:display="Note" app="2022-09-21" eff="2022-07-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-470" path="§4112">§ 4112 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§4112" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4112" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4172|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4172|(a)">§ 4172(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4172|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4172|(a)" type="History"/>
+  </annotations>
+</section>

@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>44-951.19(Perm)</num>
   <heading>Dissolution.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§44-951.19">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
     <text>By December 31, 2022, the United Medical Center shall cease admitting new patients.</text>
@@ -19,7 +22,7 @@
     <text>The Office of the Chief Financial Officer shall ensure that the Fiscal Year 2023 year-end audit for the Not-for-Profit Hospital Corporation is executed properly.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-21" type="History" path="§5120">Sept. 14, 2011, D.C. Law 19-21, § 5120, 58 DCR 6226</annotation>
-    <annotation doc="D.C. Law 23-16" type="History" path="§5092|(b)">as added Sept. 11, 2019, D.C. Law 23-16, § 5092(b), 66 DCR 8621</annotation>
+    <annotation doc="D.C. Law 19-21" type="History" path="§5130">Sept. 14, 2011, D.C. Law 19-21, § 5130</annotation>
+    <annotation doc="D.C. Law 19-21" type="History" path="§5130">as added Sept. 11, 2019, D.C. Law 23-16, § 5092(c), 66 DCR 8621</annotation>
   </annotations>
 </section>

@@ -110,11 +110,15 @@
       </para>
       <para>
         <num>(ix)</num>
-        <text>in whose body there is a controlled substance as a direct and foreseeable consequence of the acts or omissions of the child’s parent, guardian, or custodian; or</text>
+        <text>in whose body there is a controlled substance as a direct and foreseeable consequence of the acts or omissions of the child’s parent, guardian, or custodian;</text>
       </para>
       <para>
         <num>(x)</num>
-        <text>who is regularly exposed to illegal drug-related activity in the home.</text>
+        <text>who is regularly exposed to illegal drug-related activity in the home; or</text>
+      </para>
+      <para>
+        <num>(xi)</num>
+        <text>who has been subjected to, or is in imminent danger of being subjected to, female genital mutilation pursuant to <cite path="§22-1431|(b)">[§ 22-1431(b)]</cite>.</text>
       </para>
     </para>
     <para>
@@ -191,7 +195,7 @@
     <text>The term “guardianship of the person of a minor” means the duty and authority to make important decisions in matters having a permanent effect on the life and development of the minor, and concern with his general welfare. It includes (but is not limited to) —</text>
     <para>
       <num>(A)</num>
-      <text>authority to consent to marriage, enlistment in the armed forces of the United States, and major medical, surgical, or psychiatric treatment; to represent the minor in legal actions; and to make other decisions concerning the minor of substantive legal significance;</text>
+      <text>authority to consent to enlistment in the armed forces of the United States, and major medical, surgical, or psychiatric treatment; to represent the minor in legal actions; and to make other decisions concerning the minor of substantive legal significance;</text>
     </para>
     <para>
       <num>(B)</num>
@@ -448,6 +452,26 @@
     <num>(46)</num>
     <text>The term "penal institution" shall have the same meaning as provided in <cite path="§22-2603.01">§ 22-2603.01(6)</cite>.</text>
   </para>
+  <para>
+    <num>(47)</num>
+    <text>The term "hardware secure facility" shall have the same meaning as provided in <cite path="§2-1515.01|(9A)">§ 2-1515.01(9A)</cite>.</text>
+  </para>
+  <para>
+    <num>(48)</num>
+    <text>The term "staff secure facility" shall have the same meaning as provided in <cite path="§2-1515.01|(11A)">§ 2-1515.01(11A)</cite>.</text>
+  </para>
+  <para>
+    <num>(49)</num>
+    <text>The term "individualized rehabilitation plan" shall have the same meaning as provided in <cite path="§2-1515.01|(9B)">§ 2-1515.01(9B)</cite>.</text>
+  </para>
+  <para>
+    <num>(50)</num>
+    <text>The term "predisposition meeting" shall have the same meaning as provided in <cite path="§2-1515.01|(10A)">§ 2-1515.01(10A)</cite>.</text>
+  </para>
+  <para>
+    <num>(51)</num>
+    <text>The term "validated risk and needs assessment" shall have the same meaning as provided in <cite path="§2-1515.01|(11B)">§ 2-1515.01(11B)</cite>.</text>
+  </para>
   <annotations>
     <text type="Editor's Notes">“(e) This section shall apply with respect to claims received by the Superior Court of the District of Columbia or the District of Columbia Court of Appeals during fiscal year 2003 and any subsequent fiscal year.”</text>
     <text type="Editor's Notes">“(d) Nothing in this section shall be construed to require the assessment of interest against any claim (or portion of any claim) which is denied by the Court involved.</text>
@@ -511,5 +535,11 @@
     <annotation type="Section References">This section is referenced in <cite path="§2-1515.01">§ 2-1515.01</cite>, <cite path="§4-203.01">§ 4-203.01</cite>, <cite path="§4-1301.02">§ 4-1301.02</cite>, <cite path="§4-1301.06">§ 4-1301.06</cite>, <cite path="§4-1321.02">§ 4-1321.02</cite>, <cite path="§4-1345.01">§ 4-1345.01</cite>, <cite path="§11-721">§ 11-721</cite>, <cite path="§11-1101">§ 11-1101</cite>, <cite path="§16-1001">§ 16-1001</cite>, <cite path="§16-1005">§ 16-1005</cite>, <cite path="§16-2304">§ 16-2304</cite>, <cite path="§16-2315">§ 16-2315</cite>, <cite path="§16-2316">§ 16-2316</cite>, <cite path="§16-2320">§ 16-2320</cite>, <cite path="§16-2352">§ 16-2352</cite>, <cite path="§16-2382">§ 16-2382</cite>, <cite path="§38-2561.03">§ 38-2561.03</cite>, and <cite path="§48-1201">§ 48-1201</cite>.</annotation>
     <annotation type="Cross References">Family Court of the Superior Court, jurisdiction, see <cite path="§11-1101">§ 11-1101</cite>.</annotation>
     <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§102|(b)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-311" eff="2025-03-21" path="§2|(b)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-321" path="§4|(a)" codified:display="Note" app="2025-03-28" eff="2025-03-28">Applicability of <cite doc="D.C. Law 25-321" path="">D.C. Law 25-321</cite>: <cite doc="D.C. Law 25-321" path="§7">§ 7 of D.C. Law 25-321</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-321" path="§4|(a)">§ 4(a) of D.C. Law 25-321</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-03-28" doc="D.C. Law 25-321" eff="2025-03-28" path="§4|(a)" type="History"/>
+    <annotation app="2025-04-18" doc="D.C. Law 25-322" eff="2025-04-18" path="§3|(a)" type="History"/>
+    <annotation app="2025-04-18" doc="D.C. Law 25-322" eff="2025-04-18" path="§3|(b)" type="History"/>
+    <annotation app="2025-04-18" doc="D.C. Law 25-322" eff="2025-04-18" path="§3|(c)" type="History"/>
   </annotations>
 </section>

@@ -26,14 +26,18 @@
         <num>(A)</num>
         <text>A person convicted of possessing more than one restricted pistol bullet in violation of <cite path="§7-2506.01|(a)|(3)">§ 7-2506.01(a)(3)</cite> may be sentenced to imprisonment for a term not to exceed 10 years and shall be sentenced to imprisonment for a mandatory-minimum term of not less than 1 year and shall not be released from prison or granted probation or suspension of sentence prior to serving the mandatory-minimum sentence, and, in addition, may be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(B)</num>
-        <text>A person convicted of possessing a single restricted pistol bullet in violation of <cite path="§7-2506.01|(a)|(3)">§ 7-2506.01(a)(3)</cite> shall be fined not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite> or imprisoned for not more than 1 year, or both.</text>
+        <text>Repealed.</text>
       </para>
     </para>
     <para>
       <num>(4)</num>
-      <text>A person convicted of possessing a large capacity ammunition feeding device in violation of <cite path="§7-2506.01|(b)">§ 7-2506.01(b)</cite> shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 3 years, or both.</text>
+      <text>A person convicted of possessing a large capacity ammunition feeding device in violation of <cite path="§7-2506.01|(b)">§ 7-2506.01(b)</cite> shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 3 years, which shall be imposed consecutive to any other sentence of incarceration, or both.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A person convicted of possessing a firearm with an intent to sell, offer for sale, or make available for sale, in violation of <cite path="§7-2505.01">§ 7-2505.01</cite>, shall be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no less than 2 years nor more than 10 years, or both.</text>
     </para>
   </para>
   <para>
@@ -61,6 +65,10 @@
         <num>(E)</num>
         <text>Possession of a stun gun in violation of <cite path="§7-2502.15">§ 7-2502.15</cite>.</text>
       </para>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>The administrative disposition provided for in this subsection shall not be available to any person who has previously been convicted of any felony in the District or elsewhere.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -123,5 +131,13 @@
     <annotation app="2019-04-15" doc="D.C. Act 23-41" eff="2019-04-15" path="§2|(d)" type="History" display="false"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="§2|(d)|(1)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="§2|(d)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§11|(c)" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§11|(c)">§ 11(c) of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§11|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-490" path="§11|(c)" codified:display="Note" app="2024-06-07" eff="2024-06-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-490" path="§11|(c)">§ 11(c) of Secure DC Omnibus Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-490, June 7, 2024, 71 DCR 7006)</cite>.</annotation>
+    <annotation app="2024-06-07" doc="D.C. Act 25-490" eff="2024-06-07" path="§11|(c)" type="History" display="false"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§15|(c)|(1)|(A)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§15|(c)|(1)|(B)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§15|(c)|(1)|(C)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§15|(c)|(2)" type="History"/>
   </annotations>
 </section>

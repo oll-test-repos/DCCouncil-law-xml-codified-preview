@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>38-2262</num>
+  <heading>Structured literacy training for DCPS.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Starting no later than November 1, 2022, DCPS shall provide all literacy educators serving DCPS students in kindergarten through grade 5 who have not already completed structured literacy training, the opportunity to receive at least 45 hours of structured literacy training over 2 consecutive years.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Literacy educators shall receive a $2,000 stipend for participation in structured literacy training if they are not provided the training during school hours.</text>
+  </para>
+  <annotations>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§4113" codified:display="Note" app="2022-09-21" eff="2022-07-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-470" path="§4113">§ 4113 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-09-21" doc="D.C. Act 24-470" eff="2022-07-13" path="§4113" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§4113" type="History"/>
+  </annotations>
+</section>

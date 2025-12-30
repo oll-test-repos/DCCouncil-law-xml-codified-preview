@@ -1,14 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-251.08</num>
   <heading>Healthcare institutions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A healthcare institution that admits a student approved to receive home or hospital instruction under <cite path="38|2|IV">this subchapter</cite> shall, consistent with its obligations under federal and state law, cooperate and coordinate with the student's LEA in providing such instruction to the student.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Each healthcare institution referenced in subsection (a) of this section shall establish a point of contact to coordinate home or hospital instruction with the LEA.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-251.08" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-251.08">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§9">§ 9 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§12|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-204" eff="2021-03-16" path="§9" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-204" path="§9" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§9">§ 9 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§9" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-204" path="§9" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§9">§ 9 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 24-159" path="§7201" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7201">Section 7201 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-204" path="§12">section 12 of D.C. Law 23-204</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-204 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7201" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-45" path="§7201" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7201">Section 7201 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-204" path="§12">section 12 of D.C. Law 23-204</cite> removing the applicability provision impacting this section.  Therefore the creation of this section by Law 23-204 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7201" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-301.03</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on February 26, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.03(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-301.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
@@ -16,6 +22,129 @@
     <para>
       <num>(3)</num>
       <text>“Capital City Plan” means the formal alphabetical and numerical pattern and layout of streets within the District’s 4 quadrants, the formal pattern and layout of avenues and circles within the District, and the formal system and pattern of addresses within the District.</text>
+    </para>
+    <para>
+      <num>(3A)</num>
+      <text>"Carrier-for-hire" means a class of transportation service by which a network of private operators, couriers, or carriers provide delivery of parcels, food, or beverages in the District for compensation.</text>
+    </para>
+    <para>
+      <num>(3B)</num>
+      <text>"Carrier-for-hire company" means an organization, corporation, partnership, or sole proprietorship, operating in the District that uses delivery dispatch to connect customers to specific carrier-for-hire operators. The term:</text>
+      <para>
+        <num>(A)</num>
+        <text>Includes a third-party meal delivery platform, as that term is defined in <cite path="§48-651|(6)">§ 48-651(6)</cite>;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Does not include an organization, corporation, partnership, or sole proprietorship who facilitates, offers, or arranges for the delivery of goods solely by vehicles that are required to be registered with the federal motor carrier safety administration or that require a commercial driver's license to operate pursuant 49 U.S.C. § 2701 <em>et seq.</em>; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Does not include an individual or entity delivering cannabis with a valid courier license issued pursuant to <cite path="§7-1671.05a">§ 7-1671.05a</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3C)</num>
+      <text>"Carrier-for-hire industry" means all companies, associations, owners, operators, or any person who, by virtue of employment, contract, or office, is directly involved in providing or facilitating the provision of carrier-for-hire services within the District.</text>
+    </para>
+    <para>
+      <num>(3D)</num>
+      <text>"Carrier-for-hire operator" means an individual who is registered with a carrier-for-hire company for the purpose of being connected to a customer through the company's delivery dispatch to deliver a parcel, food, or beverage in exchange for compensation. The term:</text>
+      <para>
+        <num>(A)</num>
+        <text>Includes a food delivery worker, as that term is defined in <cite path="§48-651|(2A)">§ 48-651(2A)</cite>; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Does not include an individual delivering parcels, food, or beverages as an employee of, or under contract with, a specific business, if the business is primarily responsible for the production of the items or goods being delivered.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3E)</num>
+      <para>
+        <num>(A)</num>
+        <text>"Class 1" means any of the following delivery modes:</text>
+        <para>
+          <num>(i)</num>
+          <text>Pedestrians;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Electric mobility devices;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Bicycles;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Electric bicycles;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>E-cargo bikes; and</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Other non-motorized means of transportation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the purposes of this paragraph the term:</text>
+        <para>
+          <num>(i)</num>
+          <text>"E-cargo bike" shall have the same meaning as provided in <cite path="§50-921.27|(a)|(4)">§ 50-921.27(a)(4)</cite>.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>"Electric bicycle" shall have the same meaning as provided in <cite path="§50-921.27|(a)|(5)">§ 50-921.27(a)(5)</cite>.</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>"Electric mobility device" shall have the same meaning as provided in <cite path="§50-2201.02|(6A)">§ 50-2201.02(6A)</cite>.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(3F)</num>
+      <text>"Class 2" means an electric-powered motor vehicle that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has a seat or saddle for the use of the operator and is designed to travel on no more than 3 wheels in contact with the ground;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is a motor-driven cycle or a motorcycle, as those terms are defined in 18 DCMR § 9901.1; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is not a Class 1 delivery mode.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3G)</num>
+      <text>"Class 3" means a motor vehicle powered by an internal-combustion engine that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has a seat or saddle for the use of the operator and is designed to travel on no more than 3 wheels in contact with the ground;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is a motor-driven cycle or motorcycle, as those terms are defined in 18 DCMR § 9901.1; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is not a Class 1 or Class 2 delivery mode.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3H)</num>
+      <text>"Class 4" means all motor vehicles not classified as Class 1, 2, or 3.</text>
+    </para>
+    <para>
+      <num>(3I)</num>
+      <text>"Customer" means an individual purchasing and requesting the delivery of a parcel, food, or beverage, who is connected to a specific carrier-for-hire operator by a carrier-for-hire company's delivery dispatch.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -58,6 +187,26 @@
       <text>"DFHV" means the Department of For-Hire Vehicles established by <cite path="§50-301.04">§ 50-301.04</cite>.</text>
     </para>
     <para>
+      <num>(9A-i)</num>
+      <text>"Delivery mode" means the means of transportation used by a carrier-for-hire operator to provide delivery service.</text>
+    </para>
+    <para>
+      <num>(9A-ii)</num>
+      <text>"DFHV" means the Department of For-Hire Vehicles established by <cite path="§50-301.04">§ 50-301.04</cite></text>
+    </para>
+    <para>
+      <num>(9A-iii)</num>
+      <text>"Digital dispatch" means the hardware and software applications and networks, including mobile phone applications, which passengers and operators use to provide public and private vehicle-for-hire service.</text>
+    </para>
+    <para>
+      <num>(9A-iv)</num>
+      <text>"Director" means the Director of the Department of For-Hire-Vehicles.</text>
+    </para>
+    <para>
+      <num>(9A-v)</num>
+      <text>"Dispatch" means the traditional methods of pre-arranging vehicle-for-hire service, including through telephone or radio.</text>
+    </para>
+    <para>
       <num>(9B)</num>
       <text>"FHVAC" means the For-Hire Vehicle Advisory Council established by <cite path="§50-301.10a">§ 50-301.10a</cite>.</text>
     </para>
@@ -81,6 +230,10 @@
       <num>(14)</num>
       <text>“Limousine” means a public vehicle-for-hire that operates exclusively through advanced registration, charges exclusively on the basis of time, and shall not accept street hails.</text>
     </para>
+    <para>
+      <num>(14A)</num>
+      <text>"Motor vehicle" shall have the same meaning as provided in <cite path="§50-2201.02|(11)">§ 50-2201.02(11)</cite>.</text>
+    </para>
     <para placeholder="Repealed">
       <num>(15)</num>
       <text>Repealed.</text>
@@ -103,7 +256,7 @@
     </para>
     <para>
       <num>(16)</num>
-      <text>“Passenger surcharge” means a fee assessed to passengers for each public vehicle-for-hire ride in an amount not to exceed 50 cents.</text>
+      <text>“Passenger surcharge” means a fee assessed to passengers for each public vehicle-for-hire ride in an amount not less than 50 cents.</text>
     </para>
     <para>
       <num>(16A)</num>
@@ -115,11 +268,11 @@
     </para>
     <para>
       <num>(16C)</num>
-      <text>“Private vehicle-for-hire operator” means an individual who operates a personal motor vehicle to provide private vehicle-for-hire service in contract with a private vehicle-for-hire company.</text>
+      <text>"Private vehicle-for-hire operator" means an individual who utilizes the digital dispatch of a private vehicle-for-hire company to operate a motor vehicle to provide transportation to passengers.</text>
     </para>
     <para>
       <num>(17)</num>
-      <text>“Public vehicle-for-hire” means a class of transportation service by motor vehicle for hire in the District, including a taxicab, limousine, or sedan-class vehicle, that provides for-hire service exclusively using operator[s] and vehicles licensed pursuant to this subchapter and <cite path="§47-2829">§ 47-2829</cite>.</text>
+      <text>“Public vehicle-for-hire” means a class of transportation service by motor vehicle for hire in the District, including a taxicab, limousine, or sedan-class vehicle, that provides for-hire service exclusively using operators and vehicles licensed pursuant to this subchapter and <cite path="§47-2829">§ 47-2829</cite>.</text>
     </para>
     <para>
       <num>(18)</num>
@@ -170,16 +323,20 @@
       <text>“Taxicab service” means passenger transportation service originating in the District in which the passenger directs the points between which the service is to be provided, the service is provided at a time chosen by the passenger, and, when hailed on the street, the fare and fees for which are prescribed by the DFHV.</text>
     </para>
     <para>
+      <num>(29A)</num>
+      <text>"Trade dress" means a unique marketing logo, insignia, or emblem for display on a vehicle that identifies, distinguishes, and is substantially inseparable from the source of a product or service, using a specific style to differentiate from competitors.</text>
+    </para>
+    <para>
       <num>(30)</num>
       <text>“Underserved area” means a designated zone, as determined by the DFHV, with an established need for greater taxicab service.</text>
     </para>
     <para>
       <num>(30A)</num>
-      <text>“Vehicle-for-hire industry” means all public and private vehicles-forhire, including companies, associations, owners, operators, or any person who, by virtue of employment or office, is directly involved in providing public or private vehicle-for-hire services within the District.</text>
+      <text>“Vehicle-for-hire industry” means all public and private vehicles-for-hire, including companies, associations, owners, operators, or any person who, by virtue of employment or office, is directly involved in providing public or private vehicle-for-hire services within the District.</text>
     </para>
     <para>
       <num>(30B)</num>
-      <text>“Vehicle inspection officer” means a District employee trained in the laws, rules, and regulations governing public and private vehicle-for-hire service to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire, pursuant to protocol prescribed under this subchapter and by regulation.</text>
+      <text>“Vehicle inspection officer” means a District employee trained in the laws, rules, and regulations governing public and private vehicle-for-hire and carrier-for-hire service and carrier-for-hire service to ensure the proper provision of service and to support safety through street enforcement efforts, including traffic stops of public and private vehicles-for-hire and carriers-for-hire, pursuant to protocol prescribed under this subchapter and by regulation.</text>
     </para>
     <para>
       <num>(31)</num>
@@ -225,5 +382,44 @@
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(8)" type="History"/>
     <annotation app="2017-04-07" doc="D.C. Law 21-242" eff="2017-04-07" path="§2|(a)" type="History"/>
     <annotation app="2019-02-22" doc="D.C. Law 22-224" eff="2019-02-22" path="§2|(a)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§164" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-584" path="§2|(a)" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-584" path="§2|(a)">§ 2(a) of Department of For Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2022 (D.C. Act 24-584, Oct. 17, 2022, 69 DCR 012718)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-584" eff="2022-10-17" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-227" path="§2|(a)" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-227" path="§2|(a)">§ 2(a) of Department of For Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Temporary Amendment Act of 2022 (D.C. Law 24-227, Dec. 21, 2022, 69 DCR 13987)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-227" eff="2022-12-21" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-195" path="§2|(a)" codified:display="Note" app="2023-07-27" eff="2023-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-195" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2023 (D.C. Act 25-195, July 27, 2023, 70 DCR 10737)</cite>.</annotation>
+    <annotation app="2023-07-27" doc="D.C. Act 25-195" eff="2023-07-27" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-277" path="§2|(a)" codified:display="Note" app="2023-10-25" eff="2023-10-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-277" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-277, Oct. 25, 2023, 70 DCR 14482)</cite>.</annotation>
+    <annotation app="2023-10-25" doc="D.C. Act 25-277" eff="2023-10-25" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-74" path="§2|(a)" codified:display="Note" app="2023-11-28" eff="2023-11-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-74" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Temporary Amendment Act of 2023 (D.C. Law 25-74, Nov. 28, 2023, 70 DCR 13809)</cite>.</annotation>
+    <annotation app="2023-11-28" doc="D.C. Law 25-74" eff="2023-11-28" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-493" path="§2|(a)" codified:display="Note" app="2024-06-26" eff="2024-06-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-493" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2024 (D.C. Act 25-493, June 26, 2024, 71 DCR 7600)</cite>.</annotation>
+    <annotation app="2024-06-26" doc="D.C. Act 25-493" eff="2024-06-26" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6102|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6102|(a)">§ 6102(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6102|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-205" path="§2|(a)" codified:display="Note" app="2024-09-04" eff="2024-09-04">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-205" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Temporary Amendment Act of 2024 (D.C. Law 25-205, Sept. 4, 2024, 71 DCR 9325)</cite>.</annotation>
+    <annotation app="2024-09-04" doc="D.C. Law 25-205" eff="2024-09-04" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6102|(a)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-301" path="§2|(a)" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-301" path="">D.C. Law 25-301</cite>: <cite doc="D.C. Law 25-301" path="§4">§ 4 of D.C. Law 25-301</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-301" path="§2|(a)">§ 2(a) of D.C. Law 25-301</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(5)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(6)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(7)|(A)" type="History"/>
+    <annotation app="2025-03-21" doc="D.C. Law 25-301" eff="2025-03-21" path="§2|(a)|(7)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-62" path="§2|(a)" codified:display="Note" app="2025-04-24" eff="2025-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-62" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Emergency Amendment Act of 2025 (D.C. Act 26-62, Apr. 24, 2025, 72 DCR 5330)</cite>.</annotation>
+    <annotation app="2025-04-24" doc="D.C. Act 26-62" eff="2025-04-24" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2025-07-16" doc="D.C. Law 26-18" eff="2025-07-16" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-18" path="§2|(a)" codified:display="Note" app="2025-07-16" eff="2025-07-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-18" path="§2|(a)">§ 2(a) of Department of For-Hire Vehicles Delivery Vehicle Traffic Enforcement Expansion Temporary Amendment Act of 2025 (D.C. Law 26-18, July 16, 2025, 72 DCR 6114)</cite>.</annotation>
+    <annotation doc="D.C. Act 26-146" path="§7193" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7193 of <cite doc="D.C. Act 26-146" path="§7193">D.C. Act 26-146</cite> repealed Section 4 of <cite doc="D.C. Law 25-301" path="§4">D.C. Law 25-301</cite>, thus removing the applicability limitation. Therefore the amendments made to this section by <cite doc="D.C. Law 25-301" path="§2|(a)">§2(a) of D.C. Law 25-301</cite> have been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7193" type="History" display="false"/>
+    <annotation doc="D.C. Act 26-210" path="§7193" type="Applicability" history="false" app="2025-11-24" eff="2025-11-24">Section 7193 of <cite doc="D.C. Act 26-210" path="§7193">D.C. Act 26-210</cite> repealed Section 4 of <cite doc="D.C. Law 25-301" path="§4">D.C. Law 25-301</cite>, thus removing the applicability limitation. Therefore the amendments made to this section by <cite doc="D.C. Law 25-301" path="§2|(a)">§2(a) of D.C. Law 25-301</cite> have been implemented.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7193" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-212" eff="2025-11-24" path="§2" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-212" eff="2025-11-24" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-212" path="§2" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-212" path="§2">§ 2 of Private Vehicle-for-Hire Operator Clarification Emergency Amendment Act of 2025 (D.C. Act 26-212, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

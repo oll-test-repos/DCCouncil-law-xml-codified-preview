@@ -6,10 +6,10 @@
     <stub/>
     <effective>2015-03-07</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/31721/B20-0802-SignedAct.pdf">D.C. Law 20-172</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/31721/Signed_Act/B20-0802-SignedAct.pdf?Id=104862">D.C. Law 20-172</citation>
       <citation type="register">61 DCR 12577</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B20-0802">
+    <history url="https://lims.dccouncil.gov/Legislation/B20-0802">
       <narrative>Law 20-172, the “Nationwide Mortgage Licensing System Conformity Act of 2014,” was introduced in Council and assigned Bill No. 20-802. The Bill was adopted on first and second readings on Oct. 28, 2014, and Nov. 18, 2014, respectively. Signed by the Mayor on Dec. 8, 2014, it was assigned Act No. 20-498 and transmitted to Congress for its review. D.C. Law 20-172 became effective on Mar. 7, 2015.</narrative>
     </history>
   </meta>
@@ -24,6 +24,11 @@
   <section>
     <num>4</num>
     <codified:stub doc="D.C. Code" path="§26-1161.03"/>
+    <codify:repeal doc="D.C. Code" path="§26-1161.03|(b)" codified:doc="D.C. Code" codified:path="§26-1161.03|(b)"/>
+    <codify:find-replace doc="D.C. Code" path="§26-1161.03|(b)" count="1" codified:doc="D.C. Code" codified:path="§26-1161.03|(b)">
+      <find>Repealed.</find>
+      <replace>[Expired.]</replace>
+    </codify:find-replace>
   </section>
   <section>
     <num>5</num>

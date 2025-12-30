@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-523.01</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-523.01(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 21, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-523.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Mayoral nominees.</heading>
   <para>
@@ -190,7 +190,7 @@
     </para>
     <para>
       <num>(40)</num>
-      <text>Use of Force Review Board, established by <cite path="§5-1151">§ 5-1151</cite>.</text>
+      <text>Use of Force Review Board, established by <cite path="§5-353.01">§ 5-353.01</cite>.</text>
     </para>
   </para>
   <para>
@@ -220,9 +220,9 @@
       <num>(6)</num>
       <text>The Board of Nursing, established by <cite path="§3-1202.04">§ 3-1202.04</cite>;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(7)</num>
-      <text>The Board of Nursing Home Administration, established by <cite path="§3-1202.05">§ 3-1202.05</cite>;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(8)</num>
@@ -364,9 +364,9 @@
       <num>(42)</num>
       <text>The Commission on Asian and Pacific Islander Community Development, established by <cite path="§2-1373">§ 2-1373</cite>;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(43)</num>
-      <text>The Board of Marriage and Family Therapy, established by <cite path="§3-1202.17">§ 3-1202.17</cite>;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(44)</num>
@@ -428,13 +428,13 @@
       <num>(58)</num>
       <text>The Interstate Medical Licensure Compact Commission, established by <cite path="3|12B|I">subchapter I of Chapter 12B of Title 3</cite>;</text>
     </para>
-    <para placeholder="Not Funded">
+    <para placeholder="Repealed">
       <num>(59)</num>
-      <text>Not Funded;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(60)</num>
-      <text>The Maternal [Mortality] Review Committee, established by <cite path="§7-671.02">§ 7-671.02</cite>;</text>
+      <text>The Maternal Mortality Review Committee, established by <cite path="§7-671.02">§ 7-671.02</cite>;</text>
     </para>
     <para>
       <num>(61)</num>
@@ -458,9 +458,9 @@
       <num>(65)</num>
       <text>The Commission on Nightlife and Culture established pursuant to <cite path="§3-664|(a)">§ 3-664(a)</cite>;</text>
     </para>
-    <para placeholder="Not Funded">
+    <para placeholder="Repealed">
       <num>(66)</num>
-      <text>Not Funded;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(67)</num>
@@ -468,15 +468,35 @@
     </para>
     <para>
       <num>(68)</num>
-      <text>The Commission on Fashion Arts and Events, established by <cite path="§3-651">§ 3-651</cite>; and</text>
+      <text>The Commission on Fashion Arts and Events, established by <cite path="§3-651">§ 3-651</cite>; </text>
     </para>
     <para>
       <num>(69)</num>
-      <text>The Perinatal and Infant Health Advisory Committee, established by <cite path="§7-858.05">§ 7-858.05</cite>.</text>
+      <text>The Perinatal and Infant Health Advisory Committee, established by <cite path="§7-858.05">§ 7-858.05</cite>;</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(70)</num>
-      <text>Not Funded.</text>
+      <text>The Commission on Poverty, established by [<cite path="§3-641.02">§ 3-641.02</cite>];</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(71)</num>
+      <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(72)</num>
+      <text>Board of Rehabilitative Therapies established by <cite path="§3-1202.23">§ 3-1202.23</cite>;</text>
+    </para>
+    <para>
+      <num>(73)</num>
+      <text>Board of Acupuncture, Chiropractic, and Naturopathic Physicians established by <cite path="§3-1202.24">§ 3-1202.24</cite>; and</text>
+    </para>
+    <para>
+      <num>(74)</num>
+      <text>The Office of District Waterways Management, established by <cite path="§8-191.01|(a)">§ 8-191.01(a)</cite>; and</text>
+    </para>
+    <para>
+      <num>(75)</num>
+      <text>The Commission on Re-Entry and Returning Citizens Affairs.</text>
     </para>
   </para>
   <para>
@@ -566,48 +586,6 @@
     <annotation type="Temporary Legislation">Section 2 of <cite doc="D.C. Law 16-215">D.C. Law 16-215</cite>, in subsec. (f), in par. (43), struck “and” at the end, in par. (44) substituted “; and” for the period, and added par. (45) to read as follows:</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(b) of Board of Trustees of the University of the District of Columbia Temporary Amendment Act of 1999 (<cite doc="D.C. Law 13-95">D.C. Law 13-95</cite>, April 12, 2000, law notification  47 DCR 2846).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of Confirmation Holdover Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-21">D.C. Law 10-21</cite>, September 30, 1993,  41 DCR 7214).</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> added (e)(32) and made related changes; and repealed (f)(11) and (f)(45).</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment  by <cite doc="D.C. Law 20-192">D.C. Law 20-192</cite> repealed (f)(44); and added the subsection designated  herein as (f)(53).</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> repealed (f)(44); and added the subsection designated herein as (f)(52).</annotation>
-    <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-151">D.C. Law 20-151</cite> added (f)(51) and made related changes.</annotation>
-    <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-122">D.C. Law 20-122</cite> made minor stylistic changes in (e)(29) and (e)(30); and added (e)(31).</annotation>
-    <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-121">D.C. Law 20-121</cite> made minor stylistic changes in (f)(48) and (f)(49); and added (f)(50).</annotation>
-    <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite> repealed (f)(44).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-106">D.C. Law 19-106</cite> added subsec. (f)(49).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-18">D.C. Law 19-18</cite>, in subsec. (f), added par. (48).</annotation>
-    <annotation type="Effect of Amendments">‘(9) The Board of Real Property Assessments and Appeals, established by <cite path="§47-825.01">§ 47-825.01</cite>;‘</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-363">D.C. Law 18-363</cite> repealed subsec. (f)(9), which formerly read:</annotation>
-    <annotation type="Effect of Amendments">‘(12) The District of Columbia Sports Commission Board of Directors, established by <cite path="§3-1404">§ 3-1404</cite>;‘.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> repealed subsec. (e)(12); and, in subsec. (e)(20), substituted ‘Washington Convention and Sports Authority‘ for ‘Washington Convention Center Authority‘. Prior to repeal, subsec. (e)(12) read as follows:</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> , in subsec. (e)(30), substituted ‘Events, established by <cite path="§3-651">§ 3-651</cite>‘ for ‘Events‘, in subsec. (f), deleted ‘; and‘ from the end of par. (45); substituted ‘; and‘ for a period at the end of par. (46), and added par. (47), and validated previously made technical corrections in subsecs. (f)(28), (42), (43), (45).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-197">D.C. Law 17-197</cite>, in subsec. (f), deleted ‘and‘ from the end of par. (44), substituted ‘; and‘ for a period at the end of par. (45), and added par. (46).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-108">D.C. Law 17-108</cite>, in subsec. (a)(2), inserted ‘, or the provisions of <cite path="§1-610.59|(a)">§ 1-610.59(a)</cite>‘.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-148">D.C. Law 17-148</cite>, in subsec. (e), added par. (30).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-262">D.C. Law 16-262</cite>, in subsec. (e), added par. (29).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in pars. (42) and (43) of subsec. (f), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-187">D.C. Law 16-187</cite>, in subsec. (f), deleted ‘and‘ from the end of par. (43), substituted ‘; and‘ for a period at the end of par. (44), and added par. (45).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in par. (e)(5), substituted ‘Police Complaints‘ for ‘Citizen Complaint Review‘; repealed par. (e)(23); and added par. (f)(44).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-219">D.C. Law 15-219</cite>, in subsec. (e), substituted ‘(1)-(28)‘ for ‘(1)-(27)‘ in the lead-in text, deleted ‘and‘ following the semicolon in par. (26), substituted ‘; and‘ for a period in par. (27), and added par. (28).</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “<cite path="§2-360.01">§ 2-360.01</cite>” for “<cite path="§2-309.01">§ 2-309.01</cite>” in (e)(6); and repealed (e)(15), (e)(25), (e)(26), and (e)(28).</annotation>
-    <annotation type="Effect of Amendments">“(8) The District of Columbia Commission on Human Rights, established by Commission on Human Rights Order, issued July 8, 1971 (C.O. 71-224).”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-216">D.C. Law 15-216</cite> rewrote par. (8) of subsec. (e) which had read:</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (a), substituted “<cite path="1|6|X-A">subchapter X-A of Chapter 6 of this title</cite>” for “<cite path="§1-610.51">§ 1-610.51</cite>”; in par. (14) of subsec. (f), substituted “<cite path="§34-1253.02">§ 34-1253.02</cite>” for “<cite path="§34-1229">§ 34-1229</cite>”; and, in pars. (40), (41), and (42) of subsec. (f), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-88">D.C. Law 15-88</cite>, in subsec. (f), made nonsubstantive changes in pars. (41) and (42), and added par. (43).</annotation>
-    <annotation type="Effect of Amendments">Section 1148 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite>, in subsec. (f), made nonsubstantive changes in pars. (39) and (40), and added par. (41).</annotation>
-    <annotation type="Effect of Amendments">Section 308 of <cite doc="D.C. Law 14-28">D.C. Law 14-28</cite>, in subsec. (f), substituted “(42)” for “(41)” in the introductory paragraph, made nonsubstantive changes to pars. (40) and (41), and added par. (42).</annotation>
-    <annotation type="Effect of Amendments">“(3) The Board of Appeals and Review, established by Mayor’s Order 96-27, issued March 5, 1996 ( 43 DCR 1367);”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (e), substituted “in this subsection” for “in paragraphs (1)-(27) of this subsection”; in subsec. (f), substituted “in this subsection” for “in paragraphs (1)-(42) of this subsection”, and repealed par. (3) which had read:</annotation>
-    <annotation type="Effect of Amendments">“(9) The Health and Hospitals Public Benefit Corporation Board of Directors, established by <cite path="§44-1102.03">§ 44-1102.03</cite>;”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-18">D.C. Law 14-18</cite> repealed par. (9) of subsec. (e) which had read:</annotation>
-    <annotation type="Effect of Amendments">“(16) The Sex Offender Registration Advisory Council, established by <cite path="§22-4103">§ 22-4103</cite>;”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-313">D.C. Law 13-313</cite> repealed par. (16) of subsec. (f) which had read:</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-105">D.C. Law 13-105</cite>, in subsec. (e), in the first sentence of the introductory paragraph, substituted “paragraphs (1)-(27)” for “paragraphs (1)-(26)”, in par. (25), deleted “and” from the end, in par. (26), added “and”, and added par. (27).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite>, in subsec. (a), substituted “<cite path="§1-611.51">§ 1-611.51</cite>” for “<cite path="§1-611.1" proof="true">§ 1-611.1</cite>”; and in subsec. (f), in par. (15), substituted “The Board of Real Estate, established by <cite path="§47-2853.6|(h)" proof="true">§ 47-2853.6(h)</cite>” for “The Real Estate Commission of the District of Columbia, established by <cite path="§45-1923" proof="true">§ 45-1923</cite>”, in par. (29), substituted “The Board of Barber and Cosmetology, established by <cite path="§47-2853.6|(c)" proof="true">§ 47-2853.6(c)</cite>” for “The Barber and Cosmetology Board, established by <cite path="§2-422">§ 2-422</cite>”, in par. (30), substituted “The Board of Real Estate Appraisers, established by <cite path="§47-2853.6|(g)" proof="true">§ 47-2853.6(g)</cite>” for “The Board of Appraisers, established by <cite path="§45-3202" proof="true">§ 45-3202</cite>”, in par. (32), substituted “The Board of Funeral Directors, established by <cite path="§47-2853.6|(f)" proof="true">§ 47-2853.6(f)</cite>” for “The Board of Funeral Directors, established by <cite path="§2-2803" proof="true">§ 2-2803</cite>”, in par. (35), inserted “for the District of Columbia”, and added pars. (37) to (40).</annotation>
-    <annotation type="Effect of Amendments">“(34) The Board of Social Work, established by <cite path="§2-3302.12" proof="true">§ 2-3302.12</cite>; and”.</annotation>
-    <annotation type="Effect of Amendments">“(33) The Board of Respiratory Care, established by <cite path="§2-3302.14" proof="true">§ 2-3302.14</cite>;</annotation>
-    <annotation type="Effect of Amendments">“(31) The Board of Chiropractic, established by <cite path="§2-3302.16" proof="true">§ 2-3302.16</cite>;”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-49">D.C. Law 13-49</cite>, in par. (20) of subsec. (e), substituted “<cite path="§9-806">§ 9-806</cite>” for <cite path="§9-803">§ 9-803</cite>“; in par. (3) of subsec. (f), substituted ”Mayor’s Order 96-27, issued March 5, 1996 ( 43 DCR 1367)“ for ”Mayor’s Order 94-115, issued May 9, 1994 ( 41 DCR 2864)“; validated previously made technical amendments; and repealed pars. (31), (33), and (34) of subsec. (f), which previously read:</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-38">D.C. Law 13-38</cite>, in subsec. (e), in the first sentence of the introductory paragraph, substituted “paragraphs (1)-(26)” for “paragraphs (1)-(24)”, and added pars. (25) and (26).</annotation>
     <annotation type="Prior Codifications">Section 4(c) of <cite doc="D.C. Law 20-108">D.C. Law 20-108</cite> was repealed by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7005.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-362.7.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-633.7.</annotation>
@@ -710,21 +688,16 @@
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§3|(f)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-250" path="§3" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-250" path="">D.C. Law 22-250</cite>: <cite doc="D.C. Law 22-250" path="§10">§ 10 of D.C. Law 22-250</cite> provided that the change made to this section by <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§3" type="History"/>
-    <annotation doc="D.C. Law 22-250" path="§10|(a)" type="Applicability" history="false" display-template="" app="2019-03-13" eff="2019-03-13">
-                Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Law 23-149" path="§1104">§ 1104 of D.C. Law 23-149</cite>, repealed the requirement that <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> would be subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the amendment made by <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> has been implemented.
-              </annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)" type="History" display="false"/>
     <annotation doc="D.C. Law 22-250" path="§10" type="Applicability" history="false" display-template="" app="2019-03-13" eff="2019-03-13">
             Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Law 23-16" path="§1043|(a)">§ 1043(a) of D.C. Law 23-16</cite>, provided that the change made to this section by <cite doc="D.C. Law 22-250" path="§3">§ 3 of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
             </annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10" type="History" display="false"/>
-    <annotation app="2019-03-28" doc="D.C. Law 22-271" eff="2019-03-28" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-271" eff="2019-03-28" path="§3|(a)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-271" eff="2019-03-28" path="§3|(b)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-271" eff="2019-03-28" path="§3|(c)" type="History"/>
+    <annotation app="2019-03-28" doc="D.C. Law 22-271" eff="2019-03-28" path="§3|(a)" type="History"/>
+    <annotation app="2019-03-28" doc="D.C. Law 22-271" eff="2019-03-28" path="§3|(b)" type="History"/>
+    <annotation app="2019-03-28" doc="D.C. Law 22-271" eff="2019-03-28" path="§3|(c)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-271" path="§3" codified:display="Note" app="2019-03-28" eff="2019-03-28">Applicability of <cite doc="D.C. Law 22-271" path="">D.C. Law 22-271</cite>: <cite doc="D.C. Law 22-271" path="§4">§ 4 of D.C. Law 22-271</cite> provided that the change made to this section by <cite doc="D.C. Law 22-271" path="§3">§ 3 of D.C. Law 22-271</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-28" doc="D.C. Law 22-271" eff="2019-03-28" path="§3" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="§8|(a)|(1)" type="History"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="§8|(a)|(2)" type="History"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="§8|(a)|(3)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-303" path="§8|(a)" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-303" path="">D.C. Law 22-303</cite>: <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite> provided that the change made to this section by <cite doc="D.C. Law 22-303" path="§8|(a)">§ 8(a) of D.C. Law 22-303</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
@@ -756,8 +729,14 @@
           Applicability of <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite>: <cite doc="D.C. Law 23-16" path="§7176">§ 7176 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite>. Therefore the amendment of this section by <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite> has been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7176" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-247" path="§502" codified:display="Note" app="2020-03-17" eff="2020-03-17">For temporary (90 days) for a waiver of any requirement for a board, commission, or other public body to meet during a public health emergency, see <cite doc="D.C. Act 23-247" path="§502">§ 502 of COVID-19 Response Emergency Amendment Act of 2020 (D.C. Act 23-247, Mar. 17, 2020, 67 DCR 3093)</cite>.</annotation>
+    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§502" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§813" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) for a waiver of any requirement for a board, commission, or other public body to meet during a public health emergency, see <cite doc="D.C. Act 23-326" path="§813">§ 813 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§813" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§904|(a)" codified:display="Note" app="2020-05-27" eff="2020-05-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-326" path="§904|(a)">§ 904(a) of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
     <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§904|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§813" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) for a waiver of any requirement for a board, commission, or other public body to meet during a public health emergency, see <cite doc="D.C. Act 23-328" path="§813">§ 813 of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§813" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§904|(a)" codified:display="Note" app="2020-06-08" eff="2020-06-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-328" path="§904|(a)">§ 904(a) of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
     <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§904|(a)" type="History" display="false"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-118" eff="2020-06-24" path="§3|(a)" type="History"/>
@@ -778,23 +757,110 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§107" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 23-184" path="§201" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the change made to this section by <cite doc="D.C. Law 23-184" path="§201">§ 201 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§201" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(a)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(b)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(c)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(b)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§201|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§813" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) for a waiver of any requirement for a board, commission, or other public body to meet during a public health emergency, see <cite doc="D.C. Act 24-30" path="§813">§ 813 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§813" type="History" display="false"/>
     <annotation doc="D.C. Act 24-77" path="§2" type="Applicability" history="false" app="2021-04-06" eff="2021-04-06"><cite doc="D.C. Act 24-77" path="§2"> Section 2 of D.C. Act 24-77</cite> provided that subsection (a)(1) of this section shall not apply to the compensation of a person serving in an interim capacity as the State Superintendent of Education from April 6, 2021 through December 31, 2021.
     </annotation>
     <annotation app="2021-04-06" doc="D.C. Act 24-77" eff="2021-04-06" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§813" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) for a waiver of any requirement for a board, commission, or other public body to meet during a public health emergency, see <cite doc="D.C. Act 24-96" path="§813">§ 813 of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§813" type="History" display="false"/>
     <annotation doc="D.C. Act 24-102" path="§2" type="Applicability" history="false" app="2021-06-17" eff="2021-06-17"><cite doc="D.C. Act 24-102" path="§2"> Section 2 of D.C. Act 24-102</cite> provided that subsection (a)(1) of this section shall not apply to the compensation of a person serving in an interim capacity as the State Superintendent of Education from April 6, 2021 through December 31, 2021.
     </annotation>
     <annotation app="2021-06-17" doc="D.C. Act 24-102" eff="2021-06-17" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§813" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) for a waiver of any requirement for a board, commission, or other public body to meet during a public health emergency, see <cite doc="D.C. Law 24-9" path="§813">§ 813 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§813" type="History" display="false"/>
     <annotation doc="D.C. Law 24-15" path="§2" type="Applicability" history="false" app="2021-07-28" eff="2021-07-28"><cite doc="D.C. Law 24-15" path="§2"> Section 2 of D.C. Law 24-15</cite> provided that subsection (a)(1) of this section shall not apply to the compensation of a person serving in an interim capacity as the State Superintendent of Education from April 6, 2021 through December 31, 2021.
     </annotation>
     <annotation app="2021-07-28" doc="D.C. Law 24-15" eff="2021-07-28" path="§2" type="History" display="false"/>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107" type="History" display="false"/>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(a)" type="History"/>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(b)" type="History"/>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§107" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-128" path="§107">§ 107 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107" type="History" display="false"/>
+    <annotation doc="D.C. Act 24-159" path="§7183" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7183">Section 7183 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 22-250" path="§10|(a)">section 10(a) of D.C. Law 22-250</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 22-250 has been implemented.
+            </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7183" type="History" display="false"/>
+    <annotation doc="D.C. Act 24-159" path="§7192" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7192">Section 7192 of D.C. Act 24-159</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-184 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7192" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§107" codified:display="Note" app="2021-09-03" eff="2021-09-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-23" path="§107">§ 107 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
+    <annotation app="2021-09-03" doc="D.C. Law 24-23" eff="2021-09-03" path="§107" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7164" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7170" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7183" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-45" path="§7183" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7183">Section 7183 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 22-250" path="§10|(a)">section 10(a) of D.C. Law 22-250</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 22-250 has been implemented.
+            </annotation>
+    <annotation doc="D.C. Law 24-45" path="§7192" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7192">Section 7192 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 23-184" path="§301">section 301 of D.C. Law 23-184</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 23-184 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7192" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§107" codified:display="Note" app="2022-04-07" eff="2022-04-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-370" path="§107">§ 107 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 69 DCR 3370)</cite>.</annotation>
+    <annotation app="2022-04-07" doc="D.C. Act 24-370" eff="2022-04-07" path="§107" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§107" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-454" path="§107">§ 107 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§107" type="History" display="false"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§161|(a)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§154|(d)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§107|(b)|(1)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§107|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§5044" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§5044">§ 5044 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§5044" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§107" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§107">§ 107 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§107" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5044|(a)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5044|(b)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§5044|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-558" path="§3" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-558" path="§3">§ 3 of Perinatal Mental Health Task Force Emergency Amendment Act of 2022 (D.C. Act 24-558, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-558" eff="2022-10-17" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-222" path="§3" codified:display="Note" app="2022-12-21" eff="2022-12-21">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-222" path="§3">§ 3 of Perinatal Mental Health Task Force Temporary Amendment Act of 2022 (D.C. Law 24-222, Dec. 21, 2022, 69 DCR 13971)</cite>.</annotation>
+    <annotation app="2022-12-21" doc="D.C. Law 24-222" eff="2022-12-21" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-702" path="§3" codified:display="Note" app="2022-12-22" eff="2022-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-702" path="§3">§ 3 of District of Columba Housing Authority Stabilization and Reform Emergency Amendment Act of 2022 (D.C. Act 24-702, Dec. 22, 2022, 70 DCR 164)</cite>.</annotation>
+    <annotation app="2022-12-22" doc="D.C. Act 24-702" eff="2022-12-22" path="§3" type="History" display="false"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-302" eff="2023-03-10" path="§4" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-329" path="§3" codified:display="Note" app="2023-03-10" eff="2023-03-10">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-329" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2022 (D.C. Law 24-329, Mar. 10, 2023, 70 DCR 1029)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-329" eff="2023-03-10" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-65" path="§3" codified:display="Note" app="2023-03-27" eff="2023-03-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-65" path="§3">§ 3 of Use of Force Review Board Emergency Act of 2023 (D.C. Act 25-65, Mar. 27, 2023, 70 DCR 3842)</cite>.</annotation>
+    <annotation app="2023-03-27" doc="D.C. Act 25-65" eff="2023-03-27" path="§3" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§107|(a)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§107|(b)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§107|(c)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§3" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-348" path="§3" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-348" path="">D.C. Law 24-348</cite>: <cite doc="D.C. Law 24-348" path="§10">§ 10 of D.C. Law 24-348</cite> provided that the change made to this section by <cite doc="D.C. Law 24-348" path="§3">§ 3 of D.C. Law 24-348</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§3" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-16" path="§3" codified:display="Note" app="2023-06-14" eff="2023-06-14">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-16" path="§3">§ 3 of Use of Force Review Board Temporary Act of 2023 (D.C. Law 25-16, June 14, 2023, 70 DCR 6333)</cite>.</annotation>
+    <annotation app="2023-06-14" doc="D.C. Law 25-16" eff="2023-06-14" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-232" path="§3" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-232" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2023 (D.C. Act 25-232, Oct. 11, 2023, 70 DCR 13776)</cite>.</annotation>
+    <annotation app="2023-10-11" doc="D.C. Act 25-232" eff="2023-10-11" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-92" path="§3" codified:display="Note" app="2023-12-19" eff="2023-12-19">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-92" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2023 (D.C. Law 25-92, Dec. 19, 2023, 70 DCR 14439)</cite>.</annotation>
+    <annotation app="2023-12-19" doc="D.C. Law 25-92" eff="2023-12-19" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-345" path="§3" codified:display="Note" app="2024-01-04" eff="2024-01-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-345" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-345, Jan. 4, 2024, 71 DCR 650)</cite>.</annotation>
+    <annotation app="2024-01-04" doc="D.C. Act 25-345" eff="2024-01-04" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-370" path="§2" codified:display="Note" app="2024-01-12" eff="2024-01-12">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-370" path="§2">§ 2 of Historic Preservation Review Board Succession Emergency Amendment Act of 2024 (D.C. Act 25-370, Jan. 12, 2024, 71 DCR 1021)</cite>.</annotation>
+    <annotation app="2024-01-12" doc="D.C. Act 25-370" eff="2024-01-12" path="§2" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§201|(a)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§201|(b)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§201|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-545" path="§3" codified:display="Note" app="2024-07-26" eff="2024-07-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-545" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2024 (D.C. Act 25-545, July 26, 2024, 71 DCR 9975)</cite>.</annotation>
+    <annotation app="2024-07-26" doc="D.C. Act 25-545" eff="2024-07-26" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-584" path="§3" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-584" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-584, Oct. 18, 2024, 71 DCR 12843)</cite>.</annotation>
+    <annotation app="2024-10-18" doc="D.C. Act 25-584" eff="2024-10-18" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-585" path="§3" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-585" path="§3">§ 3 of Office of District Waterways Management Establishment Emergency Amendment Act of 2024 (D.C. Act 25-585, Oct. 18, 2024, 71 DCR 12850)</cite>.</annotation>
+    <annotation app="2024-10-18" doc="D.C. Act 25-585" eff="2024-10-18" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-229" path="§3" codified:display="Note" app="2024-11-27" eff="2024-11-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-229" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2024 (D.C. Law 25-229, Nov. 27, 2024, 71 DCR 12358)</cite>.</annotation>
+    <annotation app="2024-11-27" doc="D.C. Law 25-229" eff="2024-11-27" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-675" path="§3" codified:display="Note" app="2024-12-24" eff="2024-12-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-675" path="§3">§ 3 of Office of District Waterways Management Establishment Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-675, Dec. 24, 2024, 72 DCR 16)</cite>.</annotation>
+    <annotation app="2024-12-24" doc="D.C. Act 25-675" eff="2024-12-24" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-283" path="§3" codified:display="Note" app="2025-03-07" eff="2025-03-07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-283" path="§3">§ 3 of Office of District Waterways Management Establishment Temporary Amendment Act of 2024 (D.C. Law 25-283, Mar. 7, 2025, 71 DCR 14105)</cite>.</annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-283" eff="2025-03-07" path="§3" type="History" display="false"/>
+    <annotation app="2025-05-02" doc="D.C. Law 25-324" eff="2025-05-02" path="§402|(c)" type="History"/>
+    <annotation app="2025-06-10" doc="D.C. Law 26-7" eff="2025-06-10" path="§3|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-89" path="§3" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-89" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2025 (D.C. Act 26-89, June 25, 2025, 72 DCR 7544)</cite>.</annotation>
+    <annotation app="2025-06-25" doc="D.C. Act 26-89" eff="2025-06-25" path="§3" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-32" path="§3" codified:display="Note" app="2025-08-23" eff="2025-08-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-32" path="§3">§ 3 of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2025 (D.C. Law 26-32, Aug. 23, 2025, 72 DCR 7676)</cite>.</annotation>
+    <annotation app="2025-08-23" doc="D.C. Law 26-32" eff="2025-08-23" path="§3" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-173" eff="2025-10-23" path="§3" type="History" display="false"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-173" eff="2025-10-23" path="§3|(a)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-173" eff="2025-10-23" path="§3|(b)" type="History"/>
+    <annotation app="2025-10-23" doc="D.C. Act 26-173" eff="2025-10-23" path="§3|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-173" path="§3" codified:display="Note" app="2025-10-23" eff="2025-10-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-173" path="§3">§ 3 of Office of District Waterways Management Establishment Emergency Amendment Act of 2025 (D.C. Act 26-173, Oct. 23, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

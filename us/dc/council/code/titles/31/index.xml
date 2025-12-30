@@ -16,11 +16,15 @@
       <xi:include href="./sections/31-102.xml"/>
       <xi:include href="./sections/31-103.xml"/>
       <xi:include href="./sections/31-104.xml"/>
-      <xi:include href="./sections/31-104.01.xml"/>
       <xi:include href="./sections/31-105.xml"/>
       <xi:include href="./sections/31-106.xml"/>
       <xi:include href="./sections/31-106.01.xml"/>
       <xi:include href="./sections/31-106.02.xml"/>
+      <xi:include href="./sections/31-106.02a.xml"/>
+      <xi:include href="./sections/31-106.02b.xml"/>
+      <xi:include href="./sections/31-106.02c.xml"/>
+      <xi:include href="./sections/31-106.02d.xml"/>
+      <xi:include href="./sections/31-106.02e.xml"/>
       <xi:include href="./sections/31-106.03.xml"/>
       <xi:include href="./sections/31-107.xml"/>
       <xi:include href="./sections/31-108.xml"/>
@@ -76,6 +80,20 @@
     <xi:include href="./sections/31-312.xml"/>
     <xi:include href="./sections/31-313.xml"/>
     <xi:include href="./sections/31-314.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3A</num>
+    <heading>Insurer Corporate Governance Annual Report.</heading>
+    <annotation app="2021-09-22" doc="D.C. Law 24-26" eff="2021-09-22" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-331.xml"/>
+    <xi:include href="./sections/31-332.xml"/>
+    <xi:include href="./sections/31-333.xml"/>
+    <xi:include href="./sections/31-334.xml"/>
+    <xi:include href="./sections/31-335.xml"/>
+    <xi:include href="./sections/31-336.xml"/>
+    <xi:include href="./sections/31-337.xml"/>
+    <xi:include href="./sections/31-338.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -620,13 +638,6 @@
     <xi:include href="./sections/31-2306.xml"/>
     <xi:include href="./sections/31-2307.xml"/>
   </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>23A</num>
-    <heading>Tolling of Deadlines Under Commercial Insurance Policies During the Period of a Public Health Emergency.</heading>
-    <annotation app="2021-07-29" doc="D.C. Law 24-19" eff="2021-07-29" path="" type="History" display="false"/>
-    <xi:include href="./sections/31-2321.xml"/>
-  </container>
   <subheading>Subtitle II-A. Service Contract Regulation.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -810,6 +821,7 @@
     <xi:include href="./sections/31-2701.xml"/>
     <xi:include href="./sections/31-2702.xml"/>
     <xi:include href="./sections/31-2703.xml"/>
+    <xi:include href="./sections/31-2703.01.xml"/>
     <xi:include href="./sections/31-2704.xml"/>
     <xi:include href="./sections/31-2705.xml"/>
     <xi:include href="./sections/31-2706.xml"/>
@@ -1073,6 +1085,7 @@
       <xi:include href="./sections/31-3303.13b.xml"/>
       <xi:include href="./sections/31-3303.13c.xml"/>
       <xi:include href="./sections/31-3303.13d.xml"/>
+      <xi:include href="./sections/31-3303.13e.xml"/>
       <xi:include href="./sections/31-3303.14.xml"/>
     </container>
   </container>
@@ -1279,8 +1292,11 @@
     <xi:include href="./sections/31-3834.01.xml"/>
     <xi:include href="./sections/31-3834.02.xml"/>
     <xi:include href="./sections/31-3834.03.xml"/>
+    <xi:include href="./sections/31-3834.03a.xml"/>
     <xi:include href="./sections/31-3834.04.xml"/>
     <xi:include href="./sections/31-3834.05.xml"/>
+    <xi:include href="./sections/31-3834.06.xml"/>
+    <xi:include href="./sections/31-3834.07.xml"/>
     <xi:include href="./sections/31-3835.xml"/>
     <xi:include href="./sections/31-3836.xml"/>
     <xi:include href="./sections/31-3837.xml"/>
@@ -1306,6 +1322,29 @@
     <xi:include href="./sections/31-3866.xml"/>
     <xi:include href="./sections/31-3867.xml"/>
     <xi:include href="./sections/31-3868.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>38E</num>
+    <heading>Medically Necessary Foods Coverage.</heading>
+    <annotation app="2022-09-21" doc="D.C. Law 24-168" eff="2022-09-21" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-3871.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>38F</num>
+    <heading>Prior Authorization by a Utilization Review Entity.</heading>
+    <annotation app="2024-01-17" doc="D.C. Law 25-100" eff="2024-01-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-3875.01.xml"/>
+    <xi:include href="./sections/31-3875.02.xml"/>
+    <xi:include href="./sections/31-3875.03.xml"/>
+    <xi:include href="./sections/31-3875.04.xml"/>
+    <xi:include href="./sections/31-3875.05.xml"/>
+    <xi:include href="./sections/31-3875.06.xml"/>
+    <xi:include href="./sections/31-3875.07.xml"/>
+    <xi:include href="./sections/31-3875.08.xml"/>
+    <xi:include href="./sections/31-3875.09.xml"/>
+    <xi:include href="./sections/31-3875.10.xml"/>
   </container>
   <subheading>Subtitle V. Liability and Related Insurance.</subheading>
   <container>
@@ -1582,6 +1621,7 @@
     <xi:include href="./sections/31-4728.xml"/>
     <xi:include href="./sections/31-4729.xml"/>
     <xi:include href="./sections/31-4730.xml"/>
+    <xi:include href="./sections/31-4731.xml"/>
   </container>
   <subheading>Subdivision B. General.</subheading>
   <container>
@@ -1782,6 +1822,7 @@
     <xi:include href="./sections/31-5414.xml"/>
     <xi:include href="./sections/31-5415.xml"/>
     <xi:include href="./sections/31-5416.xml"/>
+    <xi:include href="./sections/31-5417.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

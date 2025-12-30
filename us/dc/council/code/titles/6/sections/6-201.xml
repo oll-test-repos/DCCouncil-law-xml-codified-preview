@@ -59,6 +59,10 @@
     <num>(7A)</num>
     <text>“Capper/Carrollsburg Public Improvements” means the infrastructure, including streets, sidewalks, walkways, streetscapes, curbs, gutters, and gas, electric, and water utility lines, and other publicly-owned infrastructure, and the relocation, construction, and redevelopment of certain public facilities located within or serving the Capper/Carrollsburg PILOT Area designated pursuant to <cite path="§47-4611">§ 47-4611</cite>.</text>
   </para>
+  <para placeholder="Repealed">
+    <num>(7B)</num>
+    <text>Repealed.</text>
+  </para>
   <para>
     <num>(8)</num>
     <text>“Central labor council” means the regional umbrella federation of all local AFL-CIO unions, including most of the private, federal, and public sector unions in the District of Columbia.</text>
@@ -75,9 +79,13 @@
     <num>(11)</num>
     <text>“Council” means the Council of the District of Columbia.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(12)</num>
-    <text>“Commissioner” means a member of the Board.</text>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(12A)</num>
+    <text>"Criminal background information" means information about criminal arrests, criminal convictions, or pending criminal matters.</text>
   </para>
   <para>
     <num>(13)</num>
@@ -241,7 +249,7 @@
   </para>
   <para>
     <num>(37)</num>
-    <text>“Personnel Act” means Chapter 6 of Title 1 of the D.C. Official Code.</text>
+    <text>“Personnel Act” means <cite path="1|6">Chapter 6 of Title 1 of the D.C. Official Code</cite>.</text>
   </para>
   <para>
     <num>(38)</num>
@@ -249,7 +257,7 @@
   </para>
   <para>
     <num>(39)</num>
-    <text>“Procurement Act” means Chapter 3 of Title 2 of the D.C. Official Code.</text>
+    <text>“Procurement Act” means <cite path="2|3|A">Unit A of Chapter 3 of Title 2 of the D.C. Official Code</cite>.</text>
   </para>
   <para>
     <num>(39A)</num>
@@ -282,6 +290,10 @@
   <para>
     <num>(43B)</num>
     <text>“Supportive housing” means housing provided in connection with voluntary services designed primarily to help tenants maintain housing, including coordination or case management, physical and mental health, substance use management and recovery support, job training, literacy and education, youth and children’s programs, and money management.</text>
+  </para>
+  <para>
+    <num>(43C)</num>
+    <text>"Tenant-based voucher assistance" means housing subsidy payments provided for households with extremely low incomes or histories of homelessness to pay all or a portion of the household's rent in privately owned housing units in the District.</text>
   </para>
   <para>
     <num>(44)</num>
@@ -320,5 +332,40 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> substituted “residents with disabilities” for “disabled residents”, throughout the section.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> added pars. (3A), (19A), (23A), (36A), (39A), (42A), (43A), and (43B).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-337">D.C. Law 15-337</cite> added par. (19A).</annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(a)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§2042|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-702" path="§2|(a)" codified:display="Note" app="2022-12-22" eff="2022-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-702" path="§2|(a)">§ 2(a) of District of Columba Housing Authority Stabilization and Reform Emergency Amendment Act of 2022 (D.C. Act 24-702, Dec. 22, 2022, 70 DCR 164)</cite>.</annotation>
+    <annotation app="2022-12-22" doc="D.C. Act 24-702" eff="2022-12-22" path="§2|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Act 24-702" path="§4" type="Applicability" history="false" app="2022-12-22" eff="2022-12-22"><cite doc="D.C. Act 24-702" path="§4">Section 4 of D.C. Act 24-702</cite> provided that the amendments made to this section by D.C. Law 24-702 shall apply on the date that the Stabilization and Reform Board assumes authority for the governance of the Authority, as provided in <cite path="§6-210.01|(i)">§ 6-210.01|(i)</cite>.
+    </annotation>
+    <annotation app="2022-12-22" doc="D.C. Act 24-702" eff="2022-12-22" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-329" path="§2|(a)" codified:display="Note" app="2023-03-10" eff="2023-03-10">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-329" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2022 (D.C. Law 24-329, Mar. 10, 2023, 70 DCR 1029)</cite>.</annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-329" eff="2023-03-10" path="§2|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-329" path="§4" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-329" path="§4">Section 4 of D.C. Law 24-329</cite> provided that the amendments made to this section by D.C. Law 24-329 shall apply on the date that the Stabilization and Reform Board assumes authority for the governance of the Authority, as provided in <cite path="§6-210.01|(i)">§ 6-210.01(i)</cite>.
+    </annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-329" eff="2023-03-10" path="§4" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-232" path="§2|(a)" codified:display="Note" app="2023-10-11" eff="2023-10-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-232" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2023 (D.C. Act 25-232, Oct. 11, 2023, 70 DCR 13776)</cite>.</annotation>
+    <annotation app="2023-10-11" doc="D.C. Act 25-232" eff="2023-10-11" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-92" path="§2|(a)" codified:display="Note" app="2023-12-19" eff="2023-12-19">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-92" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2023 (D.C. Law 25-92, Dec. 19, 2023, 70 DCR 14439)</cite>.</annotation>
+    <annotation app="2023-12-19" doc="D.C. Law 25-92" eff="2023-12-19" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-345" path="§2|(a)" codified:display="Note" app="2024-01-04" eff="2024-01-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-345" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-345, Jan. 4, 2024, 71 DCR 650)</cite>.</annotation>
+    <annotation app="2024-01-04" doc="D.C. Act 25-345" eff="2024-01-04" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§2022|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§2022|(a)">§ 2022(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§2022|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-545" path="§2|(a)" codified:display="Note" app="2024-07-26" eff="2024-07-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-545" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2024 (D.C. Act 25-545, July 26, 2024, 71 DCR 9975)</cite>.</annotation>
+    <annotation app="2024-07-26" doc="D.C. Act 25-545" eff="2024-07-26" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§2022|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-584" path="§2|(a)" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-584" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Congressional Review Emergency Amendment Act of 2024 (D.C. Act 25-584, Oct. 18, 2024, 71 DCR 12843)</cite>.</annotation>
+    <annotation app="2024-10-18" doc="D.C. Act 25-584" eff="2024-10-18" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2024-11-27" doc="D.C. Law 25-229" eff="2024-11-27" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-229" path="§2|(a)" codified:display="Note" app="2024-11-27" eff="2024-11-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-229" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2024 (D.C. Law 25-229, Nov. 27, 2024, 71 DCR 12358)</cite>.</annotation>
+    <annotation app="2024-11-27" doc="D.C. Law 25-229" eff="2024-11-27" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-261" eff="2025-03-07" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-89" path="§2|(a)" codified:display="Note" app="2025-06-25" eff="2025-06-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-89" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Emergency Amendment Act of 2025 (D.C. Act 26-89, June 25, 2025, 72 DCR 7544)</cite>.</annotation>
+    <annotation app="2025-06-25" doc="D.C. Act 26-89" eff="2025-06-25" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-32" path="§2|(a)" codified:display="Note" app="2025-08-23" eff="2025-08-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 26-32" path="§2|(a)">§ 2(a) of District of Columbia Housing Authority Stabilization and Reform Temporary Amendment Act of 2025 (D.C. Law 26-32, Aug. 23, 2025, 72 DCR 7676)</cite>.</annotation>
+    <annotation app="2025-08-23" doc="D.C. Law 26-32" eff="2025-08-23" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-145" path="§2|(a)" codified:display="Note" app="2025-09-04" eff="2025-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-145" path="§2|(a)">§ 2(a) of Housing Authority Resident Empowerment Emergency Amendment Act of 2025 (D.C. Act 26-145, Sept. 4, 2025, 72 DCR 9614)</cite>.</annotation>
+    <annotation app="2025-09-04" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(a)" type="History" display="false"/>
   </annotations>
 </section>

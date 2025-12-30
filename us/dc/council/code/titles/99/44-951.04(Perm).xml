@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <prefix>§</prefix>
   <num>44-951.04(Perm)</num>
   <heading>Board of Directors.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§44-951.04">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
       <para>
         <num>(A)</num>
-        <text>The Corporation shall be governed by a Board of Directors, which shall consist of 13 members, 11 of whom shall be voting members and 2 of whom shall be non-voting members.</text>
+        <text> The Corporation shall be governed by a Board of Directors, which shall consist of 13 members, 11 of whom shall be voting members and 2 of whom shall be non-voting members.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -21,7 +23,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>The Chief Executive Officer of the Corporation and the Chief Medical Officer of the Corporation shall serve as non-voting ex officio members.</text>
+        <text> The Chief Executive Officer of the Corporation and the Chief Medical Officer of the Corporation shall serve as non-voting ex officio members.</text>
       </para>
     </para>
     <para>
@@ -74,11 +76,11 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>The Mayor shall submit the names of the Mayor's nominees to the Council within 10 days of July 7, 2010, for a 45-day period of review. If the Council does not approve or disapprove the nomination, by resolution, within the 45-day review period, the nomination shall be deemed approved.</text>
+    <text>The Mayor shall submit the names of the Mayor’s nominees to the Council within 10 days of July 7, 2010, for a 45-day period of review. If the Council does not approve or disapprove the nomination, by resolution, within the 45-day review period, the nomination shall be deemed approved.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>No fewer than 90 days before the expiration of a member's term, the Mayor shall submit to the Council the name of a nominee to fill the vacancy. When a vacancy occurs for any reason other than expiration of a term, the Mayor shall submit the name of a nominee to the Council within 45 days after the vacancy occurs for a 45-day period of review. If the Council does not approve or disapprove the nomination, by resolution, within the 45-day review period, the nomination shall be deemed approved. A member appointed to fill a vacancy for an unexpired term shall serve only for the unexpired portion of the term, unless the member is reappointed for a new term.</text>
+    <text>No fewer than 90 days before the expiration of a member’s term, the Mayor shall submit to the Council the name of a nominee to fill the vacancy. When a vacancy occurs for any reason other than expiration of a term, the Mayor shall submit the name of a nominee to the Council within 45 days after the vacancy occurs for a 45-day period of review. If the Council does not approve or disapprove the nomination, by resolution, within the 45-day review period, the nomination shall be deemed approved. A member appointed to fill a vacancy for an unexpired term shall serve only for the unexpired portion of the term, unless the member is reappointed for a new term.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -98,7 +100,7 @@
   </para>
   <para>
     <num>(i)</num>
-    <text>The Mayor shall remove any Board member for misconduct or neglect of duty, as defined in the Corporation's bylaws, or for other good cause, after notice to the Board member and the Board.</text>
+    <text>The Mayor shall remove any Board member for misconduct or neglect of duty, as defined in the Corporation’s bylaws, or for other good cause, after notice to the Board member and the Board.</text>
   </para>
   <para>
     <num>(j)</num>
@@ -106,7 +108,7 @@
   </para>
   <para>
     <num>(k)</num>
-    <text>The Board shall maintain regular contact with the Director of the Department of Health, or successor agency, and shall meet with the Director upon the Director's request.</text>
+    <text>The Board shall maintain regular contact with the Director of the Department of Health, or successor agency, and shall meet with the Director upon the Director’s request.</text>
   </para>
   <para>
     <num>(l)</num>
@@ -177,6 +179,6 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-21" type="History" path="§5115">Sept. 14, 2011, D.C. Law 19-21, § 5115, 58 DCR 6226</annotation>
-    <annotation doc="D.C. Law 23-16" type="History" path="§5092|(a)">Sept. 11, 2019, D.C. Law 23-16, § 5092(a), 66 DCR 8621</annotation>
+    <annotation doc="D.C. Law 23-16" type="History" path="§5115">Sept. 11, 2019, D.C. Law 23-16, § 5092(a), 66 DCR 8621</annotation>
   </annotations>
 </section>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-151">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-151" codify:applicability="notfunded">
   <num type="law">22-151</num>
   <num type="bill">22-354</num>
   <num type="act">22-378</num>
@@ -154,7 +154,7 @@
     <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (EE) to read as follows:</text>
     <include lvl="2">
       <para>
-        <codify:insert doc="D.C. Code" path="§47-1803.02|(a)|(2)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(EE)"/>
+        <codify:insert doc="D.C. Code" path="§47-1803.02|(a)|(2)" after="(DD)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(EE)"/>
         <num>(EE)</num>
         <text>The amount received by a taxpayer from the Hearing Aid Assistance Program pursuant to <code-cite doc="D.C. Code" path="§7-1051.02">section 3 of the Hearing Aid Assistance Program Act of 2018, passed on 2nd reading on May 1, 2018 (Enrolled version of Bill 22- 354)</code-cite>.</text>
       </para>

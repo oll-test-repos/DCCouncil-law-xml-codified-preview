@@ -10,8 +10,8 @@
       <xml-bulk>https://github.com/oll-test-repos/DCCouncil-law-xml</xml-bulk>
       <html-bulk>https://github.com/oll-test-repos/DCCouncil-law-html</html-bulk>
       <html>https://code.dccouncil.us</html>
-      <static-assets>https://github.com/oll-test-repos/openlawlibrary-law-static-assets</static-assets>
-      <law-git>https://github.com/oll-test-repos/DCCouncil-law.git</law-git>
+      <static-assets>https://github.com/oll-test-repos/DCCouncil-law-static-assets</static-assets>
+      <law-git>https://github.com/oll-test-repos/DCCouncil-law</law-git>
     </canonical-urls>
     <redirects>
       <redirect>
@@ -21,11 +21,11 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="6dfc23b528a926c44052069d7dd0d871ee765bc9"/>
+        <repository name="DCCouncil/law-xml" commit="09e65bc2fb4b552054ca4ba4cb4e06b8ea57eb20"/>
       </repositories>
-      <platform version="2.6.0" reproducible="false"/>
-      <build-date>2022-02-24</build-date>
-      <codified-date>2021-08-23</codified-date>
+      <platform version="2.18.3.dev216+g117ee15eb" reproducible="false"/>
+      <build-date>2025-12-30</build-date>
+      <codified-date>2025-12-11</codified-date>
     </build>
   </meta>
   <xi:include href="./us/dc/council/code/index.xml"/>
@@ -33,6 +33,8 @@
     <heading>D.C. Laws Codified in the D.C. Code</heading>
     <heading type="search">D.C. Laws</heading>
     <text>For laws not codified in the D.C. Code, please visit <a href="http://lims.dccouncil.us">LIMS</a>.</text>
+    <xi:include href="./us/dc/council/periods/26/index.xml"/>
+    <xi:include href="./us/dc/council/periods/25/index.xml"/>
     <xi:include href="./us/dc/council/periods/24/index.xml"/>
     <xi:include href="./us/dc/council/periods/23/index.xml"/>
     <xi:include href="./us/dc/council/periods/22/index.xml"/>
@@ -63,6 +65,8 @@
   <collection name="fedlaws">
     <heading>Federal Laws Codified in the D.C. Code</heading>
     <heading type="search">U.S. Laws</heading>
+    <xi:include href="./us/congress/congresses/118/index.xml"/>
+    <xi:include href="./us/congress/congresses/117/index.xml"/>
     <xi:include href="./us/congress/congresses/116/index.xml"/>
     <xi:include href="./us/congress/congresses/115/index.xml"/>
     <xi:include href="./us/congress/congresses/114/index.xml"/>

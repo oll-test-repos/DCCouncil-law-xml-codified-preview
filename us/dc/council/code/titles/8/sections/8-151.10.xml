@@ -2,12 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-151.10</num>
   <text>
-      *NOTE: Law 24-16, which amended this section, is not funded. Those amendments have not been included in this section.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§8-151.10(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Rulemaking.</heading>
   <para>
     <num>(a)</num>
-    <text>Within 180 days of February 15, 2006, the Mayor shall promulgate rules and regulations to implement the provisions of this chapter, including the establishment of:</text>
+    <text>Except as provided in subsections (c) and (d) of this section, the Mayor may promulgate rules and regulations to implement the provisions of this chapter, including the establishment of:</text>
     <para>
       <num>(1)</num>
       <text>Fines;</text>
@@ -33,32 +33,32 @@
       <text>Enforcement, inspections, and hearing procedures.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>Proposed rules and regulations promulated [promulgated] pursuant to subsection (a) of this section shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day period, the proposed rules shall be deemed to be disapproved.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement §§ <cite path="§8-151.08a">8-151.08a</cite>, <cite path="§8-151.08b">8-151.08b</cite>, <cite path="§8-151.08c">8-151.08c</cite>, <cite path="§8-151.08d">8-151.08d</cite>, <cite path="§8-151.08e">8-151.08e</cite>, <cite path="§8-151.08f">8-151.08f</cite>, and <cite path="§8-151.08h">8-151.08h</cite>, including, to the extent permissible under federal law, rules to establish fees to be paid by railroad carriers.</text>
+      <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement §§ <cite path="§8-151.08a">8-151.08a</cite>, <cite path="§8-151.08b">8-151.08b</cite>, <cite path="§8-151.08c">8-151.08c</cite>, <cite path="§8-151.08d">8-151.08d</cite>, <cite path="§8-151.08e">8-151.08e</cite>, <cite path="§8-151.08f">8-151.08f</cite>, and <cite path="§8-151.08h">8-151.08h</cite>, including, to the extent permissible under federal law, rules to establish fees to be paid by railroad carriers to cover the costs of administering and managing the expenses of the emergency response, rail safety, and rail security programs for railroad operations in the District.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>If proposed rules are developed pursuant to paragraph (1) of this subsection, at the time the proposed rules are submitted to the District of Columbia Register for public notice and comment, the Mayor shall provide the proposed rules to the Rail Advisory Board for comment.</text>
+      <text>In issuing rules pursuant to this subsection, the Mayor shall consider any recommendations submitted pursuant to <cite path="§35-333|(b)|(4)">§ 35-333(b)(4)</cite>.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>If the Mayor, when issuing final rules, does not incorporate the Rail Advisory Board's suggested modifications provided pursuant to <cite path="§35-333|(b)|(4)">§ 35-333(b)(4)</cite>, the Mayor shall provide the Rail Advisory Board with a detailed written explanation as to why the proposed modifications were not incorporated.</text>
+      <text>If the Mayor, when issuing final rules, does not incorporate any suggested modifications provided pursuant to <cite path="§35-333|(b)|(4)">§ 35-333(b)(4)</cite>, the Mayor shall provide the Railroad Advisory Board with a detailed written explanation as to why the proposed modifications were not incorporated.</text>
     </para>
     <para>
       <num>(4)</num>
       <text>For the purposes of this subsection, the term "Railroad Advisory Board" means the Railroad Advisory Board established by <cite path="§35-332">§ 35-332</cite>.</text>
     </para>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(d)</num>
-    <text>Not Funded.</text>
+    <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement §§  <cite path="§8-151.09b">8-151.09b</cite> and <cite path="§8-151.09c">8-151.09c</cite>.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-51" type="History" path="§110">Feb. 15, 2006, D.C. Law 16-51, § 110, 52 DCR 10812</annotation>
@@ -77,10 +77,33 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6032|(d)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
     <annotation doc="D.C. Law 22-168" path="§6033|(a)" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§6033">Section 6033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-254" path="§501|(a)">§ 501(a) of D.C. Law 21-254</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-254">D.C. Law 21-254</cite> have been implemented.</annotation>
-    <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)|(2)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-16" path="§2|(b)" codified:display="Note" app="2021-07-29" eff="2021-07-29">Applicability of <cite doc="D.C. Law 24-16" path="">D.C. Law 24-16</cite>: <cite doc="D.C. Law 24-16" path="§4">§ 4 of D.C. Law 24-16</cite> provided that the change made to this section by <cite doc="D.C. Law 24-16" path="§2|(b)">§ 2(b) of D.C. Law 24-16</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6162|(c)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6162|(c)">§ 6162(c) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6162|(c)" type="History" display="false"/>
+    <annotation doc="D.C. Act 24-159" path="§7213" type="Applicability" history="false" app="2021-08-23" eff="2021-08-23"><cite doc="D.C. Act 24-159" path="§7213">Section 7213 of D.C. Act 24-159</cite> repealed the applicability provision of <cite doc="D.C. Law 24-16" path="§6">section 6 of D.C. Law 24-16</cite> that impacted this section.  Therefore the amendment of this section by Law 24-16 has been implemented.
+        </annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7213" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6162|(a)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6162|(b)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6162|(c)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6162|(c)|(2)" type="History"/>
+    <annotation doc="D.C. Law 24-45" path="§7213" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7213">Section 7213 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 24-16" path="§6">section 6 of D.C. Law 24-16</cite> that impacted this section.  Therefore the amendment of this section by Law 24-16 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7213" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-629" path="§2" codified:display="Note" app="2024-11-22" eff="2024-11-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-629" path="§2">§ 2 of Department of Energy and Environment Rulemaking Clarification Emergency Amendment Act of 2024 (D.C. Act 25-629, Nov. 22, 2024, 71 DCR 14456)</cite>.</annotation>
+    <annotation app="2024-11-22" doc="D.C. Act 25-629" eff="2024-11-22" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-12" path="§2" codified:display="Note" app="2025-02-20" eff="2025-02-20">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-12" path="§2">§ 2 of Department of Energy and Environment Rulemaking Clarification Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-12, Feb. 20, 2025, 72 DCR 2012)</cite>.</annotation>
+    <annotation app="2025-02-20" doc="D.C. Act 26-12" eff="2025-02-20" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-288" path="§2" codified:display="Note" app="2025-03-07" eff="2025-03-07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-288" path="§2">§ 2 of Department of Energy and Environment Rulemaking Clarification Temporary Amendment Act of 2024 (D.C. Law 25-288, Mar. 7, 2025, 71 DCR 14478)</cite>.</annotation>
+    <annotation app="2025-03-07" doc="D.C. Law 25-288" eff="2025-03-07" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§5023|(c)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§5023|(c)">§ 5023(c) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§5023|(c)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5023|(c)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5023|(c)|(1)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§5023|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§5023|(c)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§5023|(c)">§ 5023(c) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

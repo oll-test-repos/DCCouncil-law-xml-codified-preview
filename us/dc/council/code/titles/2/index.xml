@@ -170,8 +170,6 @@
         <xi:include href="./sections/2-218.13.xml"/>
         <xi:include href="./sections/2-218.14.xml"/>
         <xi:include href="./sections/2-218.15.xml"/>
-        <xi:include href="./sections/2-218.16.xml"/>
-        <xi:include href="./sections/2-218.17.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -192,7 +190,6 @@
           <num>1</num>
           <heading>Certified business enterprises.</heading>
           <xi:include href="./sections/2-218.31.xml"/>
-          <xi:include href="./sections/2-218.31a.xml"/>
           <xi:include href="./sections/2-218.32.xml"/>
           <xi:include href="./sections/2-218.33.xml"/>
           <xi:include href="./sections/2-218.34.xml"/>
@@ -273,13 +270,6 @@
         <xi:include href="./sections/2-218.81.xml"/>
         <xi:include href="./sections/2-218.82.xml"/>
       </container>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>IX-B</num>
-      <heading>Small and Local Business Enterprise Development Assistance During the COVID-19 emergency.</heading>
-      <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="II" type="History" display="false"/>
-      <xi:include href="./sections/2-218.91.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -899,13 +889,6 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>3C</num>
-    <heading>District Government Contractor Reporting of SARS-CoV-2.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="V" type="History" display="false"/>
-    <xi:include href="./sections/2-391.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>3D</num>
     <heading>Business Recovery Task Force.</heading>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="" type="History" display="false"/>
@@ -1033,8 +1016,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <reason>Repealed</reason>
       <heading>Open Government Office. [Repealed]<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1084|(e)" type="History"/></heading>
+      <reason>Repealed</reason>
       <xi:include href="./sections/2-591.xml"/>
       <xi:include href="./sections/2-592.xml"/>
       <xi:include href="./sections/2-593.xml"/>
@@ -1241,9 +1224,10 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading>Office of Motion Picture and Television Development.</heading>
+        <heading>Office of Motion Picture and Television Development. [Repealed]</heading>
         <xi:include href="./sections/2-1204.01.xml"/>
         <xi:include href="./sections/2-1204.02.xml"/>
+        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§10|(a)" type="History" display="false"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1257,6 +1241,18 @@
         <xi:include href="./sections/2-1204.11e.xml"/>
         <xi:include href="./sections/2-1204.12.xml"/>
         <xi:include href="./sections/2-1204.13.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>C</num>
+        <heading>Open Movie Captioning Requirement.</heading>
+        <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="" type="History" display="false"/>
+        <xi:include href="./sections/2-1204.21.xml"/>
+        <xi:include href="./sections/2-1204.22.xml"/>
+        <xi:include href="./sections/2-1204.23.xml"/>
+        <xi:include href="./sections/2-1204.24.xml"/>
+        <xi:include href="./sections/2-1204.25.xml"/>
+        <xi:include href="./sections/2-1204.26.xml"/>
       </container>
     </container>
     <container>
@@ -1382,6 +1378,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>V-F</num>
+      <heading>SSBCI-Venture Capital Program.</heading>
+      <annotation app="2023-02-23" doc="D.C. Law 24-259" eff="2023-02-23" path="" type="History" display="false"/>
+      <xi:include href="./sections/2-1210.81.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Enterprise Zone Study Commission.</heading>
       <xi:include href="./sections/2-1211.01.xml"/>
@@ -1500,19 +1503,13 @@
         <xi:include href="./sections/2-1215.59.xml"/>
         <xi:include href="./sections/2-1215.60.xml"/>
         <xi:include href="./sections/2-1215.61.xml"/>
+        <xi:include href="./sections/2-1215.62.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Application of Law.</heading>
         <xi:include href="./sections/2-1215.71.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>D</num>
-        <heading>BID Public Space Maintenance Agreements During a Public Health Emergency.</heading>
-        <annotation app="2021-08-05" doc="D.C. Act 24-158" eff="2021-08-05" path="§3|(b)" type="History" display="false"/>
-        <xi:include href="./sections/2-1215.81.xml"/>
       </container>
     </container>
     <container>
@@ -1610,8 +1607,8 @@
         <container>
           <prefix>Subpart</prefix>
           <num>6</num>
-          <reason>Repealed</reason>
           <heading>Union Market District. [Repealed]<annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="§15" type="History"/></heading>
+          <reason>Repealed</reason>
           <xi:include href="./sections/2-1217.36a.xml"/>
           <xi:include href="./sections/2-1217.36b.xml"/>
           <xi:include href="./sections/2-1217.36c.xml"/>
@@ -1660,9 +1657,9 @@
         <container>
           <prefix>Subpart</prefix>
           <num>8</num>
-          <reason>Not Funded</reason>
-          <reason>Repealed</reason>
           <heading>High unemployment areas. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7104" type="History"/></heading>
+          <reason>Repealed</reason>
+          <reason>Not Funded</reason>
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
           <xi:include href="./sections/2-1217.38.xml"/>
@@ -2051,6 +2048,16 @@
       <xi:include href="./sections/2-1227.06.xml"/>
       <xi:include href="./sections/2-1227.07.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>XVI</num>
+      <heading>Interactive Wayfinding Kiosks.</heading>
+      <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="II" type="History" display="false"/>
+      <xi:include href="./sections/2-1228.01.xml"/>
+      <xi:include href="./sections/2-1228.02.xml"/>
+      <xi:include href="./sections/2-1228.03.xml"/>
+      <xi:include href="./sections/2-1228.04.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2125,6 +2132,7 @@
     <xi:include href="./sections/2-1382.xml"/>
     <xi:include href="./sections/2-1383.xml"/>
     <xi:include href="./sections/2-1384.xml"/>
+    <xi:include href="./sections/2-1385.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2162,7 +2170,7 @@
         <xi:include href="./sections/2-1401.03.xml"/>
         <xi:include href="./sections/2-1401.04.xml"/>
         <xi:include href="./sections/2-1401.05.xml"/>
-        <xi:include href="./sections/[2-1401.06].xml"/>
+        <xi:include href="./sections/2-1401.06.xml"/>
       </container>
       <container>
         <prefix>Subchapter</prefix>
@@ -2273,6 +2281,7 @@
         <xi:include href="./sections/2-1403.04.xml"/>
         <xi:include href="./sections/2-1403.05.xml"/>
         <xi:include href="./sections/2-1403.06.xml"/>
+        <xi:include href="./sections/2-1403.06a.xml"/>
         <xi:include href="./sections/2-1403.07.xml"/>
         <xi:include href="./sections/2-1403.08.xml"/>
         <xi:include href="./sections/2-1403.09.xml"/>
@@ -2327,6 +2336,14 @@
   <container>
     <prefix>Chapter</prefix>
     <num>14A</num>
+    <heading>Human Rights Sanctuary - Right to Bodily Autonomy.</heading>
+    <annotation app="2023-02-23" doc="D.C. Law 24-257" eff="2023-02-23" path="" type="History" display="false"/>
+    <xi:include href="./sections/2-1461.01.xml"/>
+    <xi:include href="./sections/2-1461.02.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14B</num>
     <heading>Office of Racial Equity and Commission on Racial Equality, Social Justice, and Economic Inclusion.</heading>
     <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="" type="History" display="false"/>
     <xi:include href="./sections/2-1471.01.xml"/>
@@ -2368,6 +2385,7 @@
         <xi:include href="./sections/2-1515.04.xml"/>
         <xi:include href="./sections/2-1515.04a.xml"/>
         <xi:include href="./sections/2-1515.04b.xml"/>
+        <xi:include href="./sections/2-1515.04c.xml"/>
         <xi:include href="./sections/2-1515.05.xml"/>
         <xi:include href="./sections/2-1515.05a.xml"/>
         <xi:include href="./sections/2-1515.06.xml"/>
@@ -2410,6 +2428,7 @@
         <heading>Early Childhood and School-Based Behavioral Health Infrastructure.</heading>
         <xi:include href="./sections/2-1517.31.xml"/>
         <xi:include href="./sections/2-1517.32.xml"/>
+        <xi:include href="./sections/2-1517.33.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -2418,6 +2437,17 @@
         <xi:include href="./sections/2-1517.51.xml"/>
         <xi:include href="./sections/2-1517.52.xml"/>
       </container>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I-D</num>
+      <heading>Youth Mentorship and Family Engagement.</heading>
+      <annotation app="2025-03-21" doc="D.C. Law 25-306" eff="2025-03-21" path="I" type="History" display="false"/>
+      <xi:include href="./sections/2-1518.01.xml"/>
+      <xi:include href="./sections/2-1518.02.xml"/>
+      <xi:include href="./sections/2-1518.03.xml"/>
+      <xi:include href="./sections/2-1518.04.xml"/>
+      <xi:include href="./sections/2-1518.05.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2466,6 +2496,8 @@
       <heading>Juvenile Curfew.</heading>
       <xi:include href="./sections/2-1541.xml"/>
       <xi:include href="./sections/2-1542.xml"/>
+      <xi:include href="./sections/2-1542.01.xml"/>
+      <xi:include href="./sections/2-1542.02.xml"/>
       <xi:include href="./sections/2-1543.xml"/>
     </container>
     <container>
@@ -2592,6 +2624,22 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>16A</num>
+    <heading>Criminal History Reports.</heading>
+    <annotation app="2023-03-10" doc="D.C. Law 24-284" eff="2023-03-10" path="" type="History" display="false"/>
+    <xi:include href="./sections/2-1651.xml"/>
+    <xi:include href="./sections/2-1652.xml"/>
+    <xi:include href="./sections/2-1653.xml"/>
+    <xi:include href="./sections/2-1654.xml"/>
+    <annotation doc="D.C. Law 25-50" path="§7088|(a)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06"><cite doc="D.C.Law 25-50" path="§7088">Section 7088 of D.C. Law 25-50</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to January 1, 2026.  Therefore the creation of this section by Law 24-284 will be implemented on January 1, 2026.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§7088|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-175" path="§40|(b)" type="Applicability" history="false" app="2024-06-08" eff="2024-06-08"><cite doc="D.C.Law 25-175" path="§40|(b)">Section 40(b) of D.C. Law 25-175</cite> amended <cite doc="D.C. Law 24-284" path="§301">section 301 of D.C. Law 24-284</cite> changing the applicability provision impacting this section to October 1, 2024.  Therefore the creation of this section by Law 24-284 will be implemented on October 1, 2024.
+        </annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§40|(b)" type="History" display="false"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>17</num>
     <heading>Public Records Management.</heading>
     <xi:include href="./sections/2-1701.xml"/>
@@ -2616,11 +2664,13 @@
     <prefix>Chapter</prefix>
     <num>17A</num>
     <heading>Improving Efficiencies in Data Collection, Information Sharing, and Information Resources Management.</heading>
+    <reason>Repealed</reason>
     <annotation app="2019-03-22" doc="D.C. Law 22-264" eff="2019-03-22" path="" type="History" display="false"/>
     <xi:include href="./sections/2-1731.xml"/>
     <xi:include href="./sections/2-1732.xml"/>
     <xi:include href="./sections/2-1733.xml"/>
     <xi:include href="./sections/2-1734.xml"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7169" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2680,13 +2730,6 @@
     <xi:include href="./sections/2-1831.17.xml"/>
     <xi:include href="./sections/2-1831.18.xml"/>
     <xi:include href="./sections/2-1831.19.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>18B</num>
-    <heading>Administrative Hearings Deadline Tolling During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="VIII" type="History" display="false"/>
-    <xi:include href="./sections/2-1851.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

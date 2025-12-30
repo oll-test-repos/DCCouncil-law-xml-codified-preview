@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-107.04</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-107.04(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Duties of the Board.</heading>
   <para>
     <num>(a)</num>
     <text>The Board shall establish minimum application and appointment criteria for the Metropolitan Police Department that include the following:</text>
     <para>
       <num>(1)</num>
-      <text>That an applicant be a citizen of the United States at the time of application;</text>
+      <text>That an applicant be a citizen or national of, or person lawfully admitted for permanent residence in, the United States at the time of application;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -45,16 +42,16 @@
       <text>The completion of a background investigation;</text>
     </para>
     <para>
-      <num>(9A)</num>
-      <text>If the applicant has prior service with another law enforcement or public safety agency in the District or another jurisdiction, information on any alleged or sustained misconduct or discipline imposed by that law enforcement or public safety agency;</text>
-    </para>
-    <para>
       <num>(10)</num>
-      <text>Military discharge classification information; and</text>
+      <text>Military discharge classification information;</text>
     </para>
     <para>
       <num>(11)</num>
-      <text>Information on prior service with the Metropolitan Police Department.</text>
+      <text>Information on prior service with the Metropolitan Police Department; and</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>If the applicant has prior service with another law enforcement or public safety agency in the District or another jurisdiction, information on any alleged or sustained misconduct or discipline imposed by that law enforcement or public safety agency.</text>
     </para>
   </para>
   <para>
@@ -103,6 +100,46 @@
     <para>
       <num>(2)</num>
       <text>The appropriate consequence, including ineligibility for promotion, if a member fails to satisfy the continuing education requirement.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f-1)</num>
+    <text>The Board shall develop and operate a training program, in coordination with the Department of Health, the Department of Aging and Community Living, and the Office of the Attorney General, that includes:</text>
+    <para>
+      <num>(1)</num>
+      <text>Instruction on best practices for identifying, and interacting with individuals living with, Alzheimer's Disease or other dementias, and the risks such individuals face, such as wandering and elder abuse;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Initial training, required to be completed after appointment, that covers the following topics:</text>
+      <para>
+        <num>(A)</num>
+        <text>Neurological, psychiatric, and behavioral symptoms of Alzheimer's Disease and other dementias;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Communication issues, including how to communicate respectfully and effectively with individuals living with Alzheimer's Disease or other dementias in order to determine the most appropriate response, and effective communication techniques to enhance collaboration with caregivers;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Techniques for understanding and approaching behavioral symptoms and identifying alternatives to physical restraints;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Identifying and reporting incidents of abuse, neglect, and exploitation to Adult Protective Services;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Protocols for contacting caregivers when an individual living with Alzheimer's Disease or other dementias is found wandering or during emergency or crisis situations; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Local caregiving resources that are available for individuals living with Alzheimer's Disease or other dementias; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Required continuing education that covers the subjects described in paragraph (2) of this subsection.</text>
     </para>
   </para>
   <para>
@@ -234,8 +271,24 @@
     <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(c)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-76" path="§111|(c)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-76" path="§111|(c)">§ 111(c) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-76, May 3, 2021, 68 DCR 004935)</cite>.</annotation>
     <annotation app="2021-05-03" doc="D.C. Act 24-76" eff="2021-05-03" path="§111|(c)" type="History" display="false"/>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§111|(c)" type="History" display="false"/>
-    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§111|(c)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§111|(c)" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-128" path="§111|(c)">§ 111(c) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 68 DCR 007656)</cite>.</annotation>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§111|(c)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-23" path="§111|(c)" codified:display="Note" app="2021-09-03" eff="2021-09-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-23" path="§111|(c)">§ 111(c) of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2021 (D.C. Law 24-23, Sept. 3, 2021, 68 DCR 005837)</cite>.</annotation>
+    <annotation app="2021-09-03" doc="D.C. Law 24-23" eff="2021-09-03" path="§111|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-370" path="§111|(c)" codified:display="Note" app="2022-04-07" eff="2022-04-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-370" path="§111|(c)">§ 111(c) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2022 (D.C. Act 24-370, Apr. 7, 2022, 69 DCR 3370)</cite>.</annotation>
+    <annotation app="2022-04-07" doc="D.C. Act 24-370" eff="2022-04-07" path="§111|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-454" path="§111|(c)" codified:display="Note" app="2022-06-28" eff="2022-06-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-454" path="§111|(c)">§ 111(c) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-454, June 28, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2022-06-28" doc="D.C. Act 24-454" eff="2022-06-28" path="§111|(c)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§3052|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§3052|(b)">§ 3052(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3052|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-149" path="§111|(c)" codified:display="Note" app="2022-08-12" eff="2022-08-12">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-149" path="§111|(c)">§ 111(c) of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</annotation>
+    <annotation app="2022-08-12" doc="D.C. Law 24-149" eff="2022-08-12" path="§111|(c)" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3052|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-61" path="§109|(c)" codified:display="Note" app="2023-03-24" eff="2023-03-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-61" path="§109|(c)">§ 109(c) of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2023 (D.C. Act 25-61, Mar. 24, 2023, 70 DCR 3820)</cite>.</annotation>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§109|(c)" type="History" display="false"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§111|(c)|(4)" type="History"/>
   </annotations>
 </section>

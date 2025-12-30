@@ -1,17 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>25-101</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§25-101(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
     <text>For the purposes of this title, the term:</text>
     <para>
       <num>(1)</num>
-      <text>“ABRA” means the Alcoholic Beverage Regulation Administration established by <cite path="§25-202">§ 25-202</cite>.</text>
+      <text>"ABCA" means the Alcoholic Beverage and Cannabis Administration established by <cite path="§25-202">§ 25-202</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>“ABRA Fund” means the Alcoholic Beverage Regulation Administration Fund established by <cite path="§25-210">§ 25-210</cite>.</text>
+      <text>"ABCA Fund" means the Alcoholic Beverage and Cannabis Administration Fund established by <cite path="§25-210">§ 25-210</cite>.</text>
     </para>
     <para placeholder="Repealed">
       <num>(2A)</num>
@@ -24,6 +27,10 @@
     <para>
       <num>(4)</num>
       <text>“Alcohol” means ethyl alcohol, hydrated oxide of ethyl, or spirit of wine, from whatever source or by whatever processes produced.</text>
+    </para>
+    <para>
+      <num>(4A)</num>
+      <text>"Alcohol training and education certification provider" means any person or entity approved by the Board to conduct an alcohol training and education certification program as set forth in <cite path="§25-121">§ 25-121</cite>.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -55,15 +62,15 @@
     </para>
     <para>
       <num>(11)</num>
-      <text>“Board” means the Alcoholic Beverage Control Board established by <cite path="§25-201">§ 25-201</cite>.</text>
+      <text>"Board" means the Alcoholic Beverage and Cannabis Board established by <cite path="§25-201">§ 25-201</cite>.</text>
     </para>
     <para>
       <num>(11A)</num>
-      <text>"Board-approved manager" and "manager" mean a person, other than the owner, who is licensed by ABRA [and] who is required to be on duty and on the premises during the approved licensed hours of sales, service, and consumption of alcoholic beverages.</text>
+      <text>"Board-approved manager" and "manager" mean a person, other than the owner, who is licensed by ABCA [and] who is required to be on duty and on the premises during the approved licensed hours of sales, service, and consumption of alcoholic beverages.</text>
     </para>
     <para>
       <num>(12)</num>
-      <text>“Brew pub” means an establishment for the manufacture of beer to be sold for consumption only at the place of manufacture and for sale to licensed wholesalers for the purpose of resale to other licensees.</text>
+      <text>“Brew pub” means an establishment for the manufacture of beer to be sold for consumption only at the place of manufacture and for sale to other licensees as authorized in <cite path="§25-117|(a)|(1)">§ 25-117(a)(1)</cite>.</text>
     </para>
     <para>
       <num>(13)</num>
@@ -74,12 +81,28 @@
       <text>“Caterer” means a corporation, partnership, individual, or limited liability company that prepares, sells, delivers, and serves food and beverages to its customers, under an agreement in advance of delivery, for a catered event on the premises designated by the customer for the duration of the catered event.</text>
     </para>
     <para>
+      <num>(14A)</num>
+      <text>"CLC license" means the commercial lifestyle center license established by <cite path="§25-131">§ 25-131</cite>.</text>
+    </para>
+    <para>
+      <num>(14B)</num>
+      <text>"Closed container" means a container with a tamper-evident seal or lid, including a seal or lid that indicates whether the closure has been interfered with or removed, designed to prevent consumption without the removal of the seal or lid.</text>
+    </para>
+    <para>
       <num>(15)</num>
       <text>“Club” means a corporation, duly organized and in good standing under Chapters 1 and 4 of Title 29, a limited liability company, or partnership owning, leasing, or occupying a building, or a portion thereof, at which the sale of alcoholic beverages is incidental to, and not the prime source of revenue from, the operation of the building or the portion thereof. The term “club” shall not include a college fraternity or sorority.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(15A)</num>
-      <text>“Cooperative agreement” shall have the same meaning, and is synonymous with, settlement agreement.</text>
+      <text>[Repealed].</text>
+    </para>
+    <para>
+      <num>(15A-i)</num>
+      <text>"Commercial bingo" shall have the same meaning as set forth in <cite path="§36-601.01|(c)|(4A)">§ 36-601.01(c)(4A)</cite>.</text>
+    </para>
+    <para>
+      <num>(15B)</num>
+      <text>"Commercial lifestyle center" means a mixed-use or commercial development having a combination of retail, residential, dining, entertainment, office, or hotel establishment located in a physically integrated outdoor setting that is pedestrian friendly and that is governed by a commercial owners' association responsible for the management, maintenance, and operation of the common areas of the development.</text>
     </para>
     <para>
       <num>(16)</num>
@@ -106,12 +129,20 @@
       <text>“CSA” means <cite path="48|9">Chapter 9 of Title 48</cite>.</text>
     </para>
     <para>
+      <num>(17A)</num>
+      <text>"Curbside delivery" means deliveries made to a clearly designated location that is adjacent to the licensed premises of the off-premises retailer, on-premises retailer, or manufacturer holding an on-site sales and consumption permit, including the parking lot or within 200 feet of the licensed premises.</text>
+    </para>
+    <para>
       <num>(18)</num>
       <text>“DC Arena” means the multi-purpose arena for the performance of sports and entertainment events and related amenities described in recital “E” of the Land Disposition Agreement-Ground Lease By and Among the District of Columbia Redevelopment Land Agency, the District of Columbia, and DC Arena L.P., dated December 29, 1995.</text>
     </para>
     <para>
+      <num>(18A)</num>
+      <text>"Deposit-refund" means a fee at least equal to the cost of the reusable container that a customer pays when purchasing a beverage or food product in a reusable container that is refunded to the customer upon returning the container to the establishment.</text>
+    </para>
+    <para>
       <num>(19)</num>
-      <text>“Director” means the Director of the Alcoholic Beverage Regulation Administration appointed under <cite path="§25-207">§ 25-207</cite>.</text>
+      <text>“Director” means the Director of the Alcoholic Beverage and Cannabis Administration appointed under <cite path="§25-207">§ 25-207</cite>.</text>
     </para>
     <para>
       <num>(19A)</num>
@@ -159,7 +190,7 @@
     </para>
     <para>
       <num>(21A)</num>
-      <text>“Entertainment” means live music or any other live performance by an actual person, including live bands, karaoke, comedy shows, poetry readings, and disc jockeys. The term “entertainment” shall not include the operation of a jukebox, a television, a radio, or other prerecorded music.</text>
+      <text>“Entertainment” means live music or any other live performance by an actual person, including live bands, karaoke, comedy shows, poetry readings, disc jockeys, and trivia nights during which microphones are used. The term “entertainment” shall not include the operation of a jukebox, a television, a radio, or other prerecorded music.</text>
     </para>
     <para>
       <num>(21B)</num>
@@ -264,6 +295,10 @@
       <text>“Interest” includes the ownership or other share of the operation, management, or profits of a licensed establishment. The term “interest” shall not include an agreement for the lease of real property.</text>
     </para>
     <para>
+      <num>(26A)</num>
+      <text>["]Intoxicated["] means a condition in which a person has consumed enough alcoholic beverages to visibly affect their manner, disposition, speech, muscular movement, or general appearance of behavior.</text>
+    </para>
+    <para>
       <num>(27)</num>
       <text>“Keg” means a container which is capable of holding 4 gallons or more of beer, wine, or spirits and which is designed to dispense beer, wine, or spirits directly from the container.</text>
     </para>
@@ -282,6 +317,10 @@
     <para>
       <num>(31)</num>
       <text>“Locality” means the neighborhood within 600 feet of an establishment.</text>
+    </para>
+    <para>
+      <num>(31A)</num>
+      <text>"Management agreement" means an operational agreement between the licensee and a third-party governing the necessary managerial functions of an establishment for a fee.</text>
     </para>
     <para>
       <num>(32)</num>
@@ -321,11 +360,11 @@
     </para>
     <para>
       <num>(37A)</num>
-      <text>“Pool buying agent” means the licensed vendor who is registered by the pool buying group with the Alcoholic Beverage Regulation Administration.</text>
+      <text>“Pool buying agent” means the licensed vendor who is registered by the pool buying group with the Alcoholic Beverage and Cannabis Administration.</text>
     </para>
     <para>
       <num>(37B)</num>
-      <text>“Pool buying group” means a group of 2 or more licensees under an on-premises restaurant license (R), as defined in <cite path="§25-113|(b)">§ 25-113(b)</cite>, who have been approved by the Alcoholic Beverage Regulation Administration to consolidate orders for alcoholic beverages ordered through a licensed pool buying agent from any lawful source in a single order.</text>
+      <text>“Pool buying group” means a group of 2 or more licensees under an on-premises restaurant license (R), as defined in <cite path="§25-113|(b)">§ 25-113(b)</cite>, who have been approved by the Alcoholic Beverage and Cannabis Administration to consolidate orders for alcoholic beverages ordered through a licensed pool buying agent from any lawful source in a single order.</text>
     </para>
     <para>
       <num>(38)</num>
@@ -334,6 +373,10 @@
     <para>
       <num>(38A)</num>
       <text>"Powdered alcohol" means an alcoholic beverage product that is manufactured into a powdered or crystalline form.</text>
+    </para>
+    <para>
+      <num>(38B)</num>
+      <text>"Prepared food" means food that is prepared or cooked on the premises that does not require further preparation for dine-in, carry-out, or delivery.</text>
     </para>
     <para>
       <num>(39)</num>
@@ -431,10 +474,14 @@
     </para>
     <para>
       <num>(44)</num>
-      <text>“RLA” means the District of Columbia Redevelopment Land Agency.</text>
+      <text>"Reusable container" means a container for a beverage or food product that is specifically designed to be sanitized and to be used at least 125 times.</text>
     </para>
     <para>
       <num>(44A)</num>
+      <text>“RLA” means the District of Columbia Redevelopment Land Agency.</text>
+    </para>
+    <para>
+      <num>(44B)</num>
       <text>"Roll call hearing" means the proceeding specified in a placard posted at an applicant's premises at which the applicant and the protestant are introduced to each other and the grounds for objection to the license application are read to the public.</text>
     </para>
     <para>
@@ -463,7 +510,7 @@
     </para>
     <para>
       <num>(48B)</num>
-      <text>"Solicitor" means a person licensed by ABRA who is a representative of the wholesaler or manufacturer whose name appears on the solicitor's license and who is permitted to sell alcoholic beverages on behalf of the wholesaler or manufacturer.</text>
+      <text>"Solicitor" means a person licensed by ABCA who is a representative of the wholesaler or manufacturer whose name appears on the solicitor's license and who is permitted to sell alcoholic beverages on behalf of the wholesaler or manufacturer.</text>
     </para>
     <para>
       <num>(48C)</num>
@@ -478,7 +525,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>An alcoholic beverage containing more than 15% alcohol.</text>
+        <text>An alcoholic beverage containing more than 21% alcohol.</text>
       </para>
     </para>
     <para>
@@ -508,6 +555,10 @@
         <num>(C)</num>
         <text>Does not provide facilities for dancing for its employees or entertainers.</text>
       </para>
+    </para>
+    <para>
+      <num>(52A)</num>
+      <text>"Third-party delivery company" means a platform or business that is registered to conduct business in the District, has a contractual relationship with a holder of an off-premises retailer, on-premises retailer, or  manufacturer license to provide local, same-day delivery services or facilitate the sale of alcoholic beverages for local same-day deliveries to consumers through the use of the internet, a mobile application, or a similar technology platform, and uses its own employees or independent contractors. The term third-party delivery company does not include such a platform or business that provides an interstate shipment through the use of a common carrier as defined in <cite path="§25-772|(a)">§ 25-772 (a)</cite> and <cite path="§25-772|(b)">(b)</cite>.</text>
     </para>
     <para>
       <num>(53)</num>
@@ -637,11 +688,38 @@
     <annotation app="2020-05-06" doc="D.C. Law 23-93" eff="2020-05-06" path="§2|(a)|(1)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-479" path="§3|(a)|(1)" codified:display="Note" app="2020-10-01" eff="2020-10-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-479" path="§3|(a)|(1)">§ 3(a)(1) of Revised Game of Skill Machines Consumer Protections Emergency Amendment Act of 2020 (D.C. Act 23-479, Oct. 1, 2020, 67 DCR 13284)</cite>.</annotation>
     <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§3|(a)|(1)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§6023|(a)|(1)|(A)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§6023|(a)|(1)|(B)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-16" path="§3|(a)|(1)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-16" path="§3|(a)|(1)">§ 3(a)(1) of Revised Game of Skill Machines Consumer Protections Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-16, Feb. 26, 2021, 68 DCR 002559)</cite>.</annotation>
     <annotation app="2021-02-26" doc="D.C. Act 24-16" eff="2021-02-26" path="§3|(a)|(1)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-257" path="§3|(a)|(1)" codified:display="Note" app="2021-03-16" eff="2021-03-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-257" path="§3|(a)|(1)">§ 3(a)(1) of Revised Game of Skill Machines Consumer Protections Temporary Amendment Act of 2020 (D.C. Law 23-257, Mar. 16, 2021, 67 DCR 13932)</cite>.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-257" eff="2021-03-16" path="§3|(a)|(1)" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§8|(a)|(1)|(A)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§8|(a)|(1)|(B)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(A)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(B)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(C)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(D)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(E)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(F)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(G)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(H)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(I)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(J)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(L)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(K)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(M)" type="History"/>
+    <annotation app="2022-06-30" doc="D.C. Law 24-127" eff="2022-06-30" path="§2|(a)|(2)|(N)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(a)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(b)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(c)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(d)|(1)" type="History"/>
+    <annotation app="2023-03-22" doc="D.C. Law 24-332" eff="2023-03-22" path="§5|(d)|(2)" type="History"/>
+    <annotation app="2024-05-21" doc="D.C. Law 25-162" eff="2024-05-21" path="§101|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§2072|(a)|(1)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§2072|(a)|(1)">§ 2072(a)(1) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§2072|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2072|(a)|(1)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§2072|(a)|(1)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§2072|(a)|(1)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§2072|(a)|(1)">§ 2072(a)(1) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-59" codify:doc="D.C. Code">
+  <num type="law">26-59</num>
+  <num type="act">26-160</num>
+  <num type="bill">26-302</num>
+  <heading type="short">African American Civil War Museum Limited Grant-Making Authority Temporary Amendment Act of 2025</heading>
+  <heading type="long">To amend, on a temporary basis, the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012 to authorize the Deputy Mayor for Planning and Economic Development to issue a grant in Fiscal Year 2025 or 2026 to the African American Civil War Memorial Freedom Foundation, Inc. for the purpose of redeveloping the African American Civil War Museum.</heading>
+  <meta>
+    <introduced>2025-06-30</introduced>
+    <effective>2025-12-11</effective>
+    <temporary/>
+    <citations>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/58054/Signed_Act/B26-0302-Signed_Act.pdf?Id=225575">D.C. Law 26-59</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/58054/Signed_Act/B26-0302-Signed_Act.pdf?Id=225575">D.C. Act 26-160</citation>
+      <citation type="register">0 DCR 0</citation>
+    </citations>
+    <history url="https://lims.dccouncil.gov/Legislation/B26-0302">
+      <vote date="2025-07-01" reading="First"/>
+      <vote date="2025-10-07" reading="Final"/>
+      <enacted>2025-10-23</enacted>
+      <summary/>
+      <committee>Retained by the Council</committee>
+    </history>
+  </meta>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "African American Civil War Museum Limited Grant-Making Authority Temporary Amendment Act of 2025".</text>
+  <section codify:path="§1-328.04">
+    <num>2</num>
+    <text>Section 2032 of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012, effective September 20, 2012 (D.C. Law 19-168; D.C. Code § 1-328.04), is amended by adding a new subsection (kk) to read as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="(kk)" codified:doc="D.C. Code" codified:path="§1-328.04|(kk)"/>
+        <num>(kk)</num>
+        <text>Notwithstanding <code-cite doc="D.C. Code" path="1|3|XII-A|B">the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>)</code-cite>, the Deputy Mayor may make a grant in Fiscal Year 2025 or 2026 to the African American Civil War Memorial Freedom Foundation, Inc. for the purpose of redeveloping the African American Civil War Museum, located at 1925 Vermont Avenue, NW.</text>
+      </para>
+    </include>
+    <aftertext>.</aftertext>
+    <codify:emergency doc="D.C. Code" path="§1-328.04" codified:doc="D.C. Code" codified:path="§1-328.04" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§1-328.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-328.04">
+      <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on July 24, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-328.04(Perm)">Past Permanent Version</cite>.*
+      </text>
+    </codify:insert>
+  </section>
+  <section>
+    <num>3</num>
+    <heading proof="needed">Fiscal impact statement.</heading>
+    <text>The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading proof="needed">Effective date.</heading>
+    <para>
+      <num>(a)</num>
+      <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto) and a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This act shall expire after 225 days of its having taken effect.</text>
+    </para>
+  </section>
+</document>

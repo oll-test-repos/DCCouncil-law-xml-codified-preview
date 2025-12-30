@@ -1,14 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-561.01</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="10|5B">this chapter</cite>, the term:</text>
+  <para>
+    <num>(1)</num>
+    <text>"Chief Building Official" or "CBO" means the lead administrator of the Office of Construction and Building Standards, whose appointment is provided for by <cite path="§10-561.04">§ 10-561.04</cite>.</text>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>"Construction Codes" means all codes as defined in section 101.1 of Title 12A of the District of Columbia Municipal Regulations (12-A DCMR § 101.1).</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>"Department" means the Department of Buildings established by <cite path="§10-561.02">§ 10-561.02</cite>.</text>
+  </para>
+  <para>
+    <num>(4)</num>
+    <text>"Director" means the director of the Department of Buildings, whose appointment is provided for by <cite path="§10-561.03">§ 10-561.03</cite>.</text>
+  </para>
+  <para>
+    <num>(5)</num>
+    <text>"International Code Council Family of Codes" means the body of standards promulgated by the International Code Council to the extent the standards are adopted by the District of Columbia and codified into the District of Columbia Code of Municipal Regulations.</text>
+  </para>
+  <para>
+    <num>(6)</num>
+    <text>"Strategic Enforcement Administrator" or "SEA" means the lead administrator of the Office of Strategic Code Enforcement, whose appointment is provided for by <cite path="§10-561.05">§ 10-561.05</cite>.</text>
+  </para>
+  <para>
+    <num>(7)</num>
+    <text>"Zoning Administrator" or "ZA" means the lead administrator for the Office of Zoning Administration, whose appointment is provided for by <cite path="§10-561.06">§ 10-561.06</cite>.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.01">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§101">§ 101 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§101" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-269" path="§101" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§101">§ 101 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§101" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-269" path="§101" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§101">§ 101 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 24-45" path="§7207" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7207">Section 7276 of D.C. Law 24-45</cite> repealed the applicability provision of <cite doc="D.C. Law 23-269" path="§601">section 601 of D.C. Law 23-269</cite> that impacted this section.  Therefore the creation of this section by Law 23-269 has been implemented.
+        </annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7207" type="History" display="false"/>
   </annotations>
 </section>

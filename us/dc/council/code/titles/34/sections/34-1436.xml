@@ -1,23 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>34-1436</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§34-1436(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Renewable Energy Development Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a fund designated as the Renewable Energy Development Fund, which shall be separate from the General Fund of the District of Columbia and shall be used solely for the purposes set forth in this section. All fees, payment, investment earnings, or other funds received, and all interest on the funds, shall be deposited into the Fund without regard to fiscal year limitation and shall not any time be transferred to, or lapse into, or be commingled with the General Fund of the District of Columbia or any other fund or account of the District of Columbia, except as delineated in this section. The Fund shall be continually available for the uses and purposes set forth in subsection (c) of this section.</text>
+    <text>There is established as a special fund the Renewable Energy Development Fund ("Fund"), which shall be administered by the Director of DOEE in accordance with subsections (b), (c), and (e) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>The Fund established by this section shall be administered by DOEE. The DOEE may receive and review applications for loans, grants, rebates, and other financial incentives for eligible projects from the Fund. Except as provided in subsection (c)(1)(F) of this section, loans, grants, rebates, and other financial incentives for eligible projects from the Fund shall be distributed in the following order:</text>
+      <text>DOEE may receive and review applications for loans, grants, rebates, and other financial incentives for eligible projects from the Fund. Except as provided in subsection (c)(1)(F) of this section, loans, grants, rebates, and other financial incentives for eligible projects from the Fund shall be distributed in the following order:</text>
       <para>
         <num>(A)</num>
         <text>To qualifying applicants who are certified business enterprises as defined in <cite path="§2-218.02|(1D)">§ 2-218.02(1D)</cite>;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>To qualifying applicants who are [not] certified business enterprises as defined in <cite path="§2-218.02|(1D)">§ 2-218.02(1D)</cite>.</text>
+        <text>To qualifying applicants who are not certified business enterprises as defined in <cite path="§2-218.02|(1D)">§ 2-218.02(1D)</cite>.</text>
       </para>
     </para>
     <para>
@@ -35,6 +38,10 @@
         <text>Supporting the creation of new solar energy sources in the District, including activities that support the use of solar energy sources, such as electrical upgrades, structural improvements, and the installation of electrical or thermal storage systems;</text>
       </para>
       <para>
+        <num>(A-i)</num>
+        <text>Supporting projects or programs that increase climate change resilience in the District; provided, that each such project or program includes a solar energy component or uses solar energy generated in the District;</text>
+      </para>
+      <para>
         <num>(B)</num>
         <text>Funding the Solar for All Program established by <cite path="§8-1774.16">§ 8-1774.16</cite>;</text>
       </para>
@@ -44,7 +51,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>Covering any costs to the District associated with implementing the Renewable Portfolio Standard Expansion Amendment Act of 2016, October 8, 2016 (D.C. Law 21-154);</text>
+        <text>Covering any costs to the District associated with implementing the Renewable Portfolio Standard Expansion Amendment Act of 2016 (D.C. Law 21-154);</text>
       </para>
       <para>
         <num>(E)</num>
@@ -56,26 +63,35 @@
       </para>
       <para>
         <num>(G)</num>
-        <para>
-          <num>(i)</num>
-          <text>In fiscal year 2020, up to $250,000 shall be used by DOEE to engage an independent third party to conduct a comprehensive study to help DOEE and building owners better understand the potential for cost impacts and benefits of the Building Energy Performance Standards Program, required pursuant to <cite path="§8-1772.21">§ 8-1772.21</cite>, to District residents and property owners, or owners of large buildings and affordable housing.[;] The study shall include case studies for different property types of buildings.[;]</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>In creating the specifications for the study, DOEE shall seek the advice of the Building Energy Performance Standards Task Force, established pursuant to <cite path="§6-1451.09|(h)">§ 6-1451.09(h)</cite>.[;]</text>
-        </para>
+        <text>In fiscal year 2020, up to $250,000 for DOEE to engage an independent third party to conduct a comprehensive study to help DOEE and building owners better understand the potential for cost impacts and benefits to District residents and property owners, or owners of large buildings and affordable housing of the Building Energy Performance Standards Program, required pursuant to <cite path="§8-1772.21">§ 8-1772.21</cite>;</text>
       </para>
       <para>
         <num>(H)</num>
-        <text>Covering any costs to the District associated with implementing §§ <cite path="§34-1431|(10)">34-1431(10)</cite> and <cite path="§34-1432|(c)|(9)">34-1432(c)(9)</cite>-(31); and</text>
+        <text>Covering any costs to the District associated with implementing §§ <cite path="§34-1431|(10)">34-1431(10)</cite> and <cite path="§34-1432|(c)|(9)">34-1432(c)(9)</cite>-(31);</text>
       </para>
       <para>
         <num>(I)</num>
-        <text>In fiscal year 2020, up to $250,000 shall be provided to the District Department of Transportation to prepare the comprehensive clean vehicle transition plan required by <cite path="§50-921.24">§ 50-921.24</cite>[; and]</text>
+        <text>In fiscal year 2020, up to $250,000 shall be provided to the District Department of Transportation to prepare the comprehensive clean vehicle transition plan required by <cite path="§50-921.24">§ 50-921.24</cite>;</text>
       </para>
       <para>
         <num>(J)</num>
-        <text>In fiscal year 2020, up to $250,000 shall be provided to the Department of General Services to be used to prepare the strategic energy management plan required by <cite path="§8-1772.22">§ 8-1772.22</cite>.</text>
+        <text>In fiscal year 2020, up to $250,000 shall be provided to the Department of General Services to be used to prepare the strategic energy management plan required by <cite path="§8-1772.22">§ 8-1772.22</cite>;</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>Covering any costs to the District associated with implementing the Local Solar Expansion Amendment Act of 2022 (D.C. Law 24-314);</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>Beginning in fiscal year 2026, transferring funding, in an amount to be determined by DOEE in its discretion, to the Energy Assistance Trust Fund for the purpose of expanding access to the District's low-income utility assistance programs;</text>
+      </para>
+      <para>
+        <num>(M)</num>
+        <text>Beginning in fiscal year 2025, supporting programming to increase awareness of the Solar for All program and to increase the number of residents enrolled in the District's low-income utility assistance programs, in an amount no greater than $150,000 per year; and</text>
+      </para>
+      <para>
+        <num>(N)</num>
+        <text>Beginning in fiscal year 2025, providing up to $100,000 per year to fund the triennial study of local solar policy benefits and costs required under <cite path="§34-1436.01">§ 34-1436.01</cite>, which may be used by the contractor selected pursuant to <cite path="§34-1436.01">§ 34-1436.01</cite> at any time during the 3-year period of the study.</text>
       </para>
     </para>
     <para>
@@ -85,8 +101,12 @@
     </para>
   </para>
   <para>
+    <num>(c-1)</num>
+    <text>For the purposes of subsection (c)(1)(G) of this section, the study shall include case studies for different property types of buildings and the DOEE shall seek the advice of the Building Energy Performance Standards Task Force, established pursuant to <cite path="§6-1451.09|(h)">§ 6-1451.09(h)</cite>, in creating the specifications for the study.</text>
+  </para>
+  <para>
     <num>(d)</num>
-    <text>Proceeds for the Fund shall be collected from the following:</text>
+    <text>The following revenue shall be deposited in the Fund:</text>
     <para>
       <num>(1)</num>
       <text>Compliance fees paid under <cite path="§34-1434">§ 34-1434</cite>;</text>
@@ -123,6 +143,10 @@
   <para>
     <num>(g)</num>
     <text>Any compliance fees paid into the Fund by an electricity supplier that were charged to the District of Columbia government through a cost recovery surcharge authorized in <cite path="§34-1435|(c)">§ 34-1435(c)</cite> shall be transferred from the Fund to the General Fund of the District of Columbia and used to cover any surcharge owed by the District of Columbia government.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>Any money remaining available in the Fund at the end of a fiscal year, as determined by the Chief Financial Officer in the fiscal year-end close, shall be transferred to the unassigned fund balance of the General Fund of the District of Columbia as part of the fiscal year-end close.</text>
   </para>
   <annotations>
     <text type="Short Title">See note to <cite path="§32-1301">§  32-1301</cite>.</text>
@@ -162,5 +186,34 @@
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(d)|(2)|(A)" type="History"/>
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(d)|(2)|(B)" type="History"/>
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(d)|(2)|(C)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§119" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§122|(a)|(1)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§122|(a)|(2)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§122|(a)|(3)" type="History"/>
+    <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§122|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§6022" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§6022">§ 6022 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§6022" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6022" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(c)|(1)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(c)|(2)" type="History"/>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§2|(c)|(3)" type="History"/>
+    <annotation doc="D.C. Law 24-314" path="§3" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-314" path="§3">Section 3 of D.C. Law 24-314</cite> provided that for 3 years after the date described in section 4, section 2(a) shall not apply to any contract entered into before the date described in subsection (a) of this section; except, that section 2(a) shall apply to an extension or renewal of such a contract.
+    </annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§3" type="History" display="false"/>
+    <annotation doc="D.C. Law 24-314" path="§4" type="Applicability" history="false" app="2023-03-10" eff="2023-03-10"><cite doc="D.C. Law 24-314" path="§4">Section 4 of D.C. Law 24-314</cite> provided that this act shall apply as of March 1, 2023, or as of the effective date of this act, whichever occurs later.
+    </annotation>
+    <annotation app="2023-03-10" doc="D.C. Law 24-314" eff="2023-03-10" path="§4" type="History" display="false"/>
+    <annotation path="§8002|(f)" type="Applicability" history="false" app="2023-09-06" eff="2023-09-06" doc="D.C. Law 25-50">
+          For a technical correction to section 3 of D.C. Law 24-314, see <cite doc="D.C. Law 25-50" path="§8002|(f)">section 8002(f) of D.C. Law 25-50</cite>.
+        </annotation>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§8002|(f)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7121" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7121">§ 7121 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7121" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7121" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7121|(a)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7121|(b)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7121|(c)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7121|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7121" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7121">§ 7121 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

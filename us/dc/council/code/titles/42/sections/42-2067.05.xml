@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <num>42-2067.05</num>
+  <heading proof="needed">Applicability.</heading>
+  <reason>Repealed</reason>
+  <text>Repealed.</text>
+  <annotations>
+    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="" type="History" display="false"/>
+    <annotation app="2023-02-23" doc="D.C. Law 24-243" eff="2023-02-23" path="§6" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7283" type="History"/>
+  </annotations>
+</section>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-302</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on  December 1, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§38-302(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Tuition required of nonresidents; deposit of payments.</heading>
   <para>
     <num>(a)</num>
@@ -13,9 +10,9 @@
     <num>(b)</num>
     <text>The amount which shall be paid with respect to each person subject to subsection (a) of this section shall be fixed by the State Education Office as the amount necessary to cover all expenses incurred by the District of Columbia public schools or public charter schools that are a result of each person’s use of a school’s services, as determined by <cite path="§38-2602">§ 38-2602</cite>, and in accordance with <cite path="38|29">Chapter 29 of this title</cite>. Following the final determination of the amounts, the State Education Office shall publish the tuition rate determinations in the District of Columbia Municipal Regulations.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(c)</num>
-    <text>All non-resident tuition and fees collected under this section shall be deposited in the Student Residency Verification Fund established by <cite path="§38-312.02">§ 38-312.02</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -41,13 +38,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4012(a) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4012(a) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
     <annotation type="Emergency Legislation">For temporary amendment of section, see § 2 of the Waiver of Tuition for Non-Resident Minor Children of Deceased or Incapacitated Parents Emergency Amendment Act of 1994 (D.C. Act 10-237, April 28, 1994,  41 DCR 2606).</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote (c).</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added (e).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (c), substituted “revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “be reserved as a restricted fund balance and used to provide authority to expend for subsequent years subject to the direction of the State Education Office; provided, that the base of the budget of the State Education Office shall be reduced by an amount equal to the estimated revenue from nonresident tuition for fiscal year 1981”.</annotation>
-    <annotation type="Effect of Amendments">“(b) The amount which shall be paid with respect to each person subject to subsection (a) of this section shall be fixed by the State Education Office as the amount necessary to cover the expense of tuition and cost of textbooks and school supplies used by such person; provided, that such amounts and changes in the amounts fixed by this subsection are set by the State Education Office in accordance with the provisions of <cite path="§2-505|(a)">§ 2-505(a)</cite>. Following the final adoption of such amounts, the State Education Office shall transmit a copy to the Mayor and a copy to the Council of the District of Columbia.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (a), substituted “parent, guardian, custodian, or other primary caregiver” for “parent or guardian”; and rewrote subsec. (b) which had read:</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsecs. (b) and (c), substituted “State Education Office” for “Board” throughout.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-176">D.C. Law 13-176</cite> authorized substitution of State Education Office for Board of Education where appearing in this section.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-307.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-602.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§38-303">§ 38-303</cite>, <cite path="§38-306">§ 38-306</cite>, <cite path="§38-1800.02">§ 38-1800.02</cite>, <cite path="§38-2602">§ 38-2602</cite>, and <cite path="§38-2901">§ 38-2901</cite>.</annotation>
@@ -60,9 +50,16 @@
     <annotation app="2021-02-01" doc="D.C. Act 24-9" eff="2021-02-01" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-68" path="§2" codified:display="Note" app="2021-04-14" eff="2021-04-14">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-68" path="§2">§ 2 of Non-Public Student Educational Continuity and Homeland Security Fusion Center and Law Enforcement Authority Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-68, Apr. 14, 2021, 68 DCR 004911)</cite>.</annotation>
     <annotation app="2021-04-14" doc="D.C. Act 24-68" eff="2021-04-14" path="§2" type="History" display="false"/>
-    <annotation app="2021-04-20" doc="D.C. Law 24-1" eff="2021-04-20" path="§2" type="History" display="false"/>
-    <annotation app="2021-04-20" doc="D.C. Law 24-1" eff="2021-04-20" path="§2|(a)" type="History"/>
-    <annotation app="2021-04-20" doc="D.C. Law 24-1" eff="2021-04-20" path="§2|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-1" path="§2" codified:display="Note" app="2021-04-20" eff="2021-04-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-1" path="§2">§ 2 of Non-Public Student Educational Continuity Temporary Amendment Act of 2021 (D.C. Law 24-1, Apr. 20, 2021, 68 DCR 002629)</cite>.</annotation>
+    <annotation app="2021-04-20" doc="D.C. Law 24-1" eff="2021-04-20" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-236" path="§2" codified:display="Note" app="2021-12-13" eff="2021-12-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-236" path="§2">§ 2 of Non-Public Student Educational Continuity Second Emergency Amendment Act of 2021 (D.C. Act 24-236, Dec. 13, 2021, 68 DCR 013480)</cite>.</annotation>
+    <annotation app="2021-12-13" doc="D.C. Act 24-236" eff="2021-12-13" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-79" path="§2" codified:display="Note" app="2022-02-24" eff="2022-02-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-79" path="§2">§ 2 of Non-Public Student Educational Continuity Second Temporary Amendment Act of 2021 (D.C. Law 24-79, Feb. 24, 2022, 69 DCR 000207)</cite>.</annotation>
+    <annotation app="2022-02-24" doc="D.C. Law 24-79" eff="2022-02-24" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-568" path="§2" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-568" path="§2">§ 2 of Non-Public Student Educational Continuity Emergency Amendment Act of 2022 (D.C. Act 24-568, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2022-10-17" doc="D.C. Act 24-568" eff="2022-10-17" path="§2" type="History" display="false"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-193" eff="2022-12-13" path="§2|(a)" type="History"/>
+    <annotation app="2022-12-13" doc="D.C. Law 24-193" eff="2022-12-13" path="§2|(b)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§4155|(a)" type="History"/>
   </annotations>
 </section>

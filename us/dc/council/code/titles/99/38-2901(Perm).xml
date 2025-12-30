@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>38-2901(perm)</num>
+  <num>38-2901(Perm)</num>
   <heading>Definitions.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§38-2901">Current Version</cite>*
+  </text>
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num undesignated="true">(a)</num>
+    <text>For the purposes of this chapter, the term:</text>
     <para>
       <num>(1)</num>
-      <text>“Adult education” means services or instruction below the college level for adults who:</text>
+      <text>"Adult education" means services or instruction below the college level for adults who:</text>
       <para>
         <num>(A)</num>
         <text>Lack sufficient mastery of basic educational skills to enable them to function effectively in society;</text>
@@ -23,7 +27,7 @@
     </para>
     <para>
       <num>(1A)</num>
-      <text>“Allowable special education costs” means costs incurred for the following purposes:</text>
+      <text>"Allowable special education costs" means costs incurred for the following purposes:</text>
       <para>
         <num>(A)</num>
         <text>Instruction, salaries, benefits, supplies, textbooks, and other expenses, including:</text>
@@ -37,7 +41,7 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>The purchase, rental, repair, and maintenance of instructional equipment required to implement a student’s individualized education program;</text>
+          <text>The purchase, rental, repair, and maintenance of instructional equipment required to implement a student's individualized education program;</text>
         </para>
         <para>
           <num>(iv)</num>
@@ -57,7 +61,7 @@
         <text>Related services as defined in 34 CFR § 300.34 and supplementary aids and services as defined in 34 CFR § 300.42 and also including the following:</text>
         <para>
           <num>(i)</num>
-          <text>Salaries and benefits of professional supportive personnel, corresponding to the working time that each person devotes to implementing services required pursuant to an individualized education program (“IEP”) as defined in 34 CFR § 300.22.</text>
+          <text>Salaries and benefits of professional supportive personnel, corresponding to the working time that each person devotes to implementing services required pursuant to an individualized education program ("IEP") as defined in 34 CFR § 300.22.</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -77,7 +81,7 @@
         </para>
         <para>
           <num>(vi)</num>
-          <text>Equipment purchase, rental, repair, and maintenance required to implement related services and supplementary aids and services as required by a student’s individualized education program;</text>
+          <text>Equipment purchase, rental, repair, and maintenance required to implement related services and supplementary aids and services as required by a student's individualized education program;</text>
         </para>
       </para>
       <para>
@@ -115,7 +119,7 @@
     </para>
     <para>
       <num>(1B)</num>
-      <text>“Alternative program” means specialized instruction for students under court supervision or who have a history of being on short- or long-term suspension or who have been expelled from school, or who meet other criteria as defined by the State Education Office through rulemaking. To qualify as an alternative program, a school must meet the criteria and rules set by the State Education Office. An alternative program may describe an entire school or a specialized program within a school.</text>
+      <text>"Alternative program" means specialized instruction for students under court supervision or who have a history of being on short- or long-term suspension or who have been expelled from school, or who meet other criteria as defined by the State Education Office through rulemaking. To qualify as an alternative program, a school must meet the criteria and rules set by the State Education Office. An alternative program may describe an entire school or a specialized program within a school.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -123,14 +127,14 @@
     </para>
     <para>
       <num>(2A)</num>
-      <text>“At-risk” means a DCPS student or a public charter school student who is identified as one or more of the following:</text>
+      <text>"At-risk" means a DCPS student or a public charter school student who is identified as one or more of the following:</text>
       <para>
         <num>(A)</num>
         <text>Homeless;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>In the District’s foster care system;</text>
+        <text>In the District's foster care system;</text>
       </para>
       <para>
         <num>(C)</num>
@@ -143,7 +147,11 @@
     </para>
     <para>
       <num>(2B)</num>
-      <text>“Central administration” means the functions necessary for the governance of a school district as a whole, including general oversight and management of support services such as procurement, human resources, and financial administration. The term “central administration” does not include any functions that are:</text>
+      <text>"At-Risk High School Over-age Supplement" means weighting provided in addition to the at-risk weight for a student who is at-risk because the student is a high school student that is one year older, or more, than the expected age for the grade in which the student is enrolled.</text>
+    </para>
+    <para>
+      <num>(2C)</num>
+      <text>"Central administration" means the functions necessary for the governance of a school district as a whole, including general oversight and management of support services such as procurement, human resources, and financial administration. The term "central administration" does not include any functions that are:</text>
       <para>
         <num>(A)</num>
         <text>Budgeted at the individual school level; or</text>
@@ -155,19 +163,23 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>“Consumer Price Index” (“CPI”) means the Consumer Price Index for all urban consumers for Washington, DC-MD-VA, Index Base Period 1982-84 or its successor, as issued by the United States Department of Labor, Bureau of Labor Statistics.</text>
+      <text>"Consumer Price Index" ("CPI") means the Consumer Price Index for all urban consumers for Washington, DC-MD-VA, Index Base Period 1982-84 or its successor, as issued by the United States Department of Labor, Bureau of Labor Statistics.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>“District of Columbia Public Schools” (“DCPS”) means the public local education system under the control of the Board of Education or of the Emergency Transitional Education Board of Trustees in its function. The term does not include Public Charter Schools.</text>
+      <text>"DCPS" means the District of Columbia Public Schools system. The term does not include Public Charter Schools.</text>
+    </para>
+    <para>
+      <num>(4A)</num>
+      <text>"Elementary ELL" means students who are LEP/NEP and enrolled in grades pre-kindergarten 3 through 5.</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>“Foundation” or “foundation level” means the amount of funding per weighted student needed to provide adequate regular education services to students. Regular education services do not include special education, language minority education, summer school, capital costs, state education agency functions or services funded through federal and other non-appropriated revenue sources.</text>
+      <text>"Foundation" or "foundation level" means the amount of funding per weighted student needed to provide adequate regular education services to students. Regular education services do not include special education, language minority education, summer school, capital costs, state education agency functions or services funded through federal and other non-appropriated revenue sources.</text>
     </para>
     <para>
       <num>(6)</num>
-      <text>“Full-time equivalent” means student enrollment the equal of:</text>
+      <text>"Full-time equivalent" means student enrollment the equal of:</text>
       <para>
         <num>(A)</num>
         <text>Five hours or more per school day for a minimum of 180 school days for students enrolled in grades pre-school through 12; or</text>
@@ -179,35 +191,55 @@
     </para>
     <para>
       <num>(6A)</num>
-      <text>“Intensive Program of Special Education Services” means specialized special education services of at least 30 hours per student per week for students with one or more disabling conditions in a self-contained setting during regular school hours.</text>
+      <text>"Intensive Program of Special Education Services" means specialized special education services of at least 30 hours per student per week for students with one or more disabling conditions in a self-contained setting during regular school hours.</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>“Limited English Proficient/Non-English Proficient” (“LEP/NEP”) means students identified in accordance with federal law as entitled to English as a second language or bilingual services on the basis of their English language proficiency.</text>
+      <text>"Limited English Proficient/Non-English Proficient" ("LEP/NEP") means students identified in accordance with federal law as entitled to English as a second language or bilingual services on the basis of their English language proficiency.</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>“Per student funding formula” (“Formula”) means the formula used to determine annual operating funding for DCPS and Public Charter Schools on a uniform per student basis, pursuant to <cite path="§38-1804.01">§ 38-1804.01</cite>.</text>
+      <text>"Per student funding formula" ("Formula") means the formula used to determine annual operating funding for DCPS and Public Charter Schools on a uniform per student basis, pursuant to <cite path="§38-1804.01">§ 38-1804.01</cite>.</text>
     </para>
     <para>
       <num>(9)</num>
-      <text>“Public Charter School” means a publicly funded school established pursuant to <cite path="38|18|II">subchapter II of Chapter 18 of this title</cite>; and except as provided in §§ <cite path="§38-1802.12|(d)|(5)">38-1802.12(d)(5)</cite> and <cite path="§38-1802.13|(c)|(5)">38-1802.13(c)(5)</cite>, is not a part of the DCPS.</text>
+      <text>"Public Charter School" means a publicly funded school established pursuant to <cite path="38|18|II">subchapter II of Chapter 18 of this title</cite>; and except as provided in §§ <cite path="§38-1802.12|(d)|(5)">38-1802.12(d)(5)</cite> and <cite path="§38-1802.13|(c)|(5)">38-1802.13(c)(5)</cite>, is not a part of the DCPS.</text>
     </para>
     <para>
       <num>(10)</num>
-      <text>“Residential school” means a DCPS or Public Charter School that provides students with room and board in a residential setting, in addition to their instructional program.</text>
+      <text>"Residential school" means a DCPS or Public Charter School that provides students with room and board in a residential setting, in addition to their instructional program.</text>
     </para>
     <para>
       <num>(10A)</num>
-      <text>“Resident student” means a minor enrolled in a District of Columbia public school or public charter school who has a parent, guardian, or custodian residing in the District of Columbia or an adult enrolled in a District of Columbia public school or a public charter school who resides in the District of Columbia as determined pursuant to <cite path="38|3">Chapter 3 of this title</cite> [<cite path="§38-302">§ 38-302</cite> et seq.].</text>
+      <text>"Resident student" means a minor enrolled in a District of Columbia public school or public charter school who has a parent, guardian, or custodian residing in the District of Columbia or an adult enrolled in a District of Columbia public school or a public charter school who resides in the District of Columbia as determined pursuant to <cite path="38|29|I">Chapter 3 of this title [§ 38-302 et seq.]</cite>.</text>
     </para>
     <para>
       <num>(10B)</num>
-      <text>“Self-Contained (Dedicated) Special Education School” means a school that has the capacity to provide all the facilities and services needed to meet the educational and therapeutic needs of its students, which may share a campus or only a building with a general education school.</text>
+      <text>"Secondary ELL" means students who are LEP/NEP and enrolled in:</text>
+      <para>
+        <num>(A)</num>
+        <text>Grades 6 through 12 at a DCPS or public charter school;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An alternative program;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Adult education; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Grades 6 through 12 at a special education school.</text>
+      </para>
+    </para>
+    <para>
+      <num>(10C)</num>
+      <text>"Self-Contained (Dedicated) Special Education School" means a school that has the capacity to provide all the facilities and services needed to meet the educational and therapeutic needs of its students, which may share a campus or only a building with a general education school.</text>
     </para>
     <para>
       <num>(11)</num>
-      <text>“Special education” means specialized services for students identified as having disabilities, as provided in section 101(a)(1) of the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1401(a)(1)), or students who are individuals with a disability as provided in section 7(8) of the Rehabilitation Act of 1973, approved September 26, 1973 (87 Stat. 359; 29 U.S.C. § 706(8)).</text>
+      <text>"Special education" means specialized services for students identified as having disabilities, as provided in section 101(a)(1) of the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1401(a)(1)), or students who are individuals with a disability as provided in section 7(8) of the Rehabilitation Act of 1973, approved September 26, 1973 (87 Stat. 359; 29 U.S.C. § 706(8)).</text>
     </para>
     <para>
       <num>(11A)</num>
@@ -215,27 +247,27 @@
     </para>
     <para>
       <num>(11B)</num>
-      <text>“Special Education Compliance Funding” means funds provided to public schools through the “Formula” to support activities required to address identified noncompliance with federal and local laws and regulations regarding the provision of special education services to students with disabilities.</text>
+      <text>"Special Education Compliance Funding" means funds provided to public schools through the "Formula" to support activities required to address identified noncompliance with federal and local laws and regulations regarding the provision of special education services to students with disabilities.</text>
     </para>
     <para>
       <num>(11C)</num>
-      <text>“Special Education Payment” means funding appropriated by the District through the “Formula” in the following budget categories: Special education schools, Special Education Add-ons, Special Education Capacity Fund, Special Education Compliance Fund, Residential Add-ons for Special Education, and Special Education Add-ons for Students with Extended School Year (“ESY”) Indicated in Their Individualized Education Programs.</text>
+      <text>"Special Education Payment" means funding appropriated by the District through the "Formula" in the following budget categories: Special education schools, Special Education Add-ons, Special Education Capacity Fund, Special Education Compliance Fund, Residential Add-ons for Special Education, and Special Education Add-ons for Students with Extended School Year ("ESY") Indicated in Their Individualized Education Programs.</text>
     </para>
     <para>
       <num>(11D)</num>
-      <text>“Special Education School” means a separate DCPS or public charter day school or residential school dedicated exclusively to serving special education students at levels 4 or 5.</text>
+      <text>"Special Education School" means a separate DCPS or public charter day school or residential school dedicated exclusively to serving special education students at levels 4 or 5.</text>
     </para>
     <para>
       <num>(12)</num>
-      <text>“State level costs” means costs incurred by the DCPS in its function as a state education agency, including the census of minors pursuant to <cite path="§38-204">§ 38-204</cite>, impact aid surveys, issuance of work permits, conduct of hearings and appeals, employee certification, administration of federal aid to agencies or institutions outside of the DCPS or Public Charter Schools administration. For purposes of the Formula, transportation of students with disabilities and payment of tuition for private placements of children with disabilities are considered state level costs.</text>
+      <text>"State level costs" means costs incurred by the DCPS in its function as a state education agency, including the census of minors pursuant to <cite path="§38-204">§ 38-204</cite>, impact aid surveys, issuance of work permits, conduct of hearings and appeals, employee certification, administration of federal aid to agencies or institutions outside of the DCPS or Public Charter Schools administration. For purposes of the Formula, transportation of students with disabilities and payment of tuition for private placements of children with disabilities are considered state level costs.</text>
     </para>
     <para>
       <num>(13)</num>
-      <text>“Summer school” means an accelerated instructional program provided outside the regular school year of 180 days for students in targeted grades or grade spans pursuant to promotion policies of the District of Columbia Public Schools and public charter schools.</text>
+      <text>"Summer school" means an accelerated instructional program provided outside the regular school year of 180 days for students in targeted grades or grade spans pursuant to promotion policies of the District of Columbia Public Schools and public charter schools.</text>
     </para>
     <para>
       <num>(14)</num>
-      <text>“Weighting” is a multiplication factor applied to the foundation cost for student counts in certain grade levels or special needs programs to account for differences in the cost of educating these students.</text>
+      <text>"Weighting" is a multiplication factor applied to the foundation cost for student counts in certain grade levels or special needs programs to account for differences in the cost of educating these students.</text>
     </para>
   </para>
   <annotations>
@@ -252,7 +284,9 @@
     <annotation doc="D.C. Law 19-21" type="History">Sept. 14, 2011, D.C. Law 19-21, § 4003(a), 58 DCR 6226</annotation>
     <annotation doc="D.C. Law 20-87" type="History">Feb. 22, 2014, D.C. Law 20-87, § 4(a), 61 DCR 309</annotation>
     <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 4012, 61 DCR 9990</annotation>
-    <annotation doc="D.C. Law 23-16" type="History">Sept. 11, 2019, D.C. Law 23-16, § 4003(a), 66 DCR 8621</annotation>
+    <annotation doc="D.C. Law 23-16" type="History" path="§4003|(a)">Sept. 11, 2019, D.C. Law 23-16, § 4003(a), 66 DCR 8621</annotation>
+    <annotation doc="D.C. Law 24-45" type="History" path="§4002|(a)">Nov. 13, 2021, D.C. Law 24-45, § 4002(a), 68 DCR 10163</annotation>
+    <annotation doc="D.C. Law 25-217" type="History" path="§4002|(a)">Sept. 18, 2024, D.C. Law 25-217, § 4002(a), 71 DCR 9990</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  4012 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  4012 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  4012 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>

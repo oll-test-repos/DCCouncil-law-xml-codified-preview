@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-761</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§5-761(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Retired police officer redeployment.</heading>
   <para>
     <num>(a)</num>
@@ -8,7 +11,7 @@
   </para>
   <para>
     <num>(a-1)</num>
-    <text>Except for a disability annuitant, a police officer retired from the Metropolitan Police Department shall be eligible for rehire at the discretion of the Director of the Department of Forensic Sciences as a temporary full-time or temporary part-time employee without jeopardy to the retirement benefits of the employee.</text>
+    <text>Except for a disability annuitant, a police officer retired from the Metropolitan Police Department shall be eligible for rehire at the discretion of the Director of the Department of Forensic Sciences as a full-time or part-time employee of the Department of Forensic Sciences without jeopardy to the retirement benefits of the police officer.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -86,6 +89,7 @@
     <annotation type="Prior Codifications">1973 Ed., § 4-635.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 4-618.1.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§5-704">§ 5-704</cite>.</annotation>
+    <annotation doc="D.C. Law 9-163" type="History" path="§2a" display="false">Sept. 29, 1992, D.C. Law 9-163, § 2a</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 21-399" path="§2" codified:display="Note" app="2016-05-19" eff="2016-05-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 21-399" path="§2">§ 2 of Crime Scene Investigator Hiring Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-399, May 19, 2016, 63 DCR 7914)</cite>.</annotation>
     <annotation app="2016-05-19" doc="D.C. Act 21-399" eff="2016-05-19" path="§2" type="History" display="false"/>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(a)" type="History"/>
@@ -113,5 +117,18 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3012|(a)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3012|(b)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§3032" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§7" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-348" path="§7" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-348" path="">D.C. Law 24-348</cite>: <cite doc="D.C. Law 24-348" path="§10">§ 10 of D.C. Law 24-348</cite> provided that the change made to this section by <cite doc="D.C. Law 24-348" path="§7">§ 7 of D.C. Law 24-348</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§7" type="History"/>
+    <annotation app="2024-01-04" doc="D.C. Act 25-349" eff="2024-01-04" path="§2" type="History" display="false"/>
+    <annotation app="2024-03-01" doc="D.C. Law 25-131" eff="2024-03-01" path="§2" type="History" display="false"/>
+    <annotation app="2024-09-26" doc="D.C. Act 25-555" eff="2024-09-26" path="§2" type="History" display="false"/>
+    <annotation app="2024-12-10" doc="D.C. Law 25-231" eff="2024-12-10" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§3032|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§3032|(a)">§ 3032(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§3032|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§3032|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§3032|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§3032|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§3032|(a)">§ 3032(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

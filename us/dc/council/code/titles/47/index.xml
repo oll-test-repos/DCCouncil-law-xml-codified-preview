@@ -594,6 +594,7 @@
       <xi:include href="./sections/47-811.02.xml"/>
       <xi:include href="./sections/47-811.03.xml"/>
       <xi:include href="./sections/47-811.04.xml"/>
+      <xi:include href="./sections/47-811.05.xml"/>
       <xi:include href="./sections/47-812.xml"/>
       <xi:include href="./sections/47-813.xml"/>
       <xi:include href="./sections/47-814.xml"/>
@@ -682,13 +683,22 @@
       <xi:include href="./sections/47-859.04.xml"/>
       <xi:include href="./sections/47-859.04a.xml"/>
       <xi:include href="./sections/47-859.05.xml"/>
-      <xi:include href="./sections/[47-859.06].xml"/>
+      <xi:include href="./sections/47-860.xml"/>
+      <xi:include href="./sections/47-860.01.xml"/>
+      <xi:include href="./sections/47-860.02.xml"/>
+      <xi:include href="./sections/47-860.02a.xml"/>
+      <xi:include href="./sections/47-860.03.xml"/>
+      <xi:include href="./sections/47-860.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Miscellaneous.</heading>
       <xi:include href="./sections/47-861.xml"/>
+      <xi:include href="./sections/47-861.01.xml"/>
+      <xi:include href="./sections/47-861.02.xml"/>
+      <xi:include href="./sections/47-861.03.xml"/>
+      <xi:include href="./sections/47-861.04.xml"/>
       <xi:include href="./sections/47-862.xml"/>
       <xi:include href="./sections/47-863.xml"/>
       <xi:include href="./sections/47-864.xml"/>
@@ -698,6 +708,15 @@
       <xi:include href="./sections/47-867.xml"/>
       <xi:include href="./sections/47-868.xml"/>
       <xi:include href="./sections/47-869.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III-A</num>
+      <heading>Central Washington Activation Projects.</heading>
+      <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="II|F" type="History" display="false"/>
+      <xi:include href="./sections/47-870.xml"/>
+      <xi:include href="./sections/47-870.01.xml"/>
+      <xi:include href="./sections/47-870.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -896,10 +915,10 @@
     <xi:include href="./sections/47-1096.xml"/>
     <xi:include href="./sections/47-1097.xml"/>
     <xi:include href="./sections/47-1098.xml"/>
-    <xi:include href="./sections/[47-1099].xml"/>
-    <xi:include href="./sections/[47-1099.01].xml"/>
-    <xi:include href="./sections/[47-1099.02].xml"/>
-    <xi:include href="./sections/[47-1099.03].xml"/>
+    <xi:include href="./sections/47-1099.xml"/>
+    <xi:include href="./sections/47-1099.01.xml"/>
+    <xi:include href="./sections/47-1099.02.xml"/>
+    <xi:include href="./sections/47-1099.03.xml"/>
     <xi:include href="./sections/47-1099.04.xml"/>
     <xi:include href="./sections/47-1099.05.xml"/>
     <xi:include href="./sections/47-1099.06.xml"/>
@@ -907,6 +926,11 @@
     <xi:include href="./sections/47-1099.08.xml"/>
     <xi:include href="./sections/47-1099.09.xml"/>
     <xi:include href="./sections/47-1099.10.xml"/>
+    <xi:include href="./sections/47-1099.11.xml"/>
+    <xi:include href="./sections/47-1099.12.xml"/>
+    <xi:include href="./sections/47-1099.13.xml"/>
+    <xi:include href="./sections/47-1099.14.xml"/>
+    <xi:include href="./sections/47-1099.15.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -982,7 +1006,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>12D</num>
-    <heading>Stevie Sellows Quality Improvement Fund; ICF-IDD [ICF-IID] Assessment.</heading>
+    <heading>Stevie Sellow's Quality Improvement Fund; ICF-IDD [ICF-IID] Assessment.<annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§5092|(b)|(1)" type="History"/></heading>
     <xi:include href="./sections/47-1270.xml"/>
     <xi:include href="./sections/47-1271.xml"/>
     <xi:include href="./sections/47-1272.xml"/>
@@ -1095,6 +1119,20 @@
       <xi:include href="./sections/47-1383.xml"/>
       <xi:include href="./sections/47-1384.xml"/>
       <xi:include href="./sections/47-1385.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Foreclosure by the Office of the Attorney General of Class 3 and 4 Properties.</heading>
+      <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="III" type="History" display="false"/>
+      <xi:include href="./sections/47-1390.xml"/>
+      <xi:include href="./sections/47-1391.xml"/>
+      <xi:include href="./sections/47-1392.xml"/>
+      <xi:include href="./sections/47-1393.xml"/>
+      <xi:include href="./sections/47-1394.xml"/>
+      <xi:include href="./sections/47-1395.xml"/>
+      <xi:include href="./sections/47-1396.xml"/>
+      <xi:include href="./sections/47-1397.xml"/>
     </container>
   </container>
   <container>
@@ -1262,6 +1300,7 @@
       <xi:include href="./sections/47-1803.01.xml"/>
       <xi:include href="./sections/47-1803.02.xml"/>
       <xi:include href="./sections/47-1803.03.xml"/>
+      <xi:include href="./sections/47-1803.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1282,6 +1321,7 @@
       <xi:include href="./sections/47-1805.01.xml"/>
       <xi:include href="./sections/47-1805.02.xml"/>
       <xi:include href="./sections/47-1805.02a.xml"/>
+      <xi:include href="./sections/47-1805.02b.xml"/>
       <xi:include href="./sections/47-1805.03.xml"/>
       <xi:include href="./sections/47-1805.04.xml"/>
       <xi:include href="./sections/47-1805.05.xml"/>
@@ -1294,6 +1334,7 @@
       <xi:include href="./sections/47-1806.02.xml"/>
       <xi:include href="./sections/47-1806.03.xml"/>
       <xi:include href="./sections/47-1806.04.xml"/>
+      <xi:include href="./sections/47-1806.04a.xml"/>
       <xi:include href="./sections/47-1806.05.xml"/>
       <xi:include href="./sections/47-1806.06.xml"/>
       <xi:include href="./sections/47-1806.07.xml"/>
@@ -1318,7 +1359,8 @@
       <xi:include href="./sections/47-1806.13.xml"/>
       <xi:include href="./sections/47-1806.14.xml"/>
       <xi:include href="./sections/47-1806.15.xml"/>
-      <xi:include href="./sections/[47-1806.16].xml"/>
+      <xi:include href="./sections/47-1806.16.xml"/>
+      <xi:include href="./sections/47-1806.17.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1339,7 +1381,7 @@
       <xi:include href="./sections/47-1807.12.xml"/>
       <xi:include href="./sections/47-1807.13.xml"/>
       <xi:include href="./sections/47-1807.14.xml"/>
-      <xi:include href="./sections/[47-1807.15].xml"/>
+      <xi:include href="./sections/47-1807.15.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1355,8 +1397,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII-B</num>
-      <reason>Repealed</reason>
       <heading>Wheelchair-accessible vehicle tax credit. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7186" type="History"/></heading>
+      <reason>Repealed</reason>
       <annotation app="2017-04-07" doc="D.C. Law 21-242" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/47-1807.61.xml"/>
       <xi:include href="./sections/47-1807.62.xml"/>
@@ -1386,7 +1428,7 @@
       <xi:include href="./sections/47-1808.12.xml"/>
       <xi:include href="./sections/47-1808.13.xml"/>
       <xi:include href="./sections/47-1808.14.xml"/>
-      <xi:include href="./sections/[47-1808.15].xml"/>
+      <xi:include href="./sections/47-1808.15.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1521,6 +1563,16 @@
       <xi:include href="./sections/47-1818.07.xml"/>
       <xi:include href="./sections/47-1818.08.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>XIX</num>
+      <heading>Vacant and Blighted Property Rehabilitation Credit.</heading>
+      <annotation app="2025-10-01" doc="D.C. Law 26-41" eff="2025-10-01" path="III" type="History" display="false"/>
+      <xi:include href="./sections/47-1819.01.xml"/>
+      <xi:include href="./sections/47-1819.02.xml"/>
+      <xi:include href="./sections/47-1819.03.xml"/>
+      <xi:include href="./sections/47-1819.04.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1588,6 +1640,7 @@
     <xi:include href="./sections/47-2002.05.xml"/>
     <xi:include href="./sections/47-2002.06.xml"/>
     <xi:include href="./sections/47-2002.07.xml"/>
+    <xi:include href="./sections/47-2002.08.xml"/>
     <xi:include href="./sections/47-2003.xml"/>
     <xi:include href="./sections/47-2004.xml"/>
     <xi:include href="./sections/47-2005.xml"/>
@@ -1830,7 +1883,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>27B</num>
-    <heading>Ballpark Fee.</heading>
+    <heading>Sports facilities fee.<annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7042|(a)" type="History"/></heading>
     <xi:include href="./sections/47-2761.xml"/>
     <xi:include href="./sections/47-2762.xml"/>
     <xi:include href="./sections/47-2762.01.xml"/>
@@ -1901,12 +1954,16 @@
       <xi:include href="./sections/47-2848.xml"/>
       <xi:include href="./sections/47-2849.xml"/>
       <xi:include href="./sections/47-2850.xml"/>
+      <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(b)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(b)">§ 5(b) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+      <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(b)" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>I-A</num>
       <heading>General Provisions.</heading>
       <xi:include href="./sections/47-2851.01.xml"/>
+      <xi:include href="./sections/47-2851.01a.xml"/>
+      <xi:include href="./sections/47-2851.01b.xml"/>
       <xi:include href="./sections/47-2851.02.xml"/>
       <xi:include href="./sections/47-2851.02a.xml"/>
       <xi:include href="./sections/47-2851.03.xml"/>
@@ -1931,8 +1988,11 @@
       <xi:include href="./sections/47-2851.18.xml"/>
       <xi:include href="./sections/47-2851.19.xml"/>
       <xi:include href="./sections/47-2851.20.xml"/>
-      <annotation type="Applicability" codified:display="Note" app="2017-02-18" eff="2017-02-18" doc="D.C. Law 21-213" path="§3|(c)">Applicability of <cite doc="D.C. Law 21-213" path="">D.C. Law 21-213</cite>: <cite doc="D.C. Law 21-213" path="§4">§ 4 of D.C. Law 21-213</cite> provided that the creation of this section by <cite doc="D.C. Law 21-213" path="§3|(c)">§ 3(c) of D.C. Law 21-213</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2017-02-18" doc="D.C. Law 21-213" eff="2017-02-18" path="§3|(c)" type="History"/>
+      <xi:include href="./sections/47-2851.21.xml"/>
+      <xi:include href="./sections/47-2851.22.xml"/>
+      <xi:include href="./sections/47-2851.23.xml"/>
+      <xi:include href="./sections/47-2851.24.xml"/>
+      <xi:include href="./sections/47-2851.25.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2015,11 +2075,30 @@
         <prefix>Part</prefix>
         <num>D-i</num>
         <heading>Body Artists.</heading>
+        <xi:include href="./sections/47-2853.76.xml"/>
         <xi:include href="./sections/47-2853.76a.xml"/>
         <xi:include href="./sections/47-2853.76b.xml"/>
         <xi:include href="./sections/47-2853.76c.xml"/>
         <xi:include href="./sections/47-2853.76d.xml"/>
         <xi:include href="./sections/47-2853.76e.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>D-ii</num>
+        <heading>Construction Managers and General Contractors.</heading>
+        <reason>Not Funded</reason>
+        <annotation app="2024-12-17" doc="D.C. Law 25-244" eff="2024-12-17" path="§3|(a)" type="History" display="false"/>
+        <annotation app="notfunded" doc="D.C. Law 25-244" eff="2024-12-17" path="§2" type="History" display="false"/>
+        <xi:include href="./sections/47-2853.78.xml"/>
+        <xi:include href="./sections/47-2853.78a.xml"/>
+        <xi:include href="./sections/47-2853.78b.xml"/>
+        <xi:include href="./sections/47-2853.78c.xml"/>
+        <xi:include href="./sections/47-2853.78d.xml"/>
+        <xi:include href="./sections/47-2853.78e.xml"/>
+        <xi:include href="./sections/47-2853.78f.xml"/>
+        <xi:include href="./sections/47-2853.78g.xml"/>
+        <xi:include href="./sections/47-2853.78h.xml"/>
+        <xi:include href="./sections/47-2853.78i.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -2157,11 +2236,27 @@
       </container>
       <container>
         <prefix>Part</prefix>
+        <num>Q-i</num>
+        <heading>Detective and Security Services.</heading>
+        <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(a)|(64)" type="History" display="false"/>
+        <xi:include href="./sections/47-2853.207.xml"/>
+        <xi:include href="./sections/47-2853.208.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
         <num>R</num>
         <heading>Steam and Other Operating Engineers.</heading>
         <xi:include href="./sections/47-2853.211.xml"/>
         <xi:include href="./sections/47-2853.212.xml"/>
         <xi:include href="./sections/47-2853.213.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>R-i</num>
+        <heading>Tour Guides.</heading>
+        <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(a)|(65)" type="History" display="false"/>
+        <xi:include href="./sections/47-2853.217.xml"/>
+        <xi:include href="./sections/47-2853.218.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -2312,6 +2407,7 @@
         <xi:include href="./sections/47-2887.14.xml"/>
         <xi:include href="./sections/47-2887.15.xml"/>
         <xi:include href="./sections/47-2887.16.xml"/>
+        <xi:include href="./sections/47-2887.16a.xml"/>
         <xi:include href="./sections/47-2887.17.xml"/>
         <xi:include href="./sections/47-2887.18.xml"/>
       </container>
@@ -2327,6 +2423,20 @@
         <xi:include href="./sections/47-2888.06.xml"/>
         <xi:include href="./sections/47-2888.07.xml"/>
         <xi:include href="./sections/47-2888.08.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>G</num>
+        <heading>College Athlete Name, Image, or Likeness Registration.</heading>
+        <annotation app="2023-02-23" doc="D.C. Law 24-245" eff="2023-02-23" path="§222|(b)" type="History" display="false"/>
+        <xi:include href="./sections/47-2889.01.xml"/>
+        <xi:include href="./sections/47-2889.02.xml"/>
+        <xi:include href="./sections/47-2889.03.xml"/>
+        <xi:include href="./sections/47-2889.04.xml"/>
+        <xi:include href="./sections/47-2889.05.xml"/>
+        <xi:include href="./sections/47-2889.06.xml"/>
+        <xi:include href="./sections/47-2889.07.xml"/>
+        <xi:include href="./sections/47-2889.08.xml"/>
       </container>
     </container>
   </container>
@@ -2520,6 +2630,7 @@
     <num>38</num>
     <heading>Supermarket Tax Incentives.</heading>
     <xi:include href="./sections/47-3801.xml"/>
+    <xi:include href="./sections/47-3801.01.xml"/>
     <xi:include href="./sections/47-3802.xml"/>
     <xi:include href="./sections/47-3803.xml"/>
     <xi:include href="./sections/47-3804.xml"/>
@@ -2555,8 +2666,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>39A</num>
-    <reason>Repealed</reason>
     <heading>Internet Tax. [Repealed].<annotation app="2019-03-22" doc="D.C. Law 22-258" eff="2019-03-22" path="§2|(e)" type="History"/></heading>
+    <reason>Repealed</reason>
     <xi:include href="./sections/47-3931.xml"/>
     <xi:include href="./sections/47-3932.xml"/>
     <xi:include href="./sections/47-3933.xml"/>
@@ -2569,8 +2680,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>40</num>
-    <reason>Repealed</reason>
     <heading>Drug Prevention and Children at Risk Tax Check-Off. [Repealed].<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7283|(c)|(2)" type="History"/></heading>
+    <reason>Repealed</reason>
     <xi:include href="./sections/47-4001.xml"/>
     <xi:include href="./sections/47-4002.xml"/>
     <xi:include href="./sections/47-4003.xml"/>
@@ -2836,13 +2947,21 @@
     <xi:include href="./sections/47-4665.06.xml"/>
     <xi:include href="./sections/47-4666.xml"/>
     <xi:include href="./sections/47-4667.xml"/>
-    <xi:include href="./sections/[47-4668].xml"/>
-    <xi:include href="./sections/[47-4669].xml"/>
+    <xi:include href="./sections/47-4668.xml"/>
+    <xi:include href="./sections/47-4669.xml"/>
     <xi:include href="./sections/47-4670.xml"/>
-    <xi:include href="./sections/[47-4671].xml"/>
-    <xi:include href="./sections/[47-4672].xml"/>
+    <xi:include href="./sections/47-4671.xml"/>
+    <xi:include href="./sections/47-4672.xml"/>
     <xi:include href="./sections/47-4673.xml"/>
     <xi:include href="./sections/47-4674.xml"/>
+    <xi:include href="./sections/47-4675.xml"/>
+    <xi:include href="./sections/47-4676.xml"/>
+    <xi:include href="./sections/47-4677.xml"/>
+    <xi:include href="./sections/47-4680.xml"/>
+    <xi:include href="./sections/47-4681.xml"/>
+    <xi:include href="./sections/47-4682.xml"/>
+    <xi:include href="./sections/[47-4683].xml"/>
+    <xi:include href="./sections/[47-4684].xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2879,9 +2998,9 @@
   <container>
     <prefix>Chapter</prefix>
     <num>50</num>
-    <reason>Not Funded</reason>
-    <reason>Repealed</reason>
     <heading>High Unemployment Area Tax Relief. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7104" type="History"/></heading>
+    <reason>Repealed</reason>
+    <reason>Not Funded</reason>
     <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
     <xi:include href="./sections/47-5001.xml"/>

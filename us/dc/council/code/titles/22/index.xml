@@ -36,6 +36,7 @@
     <xi:include href="./sections/22-404.01.xml"/>
     <xi:include href="./sections/22-404.02.xml"/>
     <xi:include href="./sections/22-404.03.xml"/>
+    <xi:include href="./sections/22-404.04.xml"/>
     <xi:include href="./sections/22-405.xml"/>
     <xi:include href="./sections/22-405.01.xml"/>
     <xi:include href="./sections/22-406.xml"/>
@@ -118,7 +119,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>9A</num>
-    <heading>Criminal Abuse and Neglect of Vulnerable Adults.</heading>
+    <heading>Abuse, Neglect, and Financial Exploitation of Vulnerable Adults and Elderly Persons.<annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§302|(a)" type="History"/></heading>
     <xi:include href="./sections/22-931.xml"/>
     <xi:include href="./sections/22-932.xml"/>
     <xi:include href="./sections/22-933.xml"/>
@@ -148,12 +149,17 @@
     <xi:include href="./sections/22-1005.xml"/>
     <xi:include href="./sections/22-1006.xml"/>
     <xi:include href="./sections/22-1006.01.xml"/>
+    <xi:include href="./sections/22-1006.02.xml"/>
     <xi:include href="./sections/22-1007.xml"/>
     <xi:include href="./sections/22-1008.xml"/>
     <xi:include href="./sections/22-1009.xml"/>
     <xi:include href="./sections/22-1010.xml"/>
     <xi:include href="./sections/22-1011.xml"/>
     <xi:include href="./sections/22-1012.xml"/>
+    <xi:include href="./sections/22-1012.01.xml"/>
+    <xi:include href="./sections/22-1012.02.xml"/>
+    <xi:include href="./sections/22-1012.03.xml"/>
+    <xi:include href="./sections/22-1012.04.xml"/>
     <xi:include href="./sections/22-1013.xml"/>
     <xi:include href="./sections/22-1014.xml"/>
     <xi:include href="./sections/22-1015.xml"/>
@@ -233,6 +239,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>14A</num>
+    <heading>Female Genital Mutilation.</heading>
+    <annotation app="2025-04-18" doc="D.C. Law 25-322" eff="2025-04-18" path="" type="History" display="false"/>
+    <xi:include href="./sections/22-1431.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>15</num>
     <heading>Forgery; Frauds.</heading>
     <xi:include href="./sections/22-1501.xml"/>
@@ -288,10 +301,6 @@
       <xi:include href="./sections/22-1716.xml"/>
       <xi:include href="./sections/22-1717.xml"/>
       <xi:include href="./sections/22-1718.xml"/>
-      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-      <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/>
-      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-      <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/>
       <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History"/>
     </container>
   </container>
@@ -492,6 +501,7 @@
     <heading>Protest Targeting a Residence.</heading>
     <xi:include href="./sections/22-2751.xml"/>
     <xi:include href="./sections/22-2752.xml"/>
+    <xi:include href="./sections/22-2753.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -633,6 +643,7 @@
       <num>II</num>
       <heading>Theft; Related Offenses.</heading>
       <xi:include href="./sections/22-3211.xml"/>
+      <xi:include href="./sections/22-3211.01.xml"/>
       <xi:include href="./sections/22-3212.xml"/>
       <xi:include href="./sections/22-3213.xml"/>
       <xi:include href="./sections/22-3214.xml"/>
@@ -808,9 +819,12 @@
   <container>
     <prefix>Chapter</prefix>
     <num>36</num>
-    <heading>Crimes Committed Against Certain Persons.</heading>
+    <heading> Enhanced Crimes Committed Against Certain Persons.</heading>
     <xi:include href="./sections/22-3601.xml"/>
     <xi:include href="./sections/22-3602.xml"/>
+    <xi:include href="./sections/22-3603.xml"/>
+    <xi:include href="./sections/22-3604.xml"/>
+    <xi:include href="./sections/22-3605.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -921,6 +935,8 @@
     <num>41B</num>
     <heading>DNA Sample Collection.</heading>
     <xi:include href="./sections/22-4151.xml"/>
+    <xi:include href="./sections/22-4152.xml"/>
+    <xi:include href="./sections/22-4153.xml"/>
   </container>
   <subheading>Subtitle IV. Prevention, Solution, and Punishment of Crimes.</subheading>
   <container>
@@ -942,6 +958,8 @@
       <xi:include href="./sections/22-4233.xml"/>
       <xi:include href="./sections/22-4234.xml"/>
       <xi:include href="./sections/22-4235.xml"/>
+      <xi:include href="./sections/22-4236.xml"/>
+      <xi:include href="./sections/22-4237.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -958,6 +976,13 @@
     <num>42B</num>
     <heading>Homicide Elimination.</heading>
     <xi:include href="./sections/22-4251.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>42C</num>
+    <heading>Comprehensive Public Safety Plan.</heading>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="" type="History" display="false"/>
+    <xi:include href="./sections/22-4271.xml"/>
   </container>
   <subheading>Subtitle V. Harbor, Game and Fish Laws.</subheading>
   <container>
@@ -1018,10 +1043,13 @@
     <xi:include href="./sections/22-4503.xml"/>
     <xi:include href="./sections/22-4503.01.xml"/>
     <xi:include href="./sections/22-4503.02.xml"/>
+    <xi:include href="./sections/22-4503.03.xml"/>
+    <xi:include href="./sections/22-4503.04.xml"/>
     <xi:include href="./sections/22-4504.xml"/>
     <xi:include href="./sections/22-4504.01.xml"/>
     <xi:include href="./sections/22-4504.02.xml"/>
     <xi:include href="./sections/22-4505.xml"/>
+    <xi:include href="./sections/22-4505.01.xml"/>
     <xi:include href="./sections/22-4506.xml"/>
     <xi:include href="./sections/22-4507.xml"/>
     <xi:include href="./sections/22-4508.xml"/>

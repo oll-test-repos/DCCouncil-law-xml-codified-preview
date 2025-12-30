@@ -1,27 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-1774.10</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§8-1774.10(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§8-1774.10(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Sustainable Energy Trust Fund.</heading>
   <para>
     <num>(a)</num>
+    <text>There is established as a special fund the Sustainable Energy Trust Fund ("Fund"), which shall be administered by the Mayor in accordance with subsection (c) of this section.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>Revenue from the following sources shall be deposited in the Fund:</text>
     <para>
       <num>(1)</num>
-      <text>There is established as a special fund the Sustainable Energy Trust Fund, which shall be used solely for the purposes stated in subsection (c) of this section. The Sustainable Energy Trust Fund shall be funded by an assessment on the natural gas, electric companies, and a person who delivers heating oil or fuel oil to an end-user in the District under subsection (b) of this section and from the sale of credits associated with the Regional Greenhouse Gas Initiative or any successor program. All funds collected from these sources shall be deposited into the SETF and shall be disbursed by the Fiscal Agent.</text>
+      <text>The assessments imposed by subsection (b) of this section;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+      <text>The sale of credits associated with the Regional Greenhouse Gas Initiative or any successor program; and</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+      <text>Money transferred from the Green Building Fund pursuant to <cite path="§6-1451.07">§ 6-1451.07</cite>; provided, that any such money shall be used solely for the purpose described in subsection (c)(18) of this section.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>There is imposed upon the natural gas company an assessment calculated on sales on a per-therm basis as follows:</text>
+      <text>There is imposed upon a natural gas company an assessment calculated on sales on a per-therm basis as follows:</text>
       <para>
         <num>(A)</num>
         <text>The amount of $.011 in fiscal year 2009;</text>
@@ -40,20 +51,32 @@
       </para>
       <para>
         <num>(E)</num>
-        <text>The amount of $.04515 in fiscal year 2020 through fiscal year 2026;</text>
+        <text>The amount of $.04515 in fiscal year 2020 through fiscal year 2023;</text>
       </para>
       <para>
         <num>(F)</num>
-        <text>The amount of $.03762 in fiscal year 2027 through fiscal year 2031; and</text>
+        <text>The amount of $.07515 in fiscal year 2024; and</text>
+      </para>
+      <para placeholder="Repealed">
+        <num>(G)</num>
+        <text>Repealed.</text>
       </para>
       <para>
-        <num>(G)</num>
-        <text>The amount of $.0263 in fiscal year 2032 and each year thereafter.</text>
+        <num>(H)</num>
+        <text>The amount of $.1061 in fiscal year 2025;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>The amount of $0.032668 in fiscal year 2026; and</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>The amount of $0.027088 in fiscal year 2027 and each fiscal year thereafter.</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>There is imposed upon the electric company an assessment calculated on sales on a per-kilowatt hour basis as follows:</text>
+      <text>There is imposed upon an electric company an assessment calculated on sales on a per-kilowatt hour basis as follows:</text>
       <para>
         <num>(A)</num>
         <text>The amount of $.0011 in fiscal year 2009;</text>
@@ -80,52 +103,76 @@
       </para>
       <para>
         <num>(G)</num>
-        <text>The amount of $.0027001 in fiscal year 2022;</text>
+        <text>The amount of $.0027001 in fiscal year 2022 and fiscal year 2023;</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(H)</num>
-        <text>The amount of $.00259935 in fiscal year 2023;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(I)</num>
-        <text>The amount of $.0024986 in fiscal year 2024;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(J)</num>
-        <text>The amount of $.00239785 in fiscal year 2025;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(K)</num>
-        <text>The amount of $.0022971 in fiscal year 2026;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(L)</num>
-        <text>The amount of $.00219635 in fiscal year 2027;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(M)</num>
-        <text>The amount of $.0020956 in fiscal year 2028;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(N)</num>
-        <text>The amount of $.00199485 in fiscal year 2029;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(O)</num>
-        <text>The amount of $.0018942 in fiscal year 2030;</text>
+        <text>Repealed.</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(P)</num>
-        <text>The amount of $.00179335 in fiscal year 2031; and</text>
+        <text>Repealed.</text>
+      </para>
+      <para placeholder="Repealed">
+        <num>(Q)</num>
+        <text>Repealed.</text>
       </para>
       <para>
-        <num>(Q)</num>
-        <text>The amount of $.001612 in fiscal year 2032 and each year thereafter.</text>
+        <num>(R)</num>
+        <text>The amount of $.0044001 in fiscal year 2024;</text>
+      </para>
+      <para>
+        <num>(S)</num>
+        <text>The amount of $.00651 in fiscal year 2025;</text>
+      </para>
+      <para>
+        <num>(T)</num>
+        <text>The amount of $0.002056 in fiscal year 2026; and</text>
+      </para>
+      <para>
+        <num>(U)</num>
+        <text>The amount of $0.001666 in fiscal year 2027 and each fiscal year thereafter.</text>
       </para>
     </para>
     <para>
       <num>(2A)</num>
-      <text>There shall be imposed upon a person who delivers heating oil or fuel oil to an end-user in the District, whether for industrial, commercial, or residential use, an assessment of $.084 per gallon, calculated on sales.</text>
+      <text>There shall be imposed upon a person who delivers heating oil or fuel oil to an end-user in the District, whether for industrial, commercial, or residential use, an assessment calculated on sales as follows:</text>
+      <para>
+        <num>(A)</num>
+        <text>The amount of $0.024992 per gallon in fiscal year 2026; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The amount of $0.019414 per gallon in fiscal year 2027 and each fiscal year thereafter.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -142,18 +189,34 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>The funds in the Sustainable Energy Trust Fund shall be used solely to fund:</text>
+    <text>The funds in the Sustainable Energy Trust Fund shall be used solely to fund the following; except, that no funds shall be allocated from the Fund to the budget of the Department of General Services for the purchase of gas, electricity, steam, water, sustainable energy, and waste management for the District government or other purposes:</text>
     <para>
       <num>(1)</num>
-      <text>The SEU contract in an amount of at least $20 million annually;</text>
+      <text>The SEU contract in an amount of at least:</text>
+      <para>
+        <num>(A)</num>
+        <text>$19.8 million in fiscal year 2026; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>$10 million in fiscal year 2027 and every fiscal year thereafter.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The administration of the SEU contract and the development and implementation of a comprehensive energy plan by DOEE, on an annual basis, equal to 10% of the authorized contract level in that fiscal year;</text>
+      <text>The administration of the SEU contract and the development and implementation of a comprehensive energy plan by DOEE, in an amount of at least:</text>
+      <para>
+        <num>(A)</num>
+        <text>$4,143,591 in fiscal year 2026; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>$8,532,489 in fiscal year 2027 and each fiscal year thereafter;</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>An independent review of the performance of the SEU under <cite path="§8-1774.05|(k)">§ 8-1774.05(k)</cite> in the amount of $100,000 annually, beginning in fiscal year 2012;</text>
+      <text>An independent review of the performance of the SEU under <cite path="§8-1774.05|(k)">§ 8-1774.05(k)</cite>;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -191,27 +254,7 @@
       <num>(12)</num>
       <para>
         <num>(A)</num>
-        <text>Beginning in fiscal year 2020, in an amount equal to at least 30% of the funds generated by the increases to the assessments described in subsection (b) of this section contained in D.C. Law 22-257, activities of DOEE or the Sustainable Energy Utility to:</text>
-        <para>
-          <num>(i)</num>
-          <text>Benefit low-income residents, which may include energy bill assistance, energy efficiency, and weatherization, including programs making improvements to commercial and institutional buildings that serve primarily low-income residents;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Establish workforce development initiatives for District residents in energy efficiency fields;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Establish the Sustainable Energy Infrastructure Capacity Building and Pipeline Program, required by <cite path="§8-1772.31">§ 8-1772.31</cite>;</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>Support the implementation of the transportation emission reduction initiative required by <cite path="§50-2201.03|(j)|(1A)">§ 50-2201.03(j)(1A)</cite>, including by covering the costs incurred by other District agencies to implement the initiative; and</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <text>Support the implementation of the energy retrofit program required by <cite path="§8-1772.22">§ 8-1772.22</cite>, including by covering the costs incurred by other District agencies to implement the program.</text>
-        </para>
+        <text>Activities of DOEE or the Sustainable Energy Utility to:</text>
       </para>
       <para>
         <num>(B)</num>
@@ -220,7 +263,7 @@
     </para>
     <para>
       <num>(13)</num>
-      <text>Implementation of the Building Energy Performance Standard program required by <cite path="§8-1772.21">§ 8-1772.21</cite>;</text>
+      <text>Implementation of the Building Energy Performance Standard program required by <cite path="§8-1772.21">§ 8-1772.21</cite>; provided, that no money shall be transferred from the Sustainable Energy Trust Fund to the Department of General Services under this paragraph in Fiscal Year 2024 through Fiscal Year 2028;</text>
     </para>
     <para>
       <num>(14)</num>
@@ -232,11 +275,105 @@
     </para>
     <para>
       <num>(16)</num>
-      <text>In fiscal years 2022, 2023, 2024, and 2025, transferring $10 million to the Green Finance Authority to support sustainable projects and programs; provided, that such transfer is included in an approved budget and financial plan; and</text>
+      <para>
+        <num>(A)</num>
+        <text>In Fiscal Years 2022 and 2023, transferring at least $10 million, but no more than $15 million, to the Green Finance Authority to support sustainable projects and programs; provided, that funding for such transfers is included in an approved budget and financial plan; provided further, that the total amount of money transferred to the Green Finance Authority from the Sustainable Energy Trust Fund in Fiscal Years 2020 through 2023 shall not exceed $70 million;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In Fiscal Years 2025, 2026, 2027, and 2028, transferring at least $3.5 million to the Green Finance Authority to support sustainable projects and programs; provided, that funding for such transfers is included in an approved budget and financial plan; provided further, that the total amount of money transferred to the Green Finance Authority from the Sustainable Energy Trust Fund in Fiscal Years 2025 through 2028 shall not exceed $60 million;</text>
+      </para>
     </para>
     <para>
       <num>(17)</num>
-      <text>Beginning in fiscal year 2022, at least $3 million annually shall be used by DOEE or the Sustainable Energy Utility, selected pursuant to <cite path="8|17N">this chapter</cite>, to provide assistance to providers of affordable housing or rent-controlled buildings for energy efficiency upgrades of buildings subject to the Building Energy Performance Standard program required by <cite path="§8-1772.21">§ 8-1772.21</cite>.</text>
+      <text>Beginning in fiscal year 2022, assistance provided by DOEE or the Sustainable Energy Utility to providers of affordable housing or rent-controlled buildings for energy efficiency upgrades of buildings subject to the Building Energy Performance Standard program required by <cite path="§8-1772.21">§ 8-1772.21</cite>;</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>Activities permitted under <cite path="§6-1451.07|(c)|(2)">§ 6-1451.07(c)(2)</cite> through (7);</text>
+    </para>
+    <para>
+      <num>(19)</num>
+      <text>Projects and programs intended to increase climate change resilience in the District through the use of sustainable energy resources, including infrastructure and structural improvements and energy storage devices or equipment;</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>Implementation of the <cite doc="D.C. Law 24-176">Climate Commitment Act of 2021</cite>, as introduced on May 24, 2021 (Bill 24-267) [D.C. Law 24-176];</text>
+    </para>
+    <para>
+      <num>(21)</num>
+      <text>Implementation of the <cite doc="D.C. Law 24-177">Clean Energy DC Building Code Amendment Act of 2021</cite>, as introduced on October 1, 2021 (Bill 24-420) [D.C. Law 24-177];</text>
+    </para>
+    <para>
+      <num>(22)</num>
+      <para>
+        <num>(A)</num>
+        <text>In Fiscal Years 2023, 2024, and 2025, awarding at least $600,000 per year in grants supporting the installation of energy storage systems connected to renewable energy generation systems in the District.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The grantor shall allocate the awarded grants as follows:</text>
+        <para>
+          <num>(i)</num>
+          <text>At least $500,000 per year for commercial systems; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>At least $100,000 per year for residential systems.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Grants provided under this paragraph shall offset:</text>
+        <para>
+          <num>(i)</num>
+          <text>For commercial systems:</text>
+          <para>
+            <num>(I)</num>
+            <text>In FY 2023, at least 30%, but not more than 40%, of the purchase price of an energy storage system;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>In FY 2024, at least 25%, but not more than 40%, of the purchase price of an energy storage system; and</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>In FY 2025, at least 20%, but not more than 40%, of the purchase price of an energy storage system; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For residential systems, up to 90% of the purchase price of an energy storage system, up to $20,000 per award.</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>In selecting grant recipients, the grantor shall include a preference for energy storage systems connected to solar installations supported by the Solar for All Program or connected to a facility that supports the District's resilience action plans and strategies. The grantor shall also include a preference for District-based organizations and companies. For residential properties, the grantor shall include a preference for homeowners who demonstrate financial hardship.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>For the purposes of this paragraph, the term "grantor" means DOEE or the Sustainable Energy Utility;</text>
+      </para>
+    </para>
+    <para>
+      <num>(23)</num>
+      <text>Replacement in a residential unit of all appliances or other systems, such as an oven, water heater, or heating system, that combust fossil fuels on site with appliances or other systems that perform the same function and that are powered exclusively by electricity, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>In fiscal year 2024, up to $2 million that may be used for homes in the River Terrace and Deanwood neighborhoods in Ward 7; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>As described in <cite path="§8-1774.17">§ 8-1774.17</cite>; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(24)</num>
+      <text>Financial and technical assistance for energy efficiency upgrades for properties converting from commercial use to residential use for which the Mayor has approved a tax abatement under <cite path="§47-860.02|(a)">§ 47-860.02(a)</cite>.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(25)</num>
+      <text>Repealed.</text>
     </para>
   </para>
   <para>
@@ -253,6 +390,17 @@
     <para>
       <num>(2)</num>
       <text>The performance of SETF programs operated by the DOEE.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund but not expended in a fiscal year shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
     </para>
   </para>
   <annotations>
@@ -307,6 +455,7 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (c).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-195">D.C. Law 18-195</cite>, in subsec. (b)(4), substituted “established by the Commission” for “operated by DDOE”.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§8-1773.01">§ 8-1773.01</cite>, <cite path="§8-1774.02">§ 8-1774.02</cite>, <cite path="§8-1774.07">§ 8-1774.07</cite>, and <cite path="§8-1774.09">§ 8-1774.09</cite>.</annotation>
+    <annotation doc="D.C. Law 17-250" type="History" path="§210a" display="false">Oct. 22, 2008, D.C. Law 17-250, § 210a</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(a)|(1)|(A)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(a)|(1)|(B)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(a)|(2)|(A)" type="History"/>
@@ -350,5 +499,90 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6052|(c)" type="History"/>
     <annotation doc="D.C. Law 23-16" path="§7164" type="Applicability" history="false" display-template="" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§7164">Section 7164 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-257" path="§601">§ 601 of D.C. Law 22-257</cite>. Therefore the amendment of this section by <cite doc="D.C. Law 22-257">D.C. Law 22-257</cite> has been implemented.</annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7164" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6032" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6032">§ 6032 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6032" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6123" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§6123">§ 6123 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6123" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6123|(a)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6032" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6123|(b)|(1)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6123|(b)|(2)" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§6123|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§6052" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§6052">§ 6052 of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§6052" type="History" display="false"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(3)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(4)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(5)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(6)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(7)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(8)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(9)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(10)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(11)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(a)|(12)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(b)|(1)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(b)|(2)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§6052|(b)|(3)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(a)|(1)|(A)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(a)|(1)|(B)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(a)|(1)|(C)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(a)|(2)|(A)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(a)|(2)|(B)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(a)|(2)|(C)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(b)|(1)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(b)|(2)" type="History"/>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="§6052|(b)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§7|(f)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§7|(f)">§ 7(f) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
+    <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§7|(f)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6132|(b)|(6)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6132|(b)|(6)">§ 6132(b)(6) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6132|(b)|(6)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§7|(f)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§7|(f)">§ 7(f) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§7|(f)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(a)|(1)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(a)|(1)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(a)|(1)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(a)|(2)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(a)|(2)|(B)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(a)|(2)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(3)|(B)|(i)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(3)|(B)|(ii)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(3)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(3)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(4)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(5)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6132|(b)|(6)" type="History"/>
+    <annotation app="2025-08-18" doc="D.C. Act 26-142" eff="2025-08-18" path="§5" type="History" display="false"/>
+    <annotation app="2025-08-18" doc="D.C. Act 26-142" eff="2025-08-18" path="§5|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-142" path="§5" codified:display="Note" app="2025-08-18" eff="2025-08-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-142" path="§5">§ 5 of Fiscal Year 2025 Revised Local Budget Adjustment Emergency Act of 2025 (D.C. Act 26-142, Aug. 18, 2025, 72 DCR 9130)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§6022|(b)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§6022|(b)">§ 6022(b) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6022|(b)" type="History" display="false"/>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§6022|(c)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(1)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(2)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(3)|(A)|(ii)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(3)|(A)|(iii)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(3)|(A)|(i)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(3)|(B)|(ii)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(3)|(B)|(iii)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(3)|(B)|(i)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(3)|(C)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(B)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(C)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(D)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(E)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(F)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(G)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(H)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(I)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(J)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(4)|(A)" type="History"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(b)|(5)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§6022|(b)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§6022|(b)">§ 6022(b) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6022|(c)" type="History" display="false"/>
   </annotations>
 </section>

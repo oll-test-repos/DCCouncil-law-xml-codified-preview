@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2862</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2862(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 22, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-2862(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Prohibition against issuance of license or permit.</heading>
   <para>
     <num>(a)</num>
-    <text>Notwithstanding any other provision of law, the District government shall not issue or reissue a license or permit to any applicant for a license or permit if the applicant:</text>
+    <text>Notwithstanding any other provision of law except as set forth in subsection (a-1) of this section, the District government shall not issue or reissue a license or permit to any applicant for a license or permit if the applicant:</text>
     <para>
       <num>(1)</num>
-      <text>Owes the District more than $100 in outstanding fines, penalties, or interest assessed pursuant to the following acts or any regulations promulgated under the authority of the following acts, the:</text>
+      <text>Owes the District more than $1,000 in outstanding fines, penalties, or interest assessed pursuant to the following acts or any regulations promulgated under the authority of the following acts, the:</text>
       <para>
         <num>(A)</num>
         <text>Litter Control Administrative Act of 1985, effective March 25, 1986 (<cite doc="D.C. Law 6-100">D.C. Law 6-100</cite>; D.C. Official Code <cite path="§8-801">§ 8-801</cite> et seq.);</text>
@@ -16,9 +22,9 @@
         <num>(B)</num>
         <text>Illegal Dumping Enforcement Act of 1994, effective May 20, 1994 (<cite doc="D.C. Law 10-117">D.C. Law 10-117</cite>; D.C. Official Code <cite path="§8-901">§ 8-901</cite> et seq.);</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(C)</num>
-        <text>District of Columbia Traffic Adjudication Act of 1978, effective September 12, 1978 (<cite doc="D.C. Law 2-104">D.C. Law 2-104</cite>: D.C. Official Code <cite path="§50-2301.01">§ 50-2301.01</cite> et seq.);</text>
+        <text>[Repealed].</text>
       </para>
       <para>
         <num>(D)</num>
@@ -28,34 +34,34 @@
         <num>(E)</num>
         <text>Department of For-Hire Vehicles Establishment Act of 1985, effective March 25, 1986 (<cite doc="D.C. Law 6-97">D.C. Law 6-97</cite>; D.C. Official Code <cite path="§50-301.01">§ 50-301.01</cite> et seq.); or</text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(F)</num>
-        <text>The Compulsory/No-Fault Motor Vehicle Insurance Act of 1982, effective September 18, 1982 (<cite doc="D.C. Law 4-155">D.C. Law 4-155</cite>; D.C. Official Code <cite path="§31-2401">§ 31-2401</cite> et seq.);</text>
+        <text>[Repealed].</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>Owes the District more than $100 in past due taxes;</text>
+      <text>Owes the District more than $1,000 in past due taxes;</text>
     </para>
     <para>
       <num>(3)</num>
       <text>Owes fines assessed to car dealers pursuant to <cite path="§50-1501.02|(i)">§ 50-1501.02(i)</cite>;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(4)</num>
-      <text>Owes parking fines or penalties assessed by another jurisdiction; provided, that a reciprocity agreement is in effect between the jurisdiction and the District;</text>
+      <text>[Repealed].</text>
     </para>
     <para>
       <num>(5)</num>
       <text>Owes past due District of Columbia Water and Sewer Authority service charges or fees;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(6)</num>
-      <text>Owes a vehicle conveyance fee, as that term is defined in <cite path="§50-2302.01|(i)" proof="true">§ 50-2302.01(i)</cite>;</text>
+      <text>[Repealed].</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>Owes the District more than $100 in outstanding fines, penalties, or interest;</text>
+      <text>Owes the District, other than amounts owed to the Department of Motor Vehicles, more than $1,000 in outstanding fines, penalties, or interest;</text>
     </para>
     <para>
       <num>(8)</num>
@@ -67,8 +73,32 @@
     </para>
   </para>
   <para>
+    <num>(a-1)</num>
+    <text>The Department of Motor Vehicles shall not issue or reissue a license or permit to any applicant if the applicant owes the District more than $100:</text>
+    <para>
+      <num>(1)</num>
+      <text>In outstanding fines, penalties, or interest assessed pursuant to the following acts or any regulations promulgated under the authority of the following acts:</text>
+      <para>
+        <num>(A)</num>
+        <text><cite path="50|23">[Chapter 23 of Title 50]</cite>; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text><cite path="31|24">[Chapter 24 of Title 31]</cite>;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>In parking fines or penalties assessed by another jurisdiction; provided, that a reciprocity agreement is in effect between the jurisdiction and the District; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>In vehicle conveyance fees, as that term is defined in <cite path="§50-2301.02|(9)">§ 50-2301.02(9)</cite>.</text>
+    </para>
+  </para>
+  <para>
     <num>(b)</num>
-    <text>For purposes of this section, if: (A) the amount of outstanding debt over $100 is subject to dispute, (B) the applicant has properly and timely appealed the infraction, assessment, tax, or basis for the alleged debt, and (C) the appeal is pending, then the outstanding debt shall not be cause for the District government to deny the issuance or reissuance of any license or permit pursuant to subsection (a) of this section. Nothing in this section shall be construed as allowing the nonpayment of any tax, fee, fine, penalty, or any other debt owed to the District government for which payment is required by other law.</text>
+    <text>For purposes of this section, if: (A) the amount of outstanding debt is subject to dispute, (B) the applicant has properly and timely appealed the infraction, assessment, tax, or basis for the alleged debt, and (C) the appeal is pending, then the outstanding debt shall not be cause for the District government to deny the issuance or reissuance of any license or permit pursuant to subsection (a) of this section. Nothing in this section shall be construed as allowing the nonpayment of any tax, fee, fine, penalty, or any other debt owed to the District government for which payment is required by other law.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -76,7 +106,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>This section shall not apply to an applicant for a block party permit pursuant to [<cite path="9|6A">Chapter 6A of Title 9</cite>, <cite path="§9-631">§ 9-631</cite> et seq.].</text>
+    <text>This section shall not apply to an application for a block party permit, an expedited block party permit, or a block party preauthorization permit pursuant to [<cite path="9|6A">Chapter 6A of Title 9</cite>, <cite path="§9-631">§ 9-631</cite> et seq.].</text>
   </para>
   <annotations>
     <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>: Section 7 of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite> provided that the act shall apply as of October 1, 2014, and that the act shall apply to violations occurring after October 1, 2014.</text>
@@ -137,5 +167,28 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-2862.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§25-301">§ 25-301</cite>, <cite path="§47-2863">§ 47-2863</cite>, <cite path="§47-2865">§ 47-2865</cite>, <cite path="§47-2866">§ 47-2866</cite>, and <cite path="§50-1501.02">§ 50-1501.02</cite>.</annotation>
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(f)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7202|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7202|(a)">§ 7202(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7202|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(1)|(B)|(ii)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(1)|(B)|(i)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(1)|(C)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(1)|(D)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(1)|(A)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(1)|(E)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7202|(a)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-312" path="§5" codified:display="Note" app="2025-03-21" eff="2025-03-21">Applicability of <cite doc="D.C. Law 25-312" path="">D.C. Law 25-312</cite>: <cite doc="D.C. Law 25-312" path="§7">§ 7 of D.C. Law 25-312</cite> provided that the amendment to this section by <cite doc="D.C. Law 25-312" path="§5">§ 5 of D.C. Law 25-312</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2025-03-21" doc="D.C. Law 25-312" eff="2025-03-21" path="§5" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7152" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7152">§ 7152 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7152" type="History" display="false"/>
+    <annotation doc="D.C. Act 26-146" path="§7195|(a)" type="Applicability" history="false" app="2025-09-03" eff="2025-09-03">Section 7195 of <cite doc="D.C. Act 26-146" path="§7195">D.C. Act 26-146</cite> amended Section 7 of <cite doc="D.C. Law 25-312" path="§7">D.C. Law 25-312</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 25-312" path="§5">§5 of D.C. Law 25-312</cite> have been implemented.</annotation>
+    <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§7195|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§7195|(a)" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-146" path="§7195|(a)">§ 7195(a) of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7152" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7195|(a)" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7152" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7152" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7152">§ 7152 of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Act 26-210" path="§7195|(a)" type="Applicability" history="false" app="2025-11-24" eff="2025-11-24">Section 7195 of <cite doc="D.C. Act 26-210" path="§7195">D.C. Act 26-210</cite> amended Section 7 of <cite doc="D.C. Law 25-312" path="§7">D.C. Law 25-312</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 25-312" path="§5">§5 of D.C. Law 25-312</cite> have been implemented.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-210" path="§7195|(a)" codified:display="Note" app="2025-11-24" eff="2025-11-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-210" path="§7195|(a)">§ 7195(a) of Fiscal Year 2026 Budget Support Congressional Review Emergency Act of 2025 (D.C. Act 26-210, Nov. 24, 2025, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
