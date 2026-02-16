@@ -371,7 +371,7 @@
         </container>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency-new-sec doc="D.C. Code" path="32|1|II" interim-path="§32-103" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§32-111.01|annos" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="32|1|II" interim-path="§32-103" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§32-111.01" codified:display="Note"/>
     </para>
   </section>
   <section>

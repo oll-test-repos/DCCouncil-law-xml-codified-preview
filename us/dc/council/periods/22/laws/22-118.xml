@@ -8,11 +8,11 @@
   <meta>
     <effective>2018-07-03</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/37193/B22-0037-SignedAct.pdf">D.C. Law 22-118</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/37193/B22-0037-SignedAct.pdf">D.C. Act 22-337</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/37193/Signed_Act/B22-0037-SignedAct.pdf?Id=106374">D.C. Law 22-118</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/37193/Signed_Act/B22-0037-SignedAct.pdf?Id=106374">D.C. Act 22-337</citation>
       <citation type="register">65 DCR 5064</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B22-0037">
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0037">
       <vote date="2018-03-06" reading="First"/>
       <vote date="2018-04-10" reading="Amendment"/>
       <vote date="2018-04-10" reading="Final"/>
@@ -29,7 +29,7 @@
       <heading>Crime Victims' Address Confidentiality.</heading>
     </container>
   </codify:insert>
-  <container codify:applicability="notfunded">
+  <container>
     <prefix>TITLE</prefix>
     <num>I</num>
     <heading>ADDRESS CONFIDENTIALITY</heading>
@@ -677,7 +677,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§2-534" applicability-path="§301" codified:doc="D.C. Code" codified:path="§2-534" codified:display="Note"/>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <num>202</num>
       <text>Section 6 of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03), is amended by adding a new subsection (b-24) to read as follows:</text>
       <include>
@@ -690,7 +690,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§2-1831.03" applicability-path="§301" codified:doc="D.C. Code" codified:path="§2-1831.03" codified:display="Note"/>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <num>203</num>
       <text>Section 389 of the Revised Statutes of the District of Columbia (D.C. Official Code § 5-113.06) is amended by adding a new subsection (d) to read as follows:</text>
       <include>

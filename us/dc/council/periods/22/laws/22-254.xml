@@ -9,11 +9,11 @@
     <introduced>2017-09-19</introduced>
     <effective>2019-03-22</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/38781/B22-0465-SignedAct.pdf">D.C. Law 22-254</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/38781/B22-0465-SignedAct.pdf">D.C. Act 22-580</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/38781/Signed_Act/B22-0465-SignedAct.pdf?Id=106359">D.C. Law 22-254</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/38781/Signed_Act/B22-0465-SignedAct.pdf?Id=106359">D.C. Act 22-580</citation>
       <citation type="register">66 DCR 1335</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B22-0465">
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0465">
       <vote date="2018-11-13" reading="First"/>
       <vote date="2018-12-04" reading="Amendment"/>
       <vote date="2018-12-04" reading="Final"/>
@@ -23,7 +23,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Foreign-Government-Owned Vacant and Blighted Building Amendment Act of 2018".</text>
-  <section codify:doc="D.C. Code" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code">
     <num>2</num>
     <text>An Act To provide for the abatement of nuisances in the District of Columbia by the Commissioners of said District, and for other purposes, approved April 14, 1906 (34 Stat. 114; D.C. Official Code § 42-3131.01 <em>et seq.</em>), is amended as follows:</text>
     <para codify:path="§42-3131.06|(b)|(2)">
@@ -79,7 +79,7 @@
       <codify:not-funded-anno doc="D.C. Code" path="§42-3131.19" action="creation of" applicability-path="§5" display-template="" codified:doc="D.C. Code" codified:path="§42-3131.19" codified:display="Note"/>
     </para>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <num>3</num>
     <text>Chapter 10 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
     <para>

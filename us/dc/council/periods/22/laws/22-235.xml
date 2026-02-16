@@ -9,11 +9,11 @@
     <introduced>2017-01-10</introduced>
     <effective>2019-03-13</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/37176/B22-0020-SignedAct.pdf">D.C. Law 22-235</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/37176/B22-0020-SignedAct.pdf">D.C. Act 22-558</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/37176/Signed_Act/B22-0020-SignedAct.pdf?Id=106278">D.C. Law 22-235</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/37176/Signed_Act/B22-0020-SignedAct.pdf?Id=106278">D.C. Act 22-558</citation>
       <citation type="register">66 DCR 580</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B22-0020">
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0020">
       <vote date="2018-11-13" reading="First"/>
       <vote date="2018-12-04" reading="Amendment"/>
       <vote date="2018-12-04" reading="Final"/>
@@ -464,7 +464,7 @@
       <heading>Short title.</heading>
       <text><code-cite doc="D.C. Code" path="28A|2">This title</code-cite> may be cited as the "Automatic Renewal Protections Act of 2018".</text>
     </section>
-    <section codify:applicability="2019-09-10">
+    <section>
       <codify:insert num-value="28A-202" codified:doc="D.C. Code" codified:path="§28A-202"/>
       <num>202</num>
       <heading>Definitions.</heading>
@@ -482,7 +482,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 22-235" path="§202" applicability-path="§301|(b)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§28A-202" codified:display="Note"/>
     </section>
-    <section codify:applicability="2019-09-10">
+    <section>
       <codify:insert num-value="28A-203" codified:doc="D.C. Code" codified:path="§28A-203"/>
       <num>203</num>
       <heading>Automatic renewal provisions; notice; penalties.</heading>
@@ -571,7 +571,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Law 22-235" path="§203" applicability-path="§301|(b)" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§28A-203" codified:display="Note"/>
     </section>
-    <section codify:applicability="2019-09-10">
+    <section>
       <codify:insert num-value="28A-204" codified:doc="D.C. Code" codified:path="§28A-204"/>
       <num>204</num>
       <heading>Exemptions.</heading>

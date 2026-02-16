@@ -8,10 +8,10 @@
   <meta>
     <effective>2016-11-26</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/34279/B21-0316-SignedAct.pdf">D.C. Law 21-168</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/34279/Signed_Act/B21-0316-SignedAct.pdf?Id=105661">D.C. Law 21-168</citation>
       <citation type="register">63 DCR 12594</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0316">
       <vote date="2016-07-12" reading="Amendment"/>
       <vote date="2016-07-12" reading="First"/>
       <vote date="2016-09-20" reading="Final"/>
@@ -27,7 +27,7 @@
     <num>III</num>
     <heading>Safe at Home Program.</heading>
   </container>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:organic doc="D.C. Code" path="|7|5|III" num-value="7-551.01" codified:doc="D.C. Code" codified:path="§7-551.01"/>
     <num>2</num>
     <heading>Home accessibility modification grant program.</heading>
@@ -145,7 +145,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§7-551.01" codified:display="Note"/>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§47-1803.02|(a)|(2)" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§47-1803.02|(a)|(2)">
     <num>3</num>
     <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (CC) to read as follows:</text>
     <include>

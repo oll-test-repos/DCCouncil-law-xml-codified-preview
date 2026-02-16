@@ -9,11 +9,11 @@
     <introduced>2017-12-19</introduced>
     <effective>2019-02-22</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/39470/B22-0640-SignedAct.pdf">D.C. Law 22-200</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/39470/B22-0640-SignedAct.pdf">D.C. Act 22-492</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/39470/Signed_Act/B22-0640-SignedAct.pdf?Id=106827">D.C. Law 22-200</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/39470/Signed_Act/B22-0640-SignedAct.pdf?Id=106827">D.C. Act 22-492</citation>
       <citation type="register">65 DCR 12066</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B22-0640">
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0640">
       <vote date="2018-07-10" reading="First"/>
       <vote date="2018-10-02" reading="Amendment"/>
       <vote date="2018-10-02" reading="Final"/>
@@ -41,7 +41,7 @@
     <para codify:path="§42-3502.01">
       <num>(b)</num>
       <text>Section 201 (D.C. Official Code § 42-3502.01) is amended as follows:</text>
-      <para codify:path="(a)" codify:applicability="notfunded">
+      <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended to read as follows:</text>
         <include>
@@ -302,7 +302,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para codify:path="(d)" codify:applicability="notfunded">
+      <para codify:path="(d)">
         <num>(2)</num>
         <text>Subsection (d) is amended by striking the phrase "The Department of Housing and Community Development shall employ the staff necessary to assist the Commission in carrying out its functions." and inserting the phrase "The Rental Housing Commission shall employ the staff necessary to carry out its functions." in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3502.02|(d)">
@@ -354,7 +354,7 @@
               <text>All rules, orders, obligations, determinations, grants, contracts, licenses, and agreements of the Department of Housing and Community Development relating to functions transferred to the Rental Housing Commission pursuant to the <cite doc="D.C. Law 22-200">Rental Housing Commission Independence Clarification Amendment Act of 2018</cite> <span codify:value="[D.C. Law 22-200, February 22, 2019]">, passed on 2nd reading on October 2, 2018 (Enrolled version of Bill 22-0640)</span>, shall remain in effect according to their terms until lawfully amended, repealed, or modified.</text>
             </para>
           </para>
-          <para codify:applicability="notfunded">
+          <para>
             <num>(c)</num>
             <text>The Mayor shall provide funding for the Rental Housing Commission in the annual budget request to the Council as a separate agency code.</text>
             <codify:not-funded-anno doc="D.C. Code" path="§42-3502.02b" applicability-path="§4" action="creation of subsection (c) of" display-template="" codified:doc="D.C. Code" codified:path="§42-3502.02b" codified:display="Note"/>
@@ -368,7 +368,7 @@
   <section codify:doc="D.C. Code">
     <num>3</num>
     <text>The District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-601.01 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§1-603.01|(13)" codify:applicability="notfunded">
+    <para codify:path="§1-603.01|(13)">
       <num>(a)</num>
       <text>Section 301(13) (D.C. Official Code § 1-603.01(13)) is amended by striking the phrase "and the Office of Employee Appeals" and inserting the phrase "the Office of Employee Appeals, and the Rental Housing Commission" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-603.01|(13)">

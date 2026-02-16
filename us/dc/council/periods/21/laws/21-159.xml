@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-159" codify:applicability="notfunded">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-159">
   <codify:organic doc="D.C. Code" path="2|12" num-value="V-C" after="V-B" heading-value="Incarceration to Incorporation Entrepreneurship Program." prefix-value="Subchapter" tag="container" technical="true" history="false" codified:doc="D.C. Code" codified:path="2|12|V-C"/>
   <num type="law">21-159</num>
   <num type="bill">21-463</num>
@@ -9,10 +9,10 @@
   <meta>
     <effective>2016-10-08</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/34815/B21-0463-SignedAct.pdf">D.C. Law 21-159</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/34815/Signed_Act/B21-0463-SignedAct.pdf?Id=105372">D.C. Law 21-159</citation>
       <citation type="register">63 DCR 10771</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0463">
       <vote date="2016-06-28" reading="First"/>
       <vote date="2016-07-12" reading="Final"/>
       <enacted>2016-08-18</enacted>

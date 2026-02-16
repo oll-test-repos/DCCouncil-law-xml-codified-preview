@@ -43,8 +43,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Uniform Notarial Acts. [Repealed]<annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(a)" type="History"/></heading>
       <reason>Repealed</reason>
+      <heading>Uniform Notarial Acts. [Repealed]<annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§34|(a)" type="History"/></heading>
       <xi:include href="./sections/42-141.xml"/>
       <xi:include href="./sections/42-142.xml"/>
       <xi:include href="./sections/42-143.xml"/>
@@ -1438,11 +1438,18 @@
       <num>IV</num>
       <heading>Opportunity to Purchase.</heading>
       <xi:include href="./sections/42-3404.01.xml"/>
+      <xi:include href="./sections/42-3404.01a.xml"/>
       <xi:include href="./sections/42-3404.02.xml"/>
       <xi:include href="./sections/42-3404.02a.xml"/>
+      <xi:include href="./sections/42-3404.02b.xml"/>
+      <xi:include href="./sections/42-3404.02c.xml"/>
+      <xi:include href="./sections/42-3404.02d.xml"/>
       <xi:include href="./sections/42-3404.03.xml"/>
+      <xi:include href="./sections/42-3404.03a.xml"/>
+      <xi:include href="./sections/42-3404.03b.xml"/>
       <xi:include href="./sections/42-3404.04.xml"/>
       <xi:include href="./sections/42-3404.05.xml"/>
+      <xi:include href="./sections/42-3404.05a.xml"/>
       <xi:include href="./sections/42-3404.06.xml"/>
       <xi:include href="./sections/42-3404.07.xml"/>
       <xi:include href="./sections/42-3404.08.xml"/>
@@ -1452,6 +1459,8 @@
       <xi:include href="./sections/42-3404.12.xml"/>
       <xi:include href="./sections/42-3404.13.xml"/>
       <xi:include href="./sections/42-3404.14.xml"/>
+      <xi:include href="./sections/42-3404.15.xml"/>
+      <xi:include href="./sections/42-3404.16.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1695,15 +1704,15 @@
   <container>
     <prefix>Chapter</prefix>
     <num>35C</num>
-    <heading>Bedbug Control.</heading>
     <reason>Repealed</reason>
+    <heading>Bedbug Control.</heading>
     <annotation app="2023-02-23" doc="D.C. Law 24-238" eff="2023-02-23" path="" type="History" display="false"/>
     <xi:include href="./sections/42-3551.01.xml"/>
     <xi:include href="./sections/42-3551.02.xml"/>
     <xi:include href="./sections/42-3551.03.xml"/>
     <xi:include href="./sections/42-3551.04.xml"/>
     <xi:include href="./sections/42-3551.05.xml"/>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§7206" type="History"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§7206" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

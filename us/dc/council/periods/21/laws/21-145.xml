@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-145" codify:applicability="notfunded">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-145">
   <num type="law">21-145</num>
   <num type="bill">21-178</num>
   <num type="act">21-430</num>
@@ -8,10 +8,10 @@
   <meta>
     <effective>2016-08-19</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/33718/B21-0178-SignedAct.pdf">D.C. Law 21-145</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/33718/Signed_Act/B21-0178-SignedAct.pdf?Id=105563">D.C. Law 21-145</citation>
       <citation type="register">63 DCR 9279</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0178">
       <vote date="2016-05-03" reading="First"/>
       <vote date="2016-06-07" reading="Final"/>
       <enacted>2016-06-29</enacted>

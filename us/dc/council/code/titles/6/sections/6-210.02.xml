@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>6-210.02</num>
+  <heading proof="needed">City-Wide Resident Advisory Board training and consultation.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Authority shall establish and implement a comprehensive training program for members of the City-Wide Resident Advisory Board with the goal of enabling tenant members to participate fully in the oversight of the Authority's operation and capital planning. The Authority shall develop the training program in consultation with public housing residents and public housing industry professional organizations.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Authority shall provide to the City-Wide Resident Advisory Board training on relevant federal and District laws, leadership development, communication, and negotiations.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Authority shall provide a copy of resolutions on the agenda for consideration by the Board to the City-Wide Resident Advisory Board at least 24 hours before the scheduled date and time of the Board meeting at which the resolution will be considered.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Authority shall seek and consider the input of the City-Wide Resident Advisory Board when a policy or program change affects residents.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>At least once a quarter, the Board shall invite the City-Wide Resident Advisory Board to report to the Board on any topics of interest or concerns and respond to the concerns of the City-Wide Resident Advisory Board in writing, no later than 45 days following the quarterly meeting.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 13-105" type="History" path="§11b">May 9, 2000, D.C. Law 13-105, § 11b</annotation>
+    <annotation doc="D.C. Law 13-105" type="History" path="§11b" display="false">May 9, 2000, D.C. Law 13-105, § 11b</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-145" path="§2|(e)" codified:display="Note" app="2025-12-31" eff="2025-09-04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-145" path="§2|(e)|includes|11b">§ 11b of Housing Authority Resident Empowerment Emergency Amendment Act of 2025 (D.C. Act 26-145, Sept. 4, 2025, 72 DCR 9614)</cite>.</annotation>
+    <annotation app="2025-12-31" doc="D.C. Act 26-145" eff="2025-09-04" path="§2|(e)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-239" path="§2|(e)" codified:display="Note" app="2025-12-31" eff="2025-12-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-239" path="§2|(e)|includes|11b">§ 11b of Housing Authority Resident Empowerment Congressional Review Emergency Amendment Act of 2025 (D.C. Act 26-239, Dec. 19, 2025, 73 DCR 72)</cite>.</annotation>
+    <annotation app="2025-12-31" doc="D.C. Act 26-239" eff="2025-12-19" path="§2|(e)" type="History" display="false"/>
+    <annotation app="2025-12-31" doc="D.C. Law 26-80" eff="2025-12-31" path="§601|(e)" prefix="as added" type="History"/>
+  </annotations>
+</section>

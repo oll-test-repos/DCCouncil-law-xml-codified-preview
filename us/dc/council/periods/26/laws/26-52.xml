@@ -12,7 +12,7 @@
       <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/57413/Signed_Act/B26-0187-Signed_Act.pdf?Id=217820">D.C. Law 26-52</citation>
       <citation type="register">72 DCR 8162</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B26-0187">
+    <history url="https://lims.dccouncil.gov/Legislation/B26-0187">
       <vote date="2025-06-17" reading="Amendment"/>
       <vote date="2025-06-17" reading="Amendment"/>
       <vote date="2025-06-17" reading="First"/>
@@ -62,7 +62,7 @@
       <text>The existing text is designated as subparagraph (A).</text>
       <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§5-716|(a-1)"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(b)</num>
       <text>A new subparagraph (B) is added to read as follows:</text>
       <include lvl="4">
@@ -356,16 +356,16 @@
       <num>(a)</num>
       <text>Subsection (b-9) is amended by striking the phrase "May 7, 2025" and inserting the phrase "September 30, 2026" in its place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4234|(b-9)">
-        <find>May 7, 2025</find>
+        <find>180 days after [when applicable] ("Secure DC Omnibus")</find>
         <replace>September 30, 2026</replace>
       </codify:find-replace>
     </para>
     <para codify:path="(b-10)">
       <num>(b)</num>
       <text>Subsection (b-10) is amended by striking the phrase "May 7, 2025" and inserting the phrase "September 30, 2026" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4234|(b-10)">
-        <find>May 7, 2025</find>
-        <replace>September 30, 2026</replace>
+      <codify:find-replace position="1" codified:doc="D.C. Code" codified:path="§22-4234|(b-10)">
+        <find>for juveniles</find>
+        <replace>for juveniles no later than September 30, 2026</replace>
       </codify:find-replace>
     </para>
   </section>

@@ -8,11 +8,11 @@
   <meta>
     <effective>2018-03-06</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/37258/B22-0062-SignedAct.pdf">D.C. Law 22-66</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/37258/B22-0062-SignedAct.pdf">D.C. Act 22-230</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/37258/Signed_Act/B22-0062-SignedAct.pdf?Id=105837">D.C. Law 22-66</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/37258/Signed_Act/B22-0062-SignedAct.pdf?Id=105837">D.C. Act 22-230</citation>
       <citation type="register">65 DCR 354</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0062">
       <vote date="2017-11-07" reading="First"/>
       <vote date="2017-12-05" reading="Final"/>
       <enacted>2018-01-12</enacted>
@@ -25,10 +25,10 @@
     <container>
       <prefix>Chapter</prefix>
       <num>7B-iii</num>
-      <heading>Health Literacy Council. [Not Funded]</heading>
+      <heading>Health Literacy Council.</heading>
     </container>
   </codify:insert>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.01" codified:doc="D.C. Code" codified:path="§7-757.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
@@ -70,14 +70,14 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.01" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.02" codified:doc="D.C. Code" codified:path="§7-757.02"/>
     <num>3</num>
     <heading>Establishment of the District Health Literacy Council.</heading>
     <text>There is established a Health Literacy Council in the District of Columbia that shall advise the Mayor and the Council on promoting health literacy for residents of the District and helping residents develop a working knowledge of mental health.</text>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.02" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.03" codified:doc="D.C. Code" codified:path="§7-757.03"/>
     <num>4</num>
     <heading>Members of the Health Literacy Council.</heading>
@@ -139,7 +139,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.03" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.04" codified:doc="D.C. Code" codified:path="§7-757.04"/>
     <num>5</num>
     <heading>Duties of the Health Literacy Council.</heading>
@@ -189,7 +189,7 @@
     </para>
     <codify:not-funded-anno applicability-path="§7" action="creation of" codified:doc="D.C. Code" codified:path="§7-757.04" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:insert doc="D.C. Code" path="7|7B-iii" num-value="7-757.05" codified:doc="D.C. Code" codified:path="§7-757.05"/>
     <num>6</num>
     <heading>Health literacy education in workforce development programs.</heading>

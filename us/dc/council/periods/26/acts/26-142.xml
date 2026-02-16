@@ -11,7 +11,7 @@
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/57786/Signed_Act/B26-0263-Signed_Act.pdf?Id=218938">D.C. Act 26-142</citation>
       <citation type="register">72 DCR 9130</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B26-0263">
+    <history url="https://lims.dccouncil.gov/Legislation/B26-0263">
       <vote date="2025-07-28" reading="Final"/>
       <vote date="2025-07-28" reading="Amendment"/>
       <vote date="2025-07-28" reading="Amendment"/>
@@ -510,7 +510,6 @@
         <text>Paragraph (25)(B) is amended to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(25)"/>
             <num>(B)</num>
             <text>For Fiscal Year 2025, $34,416,329;</text>
           </para>
@@ -519,11 +518,6 @@
       </para>
     </para>
     <codify:emergency doc="D.C. Code" path="§8-1774.10" codified:doc="D.C. Code" codified:path="§8-1774.10" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§8-1774.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1774.10">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on November 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§8-1774.10(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section codify:path="§39-205.04">
     <num>6</num>

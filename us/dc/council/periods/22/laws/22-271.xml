@@ -9,11 +9,11 @@
     <introduced>2018-06-05</introduced>
     <effective>2019-03-28</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/40362/B22-0842-SignedAct.pdf">D.C. Law 22-271</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/40362/B22-0842-SignedAct.pdf">D.C. Act 22-600</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/40362/Signed_Act/B22-0842-SignedAct.pdf?Id=106796">D.C. Law 22-271</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/40362/Signed_Act/B22-0842-SignedAct.pdf?Id=106796">D.C. Act 22-600</citation>
       <citation type="register">66 DCR 1446</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B22-0842">
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0842">
       <vote date="2018-11-27" reading="First"/>
       <vote date="2018-12-18" reading="Amendment"/>
       <vote date="2018-12-18" reading="Final"/>
@@ -71,7 +71,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§2-1701" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§2-1701" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(b)</num>
       <text>New sections 16a, 16b, and 16c are added to read as follows:</text>
       <include>
@@ -223,7 +223,7 @@
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§1-523.01|(f)" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§1-523.01|(f)">
     <num>3</num>
     <text>Section 2(f) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(f)), is amended as follows:</text>
     <para codify:path="(64)">

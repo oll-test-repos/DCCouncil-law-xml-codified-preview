@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1001.16</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1001.16(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Initiative and referendum process.</heading>
   <para>
     <num>(a)</num>
@@ -218,6 +221,10 @@
       <text>That the circulator of the petition sheet was in the presence of each person when the appended signature was written;</text>
     </para>
     <para>
+      <num>(3A)</num>
+      <text>That the circulator of the petition sheet has not written, altered, corrected, clarified, or obscured information on the petition about the signer of the petition after the signer affixed their signature to the petition;</text>
+    </para>
+    <para>
       <num>(4)</num>
       <text>That according to the best information available to the circulator, each signature is the genuine signature of the person it purports to be;</text>
     </para>
@@ -229,6 +236,10 @@
       <num>(6)</num>
       <text>The dates between which the signatures to the petition were obtained.</text>
     </para>
+  </para>
+  <para>
+    <num>(h-1)</num>
+    <text>No person other than the petition signer may write, alter, correct, or clarify, on a petition sheet for an initiative or referendum unless the signer requests assistance in writing, altering, correcting, or clarifying on the petition, any information about the petition signer before the signer affixes their signature. The use of correction fluid or tape is prohibited.</text>
   </para>
   <para>
     <num>(i)</num>
@@ -438,5 +449,9 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(l)|(11)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(j)|(1)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(j)|(2)" type="History"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-256" path="§2|(b)" codified:display="Note" app="2026-01-28" eff="2026-01-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-256" path="§2|(b)">§ 2(b) of Petition Administration Clarification Emergency Amendment Act of 2026 (D.C. Act 26-256, Jan. 28, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

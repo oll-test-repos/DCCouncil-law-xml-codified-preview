@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1001.08</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1001.08(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Qualifications of candidates and electors; nomination and election of Delegate, Chairman of the Council, members of Council, Mayor, Attorney General, and members of State Board of Education; petition requirements; arrangement of ballot.</heading>
   <para>
     <num>(a)</num>
@@ -55,11 +58,15 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Personally witnessed each person sign the petition; and</text>
+        <text>Personally witnessed each person sign the petition;</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Inquired from each signer whether the signer is a registered voter in the same party as the candidate and, where applicable, whether the signer is registered in and a resident of the ward from which the candidate seeks election.</text>
+        <text>Inquired from each signer whether the signer is a registered voter in the same party as the candidate and, where applicable, whether the signer is registered in and a resident of the ward from which the candidate seeks election; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Not written, altered, corrected, clarified, or obscured information on the petition about the signer of the petition after the signer affixed their signature to the petition.</text>
       </para>
     </para>
     <para>
@@ -302,6 +309,10 @@
     <text>Each candidate in a general or special election for member of the State Board of Education shall be nominated for such office by a nominating petition: (A) Filed with the Board not later than the 90th calendar day before the date of such general or special election; and (B) signed by at least 200 qualified electors who are duly registered under <cite path="§1-1001.07">§ 1-1001.07</cite>, who reside in the school district or ward from which the candidate seeks election, or in the case of a candidate running at large, signed by at least 1,000 of the qualified electors in the District of Columbia registered under such <cite path="§1-1001.07">§ 1-1001.07</cite>. A nominating petition for a candidate in a general or special election for member of the State Board of Education may not be circulated for signatures before the 144th day preceding the date of such election and may not be filed with the Board before the 115th day preceding such date. In a general or special election for members of the State Board of Education, the Board shall arrange the ballot for each ward to enable a voter registered in that ward to vote for any one candidate duly nominated to be elected to such office from such ward, and to vote for any one candidate duly nominated to be elected at large to such office.</text>
   </para>
   <para>
+    <num>(n-1)</num>
+    <text>No person other than the petition signer may write, alter, correct, or clarify, on a nominating petition any information about the petition signer unless the signer requests assistance in writing, altering, correcting, or clarifying on the petition, any information about the signer before the signer affixes their signature. The use of correction tape or fluid is prohibited.</text>
+  </para>
+  <para>
     <num>(o)</num>
     <para>
       <num>(1)</num>
@@ -517,5 +528,11 @@
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(f)|(6)|(B)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(f)|(7)|(A)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(f)|(7)|(B)" type="History"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(a)|(1)|(A)" type="History"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(a)|(1)|(B)" type="History"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(a)|(1)|(C)" type="History"/>
+    <annotation app="2026-01-28" doc="D.C. Act 26-256" eff="2026-01-28" path="§2|(a)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-256" path="§2|(a)" codified:display="Note" app="2026-01-28" eff="2026-01-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-256" path="§2|(a)">§ 2(a) of Petition Administration Clarification Emergency Amendment Act of 2026 (D.C. Act 26-256, Jan. 28, 2026, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

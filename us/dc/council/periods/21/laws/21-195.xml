@@ -8,10 +8,10 @@
   <meta>
     <effective>2017-02-18</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/35749/B21-0736-SignedAct.pdf">D.C. Law 21-195</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/35749/Signed_Act/B21-0736-SignedAct.pdf?Id=105902">D.C. Law 21-195</citation>
       <citation type="register">63 DCR 15016</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0736">
       <vote date="2016-10/" reading="First"/>
       <vote date="2016-11/" reading="Final"/>
       <enacted>2016-11-29</enacted>
@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Improving Access to Identity Documents Amendment Act of 2016".</text>
-  <section codify:applicability="pending">
+  <section>
     <num>2</num>
     <text>Section 22 of the Vital Records Act of 1981, effective October 8, 1981 (D.C. Law 4-34; D.C. Official Code § 7-221), is amended by adding a new subsection (c) to read as follows:</text>
     <include>

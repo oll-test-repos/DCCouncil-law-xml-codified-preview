@@ -8,10 +8,10 @@
   <meta>
     <effective>2017-02-18</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/36247/B21-0836-SignedAct.pdf">D.C. Law 21-204</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/36247/Signed_Act/B21-0836-SignedAct.pdf?Id=105709">D.C. Law 21-204</citation>
       <citation type="register">63 DCR 15047</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0836">
       <vote date="2016-11-01" reading="Amendment"/>
       <vote date="2016-11-01" reading="First"/>
       <vote date="2016-11-15" reading="Final"/>
@@ -27,7 +27,7 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
     <num>2</num>
     <text>The Food, Environmental, and Economic Development in the District of Columbia Act of 2010, effective April 8, 2011 (D.C. Law 18-353; D. C. Official Code § 2-1212.01 <em>et seq.</em>),is amended as follows:
     </text>
-    <para codify:doc="D.C. Code" codify:path="§2-1212.01|(2)|(B)" codify:applicability="pending">
+    <para codify:doc="D.C. Code" codify:path="§2-1212.01|(2)|(B)">
       <num>(a)</num>
       <text>Section 101(2)(B) (D.C. Official Code § 2-1212.01(2)(B)) is amended by striking the numbers "18.01, 33.01, 95.05," and inserting the numbers "16, 103, 33.01, 94, 95.05," in their place.</text>
       <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1212.01|(2)|(B)">
@@ -36,7 +36,7 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
       </codify:find-replace>
       <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§2-1212.01|(2)|(B)" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(b)</num>
       <text>A new section 201a is added to read as follows:</text>
       <include>
@@ -52,7 +52,7 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§47-3801|(1D)|(B)" codify:applicability="pending">
+  <section codify:doc="D.C. Code" codify:path="§47-3801|(1D)|(B)">
     <num>3</num>
     <text>Section 47-3801(1D)(B) of the District of Columbia Official Code is amended by striking the numbers "18.01, 33.01, 95.05," and inserting the numbers "16, 103, 33.01, 94, 95.05" in their place.</text>
     <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-3801|(1D)">

@@ -8,10 +8,10 @@
   <meta>
     <effective>2017-04-01</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/35325/B21-0615-SignedAct.pdf">D.C. Law 21-225</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/35325/Signed_Act/B21-0615-SignedAct.pdf?Id=105461">D.C. Law 21-225</citation>
       <citation type="register">64 DCR 154</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0615">
       <vote date="2016-11-15" reading="First"/>
       <vote date="2016-12-06" reading="Final"/>
       <vote date="2016-12-06" reading="Amendment"/>
@@ -27,7 +27,7 @@
   <section codify:doc="D.C. Code" codify:path="|1|3|XII|C">
     <num>2</num>
     <text>The Office of the Unified Communications Establishment Act of 2004, effective December 7, 2004 (D.C. Law 15-205; D. C. Official Code § 1-327.51 <em>et seq</em>.), is amended as follows:</text>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(a)</num>
       <text>A new section 3205b is added to read as follows:</text>
       <include>
@@ -109,7 +109,7 @@
         <text>The existing text is designated as subsection (a).</text>
         <codify:redesignate-para doc="D.C. Code" path="§1-327.57" num-value="(a)" codified:doc="D.C. Code" codified:path="§1-327.57"/>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(2)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
@@ -151,7 +151,7 @@
       <codify:not-funded-anno doc="D.C. Code" path="§1-327.57" applicability-path="§4" codified:doc="D.C. Code" codified:path="§1-327.57" codified:display="Note"/>
     </para>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <num>3</num>
     <text>Section 7 of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1121; D.C. Official Code § 50-1401.01), is amended by adding a new subsection (a-2) to read as follows:</text>
     <include>

@@ -9,11 +9,11 @@
     <introduced>2018-04-10</introduced>
     <effective>2019-02-22</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/40027/B22-0777-SignedAct.pdf">D.C. Law 22-211</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/40027/B22-0777-SignedAct.pdf">D.C. Act 22-512</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/40027/Signed_Act/B22-0777-SignedAct.pdf?Id=106822">D.C. Law 22-211</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/40027/Signed_Act/B22-0777-SignedAct.pdf?Id=106822">D.C. Act 22-512</citation>
       <citation type="register">65 DCR 12603</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B22-0777">
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0777">
       <vote date="2018-10-02" reading="First"/>
       <vote date="2018-10-16" reading="Final"/>
       <enacted>2018-11-07</enacted>
@@ -28,7 +28,7 @@
     <para codify:path="§1-603.01|(a)">
       <num>(a)</num>
       <text>Section 301 (D.C. Official Code § 1-603.01) is amended as follows:</text>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(1)</num>
         <text>A new paragraph (7A) is added to read as follows:</text>
         <include lvl="1">
@@ -56,7 +56,7 @@
           <replace>(15B)</replace>
         </codify:find-replace>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(3)</num>
         <text>A new paragraph (15A) is added to read as follows:</text>
         <include lvl="1">
@@ -70,7 +70,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§1-603.01" applicability-path="§4" action="creation of paragraphs (7A) and (15A)" display-template="" codified:doc="D.C. Code" codified:path="§1-603.01" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(b)</num>
       <text>A new section 402a is added to read as follows:</text>
       <include>
@@ -112,7 +112,7 @@
       <annotation doc="D.C. Law 2-139" type="History" path="§402a">Mar. 3, 1979, D.C. Law 2-139, § 402a</annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§1-604.02a" applicability-path="§4" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§1-604.02a" codified:display="Note"/>
     </para>
-    <para codify:path="§1-608.01" codify:applicability="notfunded">
+    <para codify:path="§1-608.01">
       <num>(c)</num>
       <text>Section 801 (D.C. Official Code § 1-608.01) is amended as follows:</text>
       <para codify:path="(a)">
@@ -223,7 +223,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§1-608.01" applicability-path="§4" display-template="" codified:doc="D.C. Code" codified:path="§1-608.01" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <codify:insert path="1|6" after="X-B" history="false" codified:doc="D.C. Code" codified:path="1|6|X-C">
         <container>
           <prefix>Subchapter</prefix>
@@ -557,7 +557,7 @@
       <aftertext>.</aftertext>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§32-1408" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§32-1408">
     <num>3</num>
     <text>Section 8 of An Act To provide for voluntary apprenticeship in the District of Columbia, approved May 21, 1946 (60 Stat. 206; D.C. Official Code § 32-1408), is amended as follows:</text>
     <para>

@@ -8,10 +8,10 @@
   <meta>
     <effective>2017-12-13</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/37695/B22-0194-SignedAct.pdf">D.C. Law 22-35</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/37695/Signed_Act/B22-0194-SignedAct.pdf?Id=106641">D.C. Law 22-35</citation>
       <citation type="register">64 DCR 10929</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0194">
       <vote date="2017-09-19" reading="Amendment"/>
       <vote date="2017-09-19" reading="Amendment"/>
       <vote date="2017-09-19" reading="Amendment"/>
@@ -23,7 +23,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "DC HealthCare Alliance Recertification Simplification Amendment Act of 2017".</text>
-  <section codify:doc="D.C. Code" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code">
     <num>2</num>
     <text>The Health Care Privatization Amendment Act of 2001, effective July 12, 2001 (D.C. Law 14-18; D.C. Official Code § 7-1401 <em>et seq.</em>), is amended by adding new sections 7b, 7c, and 7d to read as follows:</text>
     <include>

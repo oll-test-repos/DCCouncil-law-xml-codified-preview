@@ -399,6 +399,14 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1C-i</num>
+    <heading>Youth Advisory Council on Climate Change and Environmental Conservation. [Not Funded]</heading>
+    <annotation app="2025-12-31" doc="D.C. Law 26-62" eff="2025-12-31" path="" type="History" display="false"/>
+    <xi:include href="./sections/8-183.01.xml"/>
+    <xi:include href="./sections/8-183.02.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>1D</num>
     <heading>Office of District Waterways Management.</heading>
     <annotation app="2023-03-22" doc="D.C. Law 24-336" eff="2023-03-22" path="" type="History" display="false"/>
@@ -870,7 +878,7 @@
     <prefix>Chapter</prefix>
     <num>10B-i</num>
     <heading>Office of the Clean City.</heading>
-    <annotation app="2025-11-24" doc="D.C. Act 26-210" eff="2025-11-24" path="§6122" type="History" display="false"/>
+    <annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§6122" type="History" display="false"/>
     <xi:include href="./sections/8-1045.xml"/>
   </container>
   <container>
@@ -894,8 +902,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>10D</num>
-    <heading>Construction and Demolition Waste Recycling Accountability. [Repealed]</heading>
     <reason>Repealed</reason>
+    <heading>Construction and Demolition Waste Recycling Accountability. [Repealed]</heading>
     <xi:include href="./sections/8-1071.xml"/>
     <xi:include href="./sections/8-1072.xml"/>
     <xi:include href="./sections/8-1073.xml"/>

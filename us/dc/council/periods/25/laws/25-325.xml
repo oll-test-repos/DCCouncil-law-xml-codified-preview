@@ -317,7 +317,7 @@
           </para>
         </para>
       </section>
-      <section codify:applicability="notfunded">
+      <section>
         <codify:insert path="II" after="§50-2442" num-value="50-2443" codified:doc="D.C. Code" codified:path="§50-2443"/>
         <num>113</num>
         <heading proof="needed">License plate recognition systems; usage and privacy.</heading>
@@ -351,7 +351,7 @@
           <num>(a)</num>
           <text>Within 90 days after the applicability date of this section, the Mayor shall establish, and thereafter maintain, a directory of all vehicle identification tags issued by U.S. states and territories.</text>
         </para>
-        <para codify:applicability="notfunded">
+        <para>
           <num>(b)</num>
           <text>The Mayor shall establish procedures for identifying tags as legitimate and ensure that all District employees tasked with enforcement of parking and moving violations are adequately trained in the proper verification of vehicle identification tags.</text>
         </para>
@@ -1003,7 +1003,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(a)" codify:applicability="notfunded">
+        <para codify:path="(a)">
           <num>(2)</num>
           <text>A new paragraph (5) is added to read as follows:</text>
           <include lvl="1">
@@ -1213,12 +1213,12 @@
       <para codify:path="50|24|I">
         <num>(f)</num>
         <text>The District of Columbia Abandoned and Junk Vehicle Removal Amendment Act of 1989, effective September 9, 1989 (D.C. Law 8-24, D.C. Official Code § 50-2401 <em>et seq.</em>), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2401|annos"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2401"/>
       </para>
       <para codify:path="50|24|II">
         <num>(g)</num>
         <text>The Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Act of 2003, effective October 28, 2003 (D.C. Law 15-35; D.C. Official Code § 50-2421.01 <em>et seq.</em>), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.01|annos"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.01"/>
       </para>
       <para codify:path="§50-2624">
         <num>(h)</num>

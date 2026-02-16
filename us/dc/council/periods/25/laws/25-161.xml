@@ -34,7 +34,7 @@
           <num>(a)</num>
           <text>The Department of Motor Vehicles ("DMV") shall develop and administer a safe driving curriculum composed of different courses related to safe driving practices and traffic regulations.</text>
         </para>
-        <para codify:applicability="notfunded">
+        <para>
           <num>(b)</num>
           <para>
             <num>(1)</num>
@@ -51,7 +51,7 @@
     <aftertext>.</aftertext>
     <codify:not-funded-anno doc="D.C. Law 25-161" path="§2" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§50-1405.02" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <num>3</num>
     <text>The Motor Vehicle Safety Responsibility Act of the District of Columbia, approved May 25, 1954 (68 Stat. 120; D.C. Official Code § 50-1301.01 <em>et seq</em>.), is amended as follows:</text>
     <para codify:path="§50-1301.02|(3)|(C)">
@@ -584,7 +584,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(c)" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.04" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(d)</num>
       <text>Section 10a (D.C. Official Code § 50-2201.05a) is amended to read as follows:</text>
       <include>
@@ -968,7 +968,7 @@
       <annotation type="History" doc="Stat. 68-2-ch443" path="§10a-1">Mar. 3, 1925, 43 Stat. 1124, ch. 443, § 10a-1</annotation>
       <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(e)" applicability-path="§8" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.05a-1" codified:display="Note"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(f)</num>
       <text>Section 13 (D.C. Official Code § 50-1403.01) is amended to read as follows:</text>
       <include>
@@ -1061,7 +1061,7 @@
       <codify:not-funded-anno doc="D.C. Law 25-161" path="§4|(f)" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-1403.01" codified:display="Note"/>
     </para>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <num>5</num>
     <text>Section 802(a) of An Act To establish a code of law for the District of Columbia, approved March 3, 1901 (31 Stat. 1189; D.C. Official Code § 50-2203.01), is amended by striking the phrase "a pedestrian" and inserting the phrase "any person" in its place.</text>
     <codify:find-replace path="§50-2203.01" count="1" codified:doc="D.C. Code" codified:path="§50-2203.01">
@@ -1070,7 +1070,7 @@
     </codify:find-replace>
     <codify:not-funded-anno doc="D.C. Law 25-161" path="§5" applicability-path="§8" display-template="" codified:doc="D.C. Code" codified:path="§50-2203.01" codified:display="Note"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <num>6</num>
     <text>The Anti-Drunk Driving Act of 1982, effective September 14, 1982 (D.C. Law 4-145; D.C. Official Code § 50-2205.01 <em>et seq.</em>), is amended as follows:</text>
     <para codify:path="§50-2206.13|(d-1)">

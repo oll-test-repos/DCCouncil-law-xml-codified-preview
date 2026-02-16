@@ -9,11 +9,11 @@
     <introduced>2017-03-21</introduced>
     <effective>2018-10-30</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/37704/B22-0203-SignedAct.pdf">D.C. Law 22-179</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/37704/B22-0203-SignedAct.pdf">D.C. Act 22-453</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/37704/Signed_Act/B22-0203-SignedAct.pdf?Id=106688">D.C. Law 22-179</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/37704/Signed_Act/B22-0203-SignedAct.pdf?Id=106688">D.C. Act 22-453</citation>
       <citation type="register">65 DCR 9569</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B22-0203">
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0203">
       <vote date="2018-04-10" reading="First"/>
       <vote date="2018-05-01" reading="Postponed"/>
       <vote date="2018-06-05" reading="Postponed"/>
@@ -572,7 +572,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§4-651.06" applicability-path="§301" action="creation of subsection (b)(2) of" display-template="" codified:doc="D.C. Code" codified:path="§4-651.06" codified:display="Note"/>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.07" codified:doc="D.C. Code" codified:path="§4-651.07"/>
       <num>107</num>
       <heading>Early Head Start.</heading>
@@ -618,7 +618,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§4-651.07" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§4-651.07" codified:display="Note"/>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.08" codified:doc="D.C. Code" codified:path="§4-651.08"/>
       <num>108</num>
       <heading>Lactation Certification Preparatory Program.</heading>
@@ -698,7 +698,7 @@
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§4-651.09" applicability-path="§301" action="creation of subsection (d) of" display-template="" codified:doc="D.C. Code" codified:path="§4-651.09" codified:display="Note"/>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.10" codified:doc="D.C. Code" codified:path="§4-651.10"/>
       <num>110</num>
       <heading>Healthy Futures.</heading>
@@ -852,7 +852,7 @@
           <replace>Except as provided in <code-cite doc="D.C. Code" path="§4-410.02">section 11b</code-cite>, payments to child development homes</replace>
         </codify:find-replace>
       </para>
-      <para codify:applicability="2020-09-10">
+      <para>
         <num>(d)</num>
         <text>New sections 11a, 11b, and 11c are added to read as follows:</text>
         <include>
@@ -1336,7 +1336,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(e)</num>
         <text>A new sections 15b is added to read as follows:</text>
         <include>
@@ -1456,7 +1456,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(b)</num>
         <text>A new section 108 is added to read as follows:</text>
         <include>

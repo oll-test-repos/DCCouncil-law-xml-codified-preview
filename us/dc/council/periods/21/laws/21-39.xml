@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-39" codify:applicability="notfunded">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-39">
   <num type="law">21-39</num>
   <num type="bill">21-30</num>
   <num type="act">21-167</num>
@@ -8,10 +8,10 @@
   <meta>
     <effective>2015-12-15</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/33253/B21-0030-SignedAct.pdf">D.C. Law 21-39</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/33253/Signed_Act/B21-0030-SignedAct.pdf?Id=105481">D.C. Law 21-39</citation>
       <citation type="register">62 DCR 13744</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0030">
       <vote date="2015-07-14" reading="Amendment"/>
       <vote date="2015-07-14" reading="First"/>
       <vote date="2015-09-22" reading="Final"/>

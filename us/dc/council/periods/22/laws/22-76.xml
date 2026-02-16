@@ -8,11 +8,11 @@
   <meta>
     <effective>2018-03-29</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/39018/B22-0521-SignedAct.pdf">D.C. Law 22-76</citation>
-      <citation type="act" url="http://lims.dccouncil.us/Download/39018/B22-0521-SignedAct.pdf">D.C. Act 22-247</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/39018/Signed_Act/B22-0521-SignedAct.pdf?Id=106582">D.C. Law 22-76</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/39018/Signed_Act/B22-0521-SignedAct.pdf?Id=106582">D.C. Act 22-247</citation>
       <citation type="register">65 DCR 1551</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B22-0521">
       <vote date="2017-12-05" reading="First"/>
       <vote date="2018-01-09" reading="Final"/>
       <enacted>2018-02-05</enacted>
@@ -24,7 +24,7 @@
   <section codify:doc="D.C. Code" codify:path="§47-1071">
     <num>2</num>
     <text>Chapter 10 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(a)</num>
       <text>The table of contents designation for section 47-1071 is amended to read as follows:</text>
       <include>
@@ -40,7 +40,7 @@
     <para>
       <num>(b)</num>
       <text>Section 47-1071 is amended as follows:</text>
-      <para codify:path="heading" codify:applicability="notfunded">
+      <para codify:path="heading">
         <num>(1)</num>
         <text>The heading is amended to read as follows:</text>
         <include>
@@ -61,11 +61,11 @@
         <text>The existing text is designated as subsection (a).</text>
         <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§47-1071"/>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(3)</num>
         <text>The newly designated subsection (a) is amended by striking the phrase §§ 47-1007 and 47-1009." and inserting the phrase "§§ 47-1005, 47-1007, and 47-1009." in its place.</text>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(4)</num>
         <text>New subsections (b) and (c) are added to read as follows:</text>
         <include>

@@ -11,7 +11,7 @@
       <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/58199/Signed_Act/B26-0340-Signed_Act.pdf?Id=219873">D.C. Act 26-146</citation>
       <citation type="register">72 DCR 9623</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B26-0340">
+    <history url="https://lims.dccouncil.gov/Legislation/B26-0340">
       <vote date="2025-07-28" reading="Final"/>
       <enacted>2025-09-03</enacted>
       <summary/>
@@ -113,7 +113,7 @@
             <text><code-cite doc="D.C. Code" path="§49-1003|(6A)">Section 704(6A) of the Office of Veterans Affairs Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 49-1003(6A))</code-cite>.</text>
           </para>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§1-328.06" interim-path="§1-328.05" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§1-328.06" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§1-328.06" interim-path="§1-328.05" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§1-328.06" codified:display="Note"/>
       </section>
       <section codify:path="§2-1373|(c)|(8)">
         <num>1013</num>
@@ -297,7 +297,7 @@
               <num>(b)</num>
               <text>For the purposes of this section, the term "recreation facility" shall have the same meaning as set forth in <code-cite doc="D.C. Code" path="§10-551.07c|(a)|(2)">section 1028c(a)(2)</code-cite>.</text>
             </para>
-            <codify:emergency-new-sec doc="D.C. Code" path="§10-551.07i" interim-path="§10-551.07h" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§10-551.07i" codified:display="Note"/>
+            <codify:emergency-new-sec doc="D.C. Code" path="§10-551.07i" interim-path="§10-551.07h" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§10-551.07i" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -331,7 +331,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:emergency-new-sec doc="D.C. Code" path="§1-328.18" interim-path="§1-328.17" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§1-328.18" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§1-328.18" interim-path="§1-328.17" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§1-328.18" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -478,7 +478,7 @@
             </para>
           </para>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-2101" interim-path="§4-1901" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-2101" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-2101" interim-path="§4-1901" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-2101" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -874,7 +874,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
-          <codify:emergency-new-sec doc="D.C. Code" path="§37-131.09a" interim-path="§37-131.09" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§37-131.09a" codified:display="Note"/>
+          <codify:emergency-new-sec doc="D.C. Code" path="§37-131.09a" interim-path="§37-131.09" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§37-131.09a" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -965,7 +965,7 @@
           <num>(g)</num>
           <text>For the purposes of this section, the term "RFK campus" means the parcels of land that are the subject of the Transfer of Jurisdiction Plat recorded in the Surveyor's Office of the District of Columbia on February 5, 2025, on page 13 of subdivision book 223, together with any public streets within or adjacent to such parcels that may be closed from time to time.</text>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§10-1605.31" interim-path="§10-1604.14" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§10-1605.31" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§10-1605.31" interim-path="§10-1604.14" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§10-1605.31" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -2097,7 +2097,7 @@
               </para>
             </para>
             <annotation doc="D.C. Law 2-144" type="History" path="§11c">Mar. 3, 1979, D.C. Law 2-144, § 11c</annotation>
-            <codify:emergency-new-sec doc="D.C. Code" path="§6-1110.03" interim-path="§6-1110.02" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§6-1110.03" codified:display="Note"/>
+            <codify:emergency-new-sec doc="D.C. Code" path="§6-1110.03" interim-path="§6-1110.02" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§6-1110.03" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -2512,7 +2512,7 @@
         <num>2211</num>
         <heading proof="needed">Short title.</heading>
         <text>This <code-cite doc="D.C. Code" path="2|12|XVI">subtitle</code-cite> may be cited as the "Interactive Wayfinding Kiosk Emergency Act of 2025".</text>
-        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.01" interim-path="§2-1227.07" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§2-1228.01" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.01" interim-path="§2-1227.07" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§2-1228.01" codified:display="Note"/>
       </section>
       <section>
         <num>2212</num>
@@ -2533,7 +2533,7 @@
             <text>"Unrestricted locations" means areas of public space, including commercial districts, where the installation of interactive wayfinding kiosks is not prohibited by law or regulation.</text>
           </para>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.02" interim-path="§2-1227.07" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§2-1228.02" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.02" interim-path="§2-1227.07" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§2-1228.02" codified:display="Note"/>
       </section>
       <section>
         <num>2213</num>
@@ -2550,13 +2550,13 @@
             <text>The master license agreement between the Mayor and the provider complies with any other terms established by law or regulation.</text>
           </para>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.03" interim-path="§2-1227.07" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§2-1228.03" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.03" interim-path="§2-1227.07" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§2-1228.03" codified:display="Note"/>
       </section>
       <section>
         <num>2214</num>
         <heading proof="needed">Rules.</heading>
         <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules governing interactive wayfinding kiosks in the District, including rules related to their design, placement, and component parts.</text>
-        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.04" interim-path="§2-1227.07" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§2-1228.04" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§2-1228.04" interim-path="§2-1227.07" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§2-1228.04" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -2895,7 +2895,7 @@
         <aftertext>.</aftertext>
         <codify:emergency doc="D.C. Code" path="§3-156" codified:doc="D.C. Code" codified:path="§3-156" codified:display="Note"/>
       </section>
-      <section codify:path="§1-604.06|(b)|(25)" codify:applicability="2025-09-30">
+      <section codify:path="§1-604.06|(b)|(25)">
         <num>3023</num>
         <text>Section 406(b)(25) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-604.06(b)(25)), is repealed.</text>
         <codify:applicability doc="D.C. Act 26-146" path="§3023" date="2025-09-30" codified:doc="D.C. Code" codified:path="§1-604.06"/>
@@ -2944,7 +2944,7 @@
         <num>3041</num>
         <heading proof="needed">Short title.</heading>
         <text><code-cite doc="D.C. Code" path="4|15A">This subtitle</code-cite> may be cited as the "Background Check Fingerprinting Authority and Rap Back Program Emergency Act of 2025".</text>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.01" interim-path="§4-1501.11" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-1551.01" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.01" interim-path="§4-1501.11" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-1551.01" codified:display="Note"/>
       </section>
       <section>
         <num>3042</num>
@@ -2977,7 +2977,7 @@
             <text>"Participating agency" means a District government agency that requires a fingerprint-based background check and receives the results as a condition of caring for children, persons with a disability, the elderly, or vulnerable adults, a security officer, special police officer, private detective, private detective agency, security agency, or other person responsible for protecting property, preventing theft, damage to real or personal property, assaults, disorder, or similar illegal occurrences, or for purposes of licensure, appointment, commission, certification, registration, employment, or volunteer service.</text>
           </para>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.02" interim-path="§4-1501.11" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-1551.02" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.02" interim-path="§4-1501.11" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-1551.02" codified:display="Note"/>
       </section>
       <section>
         <num>3043</num>
@@ -2990,7 +2990,7 @@
           <num>(b)</num>
           <text>The authority provided by this section applies to fingerprinting authorized under the District of Columbia Rap Back Program and to fingerprinting required or authorized by any other District or federal law or regulation.</text>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.03" interim-path="§4-1501.11" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-1551.03" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.03" interim-path="§4-1501.11" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-1551.03" codified:display="Note"/>
       </section>
       <section>
         <num>3044</num>
@@ -3015,25 +3015,25 @@
           <num>(e)</num>
           <text>For the purposes of administering the District of Columbia Rap Back Program and performing or facilitating criminal history background screenings, MPD is authorized to take the fingerprints of a covered individual, submit to the FBI the fingerprints of, and accompanying records regarding, a covered individual, and allow such fingerprints and records to be retained by the FBI Rap Back Service and used for ongoing searches through the FBI Rap Back Service.</text>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.04" interim-path="§4-1501.11" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-1551.04" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.04" interim-path="§4-1501.11" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-1551.04" codified:display="Note"/>
       </section>
       <section>
         <num>3045</num>
         <heading proof="needed">Limitation on use of information.</heading>
         <text>The information contained in a notification event received by a participating agency shall be used by the participating agency only for the purpose of determining a covered individual's eligibility to care for children, persons with a disability, the elderly, or vulnerable adults, a security officer, special police officer, private detective, private detective agency, security agency, or other person responsible for protecting property, preventing theft, damage to real or personal property, assaults, disorders, or similar illegal occurrences, or for purposes of licensure, appointment, commission, certification, registration, employment, or volunteer service and shall not be further disseminated by the participating agency.</text>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.05" interim-path="§4-1501.11" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-1551.05" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.05" interim-path="§4-1501.11" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-1551.05" codified:display="Note"/>
       </section>
       <section>
         <num>3046</num>
         <heading proof="needed">Fees.</heading>
         <text>MPD may establish by rule a fee, to be imposed on a covered individual or participating agency, for subscription of a covered individual in the District of Columbia Rap Back Program. The fee may be imposed on an annual basis.</text>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.06" interim-path="§4-1501.11" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-1551.06" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.06" interim-path="§4-1501.11" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-1551.06" codified:display="Note"/>
       </section>
       <section>
         <num>3047</num>
         <heading proof="needed">Rules.</heading>
         <text>MPD, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501<em> et seq.</em>)</code-cite>, may issue rules to govern the implementation of the District of Columbia Rap Back Program and to otherwise implement the provisions of <code-cite doc="D.C. Code" path="4|15A">this subtitle</code-cite>.</text>
-        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.07" interim-path="§4-1501.11" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-1551.07" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§4-1551.07" interim-path="§4-1501.11" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-1551.07" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -3712,7 +3712,7 @@
             <text>"Educator" means a school-based employee who directly supports students, including full-time and part-time teachers, teachers' aides, homebound teachers, hospital-based teachers, instructional coaches, athletic trainers, attendance coordinators, counselors, physical therapists, social workers, school psychologists, speech therapists, librarians, and classroom assistants of any type who assist in the instructional process, but excludes administrative personnel such as principals, assistant principals, deans, and office staff.</text>
           </para>
         </para>
-        <codify:emergency-new-sec doc="D.C. Code" path="§38-1834.02" interim-path="§38-1834.01" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§38-1834.02" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-1834.02" interim-path="§38-1834.01" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§38-1834.02" codified:display="Note"/>
       </section>
     </container>
     <container>
@@ -3859,7 +3859,6 @@
             <text>New subsections (b-1) and (b-2) are added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(b)" num-value="(b-1)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)"/>
                 <num>(b-1)</num>
                 <text>From January 1, 2025, through September 30, 2026, child development facilities that enter or have entered into a contract or agreement with the Department to receive monies from the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant and lead teachers listed in the following tables:</text>
                 <text>
@@ -4380,7 +4379,7 @@
               <text>OSSE and the university partner shall establish a plan to ensure that students who complete the course and their clinical hours take the certified nurse aide certification exam within 2 months of finishing the program, and that those students who earn their certified nurse aide certification are connected with industry partners hiring certified nurse aides.</text>
             </para>
             <annotation doc="D.C. Law 13-176" type="History" path="§7l">Oct. 21, 2000, D.C. Law 13-176, § 7l</annotation>
-            <codify:emergency-new-sec doc="D.C. Code" path="§38-2618" interim-path="§38-2617" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§38-2618" codified:display="Note"/>
+            <codify:emergency-new-sec doc="D.C. Code" path="§38-2618" interim-path="§38-2617" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§38-2618" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -4475,7 +4474,7 @@
               <text>For purposes of this section, the term "dual-language education" means a course of study where students study grade-level content in English and another language, including Spanish.</text>
             </para>
             <annotation doc="D.C. Law 17-9" type="History" path="§203c">June 12, 2007, D.C. Law 17-9, § 203c</annotation>
-            <codify:emergency-new-sec doc="D.C. Code" path="§38-192.03" interim-path="§38-192.02" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§38-192.03" codified:display="Note"/>
+            <codify:emergency-new-sec doc="D.C. Code" path="§38-192.03" interim-path="§38-192.02" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§38-192.03" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -5720,7 +5719,7 @@
                 </para>
               </para>
               <annotation doc="D.C. Law 16-35" type="History" path="§22a-1">Oct. 22, 2005, D.C. Law 16-35, § 22a-1</annotation>
-              <codify:emergency-new-sec doc="D.C. Code" path="§4-754.36a-1" interim-path="§4-754.36a" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§4-754.36a-1" codified:display="Note"/>
+              <codify:emergency-new-sec doc="D.C. Code" path="§4-754.36a-1" interim-path="§4-754.36a" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§4-754.36a-1" codified:display="Note"/>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -5996,7 +5995,7 @@
               </para>
             </para>
             <annotation doc="D.C. Law 15-335" type="History" path="§104c">Apr. 12, 2005, D.C. Law 15-335, § 104c</annotation>
-            <codify:emergency-new-sec doc="D.C. Code" path="§2-1515.04c" interim-path="§2-1515.04b" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§2-1515.04c" codified:display="Note"/>
+            <codify:emergency-new-sec doc="D.C. Code" path="§2-1515.04c" interim-path="§2-1515.04b" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§2-1515.04c" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -6270,7 +6269,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
-          <codify:emergency-new-sec doc="D.C. Code" path="§7-736.06" interim-path="§7-736.05" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§7-736.06" codified:display="Note"/>
+          <codify:emergency-new-sec doc="D.C. Code" path="§7-736.06" interim-path="§7-736.05" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§7-736.06" codified:display="Note"/>
         </para>
       </section>
     </container>
@@ -6752,7 +6751,7 @@
               </para>
             </para>
             <annotation doc="D.C. Law 22-238" type="History" path="§3a">Mar. 13, 2019, D.C. Law 22-238, § 3a</annotation>
-            <codify:emergency-new-sec doc="D.C. Code" path="§7-683" interim-path="§7-682" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§7-683" codified:display="Note"/>
+            <codify:emergency-new-sec doc="D.C. Code" path="§7-683" interim-path="§7-682" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§7-683" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -7882,7 +7881,7 @@
                 </para>
               </para>
               <annotation doc="D.C. Law 17-250" type="History" path="§210a">Oct. 22, 2008, D.C. Law 17-250, § 210a</annotation>
-              <codify:emergency-new-sec doc="D.C. Code" path="§8-1774.10a" interim-path="§8-1774.10" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§8-1774.10a" codified:display="Note"/>
+              <codify:emergency-new-sec doc="D.C. Code" path="§8-1774.10a" interim-path="§8-1774.10" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§8-1774.10a" codified:display="Note"/>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -8386,14 +8385,14 @@
               <heading proof="needed">Rulemaking.</heading>
               <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="10|10B">this act</code-cite>.</text>
               <annotation doc="D.C. Law 22-280" type="History" path="§4b">Apr. 11, 2019, D.C. Law 22-280, § 4b</annotation>
-              <codify:emergency-new-sec doc="D.C. Code" path="§10-1053.02" interim-path="§10-1053.01" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§10-1053.02" codified:display="Note"/>
+              <codify:emergency-new-sec doc="D.C. Code" path="§10-1053.02" interim-path="§10-1053.01" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§10-1053.02" codified:display="Note"/>
             </section>
             <section>
               <num>4c</num>
               <heading proof="needed">Public restroom partnership agreements.</heading>
               <text>The Director may enter into an MOU, partnership, or cost-sharing agreement with one or more third-party entities to support additional public restroom facilities under the Department of Public Works's contract.</text>
               <annotation doc="D.C. Law 22-280" type="History" path="§4c">Apr. 11, 2019, D.C. Law 22-280, § 4c</annotation>
-              <codify:emergency-new-sec doc="D.C. Code" path="§10-1053.03" interim-path="§10-1053.01" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§10-1053.03" codified:display="Note"/>
+              <codify:emergency-new-sec doc="D.C. Code" path="§10-1053.03" interim-path="§10-1053.01" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§10-1053.03" codified:display="Note"/>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -8571,7 +8570,7 @@
                 </para>
               </para>
               <annotation doc="D.C. Law 20-154" type="History" path="§127">Feb. 26, 2015, D.C. Law 20-154, § 127</annotation>
-              <codify:emergency-new-sec doc="D.C. Code" path="§8-1045" interim-path="§8-1041.12" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§8-1045" codified:display="Note"/>
+              <codify:emergency-new-sec doc="D.C. Code" path="§8-1045" interim-path="§8-1041.12" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§8-1045" codified:display="Note"/>
             </section>
           </container>
         </include>
@@ -11849,7 +11848,7 @@
                 <num>(d)</num>
                 <text>The exemptions provided by this section shall be in addition to, and not in lieu of, any other tax relief or assistance from any other source applicable to the Owner or Property.</text>
               </para>
-              <codify:emergency-new-sec doc="D.C. Code" path="§[47-4683]" interim-path="§47-4682" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§[47-4683]" codified:display="Note"/>
+              <codify:emergency-new-sec doc="D.C. Code" path="§[47-4683]" interim-path="§47-4682" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§[47-4683]" codified:display="Note"/>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -12138,6 +12137,13 @@
       <section>
         <num>7192</num>
         <text>Section 3 of the Fairness in Human Rights Administration Amendment Act of 2024, effective March 21, 2025 (D.C. Law 25-300; 72 DCR 737), is repealed.</text>
+        <codify:annotation doc="D.C. Code" path="§2-1402.11" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1402.11">Section 7192 of <cite doc="D.C. Act 26-146" path="§7192">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-300" path="§3">D.C. Law 25-300</cite>, thus removing the applicability limitation. Therefore the amendment made to this section by <cite doc="D.C. Law 25-300" path="§2|(a)">§2(a) of D.C. Law 25-300</cite> has been implemented.</codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§2-1403.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1403.03">Section 7192 of <cite doc="D.C. Act 26-146" path="§7192">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-300" path="§3">D.C. Law 25-300</cite>, thus removing the applicability limitation. Therefore the amendment made to this section by <cite doc="D.C. Law 25-300" path="§2|(b)">§2(b) of D.C. Law 25-300</cite> has been implemented.</codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§2-1403.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1403.04">Section 7192 of <cite doc="D.C. Act 26-146" path="§7192">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-300" path="§3">D.C. Law 25-300</cite>, thus removing the applicability limitation. Therefore the amendment made to this section by <cite doc="D.C. Law 25-300" path="§2|(c)">§2(c) of D.C. Law 25-300</cite> has been implemented.</codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§2-1403.05" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1403.05">Section 7192 of <cite doc="D.C. Act 26-146" path="§7192">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-300" path="§3">D.C. Law 25-300</cite>, thus removing the applicability limitation. Therefore the amendment made to this section by <cite doc="D.C. Law 25-300" path="§2|(d)">§2(d) of D.C. Law 25-300</cite> has been implemented.</codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§2-1403.06a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1403.06a">Section 7192 of <cite doc="D.C. Act 26-146" path="§7192">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-300" path="§3">D.C. Law 25-300</cite>, thus removing the applicability limitation. Therefore the creation of this section by <cite doc="D.C. Law 25-300" path="§2|[(d-1)]">§2[(d-1)] of D.C. Law 25-300</cite> has been implemented.</codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§2-1403.13" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1403.13">Section 7192 of <cite doc="D.C. Act 26-146" path="§7192">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-300" path="§3">D.C. Law 25-300</cite>, thus removing the applicability limitation. Therefore the amendment made to this section by <cite doc="D.C. Law 25-300" path="§2|(e)">§2(e) of D.C. Law 25-300</cite> has been implemented.</codify:annotation>
+        <codify:annotation doc="D.C. Code" path="§2-1403.16" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1403.16">Section 7192 of <cite doc="D.C. Act 26-146" path="§7192">D.C. Act 26-146</cite> repealed Section 3 of <cite doc="D.C. Law 25-300" path="§3">D.C. Law 25-300</cite>, thus removing the applicability limitation. Therefore the amendment made to this section by <cite doc="D.C. Law 25-300" path="§2|(f)">§2(f) of D.C. Law 25-300</cite> has been implemented.</codify:annotation>
       </section>
       <section>
         <num>7193</num>
@@ -12177,7 +12183,7 @@
           <codify:annotation doc="D.C. Code" path="§47-2862" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-2862">Section 7195 of <cite doc="D.C. Act 26-146" path="§7195">D.C. Act 26-146</cite> amended Section 7 of <cite doc="D.C. Law 25-312" path="§7">D.C. Law 25-312</cite>, thus removing the applicability limitation. Therefore the amendments to this section by <cite doc="D.C. Law 25-312" path="§5">§5 of D.C. Law 25-312</cite> have been implemented.</codify:annotation>
           <codify:emergency doc="D.C. Code" path="§9-631" codified:doc="D.C. Code" codified:path="§9-631" codified:display="Note"/>
           <codify:emergency doc="D.C. Code" path="§9-632" codified:doc="D.C. Code" codified:path="§9-632" codified:display="Note"/>
-          <codify:emergency-new-sec doc="D.C. Code" path="§9-632.01" interim-path="§9-632" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§9-632.01" codified:display="Note"/>
+          <codify:emergency-new-sec doc="D.C. Code" path="§9-632.01" interim-path="§9-632" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§9-632.01" codified:display="Note"/>
           <codify:emergency doc="D.C. Code" path="§9-633" codified:doc="D.C. Code" codified:path="§9-633" codified:display="Note"/>
           <codify:emergency doc="D.C. Code" path="§9-634" codified:doc="D.C. Code" codified:path="§9-634" codified:display="Note"/>
           <codify:emergency doc="D.C. Code" path="§47-2862" codified:doc="D.C. Code" codified:path="§47-2862" codified:display="Note"/>
@@ -12366,7 +12372,7 @@
                 <num>(c)</num>
                 <text>The tax abatements and the exemptions from fees and deposits provided pursuant to this subsection shall be in addition to, and not in lieu of, any other tax relief or assistance from any other source applicable to the development of Lots 866 and 868, in Square 5056.</text>
               </para>
-              <codify:emergency-new-sec doc="D.C. Code" path="§[47-4684]" interim-path="§47-4682" perm-eff="2025-11-24" codified:doc="D.C. Code" codified:path="§[47-4684]" codified:display="Note"/>
+              <codify:emergency-new-sec doc="D.C. Code" path="§[47-4684]" interim-path="§47-4682" perm-eff="2025-12-06" codified:doc="D.C. Code" codified:path="§[47-4684]" codified:display="Note"/>
             </section>
           </include>
           <aftertext>.</aftertext>

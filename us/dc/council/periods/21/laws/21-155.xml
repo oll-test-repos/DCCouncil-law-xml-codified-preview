@@ -8,10 +8,10 @@
   <meta>
     <effective>2016-10-08</effective>
     <citations>
-      <citation type="law" url="http://lims.dccouncil.us/Download/34426/B21-0335-SignedAct.pdf">D.C. Law 21-155</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/34426/Signed_Act/B21-0335-SignedAct.pdf?Id=105352">D.C. Law 21-155</citation>
       <citation type="register">63 DCR 10143</citation>
     </citations>
-    <history>
+    <history url="https://lims.dccouncil.gov/Legislation/B21-0335">
       <vote date="2016-06-07" reading="Amendment"/>
       <vote date="2016-06-07" reading="First"/>
       <vote date="2016-06-28" reading="Final"/>
@@ -128,7 +128,7 @@
         <text>If complete data about a collision is not available at the time of publication, the Mayor shall publish online the information that is available at the time of publication, and update the data as additional information becomes available.</text>
       </para>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:insert num-value="50-1951.03" codified:doc="D.C. Code" codified:path="§50-1951.03"/>
       <num>103</num>
       <heading>Publication of moving infraction data.</heading>
@@ -1146,7 +1146,7 @@
     <prefix>TITLE</prefix>
     <num>VIII</num>
     <heading>MAJOR CRASH REVIEW</heading>
-    <section codify:doc="D.C. Code" codify:path="|50|22|V|A" codify:applicability="notfunded">
+    <section codify:doc="D.C. Code" codify:path="|50|22|V|A">
       <num>801</num>
       <text>Title IX of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01 <em>et seq.</em>), is amended by adding a new section 904 to read as follows:
       </text>
@@ -1191,7 +1191,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno applicability-path="§901" action="creation of" codified:doc="D.C. Code" codified:path="§50-2209.01|annos" codified:display="Note"/>
+      <codify:not-funded-anno applicability-path="§901" action="creation of" codified:doc="D.C. Code" codified:path="§50-2209.01" codified:display="Note"/>
     </section>
     <codify:insert doc="D.C. Code" path="|50" after="18" history="false" codified:doc="D.C. Code" codified:path="50|18A">
       <container>
