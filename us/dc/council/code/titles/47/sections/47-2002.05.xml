@@ -17,13 +17,13 @@
         <text>Until such time as the hosting of professional athletic team events for which tickets are sold has commenced at the newly-constructed stadium, Robert F. Kennedy Stadium, described as that geographic area of the District of Columbia consisting of the areas designated as A, B, C, D, or E on the revised map entitled “Map to Designate Transfer of Stadium and Lease of Parking Lots to the District,” prepared jointly by the National Park Service (National Capital Region) and the District of Columbia Department of Public Works for site development and dated October 1986 (NPS Drawing number 831/87284-A), and any other future additions thereto.</text>
       </para>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(1A)</num>
-      <text>Not Applicable.</text>
+      <text>"Ballpark Preservation and Improvement Fund" means the fund established by <cite path="§10-1601.02a">§ 10-1601.02a</cite>.</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(1B)</num>
-      <text>Not Applicable.</text>
+      <text>"Ballpark Revenue Bonds" shall have the same meaning as the term "bonds" in <cite path="§10-1601.03|(a)|(2)">§ 10-1601.03(a)(2)</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -48,7 +48,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>The following revenues shall be deposited into one or more accounts within the Ballpark Revenue Fund:</text>
+    <text>The following revenues shall be deposited into one or more accounts within the Ballpark Revenue Fund until the requirements of <cite path="§10-1601.02|(e)">§ 10-1601.02(e)</cite> have been met, at which time the following revenues shall be deposited in the Ballpark Preservation and Improvement Fund:</text>
     <para>
       <num>(1)</num>
       <text>The revenues received by the District of Columbia from the taxes imposed by this section;</text>
@@ -75,12 +75,14 @@
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 201(b) of Ballpark Omnibus Financing and Revenue Tax Provisions Congressional Review Emergency Act of 2005 (D.C. Act 16-25, February 17, 2005,  52 DCR 2981).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 201(b) of Ballpark Omnibus Financing and Revenue Tax Provisions Emergency Amendment Act of 2004 (D.C. Act 15-719, January 4, 2005,  52 DCR 1790).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§2-1217.12">§ 2-1217.12</cite>, <cite path="§3-342.01">§ 3-342.01</cite>, <cite path="§10-1202.01">§ 10-1202.01</cite>, <cite path="§10-1601.02">§ 10-1601.02</cite>, <cite path="§10-1601.03">§ 10-1601.03</cite>, <cite path="§10-1601.04">§ 10-1601.04</cite>, <cite path="§10-1601.05">§ 10-1601.05</cite>, <cite path="§10-1601.06">§ 10-1601.06</cite>, <cite path="§10-1601.07">§ 10-1601.07</cite>, <cite path="§25-374">§ 25-374</cite>, <cite path="§47-1817.01">§ 47-1817.01</cite>, <cite path="§47-2761">§ 47-2761</cite>, and <cite path="§47-2762">§ 47-2762</cite>.</annotation>
-    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§4" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§3|(a)|(1)" type="History"/>
-    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§4" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 25-276" eff="2025-03-07" path="§3|(a)|(2)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§3|(a)|(1)" type="History"/>
+    <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§3|(a)|(2)" type="History"/>
     <annotation doc="D.C. Law 25-276" path="§3|(a)" type="Applicability" app="2025-03-07" eff="2025-03-07"><cite doc="D.C. Law 25-276" path="§4">Section 4 of D.C. Law 25-276</cite> provided that the amendments made to this section by <cite doc="D.C. Law 25-276" path="§3|(a)">Section 3(a) of D.C. Law 25-276</cite> shall become applicable upon the execution and Council approval of a lease amendment agreement between the District and the Washington Nationals Stadium, LLC that extends the current lease agreement through February 28, 2054. Therefore those amendments have not been implemented.
       </annotation>
     <annotation app="2025-03-07" doc="D.C. Law 25-276" eff="2025-03-07" path="§3|(a)" type="History"/>
+    <annotation doc="D.C. Law 25-276" path="§3|(a)" type="Applicability" app="2025-03-07" eff="2025-03-07"><cite doc="D.C. Act 26-313" path="§2">Section 2 of D.C. Act 26-313</cite> authorizes the Washington Convention and Sports Authority ("Events DC") to enter into the Amended and Restated Lease Agreement ("Agreement") between Events DC and Washington Nationals Stadium, LLC, for a lease agreement extension through February 28, 2059, and approves the Agreement submitted by Events DC on March 2, 2026. Therefore, the amendments made to this section by <cite doc="D.C. Law 25-276" path="§3|(a)">Section 3(a) of D.C. Law 25-276</cite> have been implemented.
+      </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-313" path="§2" codified:display="Note" app="2026-04-24" eff="2026-04-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 26-313" path="§2">§ 2 of Nationals Ballpark Amended and Restated Lease Emergency Act of 2026 (D.C. Act 26-313, Apr. 24, 2026, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2026-04-24" doc="D.C. Act 26-313" eff="2026-04-24" path="§2" type="History" display="false"/>
   </annotations>
 </section>

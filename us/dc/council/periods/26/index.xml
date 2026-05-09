@@ -5,6 +5,18 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/26-111.xml"/>
+      <xi:include href="./laws/26-110.xml"/>
+      <xi:include href="./laws/26-109.xml"/>
+      <xi:include href="./laws/26-108.xml"/>
+      <xi:include href="./laws/26-107.xml"/>
+      <xi:include href="./laws/26-105.xml"/>
+      <xi:include href="./laws/26-104.xml"/>
+      <xi:include href="./laws/26-103.xml"/>
+      <xi:include href="./laws/26-102.xml"/>
+      <xi:include href="./laws/26-101.xml"/>
+      <xi:include href="./laws/26-100.xml"/>
+      <xi:include href="./laws/26-96.xml"/>
       <xi:include href="./laws/26-86.xml"/>
       <xi:include href="./laws/26-85.xml"/>
       <xi:include href="./laws/26-84.xml"/>
@@ -45,13 +57,31 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/26-240.xml"/>
-      <xi:include href="./acts/26-204.xml"/>
-      <xi:include href="./acts/26-59.xml"/>
+      <xi:include href="./acts/26-284.xml"/>
+      <xi:include href="./acts/26-283.xml"/>
+      <xi:include href="./acts/26-277.xml"/>
+      <xi:include href="./acts/26-276.xml"/>
     </collection>
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/26-316.xml"/>
+    <xi:include href="./acts/26-313.xml"/>
+    <xi:include href="./acts/26-297.xml"/>
+    <xi:include href="./acts/26-296.xml"/>
+    <xi:include href="./acts/26-295.xml"/>
+    <xi:include href="./acts/26-291.xml"/>
+    <xi:include href="./acts/26-290.xml"/>
+    <xi:include href="./acts/26-288.xml"/>
+    <xi:include href="./acts/26-282.xml"/>
+    <xi:include href="./acts/26-281.xml"/>
+    <xi:include href="./acts/26-275.xml"/>
+    <xi:include href="./acts/26-273.xml"/>
+    <xi:include href="./acts/26-272.xml"/>
+    <xi:include href="./acts/26-271.xml"/>
+    <xi:include href="./acts/26-270.xml"/>
+    <xi:include href="./acts/26-261.xml"/>
+    <xi:include href="./acts/26-260.xml"/>
     <xi:include href="./acts/26-257.xml"/>
     <xi:include href="./acts/26-256.xml"/>
     <xi:include href="./acts/26-255.xml"/>
@@ -62,6 +92,7 @@
     <xi:include href="./acts/26-239.xml"/>
     <xi:include href="./acts/26-236.xml"/>
     <xi:include href="./acts/26-235.xml"/>
+    <xi:include href="./acts/26-234.xml"/>
     <xi:include href="./acts/26-233.xml"/>
     <xi:include href="./acts/26-220.xml"/>
     <xi:include href="./acts/26-219.xml"/>
@@ -157,6 +188,12 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/26-112.xml"/>
+      <xi:include href="./laws/26-106.xml"/>
+      <xi:include href="./laws/26-99.xml"/>
+      <xi:include href="./laws/26-98.xml"/>
+      <xi:include href="./laws/26-97.xml"/>
+      <xi:include href="./laws/26-95.xml"/>
       <xi:include href="./laws/26-94.xml"/>
       <xi:include href="./laws/26-92.xml"/>
       <xi:include href="./laws/26-91.xml"/>
@@ -207,10 +244,15 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/26-243.xml"/>
-      <xi:include href="./acts/26-242.xml"/>
-      <xi:include href="./acts/26-241.xml"/>
-      <xi:include href="./acts/26-193.xml"/>
+      <xi:include href="./acts/26-289.xml"/>
+      <xi:include href="./acts/26-287.xml"/>
+      <xi:include href="./acts/26-286.xml"/>
+      <xi:include href="./acts/26-285.xml"/>
+      <xi:include href="./acts/26-280.xml"/>
+      <xi:include href="./acts/26-279.xml"/>
+      <xi:include href="./acts/26-278.xml"/>
+      <xi:include href="./acts/26-274.xml"/>
+      <xi:include href="./acts/26-267.xml"/>
     </collection>
   </collection>
   <collection name="budget">

@@ -1003,7 +1003,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(a)">
+        <para codify:path="(a)" codify:applicability="notfunded">
           <num>(2)</num>
           <text>A new paragraph (5) is added to read as follows:</text>
           <include lvl="1">
@@ -1213,12 +1213,12 @@
       <para codify:path="50|24|I">
         <num>(f)</num>
         <text>The District of Columbia Abandoned and Junk Vehicle Removal Amendment Act of 1989, effective September 9, 1989 (D.C. Law 8-24, D.C. Official Code § 50-2401 <em>et seq.</em>), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2401"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2401|annos"/>
       </para>
       <para codify:path="50|24|II">
         <num>(g)</num>
         <text>The Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Act of 2003, effective October 28, 2003 (D.C. Law 15-35; D.C. Official Code § 50-2421.01 <em>et seq.</em>), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.01"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2421.01|annos"/>
       </para>
       <para codify:path="§50-2624">
         <num>(h)</num>
@@ -1308,8 +1308,6 @@
       <para>
         <num>(a)</num>
         <text>Sections 113, 114, 121, 122(a)(2)(B), 201(c)(2), and 302(d)(1)(B)(i) shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 25-325" path="§113" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2443"/>
-        <codify:applicability doc="D.C. Law 25-325" path="§114|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2444|(b)"/>
         <codify:applicability doc="D.C. Law 25-325" path="§201|(c)|(2)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-1501.04|(a)|(5)"/>
       </para>
       <para>

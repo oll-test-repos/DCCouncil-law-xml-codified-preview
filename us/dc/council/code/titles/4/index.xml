@@ -222,6 +222,8 @@
       <xi:include href="./sections/4-205.80.xml"/>
       <xi:include href="./sections/4-205.81.xml"/>
       <xi:include href="./sections/4-205.82.xml"/>
+      <xi:include href="./sections/4-205.83.xml"/>
+      <xi:include href="./sections/4-205.84.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -528,6 +530,7 @@
     <xi:include href="./sections/4-414.xml"/>
     <xi:include href="./sections/4-415.xml"/>
     <xi:include href="./sections/4-416.xml"/>
+    <xi:include href="./sections/4-417.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1269,7 +1272,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>17</num>
-    <heading>Access to Justice Initiative Program.</heading>
+    <heading>Access to Justice Initiative.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" type="History"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -1283,14 +1286,14 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading>Establishment of Program.</heading>
+        <heading>Establishment.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" type="History"/></heading>
         <xi:include href="./sections/4-1702.01.xml"/>
         <xi:include href="./sections/4-1702.02.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
-        <heading>Funding for Program.</heading>
+        <heading>Funding.<annotation app="2025-12-06" doc="D.C. Law 26-55" eff="2025-12-06" path="§3071" type="History"/></heading>
         <xi:include href="./sections/4-1703.01.xml"/>
       </container>
       <container>

@@ -4,7 +4,7 @@
   <meta>
     <effective>2025-01-06</effective>
     <citations>
-      <citation type="law">Pub. L. 118-274; 138 Stat. 3237</citation>
+      <citation type="law">Pub. L. 118-274, 138 Stat. 3237</citation>
     </citations>
   </meta>
   <page citation="138 Stat. 3237"/>
@@ -16,7 +16,7 @@
       <para>
         <num>(1)</num>
         <text>the District of Columbia Stadium Act of 1957 (sec. 3-321 et seq., D.C. Official Code) is repealed; and</text>
-        <codify:repeal doc="D.C. Code" path="3|3|II" codified:doc="D.C. Code" codified:path="§3-321"/>
+        <codify:repeal doc="D.C. Code" path="3|3|II" codified:doc="D.C. Code" codified:path="§3-321|annos"/>
       </para>
       <para>
         <num>(2)</num>

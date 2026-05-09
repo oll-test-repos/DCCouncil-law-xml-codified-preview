@@ -151,7 +151,7 @@
       <section codify:path="3|7A">
         <num>1014</num>
         <text>The Commission on Fathers, Men, and Boys Establishment Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 3-731 <em>et seq</em>.), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§3-731"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§3-731|annos"/>
       </section>
       <section codify:path="§24-1302">
         <num>1015</num>
@@ -2505,7 +2505,7 @@
                 <text>Paragraph (3) is amended by striking the phrase "if the property securing the deed of trust or mortgage is owned by or is being simultaneously transferred" and inserting the phrase "if the property securing the deed of trust or mortgage is owned or leased by or is being simultaneously transferred or leased to" in its place.</text>
                 <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-3503|(a)|(3)">
                   <find>if the property securing the deed of trust or mortgage is owned by or is being simultaneously transferred</find>
-                  <replace>if the property securing the deed of trust or mortgage is owned or leased by or is being simultaneously transferred or leased to</replace>
+                  <replace>if the property securing the deed of trust or mortgage is owned or leased by or is being simultaneously transferred or leased</replace>
                 </codify:find-replace>
               </para>
             </para>
@@ -2765,7 +2765,7 @@
         <para>
           <num>(b)</num>
           <text>Strike the period and insert the phrase ". Notwithstanding section 16(e)(1), for the 2026 tax year, the Downtown BID may assess a total tax increase of up to 5% over the previous year, which may be assessed flexibly between the September 2025 and March 2026 payments; provided, that the total combined increase for the tax year does not exceed 5%." in its place.</text>
-          <codify:find-replace position="2" codified:doc="D.C. Code" codified:path="§2-1215.51|(c)|(2)">
+          <codify:find-replace position="3" codified:doc="D.C. Code" codified:path="§2-1215.51|(c)|(2)">
             <find>.</find>
             <replace>. Notwithstanding <code-cite doc="D.C. Code" path="§2-1215.15|(e)|(1)">section 16(e)(1)</code-cite>, for the 2026 tax year, the Downtown BID may assess a total tax increase of up to 5% over the previous year, which may be assessed flexibly between the September 2025 and March 2026 payments; provided, that the total combined increase for the tax year does not exceed 5%.</replace>
           </codify:find-replace>
@@ -2816,7 +2816,7 @@
         <codify:insert path="2|12|XVI" num-value="2-1228.01" codified:doc="D.C. Code" codified:path="§2-1228.01"/>
         <num>2211</num>
         <heading proof="needed">Short title.</heading>
-        <text>This <code-cite doc="D.C. Code" path="2|12|XVI">subtitle</code-cite> may be cited as the "Interactive Wayfinding Kiosk Act of 2025".</text>
+        <text><code-cite doc="D.C. Code" path="2|12|XVI">This subtitle</code-cite> may be cited as the "Interactive Wayfinding Kiosk Act of 2025".</text>
       </section>
       <section>
         <codify:insert path="2|12|XVI" after="§2-1228.01" num-value="2-1228.02" codified:doc="D.C. Code" codified:path="§2-1228.02"/>
@@ -2824,7 +2824,7 @@
         <heading proof="needed">Definitions.</heading>
         <para>
           <num undesignated="true">(a)</num>
-          <text>For the purposes of this <code-cite doc="D.C. Code" path="2|12|XVI">subtitle</code-cite>, the term:</text>
+          <text>For the purposes of <code-cite doc="D.C. Code" path="2|12|XVI">this subtitle</code-cite>, the term:</text>
           <para>
             <num>(1)</num>
             <text>"Commercial district" means the geographic area included in the boundaries of BID corporations, as that term is defined in <code-cite doc="D.C. Code" path="§2-1215.02|(4)">section 3(4) of the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.02(4))</code-cite>, and of Main Street corridors.</text>
@@ -2946,7 +2946,7 @@
             <text>Subsection (i) is amended by striking the phrase ", and (7)" and inserting the phrase "(6A), (7), (8), (9), and (10)" in its place.</text>
             <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1003|(i)">
               <find>, and (7)</find>
-              <replace>(6A), (7), (8), (9), and (10)</replace>
+              <replace>, (6A), (7), (8), (9), and (10)</replace>
             </codify:find-replace>
           </para>
           <codify:annotation applicability="effective" doc="D.C. Code" path="§32-1003" type="Applicability" codified:doc="D.C. Code" codified:path="§32-1003"><cite doc="D.C. Law 26-55" path="§2223">Section 2223 of D.C. Law 26-55</cite> provided that the amendments made to subsection (f) of this section shall apply as of July 25, 2025.</codify:annotation>
@@ -3222,7 +3222,7 @@
         </include>
         <aftertext>.</aftertext>
       </section>
-      <section codify:path="§1-604.06|(b)|(25)">
+      <section codify:path="§1-604.06|(b)|(25)" codify:applicability="2025-09-30">
         <num>3023</num>
         <text>Section 406(b)(25) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-604.06(b)(25)), is repealed.</text>
         <codify:repeal codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(25)"/>
@@ -3469,6 +3469,18 @@
         <num>3071</num>
         <heading proof="needed">Short Title.</heading>
         <text>This subtitle may be cited as the "Access to Justice Initiative Clarification Amendment Act of 2025".</text>
+        <codify:find-replace path="4|17|heading" count="1" codified:doc="D.C. Code" codified:path="4|17">
+          <find>Initiative Program</find>
+          <replace>Initiative</replace>
+        </codify:find-replace>
+        <codify:find-replace path="4|17|II|A|heading" count="1" codified:doc="D.C. Code" codified:path="4|17|II|A">
+          <find>Establishment of Program</find>
+          <replace>Establishment</replace>
+        </codify:find-replace>
+        <codify:find-replace path="4|17|II|B|heading" count="1" codified:doc="D.C. Code" codified:path="4|17|II|B">
+          <find>Funding for Program</find>
+          <replace>Funding</replace>
+        </codify:find-replace>
       </section>
       <section>
         <num>3072</num>
@@ -4323,7 +4335,7 @@
             <text>New subsections (b-1) and (b-2) are added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert after="(b)" num-value="(b-1)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-1)"/>
+                <codify:insert after="(b)" num-value="(b-1)"/>
                 <num>(b-1)</num>
                 <text>From January 1, 2025, through September 30, 2026, child development facilities that enter or have entered into a contract or agreement with the Department to receive monies from the Early Childhood Educator Pay Equity Fund shall use such monies to pay, at minimum, the salaries for assistant and lead teachers listed in the following tables:</text>
                 <text>
@@ -4378,7 +4390,7 @@
                 </text>
               </para>
               <para>
-                <codify:insert after="(b-1)" num-value="(b-2)" codified:doc="D.C. Code" codified:path="§4-410.02|(b-2)"/>
+                <codify:insert after="(b-1)" num-value="(b-2)"/>
                 <num>(b-2)</num>
                 <text>The Department shall issue guidance to assist child development facilities with aligning the minimum salary requirements in subsections (b) and (b-1) of this section with the qualifications for child development facility assistant and lead teachers it has established by regulation.</text>
               </para>
@@ -4611,8 +4623,8 @@
           <aftertext>.</aftertext>
         </para>
       </section>
-      <codify:marginalia display="Not Codified in the D.C. Code"/>
       <section>
+        <codify:marginalia display="Not Codified in the D.C. Code"/>
         <num>4073</num>
         <text>Section 8002(b) of the Designated Fund Transfer Act of 2022, effective September 21, 2022 (D.C. Law 24-167; 69 DCR 9223), is amended as follows:</text>
         <para>
@@ -10958,7 +10970,7 @@
       <section>
         <num>7093</num>
         <text>Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund (1060263)</text>
-        <para codify:path="§42-3111.01">
+        <para codify:path="§42-3111.01" codify:applicability="notfunded">
           <num>(a)</num>
           <text>Section 12a of the Drug-Related Nuisance Abatement Act of 1998, effective April 4, 2006 (D.C. Law 16-81; D.C. Official Code § 42-3111.01), is amended as follows:</text>
           <para codify:path="(a)">
@@ -13638,7 +13650,7 @@
       <section>
         <num>7206</num>
         <text>The Bedbug Control Act of 2022, effective February 23, 2023 (D.C. Law 24-238; 69 DCR 14738), is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="42|35C" codified:doc="D.C. Code" codified:path="§42-3551.01"/>
+        <codify:repeal doc="D.C. Code" path="42|35C" codified:doc="D.C. Code" codified:path="§42-3551.01|annos"/>
         <codify:repeal doc="D.C. Code" path="§2-1831.03|(b-30)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-30)"/>
         <codify:repeal doc="D.C. Code" path="§42-3502.22|(b)|(1)|(M)" codified:doc="D.C. Code" codified:path="§42-3502.22|(b)|(1)|(M)"/>
         <codify:repeal doc="D.C. Code" path="§42-3502.22|(b)|(1)|(N)" codified:doc="D.C. Code" codified:path="§42-3502.22|(b)|(1)|(N)"/>

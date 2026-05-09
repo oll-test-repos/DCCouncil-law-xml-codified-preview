@@ -931,6 +931,7 @@
     <xi:include href="./sections/47-1099.13.xml"/>
     <xi:include href="./sections/47-1099.14.xml"/>
     <xi:include href="./sections/47-1099.15.xml"/>
+    <xi:include href="./sections/47-1099.16.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1397,8 +1398,8 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII-B</num>
-      <reason>Repealed</reason>
       <heading>Wheelchair-accessible vehicle tax credit. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7186" type="History"/></heading>
+      <reason>Repealed</reason>
       <annotation app="2017-04-07" doc="D.C. Law 21-242" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/47-1807.61.xml"/>
       <xi:include href="./sections/47-1807.62.xml"/>
@@ -1954,8 +1955,6 @@
       <xi:include href="./sections/47-2848.xml"/>
       <xi:include href="./sections/47-2849.xml"/>
       <xi:include href="./sections/47-2850.xml"/>
-      <annotation type="Applicability" doc="D.C. Law 24-333" path="§5|(b)" codified:display="Note" app="2023-03-22" eff="2023-03-22">Applicability of <cite doc="D.C. Law 24-333" path="">D.C. Law 24-333</cite>: <cite doc="D.C. Law 24-333" path="§9">§ 9 of D.C. Law 24-333</cite> provided that the repeal of this section by <cite doc="D.C. Law 24-333" path="§5|(b)">§ 5(b) of D.C. Law 24-333</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-      <annotation app="2023-03-22" doc="D.C. Law 24-333" eff="2023-03-22" path="§5|(b)" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2085,8 +2084,8 @@
       <container>
         <prefix>Part</prefix>
         <num>D-ii</num>
-        <reason>Not Funded</reason>
         <heading>Construction Managers and General Contractors.</heading>
+        <reason>Not Funded</reason>
         <annotation app="2024-12-17" doc="D.C. Law 25-244" eff="2024-12-17" path="§3|(a)" type="History" display="false"/>
         <annotation app="notfunded" doc="D.C. Law 25-244" eff="2024-12-17" path="§2" type="History" display="false"/>
         <xi:include href="./sections/47-2853.78.xml"/>
@@ -2666,8 +2665,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>39A</num>
-    <reason>Repealed</reason>
     <heading>Internet Tax. [Repealed].<annotation app="2019-03-22" doc="D.C. Law 22-258" eff="2019-03-22" path="§2|(e)" type="History"/></heading>
+    <reason>Repealed</reason>
     <xi:include href="./sections/47-3931.xml"/>
     <xi:include href="./sections/47-3932.xml"/>
     <xi:include href="./sections/47-3933.xml"/>
@@ -2680,8 +2679,8 @@
   <container>
     <prefix>Chapter</prefix>
     <num>40</num>
-    <reason>Repealed</reason>
     <heading>Drug Prevention and Children at Risk Tax Check-Off. [Repealed].<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7283|(c)|(2)" type="History"/></heading>
+    <reason>Repealed</reason>
     <xi:include href="./sections/47-4001.xml"/>
     <xi:include href="./sections/47-4002.xml"/>
     <xi:include href="./sections/47-4003.xml"/>
@@ -2998,9 +2997,9 @@
   <container>
     <prefix>Chapter</prefix>
     <num>50</num>
-    <reason>Not Funded</reason>
-    <reason>Repealed</reason>
     <heading>High Unemployment Area Tax Relief. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7104" type="History"/></heading>
+    <reason>Repealed</reason>
+    <reason>Not Funded</reason>
     <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
     <xi:include href="./sections/47-5001.xml"/>
